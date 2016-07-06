@@ -38,7 +38,6 @@ Dit is je eerste php coderegel:
 ?>
 ```
 
-##  Opdracht 001
 
 
 
