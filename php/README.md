@@ -15,8 +15,8 @@
 * De studieroutesite
 * [Theorie overzicht](https://docs.google.com/presentation/d/1YyCH0ILOnx2i7GqfKxVWiofecFtXBkOagwoCEdVxaPQ/edit?usp=sharing)
 * Opdrachten
-* Huiswerk
-* Software (Webmatrix)
+* Huiswerk & voortgangsdocument
+* Software (__Webmatrix__)
 
 ## Met PHP starten 
 
