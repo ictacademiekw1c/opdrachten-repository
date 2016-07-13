@@ -8,11 +8,25 @@ Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicat
 Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 
 ## Editor
-We gebruiken voor het vak Javascript de editor genaamd `"WebMatrix"`. Deze gratis editor is gemaakt door Microsoft en is relatief simpel in gebruik, kan veel en worden ook tijdens andere lessen gebruikt.
+We gebruiken voor het vak Javascript de editor genaamd `"WebMatrix"`. 
+Deze gratis editor is gemaakt door Microsoft en is relatief simpel in gebruik, kan veel en worden ook tijdens andere lessen gebruikt.
 Klik op onderstaande afbeelding om WebMatrix te downloaden.
-Het is de bedoeling dat alle leerlingen vanaf week 1 WebMatrix geinstalleerd hebben.
+*Het is de bedoeling dat alle leerlingen vanaf week 1 WebMatrix geinstalleerd hebben.*
 
 [<img src="https://raw.githubusercontent.com/ictacademiekw1c/tijdelijke-test-repository/master/Afbeeldingen/download_webmatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
+
+## Opleverdata
+Hieronder zie de deadlines van inleveren van je opdrachten
+
+|Hoofdstuk           | Inleverdatum  |
+|--------------------|---------------|
+|Hoofdstuk 1 | Nog te bepalen|
+|Hoofdtuk 2| Nog te bepalen |
+|Hoofdtuk 3| Nog te bepalen |
+|Hoofdtuk 4| Nog te bepalen |
+|Hoofdtuk 5| Nog te bepalen |
+|Hoofdtuk 6| Nog te bepalen |
+|Hoofdtuk 7| Nog te bepalen |
 
 ## Opleveren opdrachten
 In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben.
@@ -38,7 +52,6 @@ De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 <td align="left">Opdracht goed en op tijd ingeleverd.</td>
 </tr>
 </tbody></table>
-
 
 Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering en heeft dit invloed op het uiteindelijke resultaat, waardoor het eindcijfer lager uit zal vallen.
 
