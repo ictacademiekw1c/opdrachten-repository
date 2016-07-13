@@ -8,7 +8,7 @@
 ![Ars Technica hoofdmenu](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100.png "Ars Technica hoofdmenu")
 
 2. Zet vervolgens je javascript uit in je browser (onderzoek waar deze instelling zich bevindt in je favoriete browser). In Google Chrome kun je deze vinden onder de knop “Instellingen voor inhoud” in het settings scherm.
-![Hoe je JavaScript uit te zetten?] (https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100.png "Hoe je JavaScript uit te zetten?") 
+![Hoe je JavaScript uit te zetten?] (https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100_2.png "Hoe je JavaScript uit te zetten?") 
 
 3. Refresh het venster van ![www.arstechnica.com] (http://www.arstechnica.com) en test het hoofdmenu en zoekbalk nogmaals.
 
