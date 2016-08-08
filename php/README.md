@@ -2,6 +2,9 @@
 
 ## Algemeen
 
+* Wat is programmeren?
+* Wat is een webprogrammeren
+* Hoe werkt het web?
 >* [Wat is PHP?](http://www.html-site.nl/wat-is-php/)
 * Wat kun je met PHP?
 * Welke voorkennis heb je nodig?
