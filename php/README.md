@@ -4,7 +4,7 @@
 
 * Wat is programmeren?
 * Is programmeren moeilijk? 
-[![Is programmeren moeilijk?](http://img.youtube.com/vi/pvAsqPbz9Ro/0.jpg)](http://www.youtube.com/watch?v=pvAsqPbz9Ro)
+** [![Is programmeren moeilijk?](http://img.youtube.com/vi/pvAsqPbz9Ro/0.jpg)](http://www.youtube.com/watch?v=pvAsqPbz9Ro)
 * Hoe programmeer je voor het web?
 * Hoe werkt het web?
 >* [Wat is PHP?](http://www.html-site.nl/wat-is-php/)
