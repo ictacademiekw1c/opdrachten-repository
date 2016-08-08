@@ -1,6 +1,6 @@
-# Inleiding PHP
+# 0. Inleiding PHP
 
-## Algemeen
+## 0.1 Algemeen
 
 * Wat is programmeren?
 * Is programmeren moeilijk? 
@@ -14,7 +14,7 @@
 * Wanneer gebruik je PHP?
 * Hoeveel sites zijn gebouwd met PHP?
 
-## De studieroute 
+## 0.2 De studieroute 
 
 >* Indeling
 * De studieroutesite
@@ -23,11 +23,11 @@
 * Huiswerk & voortgangsdocument
 * Software (__Webmatrix__)
 
-## Met PHP starten 
+## 0.3 Met PHP starten 
 
 ![Hello world](https://raw.githubusercontent.com/ictacademiekw1c/phpsemester1/master/Afbeeldingen/HelloWorld.jpg)
 
-## Installeren webmatrix
+## 0.4 Installeren webmatrix
 
 [Downloaden webmatrix](https://www.microsoft.com/web/webmatrix/wmx3features.aspx)
 
@@ -43,7 +43,7 @@ Dit is je eerste php coderegel:
 ?>
 ```
 
-## Opdracht 0000
+## 0.5 Opdracht 0000
 Je hebt opdracht 0000 af wanneer je de volgende dingen hebt gedaan:
 * Je hebt webmatrix gedownload en geinstalleerd
 * Je hebt een nieuwe php site gemaakt met de naam 'phpsemester1'
