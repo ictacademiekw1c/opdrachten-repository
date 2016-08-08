@@ -51,6 +51,8 @@ Je hebt opdracht 0000 af wanneer je de volgende dingen hebt gedaan:
 * In deze map heb je een php script aangemaakt met de naam helloworld.php
 * Je hebt de bovenstaande code ingetypt
 * Je hebt dit script in de browser gelanceerd en er treden geen foutmeldingen op
+* Voeg ook je naam toe aan de zin en zet er ook bij in welke stad je woont en of je al eerder in php geprogrammeerd hebt of juist niet.
+* Test ook dit script en zorg ervoor dat er geen foutmeldingen optreden en dat de regel netjes in de browser wordt getoond.
 * Je hebt de map phpsemester1 met inhoud in een rar bestand gecomprimeerd en geupload naar je portfolio (studieroute php)
 * Als de docent het heeft gezien en vind dat je je aan de opdracht hebt gehouden wordt de opdracht voor je afgetekend.
 
