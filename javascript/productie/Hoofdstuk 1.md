@@ -1,9 +1,9 @@
 # Hoofdstuk 2
 
 ## Opdracht 100
-``Werk de opdracht uit in een `Word bestand en upload het document in je portfolio voor javascript onder de naam OPDRACHT100.docx``
+``Werk de opdracht uit in een Word bestand en upload het document in je portfolio voor javascript onder de naam OPDRACHT100.docx``
  
-1. Ga naar [www.arstechica.com](http://www.arstechnica.com) en ga met je muis over het menuitem “MAIN MENU”. Klik ook even de zoekbalk rechtsbovenin aan. Onthoud de werking van het hoofdmenu en de zoekbalk.
+1. Ga naar [www.arstechica.com](http://www.arstechnica.com) en ga met je muis over het menuitem 'MAIN MENU'. Klik ook even de zoekbalk rechtsbovenin aan. Onthoud de werking van het hoofdmenu en de zoekbalk.
 
 ![Ars Technica hoofdmenu](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100.png "Ars Technica hoofdmenu")
 
