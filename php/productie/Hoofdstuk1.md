@@ -51,12 +51,12 @@ echo "Mijn naam is niet $naam";
 
 De opdracht is om het script opdracht0001.php te schrijven, waarin je met php een stuk tekst print die jezelf introduceert.
 
-Het uiteindelijke resultaat van je php-script zal uit bijvoorbeeld eindelijk het volgende resultaat moeten opleveren.
+Het uiteindelijke resultaat van je php-script zal bijvoorbeeld eindelijk het volgende resultaat moeten opleveren.
 ### 1.6.1 Visuele weergave
 
 > Ik ben Abu Saebu. Ik woon bijna mijn hele leven in 's-Hertogenbosch. Ik heb op school gezeten op het Sint Janslyceum op de Sweelinckplein in Den Bosch. Ik ben 52 jaar, ik ben getrouwd en ik heb 2 kinderen. Mijn hobbies zijn gitaar spelen, piano spelen, muziek luisteren en programmeren. Ik ben docent applicatieontwikkeling en ik geef de vakken PHP, HTML/CSS, Javascript, Database/SQL, C#, Android Apps, Beheer en Bedrijfskunde.
 
-Schrijf dus een introductietekst over jezelf met je naam, woonplaats, je hobbies, je school, je leeftijd, je hobbies, je thuissituatie en wat je graag wilt worden of wat je graag zou willen doen.
+Schrijf een introductietekst over jezelf met je naam, woonplaats, je hobbies, je school, je leeftijd, je hobbies, je thuissituatie en wat je graag wilt worden of wat je graag zou willen doen.
 Gebruik voor ieder van deze gegevens een variabele met de juiste datatype en syntax.
 
 ### 1.6.2 Opzetten van je programmeercode
