@@ -1,4 +1,4 @@
-#### [setSubMenuHeader] Opdrachten
+ï»¿#### [setSubMenuHeader] Opdrachten
 # Hoofdstuk 3
 
 ## Opdracht 311 Datatypes
@@ -14,7 +14,7 @@ Onze tip is om de code daadwerkelijk uit te voeren in een apart .html bestand of
 ** Voorbeeldexpressie: **
 ```javascript
 var variable001 = 'javascript';
-console.log(variabele001); //in je console zie je nu ‘javascript’ en kun je concluderen dat het een string is
+console.log(variabele001); //in je console zie je nu â€˜javascriptâ€™ en kun je concluderen dat het een string is
 //of met typeof
 Console.log(typeof variable001); 
 ```
@@ -71,7 +71,7 @@ Volg de stappen:
 1. Declareer de variabele naam
 2. Geef de variable een waarde (getal of integer);
 3. Schrijf de waarde naar het console
-4. Krijg je géén foutmelding, dan kun je de conclusie trekken dat de variabelenaam geldig is
+4. Krijg je gÃ©Ã©n foutmelding, dan kun je de conclusie trekken dat de variabelenaam geldig is
 5. Zet in het Word bestand of de variabele geldig is of ongeldig en vermeld ook de reden
 
 ** Voorbeeldcode **
@@ -97,7 +97,7 @@ Teller1 = 10;
 
 ### Operatoren
 
-`` Opleveren: Kopieëer ieder regel uit de onderstaande tabel over naar een nieuw HTML bestand (Opdracht313.html) en voeg na iedere regel een console.log(score) toe.
+`` Opleveren: KopieÃ«er ieder regel uit de onderstaande tabel over naar een nieuw HTML bestand (Opdracht313.html) en voeg na iedere regel een console.log(score) toe.
 ``
 
 Kijk in het console van je browser wat er wordt geprint, en zet die waarde achter de regel in je code in commentaar.``
@@ -201,9 +201,9 @@ Ga uit van de volgende declaraties en initialisaties:
 ```javascript
 var a=20, b= 9, c=1, d=null;
 
-var dag1 = ‘maandag’;
-var dag2 = ‘dinsdag’;
-var dag3 = ‘Dinsdag’;
+var dag1 = â€˜maandagâ€™;
+var dag2 = â€˜dinsdagâ€™;
+var dag3 = â€˜Dinsdagâ€™;
 
 var score = 100;
 ```
@@ -270,9 +270,9 @@ Ga uit van de volgende code en plaats dit in het body gedeelte van een html-docu
 ```javascript
 <script>
 
-var tekst = ‘De Bossche burgemeester Ton Rombouts geneert zich voor de wijze waarop
+var tekst = â€˜De Bossche burgemeester Ton Rombouts geneert zich voor de wijze waarop
 toeschouwers Jozy Altidore hebben bejegend tijdens de wedstrijd van FC Den Bosch. Dat laat
-hij weten in een persoonlijk brief aan de AZ-speler.’;
+hij weten in een persoonlijk brief aan de AZ-speler.â€™;
 
 /*
 Schrijf hier je code van de onderstaande opdrachten. Je moet de standaard functies gebruiken
@@ -290,11 +290,11 @@ Gebruik bij de volgende 2 opdrachten de variabelen pos1 en pos2 uit opdracht 1 e
 
 2. Zet de eerste zin uit de variabele tekst in een nieuwe variabele zin1.
 3. Zet de tweede zin uit de variabele tekst in een nieuwe variabele zin2
-4. Verwijder ‘Ton Rombouts’ uit zin1.
+4. Verwijder â€˜Ton Romboutsâ€™ uit zin1.
 5. Vervang Bossche door BOSSCHE in zin1.
-6. Vervang ‘Jozy Altidore’ door ‘de AZ-speler’ in zin 1.
-7. Vervang ‘Dat’ in zin2 door ‘Het volgende’
-8. Vervang ‘de AZ-speler’ door ‘de voetballer’ in zin1 en in zin2.
+6. Vervang â€˜Jozy Altidoreâ€™ door â€˜de AZ-spelerâ€™ in zin 1.
+7. Vervang â€˜Datâ€™ in zin2 door â€˜Het volgendeâ€™
+8. Vervang â€˜de AZ-spelerâ€™ door â€˜de voetballerâ€™ in zin1 en in zin2.
 9. Print met document.write() eerst zin2 en vervolgens zin1; 
 
 ** Dit moet uiteindelijk het resultaat zijn: **
@@ -313,11 +313,11 @@ Comprimeer beide bestanden naar opdracht316.rar en upload het naar je portfolio.
 Ga uit van de volgende code en plaats dit in het body gedeelte van een html-document.
 
 ```javascript
-var leerlingen = [‘Mohammed’, ‘Tolga’, ‘Adem’,’Thomas’, ‘Jean’];
+var leerlingen = [â€˜Mohammedâ€™, â€˜Tolgaâ€™, â€˜Ademâ€™,â€™Thomasâ€™, â€˜Jeanâ€™];
 
-document.write(‘<p>De eerste leerling is <strong>’);
+document.write(â€˜<p>De eerste leerling is <strong>â€™);
 
-document.write(leerlingen[0] + ‘</strong></p>’);
+document.write(leerlingen[0] + â€˜</strong></p>â€™);
 /* schrijf na deze regel je code van opdracht 1 */
 /* schrijf na deze regel je code van opdracht 2 */
 /* schrijf na deze regel je code van opdracht 3 */
