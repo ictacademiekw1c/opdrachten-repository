@@ -64,7 +64,7 @@ Volg de volgende stappen:
 1. Maak voor je naam (voornaam en achternaam), je leeftijd, je woonplaats, je hobbies, aantal broers en zussen, en je gewenste beroep pf droom een aparte variabele.
 2. Geef iedere variabele de juiste waarde.
 3. Schrijf nu je introductietekst en gebruik daarin op de juiste plek de goeie variabele.
-4. print de introductietekst met een echo commando. Gebruik <br> om je tekst op een volgende regel te zetten.
+4. print de introductietekst met een echo commando. Gebruik `<br>` om je tekst op een volgende regel te zetten.
 
 ### 1.6.3 Beoordelingseisen
 1. Het script levert geen fouten of waarschuwingen op in de browser
