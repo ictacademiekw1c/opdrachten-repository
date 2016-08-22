@@ -16,7 +16,7 @@
 
 ## 0.2 De studieroute 
 
->* Indeling
+* Indeling
 * De studieroutesite
 * [Theorie overzicht](https://docs.google.com/presentation/d/1YyCH0ILOnx2i7GqfKxVWiofecFtXBkOagwoCEdVxaPQ/edit?usp=sharing)
 * Opdrachten

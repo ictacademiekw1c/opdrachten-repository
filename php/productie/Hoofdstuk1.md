@@ -28,18 +28,54 @@ $geboortedatum = date();
 
 ## 1.4 Datatypes
 
+Voor de theorie verwijzen we je naar de site van w3schools.com:
+[Welke datatypes zijn er in php](http://www.w3schools.com/php/php_datatypes.asp)
 
 
 ## 1.5 Hoe toon je de waarde van een variabele?
 
 Met de echo statement kun je de waarde van een variabele op het scherm tonen
-~~~
+~~~php
 $naam = 'Pieter-Jan';
 echo "Mijn naam is";
 echo $naam;
+
+//Hiermee zet je commentaar in je code
+
+//combineer een variabele met tekst
+
+echo "Mijn naam is niet $naam";
 ~~~
 
 ## 1.6 Opdracht 0001
+
+De opdracht is om het script opdracht0001.php te schrijven, waarin je met php een stuk tekst print die jezelf introduceert.
+
+Het uiteindelijke resultaat van je php-script zal bijvoorbeeld eindelijk het volgende resultaat moeten opleveren.
+### 1.6.1 Visuele weergave
+
+> Ik ben Abu Saebu. Ik woon bijna mijn hele leven in 's-Hertogenbosch. Ik heb op school gezeten op het Sint Janslyceum op de Sweelinckplein in Den Bosch. Ik ben 52 jaar, ik ben getrouwd en ik heb 2 kinderen. Mijn hobbies zijn gitaar spelen, piano spelen, muziek luisteren en programmeren. Ik ben docent applicatieontwikkeling en ik geef de vakken PHP, HTML/CSS, Javascript, Database/SQL, C#, Android Apps, Beheer en Bedrijfskunde.
+
+Schrijf een introductietekst over jezelf met je naam, woonplaats, je hobbies, je school, je leeftijd, je hobbies, je thuissituatie en wat je graag wilt worden of wat je graag zou willen doen.
+Gebruik voor ieder van deze gegevens een variabele met de juiste datatype en syntax.
+
+### 1.6.2 Opzetten van je programmeercode
+Volg de volgende stappen:
+1. Maak voor je naam (voornaam en achternaam), je leeftijd, je woonplaats, je hobbies, aantal broers en zussen, en je gewenste beroep pf droom een aparte variabele.
+2. Geef iedere variabele de juiste waarde.
+3. Schrijf nu je introductietekst en gebruik daarin op de juiste plek de goeie variabele.
+4. print de introductietekst met een echo commando. Gebruik &lt;br&gt;
+ om je tekst op een volgende regel te zetten.
+
+### 1.6.3 Beoordelingseisen
+1. Het script levert geen fouten of waarschuwingen op in de browser
+2. De visuele weergave is een duidelijke en correcte tekst.
+3. Alle informatie wordt via een variabele met de goeie waarde en datatype weergegeven.
+4. Sla het script op als opdracht0001.php, pak het in als rar en upload het naar je portfolio.
+
+
+
+
 
 
 
