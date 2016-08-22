@@ -28,6 +28,8 @@ $geboortedatum = date();
 
 ## 1.4 Datatypes
 
+Voor de theorie verwijzen we je naar de site van w3schools.com:
+[Welke datatypes zijn er in php](http://www.w3schools.com/php/php_datatypes.asp)
 
 
 ## 1.5 Hoe toon je de waarde van een variabele?
@@ -40,6 +42,7 @@ echo $naam;
 ~~~
 
 ## 1.6 Opdracht 0001
+
 
 
 
