@@ -49,6 +49,8 @@ echo "Mijn naam is niet $naam";
 
 ## 1.6 Opdracht 0001
 
+De opdracht is om het script opdracht0001.php te schrijven, waarin je met php een stuk tekst print die jezelf introduceert.
+
 Het uiteindelijke resultaat van je php-script zal uit bijvoorbeeld eindelijk het volgende resultaat moeten opleveren.
 ### 1.6.1 Visuele weergave
 
