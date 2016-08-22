@@ -2,7 +2,7 @@
 
 ## Opdracht 311 Datatypes
 
-``Werk de opdracht uit in een Word bestand genaamd opdracht311.docx.
+``Opleveren: Werk de opdracht uit in een Word bestand genaamd opdracht311.docx.
 Comprimeer het bestand naar opdracht311.rar en upload het naar je portfolio.``
 
 Vul onderstaande tabel in door onderstaande literals of expressies toe te kennen aan een variabele.
@@ -10,7 +10,7 @@ De vraag voor iedere literal/expressie (per rij) is welke datatype het uiteindel
 
 Onze tip is om de code daadwerkelijk uit te voeren in een apart .html bestand of direct in de console van de Inspector (via de F12 toets).
 
-** Voorbeeldexpressie: ** *'javascript'*
+** Voorbeeldexpressie: **
 ```javascript
 var variable001 = 'javascript';
 console.log(variabele001); //in je console zie je nu ‘javascript’ en kun je concluderen dat het een string is
@@ -18,7 +18,7 @@ console.log(variabele001); //in je console zie je nu ‘javascript’ en kun je conc
 Console.log(typeof variable001); 
 ```
 Voor dit voorbeeld zou je dus in opdracht311.docx in je tabel noteren: 
-<table>
+<table style='width: 100%'>
 	<tr>
 		<th>**Expressie/literal**</th>
 		<th>**Datatype van de uitkomst**</th>
@@ -30,7 +30,7 @@ Voor dit voorbeeld zou je dus in opdracht311.docx in je tabel noteren:
 </table>
 		
 ** Geef van de volgende expressies / literals de datatypes op: **
-<table>
+<table style='width: 100%'>
 	<th>** Wat is het datatype van de volgende expressies/literals ?**
 	<tr><td>'javascript'</td></tr>
 	<tr><td>1 + 4</td></tr>
@@ -48,7 +48,7 @@ Voor dit voorbeeld zou je dus in opdracht311.docx in je tabel noteren:
 	<tr><td>999.22</td></tr>
 </table>
 ** Mogelijke datatypes: **
-<table>
+<table style='width: 100%'>
 	<tr>
 		<td>**string**</td>
 		<td>**number**</td>
@@ -60,7 +60,7 @@ Voor dit voorbeeld zou je dus in opdracht311.docx in je tabel noteren:
 
 ## Opdracht 312 Variabelenamen
 
-``Werk de opdracht uit in een Word bestand genaamd opdracht312.docx.
+``Opleveren: Werk de opdracht uit in een Word bestand genaamd opdracht312.docx.
 Comprimeer het bestand naar opdracht312.rar en upload het naar je portfolio.``
 
 Zijn onderstaande variabelenamen geldig of niet geldig? Controleer het aan de hand van de regels die in de reader van dit hoofdstuk zijn beschreven.
@@ -77,7 +77,7 @@ Volg de stappen:
 var Teller1;
 Teller1 = 10;
 ``` 
-<table>
+<table style='width:100%'>
 	<tr>
 		<th>**Variabelenaam**</th>
 		<th>**Geldige uitkomst? (Ja / Nee)**</th>

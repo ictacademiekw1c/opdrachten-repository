@@ -1,8 +1,8 @@
-``Opleveren: Werk de opdracht uit in een Word bestand en upload het document in je portfolio voor javascript onder de naam OPDRACHT100.docx``
-
 # Hoofdstuk 2
 
 ## Opdracht 100
+
+`` Opleveren: Werk de opdracht uit in een Word bestand en upload het document in je portfolio voor javascript onder de naam OPDRACHT100.docx``
 
 1. Ga naar [www.arstechica.com](http://www.arstechnica.com) en ga met je muis over het menuitem 'MAIN MENU'. Klik ook even de zoekbalk rechtsbovenin aan. Onthoud de werking van het hoofdmenu en de zoekbalk.
 
