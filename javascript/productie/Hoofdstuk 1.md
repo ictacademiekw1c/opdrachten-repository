@@ -23,5 +23,4 @@
 
 6. Doe hetzelfde voor een andere website (eigen keuze) en bekijk daarvan een aantal onderdelen met en zonder javascript. Onderzoek minimaal 3 websites
 
-
 #### [setSubMenuHeader] Opdrachten
