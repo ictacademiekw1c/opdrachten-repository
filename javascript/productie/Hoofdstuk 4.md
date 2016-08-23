@@ -1,5 +1,5 @@
-#### [setSubMenuHeader] Opdrachten
-#Hoofdstuk 4
+ï»¿#### [setSubMenuHeader] Opdrachten
+# Hoofdstuk 4
 
 ## Opdracht 411 IF THEN ELSE
 
@@ -46,20 +46,20 @@ In bovenstaande tabel staat welke functieniveau programmeur je bent afhankelijk 
 programmeur.
 - Als je 1 jaar ervaring hebt en je hebt een HBO opleiding dan ben je al een medior programmeur.
 
-#### Opdracht 
+**De opdracht:**
 
 Het uiteindelijke doel is om in een blanco html pagina een IF / ELSE / ELSEIF waarin je afhankelijk van je opleiding en je ervaring bepaalt welke functieniveau programmeur
 je bent.
 
-1. Declareer duidelijke variabele-namen (bijvoorbeeld 'opleiding' en 'ervaringsjaren') en initialiseer de variabelenamen op bijvoorbeeld ‘MBO’ en 1 jaar.
+1. Declareer duidelijke variabele-namen (bijvoorbeeld 'opleiding' en 'ervaringsjaren') en initialiseer de variabelenamen op bijvoorbeeld â€˜MBOâ€™ en 1 jaar.
 
 2. Programmeer vervolgens een geneste if else constructie om uiteindelijk het functieniveau te bepalen (maak gebruik van een variabele ervaringsjaren en opleiding)). Je if else constructie moet alle mogelijke waarden van opleiding en ervaring kunnen vertalen naar het goeie
 functieniveau.
 
-3. Meld uiteindelijk het functieniveau van de programmeur met de alert() functie.
+3. Meld uiteindelijk het functieniveau van de programmeur met de *alert()* functie.
 
 Test je programma door je variabelen 'opleiding' en 'ervaringsjaren' te testen met de volgende waardes voor opleiding en ervaring.
-Het is de bedoeling dat de docent alle onderstaande opleidingen en ervaringsjaren kan invoeren als variabelewaarde, waarna hij het correcte antwoord via een alert() te zien krijgt.
+Het is de bedoeling dat je alle onderstaande opleidingen en ervaringsjaren kan invoeren als variabelewaarde, waarna je het correcte antwoord via een *alert()* te zien krijgt.
 
 <table>
 	<tr>
@@ -86,4 +86,19 @@ Het is de bedoeling dat de docent alle onderstaande opleidingen en ervaringsjare
 		<td>0</td>
 	</tr>
 </table>
+
+
+## Opdracht 412 If Statements
+
+### IF statements
+
+Download eerst de template bestanden van Opdracht 412. Pak deze uit naar een map en open de bestanden in je editor.
+### TODO: 412 opdracht opnieuw schrijven
+
+## Opdracht 413
+### TODO: 413 opdracht opnieuw schrijven
+
+## Opdracht 
+
+
 
