@@ -93,7 +93,7 @@ Teller1 = 10;
 	</tr>
 </table>
 
-## Opdracht 313 
+## Opdracht 313 Operatoren
 
 ### Operatoren
 
@@ -188,7 +188,7 @@ console.log(score); // 0
 
 ** Let op: Het is belangrijk dat je alle bovenstaande codes in 1 HTML bestand plaatst. **
 
-## Opdracht 314 
+## Opdracht 314 TRUE or FALSE
 
 ### TRUE or FALSE
 
@@ -257,7 +257,7 @@ var score = 100;
 	</tr>	
 </table>
 
-## Opdracht 315 
+## Opdracht 315 Built in / Standaard functies
 
 ### Built in / Standaard functies
 
@@ -303,7 +303,7 @@ de manier waarop toeschouwers de voetballer hebben bejegend tijdens de wedstrijd
 
 `` Opmerking: Gebruik alert() of console.log() om tussentijds te testen wat de waarde is van een variabele ``
 
-## Opdracht 316 
+## Opdracht 316 Arrays en Array Functies
 
 ### Arrays en Array Functies
 
