@@ -1,7 +1,7 @@
 # Hoofdstuk 1
 
 ## Opdracht 1.1
-[Download de opdracht](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.1.pdf)
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.1.pdf" target="_blank">Download de opdracht</a>
 
 ### Omschrijving
 Vul hier een omschrijving van de opdracht in.
