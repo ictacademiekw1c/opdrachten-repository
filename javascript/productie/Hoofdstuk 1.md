@@ -4,23 +4,19 @@
 
 ### N@tschool Portfolio inrichten
 
-## Wat is je N@tschool portfolio? ##
+**Wat is je N@tschool portfolio?**
 In je N@tschool portfolio upload je (onder andere) je huiswerkopdrachten. 
 De docenten kunnen deze bestanden inkijken (inclusief de datum van uploaden!) en eventueel dit online nakijken. Zodra je bij de docent langsgaat om het huiswerk te laten nakijken, laat je de spullen zien zoals ze zijn geupload naar je N@tschool portfolio.
 
 Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens deze opdracht zullen je N@tschool portfoliomap aanmaken voor het vak *Javascript*.
 
-## Wat moet je doen?##
+**Wat moet je doen?**
 
 1. Open <a href="https://elo.kw1c.nl" target="_blank">N@tschool</a> en ga naar je portfolio op N@tschool.
-
 ![Je portfoliomap binnen N@tschool](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-1.png)
 
-
 2. Open de map "Leeractiviteiten".
-
 ![Je leeractiviteitenmap binnen N@tschool](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-2.png)
-
 
 3. Klik met rechts op ``Leeractiviteiten`` en klik op ``Nieuw`` en ``Map``.
 
@@ -28,11 +24,9 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 
 ![Je nieuwe Javascript map binnen je N@tschool portfolio](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-3.png)
 
-
 5. Maak overige mappen aan. Laat de mappen ``Periode 3`` en ``Periode 4`` leeg.
 
 ![Je nieuwe Javascript map binnen je N@tschool portfolio](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-4.png)
-
 
 6. Klaar! Kom bij de eerstvolgende Javascript les even langs om dit te laten zien
 
