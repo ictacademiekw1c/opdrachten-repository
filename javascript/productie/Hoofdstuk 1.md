@@ -32,20 +32,21 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 
 
 
-## Opdracht 101 Wat doet Javascript?
+
+## Opdracht 110 Wat doet Javascript?
 
 ### Wat doet Javascript?
 
-``Opleveren: Werk de opdracht uit in een Word bestand en upload het document in je portfolio voor Javascript onder de map 'Hoofdstuk 1' met de naam OPDRACHT100.docx``
+``Opleveren: Werk de opdracht uit in een Word bestand en upload het document in je portfolio voor Javascript onder de map 'Hoofdstuk 1' met de naam OPDRACHT110.docx``
 
 1. Ga naar [www.arstechica.com](http://www.arstechnica.com) en ga met je muis over het menuitem 'MAIN MENU'. Klik ook even de zoekbalk rechtsbovenin aan. Onthoud de werking van het hoofdmenu en de zoekbalk.
 
 ![Ars Technica hoofdmenu](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100.png "Ars Technica hoofdmenu")
 
-2. Zet vervolgens je javascript uit in je browser (onderzoek waar deze instelling zich bevindt in je favoriete browser). In Google Chrome kun je deze vinden onder de knop “Instellingen voor inhoud” in het settings scherm.
-![Hoe je JavaScript uit te zetten?] (https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100_2.png "Hoe je JavaScript uit te zetten?") 
+2. Zet vervolgens je javascript uit in je browser (onderzoek waar deze instelling zich bevindt in je favoriete browser). In Google Chrome kun je deze vinden onder de knop *Instellingen voor inhoud* in het settings scherm.
+![Hoe je JavaScript uit te zetten?](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100_2.png "Hoe je JavaScript uit te zetten?") 
 
-3. Refresh het venster van ![www.arstechnica.com] (http://www.arstechnica.com) en test het hoofdmenu en zoekbalk nogmaals.
+3. Refresh het venster van ![www.arstechnica.com](http://www.arstechnica.com) en test het hoofdmenu en zoekbalk nogmaals.
 
 4. Analyseer de site met en zonder javascript. Bekijk hem goed voor aanwezige verschillen!
 - Wat is er anders aan de site? (Geef minimaal 2 verschillen)
@@ -55,10 +56,11 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 
 6. Doe hetzelfde voor minimaal 3 van je favoriete websites (deze mag je zelf bepalen).
 Beschrijf per website de volgende dingen in het Word document:
-- Adres (url) van de website
-- Minimaal 2 verschillen die je opmerkte nadat je Javascript uitgezet had
-- Kun je de website blijven gebruiken zonder Javascript? (werken alle onderdelen nog)
+
+* Adres (url) van de website
+* Minimaal 2 verschillen die je opmerkte nadat je Javascript uitgezet had
+* Kun je de website blijven gebruiken zonder Javascript? (werken alle onderdelen nog)
 
 
 
-##### [setSubMenuHeader] Opdrachten
+#### [setSubMenuHeader] Opdrachten

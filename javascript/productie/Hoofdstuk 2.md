@@ -1,8 +1,10 @@
 ﻿# Hoofdstuk 2
 
-## Opdracht 200
 
-`` Opleveren: Plaats de gecorrigeerde bestanden een rar met naam OPDRACHT200.rar en upload het in je portfolio.``
+
+## Opdracht 220
+
+``Opleveren: Plaats de gecorrigeerde bestanden een rar met naam OPDRACHT200.rar en upload het in je portfolio.``
 
 ### Javascript code testen en debuggen: Syntax fouten
 Download en pak de bestanden in "[h2 scripts.zip](https://elo.kw1c.nl/CMS/_STUDYROUTE_FOLDERS/33/95311 AO Leerjaar 1 Periode 3/14067/1o10 JavaScript [AO, 03 ]/9AE2FBF0-5589-4FE2-B33E-4439521E289E/27d436bd/h2.zip)" uit naar je Javascript map. Open vervolgens deze map.
