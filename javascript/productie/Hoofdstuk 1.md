@@ -13,18 +13,26 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 ## Wat moet je doen?##
 
 1. Open <a href="https://elo.kw1c.nl" target="_blank">N@tschool</a> en ga naar je portfolio op N@tschool.
+
 ![Je portfoliomap binnen N@tschool](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-1.png)
 
+
 2. Open de map "Leeractiviteiten".
+
 ![Je leeractiviteitenmap binnen N@tschool](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-2.png)
+
 
 3. Klik met rechts op ``Leeractiviteiten`` en klik op ``Nieuw`` en ``Map``.
 
 4. Hernoem de map naar ``Javascript``.
+
 ![Je nieuwe Javascript map binnen je N@tschool portfolio](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-3.png)
 
+
 5. Maak overige mappen aan. Laat de mappen ``Periode 3`` en ``Periode 4`` leeg.
+
 ![Je nieuwe Javascript map binnen je N@tschool portfolio](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-4.png)
+
 
 6. Klaar! Kom bij de eerstvolgende Javascript les even langs om dit te laten zien
 
