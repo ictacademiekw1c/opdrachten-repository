@@ -24,18 +24,14 @@ echo $voornaam. " ".$achternaam;
 
 > [Probeer het hier uit, met je eigen voor- en achternaam](http://www.w3schools.com/php/showphp.asp?filename=demo_var3)
 
-## Opdracht 2
+---
+## Opdracht 2.1
 
-## Omschrijving
+### Omschrijving
 Vul hier een omschrijving van de opdracht in.
 
-## Visuele weergave
+### Visuele weergave
 
-## Programmastructuur
+### Programmastructuur
 
-## Beoordelingscriteria
-
----
-
-
----
+### Beoordelingscriteria
