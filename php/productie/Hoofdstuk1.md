@@ -67,6 +67,18 @@ Volg de volgende stappen:
 4. print de introductietekst met een echo commando. Gebruik &lt;br&gt;
  om je tekst op een volgende regel te zetten.
 
+ >**Vergeet niet**
+ - Je code tussen <?php en ?> te zetten.
+ - Het einde van een 'zin' te eindigen met een ;
+ - Strings in te pakken in quotes of ' ' of " "
+
+ ~~~php
+ <?php
+ //Zet hieronder je code
+
+ ?>
+ 
+
 ### 1.6.3 Beoordelingseisen
 1. Het script levert geen fouten of waarschuwingen op in de browser
 2. De visuele weergave is een duidelijke en correcte tekst.
