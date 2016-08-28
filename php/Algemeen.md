@@ -43,11 +43,14 @@ Dit is je eerste php coderegel:
 ?>
 ```
 
-## 0.5 Opdracht 0000
-Je hebt opdracht 0000 af wanneer je de volgende dingen hebt gedaan:
+
+
+---
+## 0.5 Opdracht 0
+Je hebt opdracht 0 af wanneer je de volgende dingen hebt gedaan:
 * Je hebt webmatrix gedownload en geinstalleerd
 * Je hebt een nieuwe php site gemaakt met de naam 'phpsemester1'
-* Je hebt een map met de naam opdracht0000 gemaakt
+* Je hebt een map met de naam opdracht0 gemaakt
 * In deze map heb je een php script aangemaakt met de naam helloworld.php
 * Je hebt de bovenstaande code ingetypt
 * Je hebt dit script in de browser gelanceerd en er treden geen foutmeldingen op
