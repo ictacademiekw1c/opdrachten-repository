@@ -62,6 +62,11 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 * Wat kun je met PHP?
 * Welke voorkennis heb je nodig?
 * Hoe leer je het best programmeren/PHP?
+* Kun je het ook online leren?
+    - [zelfstudie met codecademy](https://www.codecademy.com/learn/php)
+    - [mini cursus php w3schools](http://www.w3schools.com/php/)
+    - [complete naslag php](http://php.net)
+    - [youtube bijvoorbeeld thenewboston](https://www.youtube.com/watch?v=iCUV3iv9xOs&list=PL442FA2C127377F07)
 * Wanneer gebruik je PHP?
 * [Hoeveel sites gebruiken php](http://php.net/usage.php)
 * [En hoeveel is dat procentueel?](https://w3techs.com/technologies/overview/programming_language/all)
