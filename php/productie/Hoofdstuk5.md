@@ -1,22 +1,24 @@
 # Hoofdstuk 5 - Get en post
 
-## Onderwerpen
+## 5.1 Wat ga je leren ?
 
-## 5.1 
+## 5.2 Voorbeeld en uitleg 5.1 
 
 ~~~php
+
+
 ~~~
 
 ---
-## Opdracht 5.1
+## 5.3 Opdracht 50
 
-### Omschrijving
+### 5.3.1 Omschrijving
 Vul hier een omschrijving van de opdracht in.
 
-### Visuele weergave
+### 5.3.2 Visuele weergave
 
-### Programmastructuur
+### 5.3.3 Programmastructuur
 
-### Beoordelingscriteria
+### 5.3.4 Beoordelingscriteria
 
 ---

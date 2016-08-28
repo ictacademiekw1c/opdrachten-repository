@@ -1,6 +1,7 @@
 # Hoofdstuk 4 - Nog meer stringfuncties
 
-## Onderwerpen
+## 4.1 Wat ga je leren?
+Je leert het gebruiken en toepassen van nog een aantal string functies:
 - strpos()
 - strrpos()
 - stripos()
@@ -8,21 +9,21 @@
 - substr()
 - substr_replace()
 
-## 4.1 
+## 4.2 Uitleg en voorbeelden
 
 ~~~php
 ~~~
 
 ---
-## Opdracht 4.1
+## 4.3 Opdracht 40
 
-### Omschrijving
+### 4.3.1 Omschrijving
 Vul hier een omschrijving van de opdracht in.
 
-### Visuele weergave
+### 4.3.2 Visuele weergave
 
-### Programmastructuur
+### 4.3.3 Programmastructuur
 
-### Beoordelingscriteria
+### 4.4.4 Beoordelingscriteria
 
 ---

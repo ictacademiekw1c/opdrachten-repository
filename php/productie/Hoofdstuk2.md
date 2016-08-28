@@ -25,7 +25,7 @@ echo $voornaam. " ".$achternaam;
 > [Probeer het hier uit, met je eigen voor- en achternaam](http://www.w3schools.com/php/showphp.asp?filename=demo_var3)
 
 ---
-## Opdracht 2.1
+## 2.2 Opdracht 20
 
 ### Omschrijving
 Vul hier een omschrijving van de opdracht in.
