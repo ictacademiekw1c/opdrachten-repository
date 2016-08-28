@@ -63,7 +63,8 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 * Welke voorkennis heb je nodig?
 * Hoe leer je het best programmeren/PHP?
 * Wanneer gebruik je PHP?
-* Hoeveel sites zijn gebouwd met PHP?
+* [Hoeveel sites gebruiken php](http://php.net/usage.php)
+* [En hoeveel is dat procentueel?](https://w3techs.com/technologies/overview/programming_language/all)
 
 
 ## 0.3 Installeren webmatrix
