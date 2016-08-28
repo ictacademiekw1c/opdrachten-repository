@@ -1,20 +1,6 @@
-# 0. Inleiding PHP
+# 0. Inleiding
 
-## 0.1 Algemeen
-
-* Wat is programmeren?
-* Is programmeren moeilijk? 
-   * [![Is programmeren moeilijk?](http://img.youtube.com/vi/pvAsqPbz9Ro/0.jpg)](http://www.youtube.com/watch?v=pvAsqPbz9Ro)
-* Hoe programmeer je voor het web?
-* Hoe werkt het web?
-* [Wat is PHP?](http://www.html-site.nl/wat-is-php/)
-* Wat kun je met PHP?
-* Welke voorkennis heb je nodig?
-* Hoe leer je het best programmeren/PHP?
-* Wanneer gebruik je PHP?
-* Hoeveel sites zijn gebouwd met PHP?
-
-## 0.2 De studieroute 
+## 0.1 De studieroute 
 
 * Indeling
 * De studieroutesite
@@ -26,15 +12,15 @@
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten
 
-|Hoofdstuk           | Inleverdatum  |
-|--------------------|---------------|
-|Hoofdstuk 1 | Nog te bepalen|
-|Hoofdtuk 2| Nog te bepalen |
-|Hoofdtuk 3| Nog te bepalen |
-|Hoofdtuk 4| Nog te bepalen |
-|Hoofdtuk 5| Nog te bepalen |
-|Hoofdtuk 6| Nog te bepalen |
-|Hoofdtuk 7| Nog te bepalen |
+|Hoofdstuk           | Opdracht(en)| Inleverdatum  |
+|--------------------|-------------|-------|
+|Hoofdstuk 0 | Opdracht00 |Voor de 2deles |
+|Hoofdtuk 1| Opdracht 10| ?? |
+|Hoofdtuk 2| Opdracht 20, 21 | ?? |
+|Hoofdtuk 3|  | ?? |
+|Hoofdtuk 4|  | ?? |
+|Hoofdtuk 5|  | ?? |
+|Hoofdtuk 6|  | ?? |
 
 ## Opleveren opdrachten
 In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben.
@@ -64,6 +50,20 @@ De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering en heeft dit invloed op het uiteindelijke resultaat, waardoor het eindcijfer lager uit zal vallen.
 
 Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docentwat je kunt gaan doen.
+
+## 0.2 Algemeen
+
+* Wat is programmeren?
+* Is programmeren moeilijk? 
+   * [![Is programmeren moeilijk?](http://img.youtube.com/vi/pvAsqPbz9Ro/0.jpg)](http://www.youtube.com/watch?v=pvAsqPbz9Ro)
+* Hoe programmeer je voor het web?
+* Hoe werkt het web?
+* [Wat is PHP?](http://www.html-site.nl/wat-is-php/)
+* Wat kun je met PHP?
+* Welke voorkennis heb je nodig?
+* Hoe leer je het best programmeren/PHP?
+* Wanneer gebruik je PHP?
+* Hoeveel sites zijn gebouwd met PHP?
 
 
 ## 0.3 Installeren webmatrix
