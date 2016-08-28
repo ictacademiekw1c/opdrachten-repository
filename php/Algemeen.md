@@ -23,6 +23,48 @@
 * Huiswerk & voortgangsdocument
 * Software (__Webmatrix__)
 
+## Opleverdata
+Hieronder zie de deadlines van inleveren van je opdrachten
+
+|Hoofdstuk           | Inleverdatum  |
+|--------------------|---------------|
+|Hoofdstuk 1 | Nog te bepalen|
+|Hoofdtuk 2| Nog te bepalen |
+|Hoofdtuk 3| Nog te bepalen |
+|Hoofdtuk 4| Nog te bepalen |
+|Hoofdtuk 5| Nog te bepalen |
+|Hoofdtuk 6| Nog te bepalen |
+|Hoofdtuk 7| Nog te bepalen |
+
+## Opleveren opdrachten
+In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben.
+
+De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
+
+<table><thead>
+<tr>
+<th></th>
+<th align="left">Redenatie</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>0</td>
+<td align="left">Niet ingeleverd.    <br>Opdracht onvoldoende uitgevoerd</td>
+</tr>
+<tr>
+<td>1</td>
+<td align="left">Te laat ingeleverd, maar wel goed uitgewerkt.<br>Opdracht matig uitgevoerd en opdracht op tijd ingeleverd.</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="left">Opdracht goed en op tijd ingeleverd.</td>
+</tr>
+</tbody></table>
+
+Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering en heeft dit invloed op het uiteindelijke resultaat, waardoor het eindcijfer lager uit zal vallen.
+
+Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docentwat je kunt gaan doen.
+
 
 ## 0.3 Installeren webmatrix
 
