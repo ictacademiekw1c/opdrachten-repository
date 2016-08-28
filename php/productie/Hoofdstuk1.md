@@ -77,7 +77,7 @@ Volg de volgende stappen:
  //Zet hieronder je code
 
  ?>
- 
+ ~~~
 
 ### 1.6.3 Beoordelingseisen
 1. Het script levert geen fouten of waarschuwingen op in de browser
