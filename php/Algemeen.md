@@ -9,7 +9,7 @@
 * Huiswerk & voortgangsdocument
 * Software (__Webmatrix__)
 
-## Opleverdata
+### 0.1.1 Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten
 
 |Hoofdstuk           | Opdracht(en)| Inleverdatum  |
@@ -22,7 +22,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten
 |Hoofdtuk 5|  | ?? |
 |Hoofdtuk 6|  | ?? |
 
-## Opleveren opdrachten
+### 0.1.2 Opleveren opdrachten
 In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben.
 
 De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
@@ -35,11 +35,11 @@ De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 </thead><tbody>
 <tr>
 <td>0</td>
-<td align="left">Niet ingeleverd.    <br>Opdracht onvoldoende uitgevoerd</td>
+<td align="left">Niet ingeleverd,<br>of opdracht onvoldoende uitgevoerd</td>
 </tr>
 <tr>
 <td>1</td>
-<td align="left">Te laat ingeleverd, maar wel goed uitgewerkt.<br>Opdracht matig uitgevoerd en opdracht op tijd ingeleverd.</td>
+<td align="left">Te laat ingeleverd, maar wel goed uitgewerkt,<br>of opdracht matig uitgevoerd en opdracht op tijd ingeleverd.</td>
 </tr>
 <tr>
 <td>2</td>
@@ -49,9 +49,9 @@ De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
 Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering en heeft dit invloed op het uiteindelijke resultaat, waardoor het eindcijfer lager uit zal vallen.
 
-Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docentwat je kunt gaan doen.
+Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
 
-## 0.2 Algemeen
+## 0.2 Inleiding programmeren en PHP
 
 * Wat is programmeren?
 * Is programmeren moeilijk? 
