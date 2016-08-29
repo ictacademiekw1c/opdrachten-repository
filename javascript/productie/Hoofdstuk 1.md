@@ -28,10 +28,9 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 
 ![Je nieuwe Javascript map binnen je N@tschool portfolio](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-4.png)
 
-6. Klaar! Kom bij de eerstvolgende Javascript les even langs om dit te laten zien
+6. Klaar! Kom bij de eerst volgende Javascript les even langs bij de docent om dit te laten zien. Hierna zal deze opdracht afgetekend worden.
 
-
-
+---
 
 ## Opdracht 110 Wat doet Javascript?
 

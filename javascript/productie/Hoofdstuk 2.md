@@ -1,6 +1,20 @@
 ﻿# Hoofdstuk 2
 
+## Opdracht 200 Editor
 
+``Opleveren: Plaats het Word document met de naam 'Opdracht200.docx' in de map 'Hoofdstuk 2' van je portfoliomap``
+
+### Editor
+
+Volg de volgende stappen:
+1. Open in je browser wederom het Javascript (game_manager.js) bestand achter de 2048 game via <a href="http://gabrielecirulli.github.io/2048/js/game_manager.js" target="_blank">deze link</a>.
+2. Sla het bestand op ergens op je computer. Bijvoorbeeld je Javascript map
+3. Open game_manager.js in Kladblok en laat deze open staan
+4. Open game_manager.js via WebMatrix en laat deze open staan
+5. Benoem in je Word bestand minimaal 3 zichtbare verschillen tussen de 2 programma's
+6. Maak van ieder programma een screenshot en voeg deze toe aan het word bestand
+
+## Opdracht 
 
 ## Opdracht 220
 
