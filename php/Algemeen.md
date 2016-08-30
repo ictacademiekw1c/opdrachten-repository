@@ -1,6 +1,57 @@
-# 0. Inleiding PHP
+# 0. Inleiding
 
-## 0.1 Algemeen
+## 0.1 De studieroute 
+
+* Indeling
+* De studieroutesite
+* [Theorie overzicht](https://docs.google.com/presentation/d/1YyCH0ILOnx2i7GqfKxVWiofecFtXBkOagwoCEdVxaPQ/edit?usp=sharing)
+* Opdrachten
+* Huiswerk & voortgangsdocument
+* Software (__Webmatrix__)
+
+### 0.1.1 Opleverdata
+Hieronder zie de deadlines van inleveren van je opdrachten
+
+|Hoofdstuk           | Opdracht(en)| Inleverdatum  |
+|--------------------|-------------|-------|
+|Hoofdstuk 0 | Opdracht00 |Voor de 2deles |
+|Hoofdtuk 1| Opdracht 10| ?? |
+|Hoofdtuk 2| Opdracht 20, 21 | ?? |
+|Hoofdtuk 3|  | ?? |
+|Hoofdtuk 4|  | ?? |
+|Hoofdtuk 5|  | ?? |
+|Hoofdtuk 6|  | ?? |
+
+### 0.1.2 Opleveren opdrachten
+In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben.
+
+De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
+
+<table><thead>
+<tr>
+<th></th>
+<th align="left">Redenatie</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>0</td>
+<td align="left">Niet ingeleverd,<br>of opdracht onvoldoende uitgevoerd</td>
+</tr>
+<tr>
+<td>1</td>
+<td align="left">Te laat ingeleverd, maar wel goed uitgewerkt,<br>of opdracht matig uitgevoerd en opdracht op tijd ingeleverd.</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="left">Opdracht goed en op tijd ingeleverd.</td>
+</tr>
+</tbody></table>
+
+Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering en heeft dit invloed op het uiteindelijke resultaat, waardoor het eindcijfer lager uit zal vallen.
+
+Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
+
+## 0.2 Inleiding programmeren en PHP
 
 * Wat is programmeren?
 * Is programmeren moeilijk? 
@@ -11,23 +62,17 @@
 * Wat kun je met PHP?
 * Welke voorkennis heb je nodig?
 * Hoe leer je het best programmeren/PHP?
+* Kun je het ook zelf online leren?
+    - [zelfstudie met codecademy](https://www.codecademy.com/learn/php)
+    - [mini cursus php w3schools](http://www.w3schools.com/php/)
+    - [complete naslag php](http://php.net)
+    - [youtube bijvoorbeeld thenewboston](https://www.youtube.com/watch?v=iCUV3iv9xOs&list=PL442FA2C127377F07)
 * Wanneer gebruik je PHP?
-* Hoeveel sites zijn gebouwd met PHP?
+* [Hoeveel sites gebruiken php](http://php.net/usage.php)
+* [En hoeveel is dat procentueel?](https://w3techs.com/technologies/overview/programming_language/all)
 
-## 0.2 De studieroute 
 
-* Indeling
-* De studieroutesite
-* [Theorie overzicht](https://docs.google.com/presentation/d/1YyCH0ILOnx2i7GqfKxVWiofecFtXBkOagwoCEdVxaPQ/edit?usp=sharing)
-* Opdrachten
-* Huiswerk & voortgangsdocument
-* Software (__Webmatrix__)
-
-## 0.3 Met PHP starten 
-
-![Hello world](https://raw.githubusercontent.com/ictacademiekw1c/phpsemester1/master/Afbeeldingen/HelloWorld.jpg)
-
-## 0.4 Installeren webmatrix
+## 0.3 Installeren webmatrix
 
 [Downloaden webmatrix](https://www.microsoft.com/web/webmatrix/wmx3features.aspx)
 
@@ -43,11 +88,14 @@ Dit is je eerste php coderegel:
 ?>
 ```
 
-## 0.5 Opdracht 0000
-Je hebt opdracht 0000 af wanneer je de volgende dingen hebt gedaan:
+
+
+---
+## 0.4 Opdracht 00
+Je hebt opdracht 0 af wanneer je de volgende dingen hebt gedaan:
 * Je hebt webmatrix gedownload en geinstalleerd
 * Je hebt een nieuwe php site gemaakt met de naam 'phpsemester1'
-* Je hebt een map met de naam opdracht0000 gemaakt
+* Je hebt een map met de naam opdracht00 gemaakt
 * In deze map heb je een php script aangemaakt met de naam helloworld.php
 * Je hebt de bovenstaande code ingetypt
 * Je hebt dit script in de browser gelanceerd en er treden geen foutmeldingen op
@@ -57,3 +105,4 @@ Je hebt opdracht 0000 af wanneer je de volgende dingen hebt gedaan:
 * Als de docent het heeft gezien en vind dat je je aan de opdracht hebt gehouden wordt de opdracht voor je afgetekend.
 
 
+#### [setSubMenuHeader]

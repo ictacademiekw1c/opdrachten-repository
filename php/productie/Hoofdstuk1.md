@@ -26,11 +26,12 @@ $ervaring = 5.5; // een gebroken getal
 $geboortedatum = date();
 ~~~
 
+- [Regels voor de benaming van php-variabelen](http://www.w3schools.com/php/php_variables.asp)
+
 ## 1.4 Datatypes
 
 Voor de theorie verwijzen we je naar de site van w3schools.com:
 [Welke datatypes zijn er in php](http://www.w3schools.com/php/php_datatypes.asp)
-
 
 ## 1.5 Hoe toon je de waarde van een variabele?
 
@@ -47,7 +48,9 @@ echo $naam;
 echo "Mijn naam is niet $naam";
 ~~~
 
-## 1.6 Opdracht 0001
+---
+
+## 1.6 Opdracht 01
 
 De opdracht is om het script opdracht0001.php te schrijven, waarin je met php een stuk tekst print die jezelf introduceert.
 
@@ -67,11 +70,23 @@ Volg de volgende stappen:
 4. print de introductietekst met een echo commando. Gebruik &lt;br&gt;
  om je tekst op een volgende regel te zetten.
 
+ >**Vergeet niet**
+ - Je code tussen <?php en ?> te zetten.
+ - Het einde van een 'zin' te eindigen met een ;
+ - Strings in te pakken in quotes of ' ' of " "
+
+ ~~~php
+ <?php
+ //Zet hieronder je code
+
+ ?>
+ ~~~
+
 ### 1.6.3 Beoordelingseisen
 1. Het script levert geen fouten of waarschuwingen op in de browser
 2. De visuele weergave is een duidelijke en correcte tekst.
 3. Alle informatie wordt via een variabele met de goeie waarde en datatype weergegeven.
-4. Sla het script op als opdracht0001.php, pak het in als rar en upload het naar je portfolio.
+4. Sla het script op als opdracht01.php, pak het in als rar en upload het naar je portfolio.
 
 
 
