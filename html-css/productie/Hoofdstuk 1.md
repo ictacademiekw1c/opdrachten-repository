@@ -1,3 +1,5 @@
+#### [kleurcode]#F4436
+
 # Hoofdstuk 1
 
 ---
