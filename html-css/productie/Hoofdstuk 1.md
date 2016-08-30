@@ -32,3 +32,17 @@
 
 ### Help
 ---
+## Opdracht 1.3
+---
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.3.pdf" target="_blank">Download opdracht 1.3</a>
+
+### Onderwerpen die hier aan bod komen
+* Inrichten portfolio op N@tschool
+
+### Benodigde bestanden
+* Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+* Er zijn voor deze opdracht geen hulp-links beschikbaar.
+---
