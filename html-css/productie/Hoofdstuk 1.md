@@ -14,7 +14,7 @@
 * Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-* [Hoe het web werkt]
+* Hoe het web werkt
 <iframe width="420" height="315" src="https://www.youtube.com/embed/cafVVwi1yEI" frameborder="0" allowfullscreen></iframe>
 * [Functie van HTML en CSS](http://www.w3.org/standards/webdesign/htmlcss)
 ---
