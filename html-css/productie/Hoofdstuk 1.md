@@ -70,6 +70,6 @@
 
 ### Help
 
-* Er zijn geen hulplinks beschikbaar voor deze opdracht.
+* Er zijn geen hulplinks voor deze opdracht beschikbaar.
 
 ---
