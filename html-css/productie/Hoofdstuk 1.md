@@ -1,6 +1,7 @@
 # Hoofdstuk 1
 
 ## Opdracht 1.1
+---
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.1.pdf" target="_blank">Download de opdracht</a>
 ---
 ### Omschrijving
@@ -35,4 +36,3 @@ Deze opdracht zorgt ervoor dat je de werkomgeving die nodig is voor het maken va
 ### Help
 ---
 * [Forum WebMatrix](https://forums.iis.net/1166.aspx/1?WebMatrix)
----
