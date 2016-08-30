@@ -21,7 +21,7 @@
 ## Opdracht 1.2
 ---
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.2.pdf" target="_blank">Download opdracht 1.1</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.2.pdf" target="_blank">Download opdracht 1.2</a>
 
 ### Onderwerpen die hier aan bod komen
 * Installeren van werkomgeving
@@ -31,5 +31,4 @@
 * [Download WebMatrix](http://go.microsoft.com/fwlink/?LinkID=286266)
 
 ### Help
-* [Forum WebMatrix](http://forums.iis.net/1166.aspx?language=nl-NL)
 ---
