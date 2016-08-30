@@ -1,8 +1,24 @@
 ﻿# Hoofdstuk 2
 
-## Opdracht 200
+## Opdracht 200 Editor
 
-`` Opleveren: Plaats de gecorrigeerde bestanden een rar met naam OPDRACHT200.rar en upload het in je portfolio.``
+``Opleveren: Plaats het Word document met de naam 'Opdracht200.docx' in de map 'Hoofdstuk 2' van je portfoliomap``
+
+### Editor
+
+Volg de volgende stappen:
+1. Open in je browser wederom het Javascript (game_manager.js) bestand achter de 2048 game via <a href="http://gabrielecirulli.github.io/2048/js/game_manager.js" target="_blank">deze link</a>.
+2. Sla het bestand op ergens op je computer. Bijvoorbeeld je Javascript map
+3. Open game_manager.js in Kladblok en laat deze open staan
+4. Open game_manager.js via WebMatrix en laat deze open staan
+5. Benoem in je Word bestand minimaal 3 zichtbare verschillen tussen de 2 programma's
+6. Maak van ieder programma een screenshot en voeg deze toe aan het word bestand
+
+## Opdracht 
+
+## Opdracht 220
+
+``Opleveren: Plaats de gecorrigeerde bestanden een rar met naam OPDRACHT200.rar en upload het in je portfolio.``
 
 ### Javascript code testen en debuggen: Syntax fouten
 Download en pak de bestanden in "[h2 scripts.zip](https://elo.kw1c.nl/CMS/_STUDYROUTE_FOLDERS/33/95311 AO Leerjaar 1 Periode 3/14067/1o10 JavaScript [AO, 03 ]/9AE2FBF0-5589-4FE2-B33E-4439521E289E/27d436bd/h2.zip)" uit naar je Javascript map. Open vervolgens deze map.

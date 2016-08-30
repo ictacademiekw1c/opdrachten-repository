@@ -5,8 +5,8 @@
 
 ### IF, THEN en ELSE
 
-`` Opleveren: Werk de opdracht uit in een bestand genaamd Opdracht411.html. 
-Comprimeer het bestand naar opdracht411.rar en upload het naar je portfolio.`` 
+``Opleveren: Werk de opdracht uit in een bestand genaamd Opdracht411.html. 
+Comprimeer het bestand naar opdracht411.rar en upload het naar je portfolio.``
 
 ** Gegeven tabel: **
 <table>
@@ -105,9 +105,9 @@ Download eerst de template bestanden van Opdracht 412. Pak deze uit naar een map
 
 ### Functies
 
-`` Opgelet: Om deze opdracht te kunnen maken, dien je eerst opdracht 411 afgerond te hebben.``
+``Opgelet: Om deze opdracht te kunnen maken, dien je eerst opdracht 411 afgerond te hebben.``
 
-`` Opleveren: Kopieer en plak het HTML bestand van opdracht 411 en hernoem deze naar Opdracht414.html. Werk in Opdracht414.html de opdracht uit en comprimeer daarna het bestand naar Opdracht414.rar. Upload deze in je portfolio.``
+``Opleveren: Kopieer en plak het HTML bestand van opdracht 411 en hernoem deze naar Opdracht414.html. Werk in Opdracht414.html de opdracht uit en comprimeer daarna het bestand naar Opdracht414.rar. Upload deze in je portfolio.``
 
 De if else constructie die je in de opdracht 411 hebt geprogrammeerd gebruik je als uitgangssituatie voor de uitwerking van
 deze opdracht.
@@ -161,8 +161,8 @@ ervaring en retourneert het salaris aan de hand van de waardes van de parameters
 3. Roep de functie *getSalaris()* aan met opleidingen **MBO 0,3 en 7** jaar ervaring en voor het **HBO  0,4,en 6** jaar ervaring. Druk opleiding,
 ervaring en salaris af via de *alert()* functie. 
 
-## Opdracht 415 FOR en WHILE lussen
+## Opdracht 415 FOR en WHILE loops
 ### TODO: 415 opdracht opnieuw schrijven
 
-## Opdracht 416  FOR LOOP EN ZIN.SUBSTR(X,1) 
+## Opdracht 416  FOR LOOP EN SUBSTR(X,1) 
 ### TODO: 416 opdracht opnieuw schrijven
