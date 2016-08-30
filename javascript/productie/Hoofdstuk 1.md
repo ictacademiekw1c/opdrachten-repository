@@ -45,9 +45,10 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 2. Zet vervolgens je javascript uit in je browser (onderzoek waar deze instelling zich bevindt in je favoriete browser). In Google Chrome kun je deze vinden onder de knop *Instellingen voor inhoud* in het settings scherm.
 ![Hoe je JavaScript uit te zetten?](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100_2.png "Hoe je JavaScript uit te zetten?") 
 
-3. Refresh het venster van ![www.arstechnica.com](http://www.arstechnica.com) en test het hoofdmenu en zoekbalk nogmaals.
+3. Refresh het venster van www.arstechnica.com en test het hoofdmenu en zoekbalk nogmaals.
 
 4. Analyseer de site met en zonder javascript. Bekijk hem goed voor aanwezige verschillen!
+Noteer in een nieuwe Word bestand (genaamd OPDRACHT110.docx).
 - Wat is er anders aan de site? (Geef minimaal 2 verschillen)
 - Maak screendumps van werkende/niet werkende onderdelen (minimaal 2 screendumps)
 
