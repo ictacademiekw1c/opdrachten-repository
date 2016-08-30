@@ -1,7 +1,7 @@
 # Algemene informatie
 
 ## Doelstelling
-Het doel van deze studieroute is studenten te leren websites te maken met behulp van (X)HTML, CSS en JavaScript. 
+Het doel van deze studieroute is studenten te leren websites te maken met behulp van HTML5 en CSS3. 
 Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicatieontwikkeling inhoudt. Na afloop moet de leerling in staat zijn om een gefundeerde keuze te maken voor de opleiding Applicatieontwikkelaar (of ICT-beheerder/Netwerkbeheerder).
 
 ## Voorkennis
