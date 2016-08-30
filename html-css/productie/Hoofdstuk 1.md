@@ -67,5 +67,5 @@
 
 ### Help
 
-* Er zijn voor deze opdracht geen hulp-links beschikbaar.
+* Er zijn voor deze opdracht geen hulp-links beschikbaar!
 ---
