@@ -15,7 +15,6 @@ Deze eerste opdracht laat je kennis maken met HTML en CSS. Daarnaast ga je aan d
 * Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-* Hoe websites gemaakt worden
 <iframe width="420" height="315" src="https://www.youtube.com/embed/cafVVwi1yEI" frameborder="0" allowfullscreen></iframe>
 * [Functie van HTML en CSS](http://www.startpagina.nl)
 * [Hoe het web werkt](http://www.startpagina.nl)
