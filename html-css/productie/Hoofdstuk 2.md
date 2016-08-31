@@ -96,4 +96,6 @@
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Resources/Opdracht%202.4.rar" target="_blank">Opdracht 2.4.rar</a>
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+*   
+
+*   <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Syntaxfouten opsporen </a>  
