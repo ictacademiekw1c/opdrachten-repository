@@ -59,10 +59,11 @@
 *   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
 
 ### Help
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Resources/Attributen.png">
 *   <a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">Structuur </a>
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Resources/Headandbody.jpg">
 *   <a href="http://www.w3schools.com/html/html_elements.asp" target="_blank">Elementen en tags </a>
-*   <a href="http://www.w3schools.com/html/html_attributes.asp" target="_blank">Attributen </a>   
+*   <a href="http://www.w3schools.com/html/html_attributes.asp" target="_blank">Attributen </a>  
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Resources/Attributen.png"> 
 *   <a href="http://www.w3schools.com/tags/tag_doctype.asp" target="_blank">Doctypes </a>  
 *   <a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">Html, Head, Title, Body </a>     
 ```html
