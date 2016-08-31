@@ -30,6 +30,8 @@ Volg de volgende stappen:
 3. Plak de screenshot in een Word document genaamd `Opdracht201.docx`
 4. Upload dit document via de bovenstaande instructies naar je portfoliomap
 
+---
+
 
 ## Opdracht 220 Code testen en debuggen
  
