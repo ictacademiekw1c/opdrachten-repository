@@ -128,7 +128,25 @@ Bestandsnaam:   bestandsnaam
     <hr>
 ```
 *   <a href="http://www.w3schools.com/tags/tag_sup.asp" target="_blank">Superscript</a> 
+```html
+    <p>
+        2
+        <sup>
+            2
+        </sup>
+        =4.
+    </p>
+```
 *   <a href="http://www.w3schools.com/tags/tag_sub.asp" target="_blank">Subscript</a> 
+```html
+        <p>
+        De scheikundige benaming voor water is H
+        <sub>
+            2
+        </sub>
+        O.
+    </p>
+```
 *   <a href="http://htmlandcssbook.com/extras/html-escape-codes/" target="_blank">Escape-tekens</a> 
 
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%203/Resources/Entiteiten.png">
