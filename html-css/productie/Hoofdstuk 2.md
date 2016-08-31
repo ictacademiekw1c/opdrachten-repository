@@ -19,9 +19,10 @@
 *   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   Hoe het web werkt
-<iframe width="420" height="315" src="https://www.youtube.com/embed/cafVVwi1yEI" frameborder="0" allowfullscreen></iframe>
-*   [Functie van HTML en CSS](http://www.w3.org/standards/webdesign/htmlcss)
+*   <a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">Structuur </a>
+*   Om de broncode van een webpagina op te vragen kun je bij de meeste browsers op F12 drukken.
+*   <a href="http://www.w3schools.com/html/html_elements.asp" target="_blank">Elementen en tags </a>   
+*   <a href="http://www.w3schools.com/tags/tag_doctype.asp" target="_blank">Doctypes </a>  
 
 ---
 ## Opdracht 2.2
