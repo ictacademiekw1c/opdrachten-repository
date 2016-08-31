@@ -110,11 +110,11 @@ Bestandsnaam:   bestandsnaam
 *   Inline-elementen
 *   Koppen
 *   Alinea's
+*   Escape-tekens
 *   Witruimte
 *   Regeleinden
 *   Horizontale lijnen
 *   Superscript en subscript
-*   Escape-tekens
 
 ### Benodigde bestanden
 *   Je hebt voor deze opdracht geen bestanden nodig.
@@ -122,6 +122,8 @@ Bestandsnaam:   bestandsnaam
 ### Help
 *   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Semantische mark-up</a>
 *   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Blokelementen en inline-elementen</a> 
+*   <a href="http://htmlandcssbook.com/extras/html-escape-codes/" target="_blank">Escape-tekens</a> 
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%203/Resources/Entiteiten.png">
 *   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Horizontale lijnen</a> 
 *   <a href="http://www.w3schools.com/tags/tag_sup.asp" target="_blank">Superscript</a> 
 ```html
@@ -143,5 +145,3 @@ Bestandsnaam:   bestandsnaam
         O.
     </p>
 ```
-*   <a href="http://htmlandcssbook.com/extras/html-escape-codes/" target="_blank">Escape-tekens</a> 
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%203/Resources/Entiteiten.png">
