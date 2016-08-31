@@ -43,7 +43,7 @@ De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 </tbody></table>
 
 
-Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering en heeft dit invloed op het uiteindelijke resultaat, waardoor het eindcijfer lager uit zal vallen.
+Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering waardoor het eindcijfer lager uit zal vallen.
 
 Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
 
