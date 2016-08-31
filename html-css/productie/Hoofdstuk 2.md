@@ -35,10 +35,10 @@
 *   Structuur
 
 ### Benodigde bestanden
-*   [WebMatrix.exe](http://go.microsoft.com/fwlink/?LinkID=286266)
+*   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   [Forum WebMatrix](http://forums.iis.net/1166.aspx?language=nl-NL)
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
 
 ---
 ## Opdracht 2.3
@@ -59,8 +59,22 @@
 *   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
-
+*   <a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">Structuur </a>
+*   <a href="http://www.w3schools.com/html/html_elements.asp" target="_blank">Elementen en tags </a>
+*   <a href="http://www.w3schools.com/html/html_attributes.asp" target="_blank">Attributen </a>   
+*   <a href="http://www.w3schools.com/tags/tag_doctype.asp" target="_blank">Doctypes </a>  
+*   <a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">Html, Head, Title, Body </a>     
+```html
+<html>
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+    </body>
+</html>  
+```
+*   <a href="http://www.w3schools.com/tags/tag_meta.asp" target="_blank">Meta </a>  
 ---
 ## Opdracht 2.4
 ---
