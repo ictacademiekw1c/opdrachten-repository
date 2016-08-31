@@ -40,7 +40,7 @@ Bestandsnaam:   bestandsnaam
 
 ### Onderwerpen
 *   Structurele mark-up
-*   blokelementen
+*   Blokelementen
 *   Koppen
 *   Alinea's
 *   Witruimte
@@ -74,3 +74,61 @@ Bestandsnaam:   bestandsnaam
         Dit is regel 2
     </p>
 ```
+
+---
+## Opdracht 3.3
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%203/Opdracht%203.3.pdf" target="_blank">Download opdracht 3.3</a>
+
+### Onderwerpen
+*   Structurele mark-up
+*   Blokelementen
+*   Koppen
+*   Alinea's
+*   Witruimte
+*   Regeleinden
+
+### Benodigde bestanden
+*   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+
+---
+## Opdracht 3.4
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%203/Opdracht%203.4.pdf" target="_blank">Download opdracht 3.4</a>
+
+### Onderwerpen
+*   Structurele mark-up
+*   Semantische mark-up
+*   Blokelementen
+*   Inline-elementen
+*   Koppen
+*   Alinea's
+*   Witruimte
+*   Regeleinden
+*   Horizontale lijnen
+*   Superscript en subscript
+*   Escape-tekens
+
+### Benodigde bestanden
+*   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+*   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Semantische mark-up</a>
+*   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Blokelementen en inline-elementen</a> 
+*   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Horizontale lijnen</a> 
+```html
+    <!-- Horizontale lijn -->
+    <hr>
+```
+*   <a href="http://www.w3schools.com/tags/tag_sup.asp" target="_blank">Superscript</a> 
+*   <a href="http://www.w3schools.com/tags/tag_sub.asp" target="_blank">Subscript</a> 
+*   <a href="http://htmlandcssbook.com/extras/html-escape-codes/" target="_blank">Escape-tekens</a> 
+
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%203/Resources/Entiteiten.png.jpg">
