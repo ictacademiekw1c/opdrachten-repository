@@ -123,10 +123,6 @@ Bestandsnaam:   bestandsnaam
 *   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Semantische mark-up</a>
 *   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Blokelementen en inline-elementen</a> 
 *   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Horizontale lijnen</a> 
-```html
-    <!-- Horizontale lijn -->
-    <hr>
-```
 *   <a href="http://www.w3schools.com/tags/tag_sup.asp" target="_blank">Superscript</a> 
 ```html
     <p>
