@@ -99,3 +99,4 @@
 *   
 
 *   <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Syntaxfouten opsporen </a>  
+*   <a href="http://validator.w3.org/check" target="_blank">Online HTML validator </a>  
