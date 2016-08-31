@@ -7,7 +7,7 @@ Bij dit vak leer je om een website te bouwen met behulp van HTML(5) & CSS(3). Te
 Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 
 ## Editor
-Voor de lessen HTML & CSS heb je speciale software nodig, namelijk een [editor](http://en.wikipedia.org/wiki/List_of_HTML_editors). Een editor is een programma waarin je de code voor de website schrijft.
+Voor de lessen HTML & CSS heb je speciale software nodig, namelijk een <a href="https://nl.wikipedia.org/wiki/HTML-editor" target="_blank"> editor</a>. Een editor is een programma waarin je de code voor de website schrijft.
 
 Er zijn veel verschillende editors beschikbaar. Meestal wordt een onderscheid gemaakt tussen tekst- en zogenaamde WYSIWYG- (What You See Is What You Get) editors. Deze laatste editors zijn uitgebreide programma's waarbij je websites door middel van slepen en klikken opbouwt. De onderliggende code wordt dan automatisch door de software gegenereerd.
 
@@ -52,17 +52,16 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
 *	De opdracht is op de opgegeven datum om 18.00 ingeleverd op N@tschool in het portfolio.
 *	De opdracht wordt ingeleverd als een RAR-bestand.
-*	De code is voorzien van een module header. 
 *	De code is overzichtelijk opgebouwd door onder andere gebruik te maken van tabs en enters.
 *   De programmacode bevat geen syntaxfouten.
  
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
- 
+*	De code is voorzien van een module header. 
 *	De code is voorzien van waardevol en voldoende commentaar.
 *	De CSS-code is geschreven in een extern CSS-bestand.
 
 ## Portfolio website
-Aan het einde van periode 1 en 2, ga je aan de slag met maken van een portfoliowebsite.
+Aan het einde van periode 1 en 2 ga je aan de slag met maken van een portfoliowebsite.
 
 Hierin komen de onderwerpen die in de afgelopen periode behandeld zijn samen. In het portfolio ga je laten zien wie je bent en wat je kunt. 
 
