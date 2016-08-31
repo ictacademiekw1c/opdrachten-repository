@@ -53,24 +53,24 @@ Bestandsnaam:   bestandsnaam
 *   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Blokelementen </a> 
 *   <a href="http://www.w3schools.com/html/html_headings.asp" target="_blank">Kopteksten </a> 
 ```html
-<h1>
-    Grootste koptekst
-</h1>
-<h6>
-    Kleinste koptekst
-</h6>
+    <h1>
+        Grootste koptekst
+    </h1>
+    <h6>
+        Kleinste koptekst
+    </h6>
 ```
 *   <a href="http://www.w3schools.com/html/html_paragraphs.asp" target="_blank">Alinea's en witruimtes</a> 
 ```html
-<p>
-    Dit is een paragraaf
-</p>
+    <p>
+        Dit is een paragraaf
+    </p>
 ```
 *   <a href="http://www.w3schools.com/tags/tag_br.asp" target="_blank">Regeleinden</a> 
 ```html
-<p>
-    Dit is regel 1
-    <br>
-    Dit is regel 2
-</p>
+    <p>
+        Dit is regel 1
+        <br>
+        Dit is regel 2
+    </p>
 ```
