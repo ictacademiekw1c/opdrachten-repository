@@ -7,7 +7,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.1.pdf" target="_blank">Download opdracht 2.1</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.1.pdf" target="_blank">Download opdracht 2.1</a>
 
 ### Onderwerpen
 *   Structuur 
@@ -29,7 +29,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.2.pdf" target="_blank">Download opdracht 2.2</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.2.pdf" target="_blank">Download opdracht 2.2</a>
 
 ### Onderwerpen
 *   Structuur
@@ -45,7 +45,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.3.pdf" target="_blank">Download opdracht 2.3</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.3.pdf" target="_blank">Download opdracht 2.3</a>
 
 ### Onderwerpen
 *   Structuur
@@ -82,7 +82,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.4.pdf" target="_blank">Download opdracht 2.4</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.4.pdf" target="_blank">Download opdracht 2.4</a>
 
 ### Onderwerpen
 *   Structuur
