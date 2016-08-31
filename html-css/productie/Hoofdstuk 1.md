@@ -20,7 +20,7 @@
 ### Help
 *   Hoe het web werkt
 <iframe width="420" height="315" src="https://www.youtube.com/embed/cafVVwi1yEI" frameborder="0" allowfullscreen></iframe>
-*   [Functie van HTML en CSS](http://www.w3.org/standards/webdesign/htmlcss)
+*   <a href="http://www.w3.org/standards/webdesign/htmlcss" target="_blank">Functie van HTML en CSS</a>
 
 ---
 ## Opdracht 1.2
@@ -37,7 +37,7 @@
 *   [WebMatrix.exe](http://go.microsoft.com/fwlink/?LinkID=286266)
 
 ### Help
-*   [Forum WebMatrix](http://forums.iis.net/1166.aspx?language=nl-NL)
+*   <a href="http://forums.iis.net/1166.aspx?language=nl-NL" target="_blank">Forum WebMatrix</a>
 
 ---
 ## Opdracht 1.3
