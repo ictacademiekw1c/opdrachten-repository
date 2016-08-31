@@ -65,14 +65,14 @@
 *   <a href="http://www.w3schools.com/tags/tag_doctype.asp" target="_blank">Doctypes </a>  
 *   <a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">Html, Head, Title, Body </a>     
 ```html
-<html>
-    <head>
-        <title>
-        </title>
-    </head>
-    <body>
-    </body>
-</html>  
+    <html>
+        <head>
+            <title>
+            </title>
+        </head>
+        <body>
+        </body>
+    </html>  
 ```
 *   <a href="http://www.w3schools.com/tags/tag_meta.asp" target="_blank">Meta </a>  
 ---
