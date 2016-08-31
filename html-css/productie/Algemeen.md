@@ -67,6 +67,3 @@ Aan het einde van periode 1 en 2, ga je aan de slag met maken van een portfoliow
 Hierin komen de onderwerpen die in de afgelopen periode behandeld zijn samen. In het portfolio ga je laten zien wie je bent en wat je kunt. 
 
 Hierdoor wordt het een uitstekend hulpmiddel om in te zetten tijdens je sollicitatie voor een stage die je in het eerste half jaar van leerjaar 2 gaat lopen. De portfoliowebsite telt mee in de berekening van het eindcijfer voor het vak HTML & CSS. 
-
-
-#### [setSubMenuHeader]Testingsss
