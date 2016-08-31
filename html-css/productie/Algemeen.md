@@ -15,7 +15,7 @@ Er zijn veel verschillende editors beschikbaar. Meestal wordt een onderscheid ge
 Voorbeelden van dit soort editors voor het maken van websites zijn: Adobe Dreamweaver, of Microsoft Expression Web (nieuw). Bij de lessen mag je **geen** gebruik maken van zo'n WYSIWYG-editor. Tijdens deze lessen gaan we gebruik maken van de editor WebMatrix.
 Klik op onderstaande afbeelding om het programma te downloaden.
 
-[<img src="../Afbeeldingen/Logo%20WebMatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
+[<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Algemeen/WebMatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
 
 ## Opleveren opdrachten
 In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben.
