@@ -1,0 +1,82 @@
+#### [kleurcode]#E91E63
+
+# Hoofdstuk 2
+
+---
+## Opdracht 2.1
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.1.pdf" target="_blank">Download opdracht 2.1</a>
+
+### Onderwerpen
+*   Structuur 
+*   Broncode bekijken
+*   Elementen en tags
+*   Doctypes
+
+### Benodigde bestanden
+*   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+*   Hoe het web werkt
+<iframe width="420" height="315" src="https://www.youtube.com/embed/cafVVwi1yEI" frameborder="0" allowfullscreen></iframe>
+*   [Functie van HTML en CSS](http://www.w3.org/standards/webdesign/htmlcss)
+
+---
+## Opdracht 2.2
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.2.pdf" target="_blank">Download opdracht 2.2</a>
+
+### Onderwerpen
+*   Structuur
+
+### Benodigde bestanden
+*   [WebMatrix.exe](http://go.microsoft.com/fwlink/?LinkID=286266)
+
+### Help
+*   [Forum WebMatrix](http://forums.iis.net/1166.aspx?language=nl-NL)
+
+---
+## Opdracht 2.3
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.3.pdf" target="_blank">Download opdracht 2.3</a>
+
+### Onderwerpen
+*   Structuur
+*   Elementen en tags
+*   Attributen
+*   Doctypes
+*   Html, Head, Title, Body
+*   Meta
+
+### Benodigde bestanden
+*   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
+
+### Help
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+
+---
+## Opdracht 2.4
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.4.pdf" target="_blank">Download opdracht 2.4</a>
+
+### Onderwerpen
+*   Structuur
+*   Elementen en tags
+*   Attributen
+*   Doctypes
+*   Html, Head, Title, Body
+*   Meta
+
+### Benodigde bestanden
+*   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
+
+### Help
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
