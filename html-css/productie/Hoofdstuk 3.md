@@ -131,4 +131,4 @@ Bestandsnaam:   bestandsnaam
 *   <a href="http://www.w3schools.com/tags/tag_sub.asp" target="_blank">Subscript</a> 
 *   <a href="http://htmlandcssbook.com/extras/html-escape-codes/" target="_blank">Escape-tekens</a> 
 
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%203/Resources/Entiteiten.png.jpg">
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%203/Resources/Entiteiten.png">
