@@ -1,4 +1,4 @@
-#### [kleurcode]#E91E63
+#### [kleurcode](233,30,99,0.70)
 
 # Hoofdstuk 2
 

@@ -1,4 +1,4 @@
-#### [kleurcode]#F44336
+#### [kleurcode](244,67,54,0.70)
 
 # Hoofdstuk 1
 
