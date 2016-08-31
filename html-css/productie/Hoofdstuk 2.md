@@ -1,4 +1,4 @@
-#### [kleurcode]rgba(233,30,99,0.5)
+#### [kleurcode]rgba(233,30,99,1)
 
 # Hoofdstuk 2
 
