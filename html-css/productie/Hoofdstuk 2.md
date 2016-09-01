@@ -7,7 +7,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.1.pdf" target="_blank">Download opdracht 2.1</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.1.pdf" target="_blank">Download opdracht 2.1</a>
 
 ### Onderwerpen
 *   Structuur 
@@ -29,23 +29,23 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.2.pdf" target="_blank">Download opdracht 2.2</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.2.pdf" target="_blank">Download opdracht 2.2</a>
 
 ### Onderwerpen
 *   Structuur
 
 ### Benodigde bestanden
-*   [WebMatrix.exe](http://go.microsoft.com/fwlink/?LinkID=286266)
+*   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   [Forum WebMatrix](http://forums.iis.net/1166.aspx?language=nl-NL)
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
 
 ---
 ## Opdracht 2.3
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.3.pdf" target="_blank">Download opdracht 2.3</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.3.pdf" target="_blank">Download opdracht 2.3</a>
 
 ### Onderwerpen
 *   Structuur
@@ -59,14 +59,30 @@
 *   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
-
+*   <a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">Structuur </a>
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Resources/Headandbody.jpg">
+*   <a href="http://www.w3schools.com/html/html_elements.asp" target="_blank">Elementen en tags </a>
+*   <a href="http://www.w3schools.com/html/html_attributes.asp" target="_blank">Attributen </a>  
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Resources/Attributen.png"> 
+*   <a href="http://www.w3schools.com/tags/tag_doctype.asp" target="_blank">Doctypes </a>  
+*   <a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">Html, Head, Title, Body </a>     
+```html
+    <html>
+        <head>
+            <title>
+            </title>
+        </head>
+        <body>
+        </body>
+    </html>  
+```
+*   <a href="http://www.w3schools.com/tags/tag_meta.asp" target="_blank">Meta </a>  
 ---
 ## Opdracht 2.4
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.4.pdf" target="_blank">Download opdracht 2.4</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.4.pdf" target="_blank">Download opdracht 2.4</a>
 
 ### Onderwerpen
 *   Structuur
@@ -77,7 +93,8 @@
 *   Meta
 
 ### Benodigde bestanden
-*   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%202/Resources/Opdracht%202.4.rar" target="_blank">Opdracht 2.4.rar</a>
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+*   <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Syntaxfouten opsporen </a>  
+*   <a href="http://validator.w3.org/check" target="_blank">Online HTML validator </a>  
