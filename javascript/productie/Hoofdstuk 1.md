@@ -5,6 +5,7 @@
 ### N@tschool Portfolio inrichten
 
 **Wat is je N@tschool portfolio?**
+
 In je N@tschool portfolio upload je (onder andere) je huiswerkopdrachten. 
 De docenten kunnen deze bestanden inkijken (inclusief de datum van uploaden!) en eventueel dit online nakijken. Zodra je bij de docent langsgaat om het huiswerk te laten nakijken, laat je de spullen zien zoals ze zijn geupload naar je N@tschool portfolio.
 
@@ -23,11 +24,9 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 4. Hernoem de map naar ``Javascript``.
 
 ![Je nieuwe Javascript map binnen je N@tschool portfolio](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-3.png)
-
 5. Maak overige mappen aan. Laat de mappen ``Periode 3`` en ``Periode 4`` leeg.
 
 ![Je nieuwe Javascript map binnen je N@tschool portfolio](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-4.png)
-
 6. Klaar! Kom bij de eerst volgende Javascript les even langs bij de docent om dit te laten zien. Hierna zal deze opdracht afgetekend worden.
 
 ---
@@ -41,7 +40,6 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 1. Ga naar [www.arstechica.com](http://www.arstechnica.com) en ga met je muis over het menuitem 'MAIN MENU'. Klik ook even de zoekbalk rechtsbovenin aan. Onthoud de werking van het hoofdmenu en de zoekbalk.
 
 ![Ars Technica hoofdmenu](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100.png "Ars Technica hoofdmenu")
-
 2. Zet vervolgens je javascript uit in je browser (onderzoek waar deze instelling zich bevindt in je favoriete browser). In Google Chrome kun je deze vinden onder de knop *Instellingen voor inhoud* in het settings scherm.
 ![Hoe je JavaScript uit te zetten?](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100_2.png "Hoe je JavaScript uit te zetten?") 
 
@@ -49,18 +47,18 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 
 4. Analyseer de site met en zonder javascript. Bekijk hem goed voor aanwezige verschillen!
 Noteer in een nieuwe Word bestand (genaamd OPDRACHT110.docx).
-- Wat is er anders aan de site? (Geef minimaal 2 verschillen)
-- Maak screendumps van werkende/niet werkende onderdelen (minimaal 2 screendumps)
+-- Wat is er anders aan de site? (Geef minimaal 2 verschillen)
+-- Maak screendumps van werkende/niet werkende onderdelen (minimaal 2 screendumps)
 
 5. Wat kun je concluderen uit het feit dat je Javascript hebt uitgeschakeld in je browser?
 
 6. Doe hetzelfde voor minimaal 3 van je favoriete websites (deze mag je zelf bepalen).
 Beschrijf per website de volgende dingen in het Word document:
 
-* Adres (url) van de website
-* Minimaal 2 verschillen die je opmerkte nadat je Javascript uitgezet had
-* Kun je de website blijven gebruiken zonder Javascript? (werken alle onderdelen nog)
+-- Adres (url) van de website
+-- Minimaal 2 verschillen die je opmerkte nadat je Javascript uitgezet had
+-- Kun je de website blijven gebruiken zonder Javascript? (werken alle onderdelen nog)
 
 
 
-#### [setSubMenuHeader] Opdrachten
+####[setSubMenuHeader] Opdrachten
