@@ -37,6 +37,8 @@ Volg de volgende stappen:
 `` Opleveren: Plaats het bestand 'HelloDocenten.html' in een rar bestand genaamd "Opdracht221.rar". 
 Upload deze naar je JavaScript map in je portfolio``
 
+>> Opleveren: Plaats het bestand 'HelloDocenten.html' in een rar bestand genaamd "Opdracht221.rar". Upload deze naar je JavaScript map in je portfolio
+
 ### Hello Docenten
 
 1. Download vanuit de Scripts map in N@tschool het bestand ``Week4.zip`` 

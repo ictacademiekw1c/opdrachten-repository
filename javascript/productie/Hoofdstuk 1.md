@@ -46,18 +46,17 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 3. Refresh het venster van www.arstechnica.com en test het hoofdmenu en zoekbalk nogmaals.
 
 4. Analyseer de site met en zonder javascript. Bekijk hem goed voor aanwezige verschillen!
-Noteer in een nieuwe Word bestand (genaamd OPDRACHT110.docx).
--- Wat is er anders aan de site? (Geef minimaal 2 verschillen)
--- Maak screendumps van werkende/niet werkende onderdelen (minimaal 2 screendumps)
+Noteer in een nieuwe Word bestand (genaamd OPDRACHT110.docx)
+	* Wat is er anders aan de site? (Geef minimaal 2 verschillen)
+	* Maak screendumps van werkende/niet werkende onderdelen (minimaal 2 screendumps)
 
 5. Wat kun je concluderen uit het feit dat je Javascript hebt uitgeschakeld in je browser?
 
 6. Doe hetzelfde voor minimaal 3 van je favoriete websites (deze mag je zelf bepalen).
 Beschrijf per website de volgende dingen in het Word document:
-
--- Adres (url) van de website
--- Minimaal 2 verschillen die je opmerkte nadat je Javascript uitgezet had
--- Kun je de website blijven gebruiken zonder Javascript? (werken alle onderdelen nog)
+	* Adres (url) van de website
+	* Minimaal 2 verschillen die je opmerkte nadat je Javascript uitgezet had
+	* Kun je de website blijven gebruiken zonder Javascript? (werken alle onderdelen nog)
 
 
 
