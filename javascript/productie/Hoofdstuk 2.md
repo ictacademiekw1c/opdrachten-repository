@@ -42,9 +42,9 @@ Upload deze naar je JavaScript map in je portfolio``
 1. Download vanuit de Scripts map in N@tschool het bestand ``Week4.zip`` 
 2. Pak deze uit en hernoem ``template.html`` naar ``HelloDocenten.html``
 3. Zorg ervoor dat bij het openen van dit bestand in je browser er de volgende 3 meldingen één voor één getoond worden (gebruik *alert()* meerdere keren)
-* Hallo wereld
-* Hallo docenten!
-* Hallo ICT Academie
+	* Hallo werelddddd
+	* Hallo docenten!
+	* Hallo ICT Academie
 4. Upload dit document via de bovenstaande instructies naar je portfoliomap
 
 ---
