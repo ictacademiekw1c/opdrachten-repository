@@ -49,15 +49,28 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
 *	De opdracht is op tijd ingeleverd op N@tschool in het portfolio.
 *	De opdracht wordt ingeleverd als een rar-bestand.
-*	De code is voorzien van onderstaande intro (module header). 
-*	De code is overzichtelijk opgebouwd door onder andere gebruik te maken van tabs en enters.
- 
+
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
+
+*	Ieder bestand is voorzien van een module header.
+```html
+<!--------------------- MODULE HEADER --------------------
  
-*	De code is voorzien van waardevol en voldoende commentaar.
+Opdracht:       <opdrachtnaam>
+Auteur:         <naam van de maker>
+Aanmaakdatum:   <startdatum + tijd> 
+Bestandsnaam:   <bestandsnaam>
+ 
+----------------------------------------------------------->
+```
+
+*	De programmacode is voorzien van waardevol en voldoende commentaar.
+*	De programmacode is overzichtelijk opgebouwd door onder andere gebruik te maken van tabs en enters.
 *	De CSS-code is geschreven in een extern CSS-bestand.
+*   Het element head bevat minstens het element meta en title.
+*   Het element meta bevat minimaal de attributen description, keywords en charset.
 *   ID's en classes worden benoemd volgens de camelCase methode. Starten met een kleine letter met het eventuele woord dat daar op volgt startend met een hoofdletter.
-*   Lege elementen worden <strong>niet</strong> afgesloten met een "/"-teken. Zie voorbeeld:
+*   Lege elementen worden <strong>niet</strong> afgesloten met een "/"-teken.
 
 ## Portfolio website
 Aan het einde van periode 1 en 2, ga je aan de slag met maken van een portfoliowebsite.
@@ -66,5 +79,17 @@ Hierin komen de onderwerpen die in de afgelopen periode behandeld zijn samen. In
 
 Hierdoor wordt het een uitstekend hulpmiddel om in te zetten tijdens je sollicitatie voor een stage die je in het eerste half jaar van leerjaar 2 gaat lopen. De portfoliowebsite telt mee in de berekening van het eindcijfer voor het vak HTML & CSS. 
 
+## Periodecijfer
+
+Gedurende deze periode behaal je in totaal 3 cijfers.
+* Cijfer A: Huiswerkopdrachten
+* Cijfer B: Portfolio website
+* Cijfer C: Toets
+
+Het periodecijfer wordt bepaald middels onderstaande formule:
+Cijfer 1: (Cijfer A + cijfer B) / 2
+Cijfer 2: Cijfer C
+
+Formule: (Cijfer 1 + (cijfer 2 * 3)) / 4
 
 #### [setSubMenuHeader]Testingsss
