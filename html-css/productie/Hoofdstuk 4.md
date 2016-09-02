@@ -57,4 +57,52 @@ Ingesloten CSS (in de HTML-code)
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Opdracht%204.2.rar" target="_blank">Opdracht 4.2.rar</a>
 
 ### Help
+*   CSS selectoren
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Selectoren1.jpg">
+*   <a href="http://www.w3schools.com/tags/att_global_id.asp" target="_blank">Id attribuut</a>
+*   <a href="http://www.w3schools.com/tags/att_global_class.asp" target="_blank">Class attribuut</a>
+
+---
+## Opdracht 4.3
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Opdracht%204.3.pdf" target="_blank">Download opdracht 4.3</a>
+
+### Onderwerpen
+*   Extern CSS-bestand
+*   CSS selectoren
+*   Id
+*   Class
+*   Span
+
+### Benodigde bestanden
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Opdracht%204.3.rar" target="_blank">Opdracht 4.3.rar</a>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Opdracht%204.3%20-%20Evaluatierapport%20W3schools.docx" target="_blank">Opdracht 4.3 - Evaluatierapport W3schools.docx</a>
+
+### Help
+*   CSS selectoren
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Selectoren2.jpg">
+*   <a href="http://www.w3schools.com/tags/tag_span.asp" target="_blank">Span</a>
+
+---
+## Opdracht 4.4
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Opdracht%204.4.pdf" target="_blank">Download opdracht 4.4</a>
+
+### Onderwerpen
+*   Extern CSS-bestand
+*   CSS selectoren
+*   Id
+*   Class
+*   Span
+
+### Benodigde bestanden
+*   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+*   CSS selectoren
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Selectoren3.jpg">
 *   <a href="http://www.w3schools.com/tags/tag_span.asp" target="_blank">Span</a>
