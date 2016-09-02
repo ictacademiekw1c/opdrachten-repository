@@ -53,6 +53,7 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
 
 *	Ieder bestand is voorzien van een module header.
+
 ```html
 <!--------------------- MODULE HEADER --------------------
  
