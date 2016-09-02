@@ -87,9 +87,9 @@ Gedurende deze periode behaal je in totaal 3 cijfers.
 * Cijfer C: Toets
 
 Het periodecijfer wordt bepaald middels onderstaande formule:
-Cijfer 1: (Cijfer A + cijfer B) / 2
-Cijfer 2: Cijfer C
+* Cijfer 1: (Cijfer A + cijfer B) / 2
+* Cijfer 2: Cijfer C
 
-Formule: (Cijfer 1 + (cijfer 2 * 3)) / 4
+(Cijfer 1 + (cijfer 2 * 3)) / 4
 
 #### [setSubMenuHeader]Testingsss
