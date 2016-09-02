@@ -66,7 +66,7 @@ Gebruik voor ieder van deze gegevens een variabele met de juiste datatype en syn
 
 ### 1.6.2 Opzetten van je programmeercode
 Volg de volgende stappen:
-1. Maak voor je naam (voornaam en achternaam), je leeftijd, je woonplaats, je hobbies, aantal broers en zussen, en je gewenste beroep pf droom een aparte variabele.
+1. Maak voor je naam (voornaam en achternaam), je leeftijd, je woonplaats, je hobbies, aantal broers en zussen, en je gewenste beroep of droom een aparte variabele.
 2. Geef iedere variabele de juiste waarde.
 3. Schrijf nu je introductietekst en gebruik daarin op de juiste plek de goeie variabele.
 4. print de introductietekst met een echo commando. Gebruik &lt;br&gt;
