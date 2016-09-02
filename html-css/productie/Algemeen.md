@@ -1,8 +1,7 @@
 # Algemene informatie
 
 ## Doelstelling
-Het doel van deze studieroute is studenten te leren websites te maken met behulp van HTML5 en CSS3. 
-Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicatieontwikkeling inhoudt. Na afloop moet de leerling in staat zijn om een gefundeerde keuze te maken voor de opleiding Applicatieontwikkelaar (of ICT-beheerder/Netwerkbeheerder).
+Bij dit vak leer je om een website te bouwen met behulp van HTML(5) & CSS(3). Tegenwoordig zijn er allerlei softwarepakketten waarmee je door slepen en klikken een website kunt maken. Het is echter belangrijk om de onderliggende techniek te begrijpen. Vandaar dat we bij dit vak terug gaan naar de basis en door middel van coderen de website opbouwen. 
 
 ## Voorkennis
 Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
@@ -18,9 +17,7 @@ Klik op onderstaande afbeelding om het programma te downloaden.
 [<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Algemeen/WebMatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
 
 ## Opleveren opdrachten
-In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben.
-
-De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
+In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
 <table><thead>
 <tr>
@@ -46,7 +43,6 @@ De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering waardoor het eindcijfer lager uit zal vallen.
 
 Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
-
 
 ## Algemene beoordelingscriteria
 
