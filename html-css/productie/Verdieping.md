@@ -3,7 +3,7 @@
 Deze reader is bedoeld voor diegenen die in overleg met de docent de instructies niet hoeven te volgen. LET OP: Je dient wel ALLE opdrachten te maken! De reader is geen lesmateriaal, maar kan gebruikt worden om zelfstandig te doorlopen.
 
 ---
-## Html5 Canvas / SVG-animaties (i.c.m. JavaScript)
+## HTML5 Canvas / SVG-animaties (i.c.m. JavaScript)
 ---
 
 ### Download
