@@ -1,3 +1,5 @@
+#### [kleurcode]rgba(233,30,99,1)
+
 # Hoofdstuk 2 - Nog over meer variabelen
 
 ## 2.1 Strings koppelen
