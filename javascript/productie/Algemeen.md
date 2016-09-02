@@ -18,18 +18,20 @@ Klik op onderstaande afbeelding om WebMatrix te downloaden.
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten
 
-|Hoofdstuk           | Inleverdatum  |
-|--------------------|---------------|
-|Hoofdstuk 1 | Nog te bepalen|
-|Hoofdtuk 2| Nog te bepalen |
-|Hoofdtuk 3| Nog te bepalen |
-|Hoofdtuk 4| Nog te bepalen |
-|Hoofdtuk 5| Nog te bepalen |
-|Hoofdtuk 6| Nog te bepalen |
-|Hoofdtuk 7| Nog te bepalen |
+|Opdracht              | Deadline       |
+|--------------------  |--------------- |
+| Opdrachten 100 + 110 | 9 september    |
+| Opdrachten 200 + 201 | 16 september   |
+| Opdrachten 220 +     |  23 september  |
 
 ## Opleveren opdrachten
-In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben.
+1. Je dient al je huisopdrachten in de Javascript map van je N@tschool portfolio te plaatsen
+2. Daarna laat je de opdracht uit je N@tschool aan de docent zien 
+
+Per opdracht staat er in deze opdrachtenportaal in rood vermeldt hoe de bestandsnaam moet zijn
+
+**Voorbeeld:**
+``Opleveren: Plaats het Word document met de naam `Opdracht201.docx` in de map 'Hoofdstuk 2' van je Javascript portfoliomap``
 
 De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 

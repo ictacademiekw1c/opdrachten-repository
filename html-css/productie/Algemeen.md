@@ -1,7 +1,7 @@
 # Algemene informatie
 
 ## Doelstelling
-Het doel van deze studieroute is studenten te leren websites te maken met behulp van (X)HTML, CSS en JavaScript. 
+Het doel van deze studieroute is studenten te leren websites te maken met behulp van HTML5 en CSS3. 
 Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicatieontwikkeling inhoudt. Na afloop moet de leerling in staat zijn om een gefundeerde keuze te maken voor de opleiding Applicatieontwikkelaar (of ICT-beheerder/Netwerkbeheerder).
 
 ## Voorkennis
@@ -15,8 +15,7 @@ Er zijn veel verschillende editors beschikbaar. Meestal wordt een onderscheid ge
 Voorbeelden van dit soort editors voor het maken van websites zijn: Adobe Dreamweaver, of Microsoft Expression Web (nieuw). Bij de lessen mag je **geen** gebruik maken van zo'n WYSIWYG-editor. Tijdens deze lessen gaan we gebruik maken van de editor WebMatrix.
 Klik op onderstaande afbeelding om het programma te downloaden.
 
-
-[<img src="https://raw.githubusercontent.com/ictacademiekw1c/tijdelijke-test-repository/master/Afbeeldingen/download_webmatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
+[<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Algemeen/WebMatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
 
 ## Opleveren opdrachten
 In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben.
@@ -44,7 +43,7 @@ De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 </tbody></table>
 
 
-Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering en heeft dit invloed op het uiteindelijke resultaat, waardoor het eindcijfer lager uit zal vallen.
+Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering waardoor het eindcijfer lager uit zal vallen.
 
 Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
 
@@ -61,6 +60,8 @@ Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscri
  
 *	De code is voorzien van waardevol en voldoende commentaar.
 *	De CSS-code is geschreven in een extern CSS-bestand.
+*   ID's en classes worden benoemd volgens de camelCase methode. Starten met een kleine letter met het eventuele woord dat daar op volgt startend met een hoofdletter.
+*   Lege elementen worden <strong>niet</strong> afgesloten met een "/"-teken. Zie voorbeeld:
 
 ## Portfolio website
 Aan het einde van periode 1 en 2, ga je aan de slag met maken van een portfoliowebsite.
