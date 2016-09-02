@@ -24,10 +24,29 @@ Volg de volgende stappen:
 
 ### WebMatrix extensies
 
-1. Installeer de volgende 2 extensions binnen WebMatrix:
+1. Installeer de volgende 2 extensions binnen WebMatrix (via de Extensions knop):
 [Github Extension en Git for WebMatrix](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht201-1.png)
 2. Maak een screenshot van je "Installed extensions" scherm (als bewijs van installatie)
 3. Plak de screenshot in een Word document genaamd `Opdracht201.docx`
+4. Upload dit document via de bovenstaande instructies naar je portfoliomap
+
+---
+
+## Opdracht 221 Hello Docenten
+
+`` Opleveren: Plaats het bestand 'HelloDocenten.html' in een rar bestand genaamd "Opdracht221.rar". 
+Upload deze naar je JavaScript map in je portfolio``
+
+>> Opleveren: Plaats het bestand 'HelloDocenten.html' in een rar bestand genaamd "Opdracht221.rar". Upload deze naar je JavaScript map in je portfolio
+
+### Hello Docenten
+
+1. Download vanuit de Scripts map in N@tschool het bestand ``Week4.zip`` 
+2. Pak deze uit en hernoem ``template.html`` naar ``HelloDocenten.html``
+3. Zorg ervoor dat bij het openen van dit bestand in je browser er de volgende 3 meldingen één voor één getoond worden (gebruik *alert()* meerdere keren)
+	* Hallo werelddddd
+	* Hallo docenten!
+	* Hallo ICT Academie
 4. Upload dit document via de bovenstaande instructies naar je portfoliomap
 
 ---
@@ -59,4 +78,4 @@ Open de bestanden in je browser (wij raden Firefox aan). Open de inspector (F12 
 
 Alle bestanden gedaan? Upload "OPDRACHT200.rar" in je portfolio
 
-#### [setSubMenuHeader] Opdrachten
+####[setSubMenuHeader] Opdrachten
