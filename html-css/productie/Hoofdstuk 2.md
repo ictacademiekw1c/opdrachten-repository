@@ -1,4 +1,6 @@
-# Verdieping
+#### [kleurcode]rgba(233,30,99,1)
+
+# Hoofdstuk 2
 
 ---
 ## Opdracht 2.1
