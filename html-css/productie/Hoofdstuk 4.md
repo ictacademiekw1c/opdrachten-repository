@@ -19,7 +19,6 @@
 
 ### Help
 *   <a href="http://www.w3schools.com/css/css_howto.asp" target="_blank">Verschillende manieren (in de HTML-code)</a>
-
 *   Ingesloten CSS (in de HTML-code)
 
 ```html
