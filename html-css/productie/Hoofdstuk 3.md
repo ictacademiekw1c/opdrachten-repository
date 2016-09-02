@@ -137,7 +137,7 @@ Bestandsnaam:   bestandsnaam
 ```
 *   <a href="http://www.w3schools.com/tags/tag_sub.asp" target="_blank">Subscript</a> 
 ```html
-        <p>
+    <p>
         De scheikundige benaming voor water is H
         <sub>
             2
