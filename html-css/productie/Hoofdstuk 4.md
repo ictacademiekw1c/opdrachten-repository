@@ -104,3 +104,4 @@
 ### Help
 *   CSS selectoren
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Selectoren3.jpg">
+*   <a href="http://www.w3schools.com/cssref/trysel.asp" target="_blank">CSS selector tester</a>
