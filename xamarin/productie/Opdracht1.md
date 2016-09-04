@@ -27,6 +27,10 @@ Je hebt in de Android SDK onder de folder extras: Android Support Repository en 
 ## Opdrachtomschrijving
 
 
+## Visuele weergave
+
+![Hello world opdracht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/helloworld.jpg?raw=true)
+
 ## Beoordelingscriteria
 
 
