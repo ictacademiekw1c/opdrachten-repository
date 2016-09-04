@@ -33,4 +33,7 @@ Je hebt in de Android SDK onder de folder extras: Android Support Repository en 
 
 ## Beoordelingscriteria
 
+- Je App draait foutloos op een Lollipop emulator device of op je eigen android device
+- Je hebt een nieuwe (cross-platform) project gestart, Blank App, Xamarin.Forms (Portable)
+- Je hebt de tekst en kleur aangepast volgens de visuele weergave
 
