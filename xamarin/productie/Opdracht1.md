@@ -4,7 +4,9 @@
 
 ## Voorbereiding
 
-Je hebt alle software geinstalleerd (Visual Studio 2015, Android SDK, Xamarin, Visual Studio Android Player evt Hyper-V)
+Je hebt alle software geinstalleerd (Visual Studio 2015, Android SDK, Xamarin, Visual Studio Android Player). Zie [video](https://developer.xamarin.com/videos/?v=Installing_Xamarin_on_Windows).
+
+Je hebt [hyper-V](https://msdn.microsoft.com/nl-nl/virtualization/hyperv_on_windows/quick_start/walkthrough_install) in windows 10 aangezet.
 
 Je hebt in de NuGet packetmanager in visual studio Xamarin.forms geinstalleerd.
 
