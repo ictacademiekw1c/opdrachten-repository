@@ -26,7 +26,8 @@ Je hebt in de Android SDK onder de folder extras: Android Support Repository en 
 
 ## Opdrachtomschrijving
 
-
+Bouw je hello world Android App volgens onderstaande visuele weergave
+ 
 ## Visuele weergave
 
 ![Hello world opdracht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/helloworld.jpg?raw=true)
