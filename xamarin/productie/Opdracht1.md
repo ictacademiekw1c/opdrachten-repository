@@ -8,11 +8,15 @@ Je hebt alle software geinstalleerd (Visual Studio 2015, Android SDK, Xamarin, V
 
 Je hebt in de NuGet packetmanager in visual studio Xamarin.forms geinstalleerd.
 
+![NuGet package Xamarin.Forms](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/xamforms.jpg?raw=true)
+
 Je hebt in Visual Studio Android Player een (mobiele) device aangemaakt die minimaal de Android versie Lollipop (welk versienummer en/of API level is dat ?) heeft.
 
 ![visual studio android player](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/vsplayer.jpg?raw=true)
 
 Je hebt in de Android SDK alle software voor de versie lollipop bijgewerkt en geinstalleerd.
+
+![Android SDK](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/androidsdk.jpg?raw=true)
 
 Je hebt in de Android SDK onder de folder tools alle software geinstallleerd.
 
