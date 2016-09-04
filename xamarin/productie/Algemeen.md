@@ -10,6 +10,7 @@ De opdrachten zijn voorbereidend aan het Xamarin project die in periode 10 is ge
 
 De beoordeling van de opdrachten en het project wordt nog bekend gemaakt.
 
+## En verder ook nog..
 Ook zullen er nog onderwerpen aangesneden worden die in leerjaar 2 zijn behandeld en onderdeel zouden kunnen zijn van het examen. Dit zijn de onderwerpen:
 
 - Beschrijven van werkprocessen (procedures) met behulp van flowcharts.
