@@ -53,17 +53,6 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
 
 *	Ieder bestand is voorzien van een module header.
-```html
-<!--------------------- MODULE HEADER --------------------
- 
-Opdracht:       <opdrachtnaam>
-Auteur:         <naam van de maker>
-Aanmaakdatum:   <startdatum + tijd> 
-Bestandsnaam:   <bestandsnaam>
- 
------------------------------------------------------------>
-```
-
 *	De programmacode is voorzien van waardevol en voldoende commentaar.
 *	De programmacode is overzichtelijk opgebouwd door onder andere gebruik te maken van tabs en enters.
 *	De CSS-code is geschreven in een extern CSS-bestand.
@@ -87,9 +76,9 @@ Gedurende deze periode behaal je in totaal 3 cijfers.
 * Cijfer C: Toets
 
 Het periodecijfer wordt bepaald middels onderstaande formule:
-Cijfer 1: (Cijfer A + cijfer B) / 2
-Cijfer 2: Cijfer C
+* Cijfer 1: (Cijfer A + cijfer B) / 2
+* Cijfer 2: Cijfer C
 
-Formule: (Cijfer 1 + (cijfer 2 * 3)) / 4
+Periodecijfer = (Cijfer 1 + (cijfer 2 * 3)) / 4
 
 #### [setSubMenuHeader]Testingsss
