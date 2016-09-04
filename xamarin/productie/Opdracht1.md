@@ -10,7 +10,7 @@ Je hebt in de NuGet packetmanager in visual studio Xamarin.forms geinstalleerd.
 
 Je hebt in Visual Studio Android Player een (mobiele) device aangemaakt die minimaal de Android versie Lollipop (welk versienummer en/of API level is dat ?) heeft.
 
-![visual studio android player](../images/vsplayer.jpg)
+![visual studio android player](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/vsplayer.jpg?raw=true)
 
 Je hebt in de Android SDK alle software voor de versie lollipop bijgewerkt en geinstalleerd.
 
