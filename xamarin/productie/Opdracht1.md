@@ -16,6 +16,9 @@ Je hebt in Visual Studio Android Player een (mobiele) device aangemaakt die mini
 
 ![visual studio android player](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/vsplayer.jpg?raw=true)
 
+Als alternatief voor de visual studio player is [Xamarin Android player](https://developer.xamarin.com/releases/android/android-player/).
+Natuurlijk kun je je Android App ook installeren en testen op je eigen android telefoon.
+
 Je hebt in de Android SDK alle software voor de versie lollipop bijgewerkt en geinstalleerd.
 
 ![Android SDK](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/androidsdk.jpg?raw=true)
