@@ -22,7 +22,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten
 |--------------------  |--------------- |
 | Opdrachten 100 + 110 | 9 september    |
 | Opdrachten 200 + 201 | 16 september   |
-| Opdrachten 220 +     |  23 september  |
+| Opdrachten 221 + 222 + 230 |  23 september  |
 
 ## Opleveren opdrachten
 1. Je dient al je huisopdrachten in de Javascript map van je N@tschool portfolio te plaatsen

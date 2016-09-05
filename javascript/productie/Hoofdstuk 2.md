@@ -62,7 +62,7 @@ Upload deze naar je JavaScript map in je portfolio``
 
 ---
 
-## Opdracht 220 Code testen en debuggen
+## Opdracht 230 Code testen en debuggen
  
 ``Opleveren: Plaats de gecorrigeerde bestanden een rar met naam OPDRACHT200.rar en upload het in je portfolio.``
 
