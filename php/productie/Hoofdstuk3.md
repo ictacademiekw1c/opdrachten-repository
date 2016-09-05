@@ -1,3 +1,5 @@
+#### [kleurcode]rgba(156,39,176,1)
+
 # Hoofdstuk 3 - Stringfuncties
 
 ## 3.1 Wat ga je leren?

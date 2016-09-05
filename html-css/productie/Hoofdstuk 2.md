@@ -13,6 +13,7 @@
 *   Structuur 
 *   Broncode bekijken
 *   Elementen en tags
+*   Attributen
 *   Doctypes
 
 ### Benodigde bestanden
@@ -22,6 +23,7 @@
 *   <a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">Structuur </a>
 *   Om de broncode van een webpagina op te vragen kun je bij de meeste browsers op F12 drukken.
 *   <a href="http://www.w3schools.com/html/html_elements.asp" target="_blank">Elementen en tags </a>   
+*   <a href="http://www.w3schools.com/html/html_attributes.asp" target="_blank">Attributen </a>  
 *   <a href="http://www.w3schools.com/tags/tag_doctype.asp" target="_blank">Doctypes </a>  
 
 ---
