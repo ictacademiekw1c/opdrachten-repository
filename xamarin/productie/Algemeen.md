@@ -17,6 +17,7 @@ Ook zullen er nog onderwerpen aangesneden worden die in leerjaar 2 zijn behandel
 - Uitvoeren en rapporteren c.q. documenteren van een applicatie test  .
 - Digitaal archief: het creeren van digitale van rapportages m.b.v. Crystal Reports in Visual Studio
 - Kostenberekening en het fenomeen prijselasticiteit
+- Een tweetal C# windows forms opdrachten
 
 
 
