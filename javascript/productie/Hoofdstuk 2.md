@@ -37,20 +37,30 @@ Volg de volgende stappen:
 `` Opleveren: Plaats het bestand 'HelloDocenten.html' in een rar bestand genaamd "Opdracht221.rar". 
 Upload deze naar je JavaScript map in je portfolio``
 
->> Opleveren: Plaats het bestand 'HelloDocenten.html' in een rar bestand genaamd "Opdracht221.rar". Upload deze naar je JavaScript map in je portfolio
-
 ### Hello Docenten
 
 1. Download vanuit de Scripts map in N@tschool het bestand ``Week4.zip`` 
 2. Pak deze uit en hernoem ``template.html`` naar ``HelloDocenten.html``
 3. Zorg ervoor dat bij het openen van dit bestand in je browser er de volgende 3 meldingen één voor één getoond worden (gebruik *alert()* meerdere keren)
-	* Hallo werelddddd
+	* Hallo wereld
 	* Hallo docenten!
 	* Hallo ICT Academie
 4. Upload dit document via de bovenstaande instructies naar je portfoliomap
 
+>> In deze opdracht wordt enige zelf inventiviteit verwacht. Mocht je met deze opdracht er niet uitkomen, vraag een mede leerling of de docent!
+
 ---
 
+## Opdracht 222 Externe JavaScript bestanden
+
+`` Opleveren: Plaats de bestanden in een rar bestand genaamd "Opdracht222.rar". 
+Upload deze naar je JavaScript map in je portfolio``
+
+### Externe JavaScript bestanden
+
+1. Download vanuit de Scripts map in N@tschool het bestand ``Week4-deel2.zip``
+
+---
 
 ## Opdracht 220 Code testen en debuggen
  
