@@ -12,15 +12,15 @@
 ### 0.1.1 Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten
 
-|Hoofdstuk           | Opdracht(en)| Inleverdatum  |
-|--------------------|-------------|-------|
-|Hoofdstuk 0 | Opdracht00 |Voor de 2deles |
-|Hoofdtuk 1| Opdracht 10| ?? |
-|Hoofdtuk 2| Opdracht 20, 21 | ?? |
-|Hoofdtuk 3|  | ?? |
-|Hoofdtuk 4|  | ?? |
-|Hoofdtuk 5|  | ?? |
-|Hoofdtuk 6|  | ?? |
+|Hoofdstuk           | Opdracht(en)|
+|--------------------|-------------|
+|Hoofdstuk 0 | Opdracht00 | 
+|Hoofdtuk 1| Opdracht 10  |  
+|Hoofdtuk 2| Opdracht 20  | 
+|Hoofdtuk 3|  | 
+|Hoofdtuk 4|  | 
+|Hoofdtuk 5|  |
+|Hoofdtuk 6|  | 
 
 ### 0.1.2 Opleveren opdrachten
 In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben.
