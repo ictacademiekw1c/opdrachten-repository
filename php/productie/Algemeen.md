@@ -105,4 +105,18 @@ Je hebt opdracht 0 af wanneer je de volgende dingen hebt gedaan:
 * Als de docent het heeft gezien en vind dat je je aan de opdracht hebt gehouden wordt de opdracht voor je afgetekend.
 
 
+## 0.5 Debuggen en foutmeldingen
+
+> Als er nog syntax-fouten in je PHP code zitten zal bij het runnen van je code een lege witte pagina worden getoond. Als je de php foutmelding wilt zien zodat je sneller je syntax kan herstellen, doe dan het volgende:
+
+> Ga naar:
+C:\Program Files\IIS Express\PHP\v5.3
+> Het laatste onderdeel van de directory is afhankelijk van de PHP versie die in de IIS express is geïnstalleerd. Controleer dit in je site settings in webmatrix.
+> Hernoem php.ini naar php.ini-backup en hernoem php.ini-development naar php.ini 
+
+Als je bijvoorbeeld een ; aan het eind van een statement vergeet zie je nu bijvoorbeeld het volgende:
+
+> **Parse error: syntax error, unexpected T_PRINT in C:\Users\Administrator\Documents\My Web Sites\phpsemester2\hoofdstuk1\opdracht0010.php on line 20**
+
+
 #### [setSubMenuHeader]
