@@ -13,6 +13,19 @@ Er zijn een aantal standaard php functies die handig zijn bij string variabelen.
 ## 3.3 Voorbeelden en uitleg
 
 ~~~php
+
+$mijnnaam = "Abu Saebu";
+$collega = "Ron Spierings";
+
+echo strlen($mijnnaam);
+echo "<br>";
+echo strlen($collega);
+
+echo strlen($mijnnaam) + strlen($collega);
+
+//bovenstaande code kan ook met extra variabelen
+
+
 ~~~
 
 ---
