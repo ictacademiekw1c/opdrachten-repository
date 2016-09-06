@@ -2,7 +2,7 @@
 
 # Hoofdstuk 3 - Stringfuncties
 
-## 3.1 Wat ga je leren?
+## Wat ga je leren?
 Er zijn een aantal standaard php functies die handig zijn bij string variabelen.
 - strlen()
 - trim()
@@ -10,34 +10,87 @@ Er zijn een aantal standaard php functies die handig zijn bij string variabelen.
 - strtoupper()
 - str_replace()
 
-## 3.3 Voorbeelden en uitleg
-
+## Voorbeeld van strlen() //bepaal de lengte van een string
 ~~~php
 
-$mijnnaam = "Abu Saebu";
-$collega = "Ron Spierings";
+$mijnnaam = "Saebu";
+$collega  = "Spierings";
+$collega2 = "de Reus";
+$collega3 = "Gijsbrechts"
 
 echo strlen($mijnnaam);
 echo "<br>";
 echo strlen($collega);
-
+echo "<br>";
 echo strlen($mijnnaam) + strlen($collega);
 
 //bovenstaande code kan ook met extra variabelen
+~~~
 
+## Voorbeeld van trim() //alle alle spaties uit een string
+~~~php
+
+$sAchter = "spaties      ";
+$sVoor = "               weghalen.";
+
+$sAchter = trim($sAchter);
+echo $sAchter. trim($sVoor);
 
 ~~~
 
 ---
-## 3.4 Opdracht 30 spelen met strings
+## Voorbeeld van strtolower() en strtoupper() en ucfirst() //omzetten van kleine letters naar grote en omgekeerd
+~~~php
 
-### 3.4.1 Omschrijving
-Vul hier een omschrijving van de opdracht in.
+//voorbeeld 1
+$sLuidkeels = "Ik houd niet van GESCHREEUW";
+echo strtolower($sLuidkeels);
 
-### 3.4.2 Visuele weergave
+//voorbeeld 2
+$sLuidkeels = "Ik houd niet van GESCHREEUW";
+$sZachtjes = strtolower($sLuidkeels);
+$sNetjes = ucfirst($sZachtjes);
+echo $sNetjes;
 
-### 3.4.3 Programmastructuur
+//voorbeeld 3
+$sLuidkeels = "Ik houd niet van GESCHREEUW";
+echo ucfirst( strtolower( $sLuidkeels ) );
 
-### 3.4.4 Beoordelingscriteria
+~~~
+
+## Voorbeeld van str_replace() //vervangen van stukken tekst met andere tekst
+
+~~~php
+
+$sLuidkeels = "Ik houd niet van GESCHREEUW.";
+
+//vervang niet in de zin door wel
+$sLuidkeels = str_replace("niet", "wel", $sLuidkeels);
+
+echo $sLuidkeels;
+
+~~~
+
+---
+
+## Opdracht30 spelen met strings
+### Opdrachtomschrijving opdracht30
+
+Declareer 10 variabelen voor 10 medeleerlingen uit je klas en initialiseer ze op de juiste waarde.
+
+Bepaal met strlen() wat de lengte van iedere string is van iedere variabele en toon de namen van je medeleerlingen
+in volgorde van lengte. 
+
+### 3.4.2 Visuele weergave 
+//Uitwerking met bovenstaande variabelen
+> Saebu (lengte 5)
+> de Reus (lengte 7)
+> Spierings (lengte 9)
+> Gijsbrechts (lengte 11) 
+
+### 3.4.3 Beoordelingscriteria
+1. Sla dit script op als opdracht30.php in de map Hoofdstuk3
+2. Het script levert geen fouten of waarschuwingen op in de browser
+
 
 ---
