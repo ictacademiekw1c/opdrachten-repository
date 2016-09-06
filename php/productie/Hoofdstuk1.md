@@ -89,7 +89,7 @@ Volg de volgende stappen:
 1. Het script levert geen fouten of waarschuwingen op in de browser
 2. De visuele weergave is een duidelijke en correcte tekst.
 3. Alle informatie wordt via een variabele met de goeie waarde en datatype weergegeven.
-4. Sla het script op als opdracht01.php, pak het in als rar en upload het naar je portfolio.
+4. Sla het script op als opdracht10.php, pak het in als rar en upload het naar je portfolio.
 
 
 
