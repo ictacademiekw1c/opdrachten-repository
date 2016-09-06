@@ -10,8 +10,9 @@ Er zijn een aantal standaard php functies die handig zijn bij string variabelen.
 - strtoupper()
 - str_replace()
 
-## Voorbeeld van strlen() //bepaal de lengte van een string
+## Voorbeeld van strlen() 
 ~~~php
+//bepaal de lengte van een string
 
 $mijnnaam = "Saebu";
 $collega  = "Spierings";
@@ -26,8 +27,9 @@ echo strlen($mijnnaam) + strlen($collega);
 
 ~~~
 
-## Voorbeeld van trim() //alle alle spaties uit een string
+## Voorbeeld van trim() 
 ~~~php
+//alle alle spaties uit een string
 
 $sAchter = "spaties      ";
 $sVoor = "               weghalen.";
@@ -38,8 +40,9 @@ echo $sAchter. trim($sVoor);
 ~~~
 
 ---
-## Voorbeeld van strtolower() en strtoupper() en ucfirst() //omzetten van kleine letters naar grote en omgekeerd
+## Voorbeeld van strtolower(), strtoupper() en ucfirst()
 ~~~php
+//omzetten van kleine letters naar grote en omgekeerd
 
 //voorbeeld 1
 $sLuidkeels = "Ik houd niet van GESCHREEUW";
@@ -57,10 +60,10 @@ echo ucfirst( strtolower( $sLuidkeels ) );
 
 ~~~
 
-## Voorbeeld van str_replace() //vervangen van stukken tekst met andere tekst
+## Voorbeeld van str_replace() 
 
 ~~~php
-
+//vervangen van stukken tekst met andere tekst
 $sLuidkeels = "Ik houd niet van GESCHREEUW.";
 
 //vervang niet in de zin door wel
