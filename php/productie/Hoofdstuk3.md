@@ -24,7 +24,6 @@ echo strlen($collega);
 echo "<br>";
 echo strlen($mijnnaam) + strlen($collega);
 
-//bovenstaande code kan ook met extra variabelen
 ~~~
 
 ## Voorbeeld van trim() //alle alle spaties uit een string
@@ -83,9 +82,9 @@ in volgorde van lengte.
 
 ### 3.4.2 Visuele weergave 
 //Uitwerking met bovenstaande variabelen
-> Saebu (lengte 5)
-> de Reus (lengte 7)
-> Spierings (lengte 9)
+> Saebu (lengte 5)<br>
+> de Reus (lengte 7)<br>
+> Spierings (lengte 9)<br>
 > Gijsbrechts (lengte 11) 
 
 ### 3.4.3 Beoordelingscriteria
