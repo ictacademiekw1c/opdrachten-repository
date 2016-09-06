@@ -58,7 +58,12 @@ Upload deze naar je JavaScript map in je portfolio``
 
 ### Externe JavaScript bestanden
 
-1. Download vanuit de Scripts map in N@tschool het bestand ``Week4-deel2.zip``
+1. Download vanuit de Scripts map in N@tschool het bestand ``Week4.rar``.
+2. Zorg ervoor dat in het HTML bestand 2 externe JavaScript bestanden (noem deze ``script1.js`` en `` script2.js``) geladen worden.
+3. Plaats in beide externe JavaScript bestanden een *alert()* melding. Bedenk zelf hiervoor 2 leuke meldingen voor de docent.
+4. Check of je ook daadwerkelijk je 2 keer de *alert()* melding te zien krijgt.
+5. Upload dit document via de bovenstaande instructies naar je portfoliomap.
+
 
 ---
 

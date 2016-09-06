@@ -22,8 +22,8 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 3. Klik met rechts op ``Leeractiviteiten`` en klik op ``Nieuw`` en ``Map``.
 
 4. Hernoem de map naar ``Javascript``.
-
 ![Je nieuwe Javascript map binnen je N@tschool portfolio](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-3.png)
+
 5. Maak overige mappen aan. Laat de mappen ``Periode 3`` en ``Periode 4`` leeg.
 
 ![Je nieuwe Javascript map binnen je N@tschool portfolio](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht100-4.png)
@@ -37,7 +37,7 @@ Het is daarom belangrijk dat je jouw portfolio netjes geordend houdt. Tijdens de
 
 ``Opleveren: Werk de opdracht uit in een Word bestand en upload het document in je portfolio voor Javascript onder de map 'Hoofdstuk 1' met de naam OPDRACHT110.docx``
 
-1. Ga naar [www.arstechica.com](http://www.arstechnica.com) en ga met je muis over het menuitem 'MAIN MENU'. Klik ook even de zoekbalk rechtsbovenin aan. Onthoud de werking van het hoofdmenu en de zoekbalk.
+1. Ga naar <a href="http://www.arstechnica.com" target="_blank">www.arstechnica.com</a> en ga met je muis over het menuitem 'MAIN MENU'. Klik ook even de zoekbalk rechtsbovenin aan. Onthoud de werking van het hoofdmenu en de zoekbalk.
 
 ![Ars Technica hoofdmenu](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/opdracht100.png "Ars Technica hoofdmenu")
 2. Zet vervolgens je javascript uit in je browser (onderzoek waar deze instelling zich bevindt in je favoriete browser). In Google Chrome kun je deze vinden onder de knop *Instellingen voor inhoud* in het settings scherm.
