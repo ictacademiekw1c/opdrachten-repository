@@ -10,6 +10,11 @@ De opdrachten zijn voorbereidend aan het Xamarin project die in periode 10 is ge
 
 De beoordeling van de opdrachten en het project wordt nog bekend gemaakt.
 
+
+## Naslag Xamarin.Forms
+
+Een recent boekwerk over [Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) is hier gratis te downloaden. 
+
 ## En verder ook nog..
 Ook zullen er nog onderwerpen aangesneden worden die in leerjaar 2 zijn behandeld en onderdeel zouden kunnen zijn van het examen. Dit zijn de onderwerpen:
 
