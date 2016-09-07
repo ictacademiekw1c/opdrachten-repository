@@ -96,3 +96,29 @@ in volgorde van lengte.
 
 
 ---
+---
+
+## Opdracht31 spelen met strings
+### Opdrachtomschrijving opdracht31
+
+Gebruik voor deze opdracht je introductietekst uit opdracht 20.
+
+Gebruik een of meerdere functies van hierboven om:
+
+1. Zet alle tekstdelen die in je variabelen zitten (bijvoorbeeld $naam) om naar hoofdletters.
+2. Maak gebruik van str_replace() om je tekst naar de 3de persoonsvorm te zetten. (Van de ik vorm naar de hij vorm).
+3. Bepaal van iedere zin variabele de lengte en zet onder de tekst de volledige lengte van de gehele tekst.
+
+### 3.4.2 Visuele weergave 
+
+Voorbeeld met mijn eigen tekst:
+> Hij is ABU SAEBU. Hij woont bijna zijn hele leven in 'S-HERTOGENBOSCH. Hij heeft op school gezeten op het SINT JANSLYCEUM op de Sweelinckplein in DEN BOSCH. Hij is 52 jaar, hij is GETROUWD en hij heeft 2 kinderen. Zijn hobbies zijn GITAAR SPELEN, PIANO SPELEN, MUZIEK LUISTEREN en PROGRAMMEREN. Hij is DOCENT APPLICATIEONTWIKKELING en hij geeft de vakken PHP, HTML/CSS, JAVASCRIPT, DATABASE/SQL, C#, ANDROID APPS, BEHEER en BEDRIJFSKUNDE.
+Deze zin bevat 370 tekens.
+
+
+### 3.4.3 Beoordelingscriteria
+1. Sla dit script op als opdracht31.php in de map Hoofdstuk3
+2. Het script levert geen fouten of waarschuwingen op in de browser
+3. Je tekst bevat minimaal 5 complete zinnen.
+
+---
