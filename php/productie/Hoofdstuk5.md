@@ -1,11 +1,14 @@
-# Hoofdstuk 5 - Get en post
+# Hoofdstuk 5 - Get parameters
 
 ## 5.1 Wat ga je leren ?
+
+Hoe geeft PHP gegevens door en/of konsekwenties van server side scripting.
 
 ## 5.2 Voorbeeld en uitleg 5.1 
 
 ~~~php
 
+echo $_GET['naam'];
 
 ~~~
 
