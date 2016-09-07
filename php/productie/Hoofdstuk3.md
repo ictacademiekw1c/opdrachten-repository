@@ -113,7 +113,7 @@ Gebruik een of meerdere functies van hierboven om:
 
 Voorbeeld met mijn eigen tekst:
 > Hij is ABU SAEBU. Hij woont bijna zijn hele leven in 'S-HERTOGENBOSCH. Hij heeft op school gezeten op het SINT JANSLYCEUM op de Sweelinckplein in DEN BOSCH. Hij is 52 jaar, hij is GETROUWD en hij heeft 2 kinderen. Zijn hobbies zijn GITAAR SPELEN, PIANO SPELEN, MUZIEK LUISTEREN en PROGRAMMEREN. Hij is DOCENT APPLICATIEONTWIKKELING en hij geeft de vakken PHP, HTML/CSS, JAVASCRIPT, DATABASE/SQL, C#, ANDROID APPS, BEHEER en BEDRIJFSKUNDE.
-Deze zin bevat 370 tekens.
+Deze tekst bevat 370 tekens.
 
 
 ### 3.4.3 Beoordelingscriteria
