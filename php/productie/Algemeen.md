@@ -119,4 +119,19 @@ Als je bijvoorbeeld een ; aan het eind van een statement vergeet zie je nu bijvo
 > **Parse error: syntax error, unexpected T_PRINT in C:\Users\Administrator\Documents\My Web Sites\phpsemester2\hoofdstuk1\opdracht0010.php on line 20**
 
 
+## 0.6 Commentaar in je programmacode
+
+Wen jezelf aan om je code te becommentarieren. In PHP doe je dat op de volgende manieren:
+~~~php
+//Manier 1 is met de dubbele // 
+echo "Hello";
+
+/* Manier 2 is wanneer je commentaar over meerdere regels gaat
+
+Pas op deze regel stopt het commentaar*/
+
+echo "Dag";
+
+Als je code geen commentaar bevat zal je opdracht niet worden goedgekeurd (vanaf het moment dat het in de klas behandeld is).
+~~~
 #### [setSubMenuHeader]
