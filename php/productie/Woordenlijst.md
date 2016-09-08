@@ -11,9 +11,12 @@
   <dd>Introduceren/reserveren van een nieuw stukje geheugen voor een variabele bijvoorbeeld</dd>
   <dt>### Initialiseren</dt>
   <dd>Een variabele de eerste keer na declaratie een waarde toekennen</dd>
-  <dt>### Get-parameter</dt>
-  <dd>Een waarde die je doorgeeft via de URL van een script</dd>
 </dl>
 
 ## Woordenlijst PHP
+
+<dl>
+  <dt>### Get-parameter</dt>
+  <dd>Een waarde die je doorgeeft via de URL van een script</dd>
+</dl>
  
