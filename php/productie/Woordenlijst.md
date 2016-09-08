@@ -18,5 +18,8 @@
 <dl>
   <dt>### Get-parameter</dt>
   <dd>Een waarde die je doorgeeft via de URL van een script</dd>
+  <dt>### Parse-error</dt>
+  <dd>Je hebt een syntax fout gemmaakt in PHP; de interpreter stopt meteen de uitvoering van het script.</dd>
+
 </dl>
  
