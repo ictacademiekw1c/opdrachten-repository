@@ -94,8 +94,6 @@ in volgorde van lengte.
 1. Sla dit script op als opdracht30.php in de map Hoofdstuk3
 2. Het script levert geen fouten of waarschuwingen op in de browser
 
-
----
 ---
 
 ## Opdracht31 spelen met strings
