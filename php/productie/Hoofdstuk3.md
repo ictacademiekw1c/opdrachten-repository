@@ -2,7 +2,7 @@
 
 # Hoofdstuk 3 - Stringfuncties
 
-## Wat ga je leren?
+## 3.1 Wat ga je leren?
 Er zijn een aantal standaard php functies die handig zijn bij string variabelen.
 - strlen()
 - trim()
@@ -10,7 +10,7 @@ Er zijn een aantal standaard php functies die handig zijn bij string variabelen.
 - strtoupper()
 - str_replace()
 
-## Voorbeeld van strlen() 
+## 3.2 Voorbeeld van strlen() 
 ~~~php
 //bepaal de lengte van een string
 
@@ -27,7 +27,7 @@ echo strlen($mijnnaam) + strlen($collega);
 
 ~~~
 
-## Voorbeeld van trim() 
+## 3.3 Voorbeeld van trim() 
 ~~~php
 //alle alle spaties uit een string
 
@@ -40,7 +40,7 @@ echo $sAchter. trim($sVoor);
 ~~~
 
 ---
-## Voorbeeld van strtolower(), strtoupper() en ucfirst()
+## 3.4 Voorbeeld van strtolower(), strtoupper() en ucfirst()
 ~~~php
 //omzetten van kleine letters naar grote en omgekeerd
 
@@ -60,7 +60,7 @@ echo ucfirst( strtolower( $sLuidkeels ) );
 
 ~~~
 
-## Voorbeeld van str_replace() 
+## 3.5 Voorbeeld van str_replace() 
 
 ~~~php
 //vervangen van stukken tekst met andere tekst
@@ -75,7 +75,7 @@ echo $sLuidkeels;
 
 ---
 
-## Opdracht30 spelen met strings
+## 3.6 Opdracht30 spelen met strings
 ### Opdrachtomschrijving opdracht30
 
 Declareer 10 variabelen voor 10 medeleerlingen uit je klas en initialiseer ze op de juiste waarde.
@@ -83,20 +83,20 @@ Declareer 10 variabelen voor 10 medeleerlingen uit je klas en initialiseer ze op
 Bepaal met strlen() wat de lengte van iedere string is van iedere variabele en toon de namen van je medeleerlingen
 in volgorde van lengte. 
 
-### 3.4.2 Visuele weergave 
+### Visuele weergave 30 
 //Uitwerking met bovenstaande variabelen
 > Saebu (lengte 5)<br>
 > de Reus (lengte 7)<br>
 > Spierings (lengte 9)<br>
 > Gijsbrechts (lengte 11) 
 
-### 3.4.3 Beoordelingscriteria
+### Beoordelingscriteria 31
 1. Sla dit script op als opdracht30.php in de map Hoofdstuk3
 2. Het script levert geen fouten of waarschuwingen op in de browser
 
 ---
 
-## Opdracht31 spelen met strings
+## 3.6 Opdracht31 spelen met strings
 ### Opdrachtomschrijving opdracht31
 
 Gebruik voor deze opdracht je introductietekst uit opdracht 20.
@@ -107,14 +107,14 @@ Gebruik een of meerdere functies van hierboven om:
 2. Maak gebruik van str_replace() om je tekst naar de 3de persoonsvorm te zetten. (Van de ik vorm naar de hij vorm).
 3. Bepaal van iedere zin variabele de lengte en zet onder de tekst de volledige lengte van de gehele tekst.
 
-### 3.4.2 Visuele weergave 
+### 3.4.2 Visuele weergave 31
 
 Voorbeeld met mijn eigen tekst:
 > Hij is ABU SAEBU. Hij woont bijna zijn hele leven in 'S-HERTOGENBOSCH. Hij heeft op school gezeten op het SINT JANSLYCEUM op de Sweelinckplein in DEN BOSCH. Hij is 52 jaar, hij is GETROUWD en hij heeft 2 kinderen. Zijn hobbies zijn GITAAR SPELEN, PIANO SPELEN, MUZIEK LUISTEREN en PROGRAMMEREN. Hij is DOCENT APPLICATIEONTWIKKELING en hij geeft de vakken PHP, HTML/CSS, JAVASCRIPT, DATABASE/SQL, C#, ANDROID APPS, BEHEER en BEDRIJFSKUNDE.
 Deze tekst bevat 370 tekens.
 
 
-### 3.4.3 Beoordelingscriteria
+### 3.4.3 Beoordelingscriteria 31
 1. Sla dit script op als opdracht31.php in de map Hoofdstuk3
 2. Het script levert geen fouten of waarschuwingen op in de browser
 3. Je tekst bevat minimaal 5 complete zinnen.
