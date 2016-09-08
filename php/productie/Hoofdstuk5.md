@@ -2,26 +2,41 @@
 
 ## 5.1 Wat ga je leren ?
 
-Hoe geeft PHP gegevens door en/of konsekwenties van server side scripting.
+Wat een Get parameter is. Hoe pas je deze aan in een URL. De eerste manier om iets door te geven aan een script.
+
+Voorwaardelijke code: Hoe maak je in php een if else constructie.
 
 ## 5.2 Voorbeeld en uitleg 5.1 
 
 ~~~php
+// Maak een script aan in de map hoofdstuk 5 met de naam testget.php
+// Neem de volgende code over in het script en launch het in je browser
+// Wat zie je?
+echo $_GET['leeftijd'];
 
-echo $_GET['naam'];
+$leeftijd = $_GET['leeftijd'];
 
+if ($leeftijd > 17) {
+    echo "Je bent volwassen";
+} else {
+    echo "Je bent nog een kind";
+}
+
+
+//Pas de URL in je browser aan door ?leeftijd=10 aan het eind toe te voegen
+//Wat zie je nu als je nu de pagina opvraagt?
 ~~~
 
 ---
-## 5.3 Opdracht 50
+## Opdracht 50
 
-### 5.3.1 Omschrijving
+### Omschrijving
 Vul hier een omschrijving van de opdracht in.
 
-### 5.3.2 Visuele weergave
+### Visuele weergave
 
-### 5.3.3 Programmastructuur
+### Programmastructuur
 
-### 5.3.4 Beoordelingscriteria
+### Beoordelingscriteria
 
 ---
