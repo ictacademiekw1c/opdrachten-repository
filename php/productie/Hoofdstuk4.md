@@ -13,6 +13,9 @@ Je leert het gebruiken en toepassen van nog een aantal string functies:
 - substr()
 - substr_replace()
 
+### zero-based
+Tellen begint bij 0.
+
 ## 4.2 Uitleg en voorbeelden strpos() en varianten
 
 ~~~php
