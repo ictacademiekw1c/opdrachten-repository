@@ -118,5 +118,5 @@ Deze tekst bevat 370 tekens.
 1. Sla dit script op als opdracht31.php in de map Hoofdstuk3
 2. Het script levert geen fouten of waarschuwingen op in de browser
 3. Je tekst bevat minimaal 5 complete zinnen.
-
+4. De tekst eindigt met het totaal aantal tekens in de zin, die bepaald is met de functie strlen().
 ---
