@@ -37,7 +37,7 @@ Een randomkleur zou je kunnen aanmaken met:
 ![Detail page](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/Opdracht1Detail.jpg?raw=true)
 
 - Master pagina
-![Master page](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/Opdracht1Master.jpg?raw=true)
+![Master page](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/opdracht1Master.jpg?raw=true)
 
 - ImageViewer pagina
 ![ImageViewer page](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/Opdracht1Imageviewer.jpg?raw=true)
