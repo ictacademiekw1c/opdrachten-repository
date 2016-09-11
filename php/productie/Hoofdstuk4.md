@@ -36,7 +36,7 @@ echo strripos ($sZin, "$dit"). "<br>";
 ~~~
 ## 4.3 Uitleg en voorbeelden substr() en substr_replace()
 
-Voorbeeld substr()
+### Voorbeeld substr()
 ~~~php
 echo substr('abcdef', 1);     // bcdef
 echo substr('abcdef', 1, 3);  // bcd
@@ -46,14 +46,9 @@ echo substr('abcdef', -1, 1); // f
 ~~~
 
 
-Voorbeeld substr_replace()
+### Voorbeeld substr_replace()
 
 [Bekijk de examples 1,2 en 3](http://www.w3schools.com/php/func_string_substr_replace.asp)
----
-~~~php
-
-
-~~~
 
 ## 4.4 Opdracht 40
 
