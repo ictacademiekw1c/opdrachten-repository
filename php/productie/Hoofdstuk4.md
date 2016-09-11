@@ -75,12 +75,12 @@ $mop = "Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het 
 Gebruik verolgens voor iedere regel de substr() functie om de volgende uitvoer te krijgen die je ziet in de Visuele weergave.
 ### Visuele weergave 41
 
-> Weekend!
-> Belg
-> deur.
-> .
-> Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
-> Het weekend staat voor de deu
+    - Weekend!
+    - Belg
+    - deur.
+    - .
+    - Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
+    - Het weekend staat voor de deu
 
 ### Beoordelingscriteria 41
 1. Voor iedere regel uitboer is substr() gebruikt
