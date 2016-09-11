@@ -39,7 +39,7 @@ Een randomkleur zou je kunnen aanmaken met:
 - Master pagina
 ![Master page](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/opdracht1Master.jpg?raw=true)
 
-- ImageViewer pagina
+- Carousel pagina
 ![ImageViewer page](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/Opdracht1Imageviewer.jpg?raw=true)
 
 ## Beoordelingscriteria
