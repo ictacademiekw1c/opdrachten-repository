@@ -26,12 +26,20 @@ Laat de App starten met een MasterDetailPage waarbij in de
 
     - Toon in de CarouselPage minimaal 2 afbeeldingen.
 
-    - Maak in de TabbedPage 3 tabs aan pagina 1, pagina 2 en pagina3 die ieder pagina's openen in een random achtergrondkleur.
+    - Maak in de TabbedPage 3 tabs aan pagina1, pagina2 en pagina3 die ieder pagina's openen in een random achtergrondkleur.
 
 Een randomkleur zou je kunnen aanmaken met:
 ~~~C#
    new Color(random.NextDouble(), random.NextDouble(), random.NextDouble())
 ~~~
+
+De TabbedPage en de CarouselPage worden gestart vanuit een NavigationPage met:
+~~~c
+    // De detail pagina wordt ingevuld met de RandomColorpage (=TabbedPage) vanuit een NavigationPage
+    Detail = new NavigationPage(new RandomColorPage());
+    // RandomColorPage (public class RandomColorPage : TabbedPage) 
+~~~
+
 
 ## Visuele weergave
 
