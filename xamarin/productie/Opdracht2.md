@@ -10,6 +10,8 @@
 
 3. [Documentatie over welke verschillende pages](https://developer.xamarin.com/guides/xamarin-forms/controls/pages/) je kunt bouwen met Xamarin.Forms.
 
+4. [Hoe plaats ik een button op een pagina](https://developer.xamarin.com/guides/xamarin-forms/controls/views/)
+
 ## Opdrachtomschrijving
 
 Bouw een App met de volgende pages en interactie.
@@ -22,9 +24,9 @@ Laat de App starten met een MasterDetailPage waarbij in de
 
     - Detail pagina is dezelfde pagina als de TabbedPage die met button2 in de Master wordt geopend 
 
-Toon in de CarouselPage minimaal 2 afbeeldingen.
+    - Toon in de CarouselPage minimaal 2 afbeeldingen.
 
-Maak in de TabbedPage 3 tabs aan pagina 1, pagina 2 en pagina3 die ieder pagina's openen in een random achtergrondkleur.
+    - Maak in de TabbedPage 3 tabs aan pagina 1, pagina 2 en pagina3 die ieder pagina's openen in een random achtergrondkleur.
 
 Een randomkleur zou je kunnen aanmaken met:
 ~~~C#
@@ -39,10 +41,37 @@ Een randomkleur zou je kunnen aanmaken met:
 - Master pagina
 ![Master page](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/opdracht1Master.jpg?raw=true)
 
+Code voor de Master pagina
+~~~C#
+
+// Declaraties.
+Button spawnTabbedButton = new Button() { Text = "Random Pagina Kleuren" };
+Button spawnCarouselButton = new Button() { Text = "Carousel Page" };
+
+//Contentpagina met een stackLayout en 2 buttons
+			Master = new ContentPage()
+			{
+				Title = "Menu",
+
+//Een StackLayout kan gebruikt worden om meerdere controls onder of naast elkaar te zetten.
+				Content = new StackLayout() 
+				{
+					Children = 
+					{ 
+						spawnTabbedButton,
+						spawnCarouselButton
+					}
+				}
+			};
+~~~
+
 - Carousel pagina
 ![ImageViewer page](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/Opdracht1Imageviewer.jpg?raw=true)
 
 ## Beoordelingscriteria
+
+- Maak voor iedere pagina een aparte class aan geimplementeerd met overerving van (TabbedPage,CarouselPage, MasterDetailPage)
+- Afbeeldingen die in de carousel pagina worden getoond zijn lokaal toegevoegd aan de Resources/Drawable map
 
 
 
