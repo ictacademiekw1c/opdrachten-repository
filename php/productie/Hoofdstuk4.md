@@ -58,7 +58,7 @@ Voorbeeld substr_replace()
 ## 4.4 Opdracht 40
 
 ### Omschrijving 40
-Kopieer de code uit paragraaf 4.4 in een script met naam opdracht40.php.
+Kopieer de code uit paragraaf 4.2 in een script met naam opdracht40.php.
 Ga na of je begrijpt wat er op het scherm wordt getoond.
 
 ### Beoordelingscriteria 40
