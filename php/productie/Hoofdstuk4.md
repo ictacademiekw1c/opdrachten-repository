@@ -48,6 +48,7 @@ echo substr('abcdef', -1, 1); // f
 
 ### Voorbeeld substr_replace()
 
+
 [Bekijk de examples 1,2 en 3](http://www.w3schools.com/php/func_string_substr_replace.asp)
 
 ## 4.4 Opdracht 40
@@ -78,7 +79,7 @@ Gebruik verolgens voor iedere regel de substr() functie om de volgende uitvoer t
     - Het weekend staat voor de deu
 
 ### Beoordelingscriteria 41
-1. Voor iedere regel uitboer is substr() gebruikt
+1. Voor iedere regel uitvoer is substr() gebruikt
 2. Het programma toont geen waarschuwingen of errors
 3. Voor iedere substr() wordt er commentaar gebruikt om de code uit te leggen
 
