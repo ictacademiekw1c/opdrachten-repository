@@ -13,7 +13,7 @@
 *   Kleur begrijpen
 
 ### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources/Opdracht%205.1%20-%20Banner.jpg" target="_blank">Download banner</a>
 
 ### Help
 *   Kleur begrijpen
