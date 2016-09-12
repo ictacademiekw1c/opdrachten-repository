@@ -24,7 +24,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M8fFjAXOsgc" frameborder="0" allowfullscreen></iframe>
 *   Afbeelding toevoegen
 ```html
-<img src="<strong>url van de afbeelding<strong>" alt="<strong>naam van afbeelding</strong>">
+<img src="url van de afbeelding" alt="naam van afbeelding">
 ```
 
 ---
