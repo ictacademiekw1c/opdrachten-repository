@@ -28,6 +28,8 @@ stripos als de eerste maar dan zonder onderscheid van hoofd of kleine letters
 strripos als de tweede maar dan zonder onderscheid van hoofd of kleine letters
 */
 
+$dit = "dit";
+
 echo strpos ($sZin, "$dit"). "<br>";
 echo strrpos ($sZin, "$dit"). "<br>";
 echo stripos ($sZin, "$dit"). "<br>";
