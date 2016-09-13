@@ -19,7 +19,7 @@ Tellen begint bij 0.
 ## 4.2 Uitleg en voorbeelden strpos() en varianten
 
 ~~~php
-$sZin = "Dit is een zin. dit is een tweede zin. Dit een derde."
+$sZin = "Dit is een zin. dit is een tweede zin. Dit een derde.";
 
 /*
 strpos zoekt vanaf de linkerkant en stopt als het gevonden is
