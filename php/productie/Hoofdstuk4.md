@@ -50,7 +50,6 @@ echo substr('abcdef', -1, 1); // f
 
 ### Voorbeeld substr_replace()
 
-
 [Bekijk de examples 1,2 en 3](http://www.w3schools.com/php/func_string_substr_replace.asp)
 
 ## 4.4 Opdracht 40
@@ -70,7 +69,7 @@ Zet de volgende zin in een string variabele:
 ~~~php
 $mop = "Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.";
 ~~~
-Gebruik verolgens voor iedere regel de substr() functie om de volgende uitvoer te krijgen die je ziet in de Visuele weergave.
+Gebruik vervolgens voor iedere regel de substr() functie om de volgende uitvoer te krijgen die je ziet in de Visuele weergave.
 ### Visuele weergave 41
 
     - Weekend!
