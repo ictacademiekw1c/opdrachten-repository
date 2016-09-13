@@ -13,7 +13,7 @@
 *   Kleur begrijpen
 
 ### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources/Opdracht%205.1%20-%20Banner.jpg" target="_blank">Download banner</a>
 
 ### Help
 *   Kleur begrijpen
@@ -22,6 +22,10 @@
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources/RGBHexKleurnamen.png">
 *   <a href="http://www.w3schools.com/colors/colors_converter.asp" target="_blank">Kleuren converter</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M8fFjAXOsgc" frameborder="0" allowfullscreen></iframe>
+*   Afbeelding toevoegen
+```html
+<img src="url van de afbeelding" alt="naam van afbeelding">
+```
 
 ---
 ## Opdracht 5.2
@@ -48,7 +52,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Opdracht%205.1.pdf" target="_blank">Download opdracht 5.3</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Opdracht%205.3.pdf" target="_blank">Download opdracht 5.3</a>
 
 ### Onderwerpen
 *   Contrast
