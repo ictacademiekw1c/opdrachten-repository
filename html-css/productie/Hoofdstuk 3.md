@@ -145,3 +145,9 @@ Bestandsnaam:   bestandsnaam
         O.
     </p>
 ```
+---
+## HERHALINGSOPDRACHT HOOFDSTUK 3
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%203/Herhalingsopdracht.pdf" target="_blank">Download herhalingsopdracht hoofdstuk 3</a>
