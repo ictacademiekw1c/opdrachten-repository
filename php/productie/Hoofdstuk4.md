@@ -19,7 +19,7 @@ Tellen begint bij 0.
 ## 4.2 Uitleg en voorbeelden strpos() en varianten
 
 ~~~php
-$sZin = "Dit is een zin. dit is een tweede zin. Dit een derde."
+$sZin = "Dit is een zin. dit is een tweede zin. Dit een derde.";
 
 /*
 strpos zoekt vanaf de linkerkant en stopt als het gevonden is
@@ -27,6 +27,8 @@ strrpos zoekt vanaf de rechterkant en stopt als het gevonden is
 stripos als de eerste maar dan zonder onderscheid van hoofd of kleine letters
 strripos als de tweede maar dan zonder onderscheid van hoofd of kleine letters
 */
+
+$dit = "dit";
 
 echo strpos ($sZin, "$dit"). "<br>";
 echo strrpos ($sZin, "$dit"). "<br>";
@@ -48,7 +50,6 @@ echo substr('abcdef', -1, 1); // f
 
 ### Voorbeeld substr_replace()
 
-
 [Bekijk de examples 1,2 en 3](http://www.w3schools.com/php/func_string_substr_replace.asp)
 
 ## 4.4 Opdracht 40
@@ -68,7 +69,7 @@ Zet de volgende zin in een string variabele:
 ~~~php
 $mop = "Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.";
 ~~~
-Gebruik verolgens voor iedere regel de substr() functie om de volgende uitvoer te krijgen die je ziet in de Visuele weergave.
+Gebruik vervolgens voor iedere regel de substr() functie om de volgende uitvoer te krijgen die je ziet in de Visuele weergave.
 ### Visuele weergave 41
 
     - Weekend!
