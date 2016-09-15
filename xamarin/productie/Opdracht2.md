@@ -60,6 +60,11 @@ Code voor de Master pagina
 Button spawnTabbedButton = new Button() { Text = "Random Pagina Kleuren" };
 Button spawnCarouselButton = new Button() { Text = "Carousel Page" };
 
+//Click event op eerste button impleme
+spawnTabbedButton.Clicked += SpawnTabbedButtonClicked; 
+// Als er op de knop gedrukt wordt dan wordt de method "SpawnTabbedButtonClicked" uitgevoerd.
+//Click event op tweede button ontbreekt
+
 //Contentpagina met een stackLayout en 2 buttons
 			Master = new ContentPage()
 			{
@@ -75,6 +80,16 @@ Button spawnCarouselButton = new Button() { Text = "Carousel Page" };
 					}
 				}
 			};
+...
+
+...
+
+    // method "SpawnTabbedButtonClicked" deze opent de RandomColorPage in een NavigationPage
+	public void SpawnTabbedButtonClicked(object sender, EventArgs e)
+    {
+		Detail = new NavigationPage(new RandomColorPage());
+	}
+
 ~~~
 
 - Carousel pagina
