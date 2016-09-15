@@ -90,9 +90,11 @@ Gebruik vervolgens voor iedere regel de substr() functie om de volgende uitvoer 
 ### Omschrijving 42
 Verander onderstaande mop in stappen met een van de functies uit dit hoofdstuk. Per verandering wordt aangegeven welke functie gebruikt moet worden.
 
-~~~php
-$mop = "Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.";
-~~~
+> Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
+
+Na de laatste verandering is de mop veranderd in:
+
+> Waarom gooit een blondje tijdens een spelletje de dobbelsteen tegen het plafond? Wie het hoogst gooit, mag beginnen.
 
 ### Visuele weergave 42
 
