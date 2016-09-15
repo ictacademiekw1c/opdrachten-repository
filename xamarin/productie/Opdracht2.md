@@ -43,6 +43,8 @@ De TabbedPage en de CarouselPage worden gestart vanuit een NavigationPage met:
 
 [Voorbeeld Master Detail App met 2 buttons](https://gist.github.com/saebuabu/f1d2df6aff2f683941ee4e3de98e736d)
 
+[Voorbeeld TabbedPage met 2 tabs](https://gist.github.com/saebuabu/89c2a9735d2850f0327daa11780bfd75)
+
 ## Visuele weergave
 
 - Detail pagina
