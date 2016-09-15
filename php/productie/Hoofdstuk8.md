@@ -1,14 +1,9 @@
-<?php
+# Hoofdstuk 8 Functies
 
-?>
+## 8.1 Wat ga je leren ?
 
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title></title>
-    </head>
-    <body>
-        
-    </body>
-</html>
+- Functie declaratie
+- Functie implementatie
+- Functie aanroep
+
+## 8.2 Voorbeeld en uitleg  
