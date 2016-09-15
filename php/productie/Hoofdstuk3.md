@@ -75,7 +75,7 @@ echo $sLuidkeels;
 
 ---
 
-## 3.6 Opdracht30 spelen met strings
+## 3.6 Opdracht 30 spelen met strings
 ### Opdrachtomschrijving opdracht30
 
 Declareer 10 variabelen voor 10 medeleerlingen uit je klas en initialiseer ze op de juiste waarde.
@@ -96,7 +96,7 @@ in volgorde van lengte.
 
 ---
 
-## 3.6 Opdracht31 spelen met strings
+## 3.6 Opdracht 31 spelen met strings
 ### Opdrachtomschrijving opdracht31
 
 Gebruik voor deze opdracht je introductietekst uit opdracht 20.
