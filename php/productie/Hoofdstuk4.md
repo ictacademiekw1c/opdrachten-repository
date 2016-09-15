@@ -85,3 +85,36 @@ Gebruik vervolgens voor iedere regel de substr() functie om de volgende uitvoer 
 3. Voor iedere substr() wordt er commentaar gebruikt om de code uit te leggen
 
 ---
+
+---
+## 4.6 Opdracht 42 - van Belg naar blondje
+
+### Omschrijving 42
+Verander onderstaande mop in stappen met een van de functies uit dit hoofdstuk. Per verandering wordt aangegeven welke functie gebruikt moet worden.
+
+~~~php
+$mop = "Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.";
+~~~
+
+### Visuele weergave 42
+> Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
+> //Gebruik: substr() om de $mop om te zetten naar:
+> Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
+> //Gebruik: str_replace() om de $mop om te zetten naar:
+> Waarom gaat een blondje op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
+> //Gebruik: substr_replace() om de $mop om te zetten naar:
+> Waarom gooit een blondje op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
+> //Gebruik: str_replace() om de $mop om te zetten naar:
+> Waarom gooit een blondje tijdens een spelletje door het raam naar buiten? Het weekend staat voor de deur.
+> //Gebruik: str_replace() om de $mop om te zetten naar:
+> Waarom gooit een blondje tijdens een spelletje door het raam naar buiten? .
+> positie 'door' is: <positie> lengte mop: <lengte>
+> //Gebruik: substr_replace() met een negatieve waarde (zie voorbeeld 3 in de gelinkte pagina) om $mop om te zetten naar:
+>Waarom gooit een blondje tijdens een spelletje de dobbelsteen tegen het plafond? Wie het hoogst gooit, mag beginnen.
+
+### Beoordelingscriteria 42
+1. Voor iedere regel uitvoer wordt de aangegeven functie gebruikt
+2. Na iedere verandering is $mop gewijzigd en wordt deze ge-echo-d.
+3. Het programma toont geen waarschuwingen of errors
+4. Voor iedere verandering van de mop wordt commentaar gebruikt.
+---
