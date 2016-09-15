@@ -95,20 +95,21 @@ $mop = "Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het 
 ~~~
 
 ### Visuele weergave 42
-> Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.<br>
-> //Gebruik: substr() om de $mop om te zetten naar:<br>
-> Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.<br>
-> //Gebruik: str_replace() om de $mop om te zetten naar:<br>
-> Waarom gaat een blondje op vrijdag door het raam naar buiten? Het weekend staat voor de deur.<br>
-> //Gebruik: substr_replace() om de $mop om te zetten naar:<br>
-> Waarom gooit een blondje op vrijdag door het raam naar buiten? Het weekend staat voor de deur.<br>
-> //Gebruik: str_replace() om de $mop om te zetten naar:<br>
-> Waarom gooit een blondje tijdens een spelletje door het raam naar buiten? Het weekend staat voor de deur.<br>
-> //Gebruik: str_replace() om de $mop om te zetten naar:<br>
-> Waarom gooit een blondje tijdens een spelletje door het raam naar buiten? .<br>
-> positie 'door' is: <positie> lengte mop: <lengte><br>
-> //Gebruik: substr_replace() met een negatieve waarde (zie voorbeeld 3 in de gelinkte pagina) om $mop om te zetten naar:<br>
->Waarom gooit een blondje tijdens een spelletje de dobbelsteen tegen het plafond? Wie het hoogst gooit, mag beginnen.<br>
+
+    > Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.<br>
+    > //Gebruik: substr() om de $mop om te zetten naar:<br>
+    > Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.<br>
+    > //Gebruik: str_replace() om de $mop om te zetten naar:<br>
+    > Waarom gaat een blondje op vrijdag door het raam naar buiten? Het weekend staat voor de deur.<br>
+    > //Gebruik: substr_replace() om de $mop om te zetten naar:<br>
+    > Waarom gooit een blondje op vrijdag door het raam naar buiten? Het weekend staat voor de deur.<br>
+    > //Gebruik: str_replace() om de $mop om te zetten naar:<br>
+    > Waarom gooit een blondje tijdens een spelletje door het raam naar buiten? Het weekend staat voor de deur.<br>
+    > //Gebruik: str_replace() om de $mop om te zetten naar:<br>
+    > Waarom gooit een blondje tijdens een spelletje door het raam naar buiten? .<br>
+    > positie 'door' is: <positie> lengte mop: <lengte><br>
+    > //Gebruik: substr_replace() met een negatieve waarde (zie voorbeeld 3 in de gelinkte pagina) om $mop om te zetten naar:<br>
+    >Waarom gooit een blondje tijdens een spelletje de dobbelsteen tegen het plafond? Wie het hoogst gooit, mag beginnen.<br>
 
 ### Beoordelingscriteria 42
 1. Voor iedere regel uitvoer wordt de aangegeven functie gebruikt
