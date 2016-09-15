@@ -39,7 +39,9 @@ De TabbedPage en de CarouselPage worden gestart vanuit een NavigationPage met:
     Detail = new NavigationPage(new RandomColorPage());
     // RandomColorPage (public class RandomColorPage : TabbedPage) 
 ~~~
+## Programmastructuur
 
+[Voorbeeld Master Detail App met 2 buttons](https://gist.github.com/saebuabu/f1d2df6aff2f683941ee4e3de98e736d)
 
 ## Visuele weergave
 
