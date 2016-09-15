@@ -85,8 +85,6 @@ Gebruik vervolgens voor iedere regel de substr() functie om de volgende uitvoer 
 3. Voor iedere substr() wordt er commentaar gebruikt om de code uit te leggen
 
 ---
-
----
 ## 4.6 Opdracht 42 - van Belg naar blondje
 
 ### Omschrijving 42
