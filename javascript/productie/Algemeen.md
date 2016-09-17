@@ -20,9 +20,9 @@ Hieronder zie de deadlines van inleveren van je opdrachten
 
 |Opdracht              | Deadline       |
 |--------------------  |--------------- |
-| Opdrachten 100 + 110 | 9 september    |
-| Opdrachten 200 + 201 | 16 september   |
-| Opdrachten 221 + 222 + 230 |  23 september  |
+| Opdrachten 100 + 110 | 16 september    |
+| Opdrachten 200 + 201 | 23 september   |
+| Opdrachten 221 + 222 + 230 |  30 september  |
 
 ## Opleveren opdrachten
 1. Je dient al je huisopdrachten in de Javascript map van je N@tschool portfolio te plaatsen
@@ -74,3 +74,5 @@ Voor opdrachten vanaf hoofdstuk 5 gelden de volgende aanvullende beoordelingscri
 *	De Javascriptcode is geschreven in een extern JS-bestand `Script.js` genaamd
 
 #### [setSubMenuHeader]Algemene informatie
+
+eenctkweenc

@@ -69,28 +69,35 @@ Upload deze naar je JavaScript map in je portfolio``
 
 ## Opdracht 230 Code testen en debuggen
  
-``Opleveren: Plaats de gecorrigeerde bestanden een rar met naam OPDRACHT200.rar en upload het in je portfolio.``
+``Opleveren: Plaats de gecorrigeerde bestanden een rar met naam OPDRACHT230.rar en upload het in je portfolio. Laat daarna de opdracht aan de docent zien om deze af te tekenen.``
 
 ### Javascript code testen en debuggen: Syntax fouten
 
-Download en pak de bestanden in "[h2 scripts.zip](https://elo.kw1c.nl/CMS/_STUDYROUTE_FOLDERS/33/95311 AO Leerjaar 1 Periode 3/14067/1o10 JavaScript [AO, 03 ]/9AE2FBF0-5589-4FE2-B33E-4439521E289E/27d436bd/h2.zip)" uit naar je Javascript map. Open vervolgens deze map.
-Test en debug de volgende html-bestanden op Javascript fouten en analyseer wat er fout is en wat de correctie moet zijn.
+Download en pak de bestanden in "[Opdracht230.zip](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/03.%20Scripts/Huiswerk/Opdracht%20230.zip)" uit naar je Javascript map. Open vervolgens deze map.
+Test en debug de volgende html-bestanden op Javascript fouten en analyseer wat er fout is en corrigeer deze.
 
 De foute code bestanden vind je op N@tschool onder de volgende namen:
-1. H2_error1.html
-2. H2_error2.html
-3. H2_error3.html
-4. H2_error4.html
-5. H2_error5.html
-6. H2_error6.html
+1. bestand1.html
+2. bestand2.html
+3. bestand3.html
+4. bestand4.html
+5. bestand5.html
+6. bestand6.html
+7. bestand7.html
+8. bestand8.html
+9. bestand9.html
+10. bestand10.html
 
-Open de bestanden in je browser (wij raden Firefox aan). Open de inspector (F12 toets) en volg per geopend bestand de volgende stappen:
+Open de bestanden in je browser (wij raden Firefox of Chrome aan). Open de inspector (F12 toets) en volg per geopend bestand de volgende stappen:
 1. Bekijk de Javascript fout via je Inspector en open het bestand in je editor (WebMatrix).
 2. Bekijk de regel waar het fout gaat. Wat is de correctie?
 3. Pas de correctie toe, sla het bestand op en herlaadt de pagina.
-4. Als je geen Javascript fouten meer hebt dan ga je naar stap 5, anders ga je weer terug naar stap 1
-5. Plaats het gecorrigeerde bestand in een rarbestand met de naam "OPDRACHT200.rar"
+4. Als je de *alert()* melding te zien krijgt, dan is je correctie goed. 
+5. Als je de fout hebt opgelost, ga dan door met het volgende bestand (begin weer bij stap 1).
+5. Als je alle 10 de bestanden gedaan hebt, plaats je deze in een rarbestand met de naam "OPDRACHT230.rar"
 
-Alle bestanden gedaan? Upload "OPDRACHT200.rar" in je portfolio
+Alle bestanden gedaan? Upload "OPDRACHT230.rar" in je portfolio
 
 ####[setSubMenuHeader] Opdrachten
+
+---
