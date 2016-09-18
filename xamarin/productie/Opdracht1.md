@@ -8,11 +8,14 @@ Je hebt alle software geinstalleerd (Visual Studio 2015, Android SDK, Xamarin, V
 
 Je hebt [hyper-V](https://msdn.microsoft.com/nl-nl/virtualization/hyperv_on_windows/quick_start/walkthrough_install) in windows 10 aangezet.
 
-Je hebt in Visual Studio Android Player een (mobiele) device aangemaakt die minimaal de Android versie Lollipop (welk versienummer en/of API level is dat ?) heeft.
+Je hebt in Visual Studio [Android Player](https://www.visualstudio.com/en-us/features/msft-android-emulator-vs.aspx) een (mobiele) device aangemaakt die minimaal de Android versie Lollipop (welk versienummer en/of API level is dat ?) heeft.
 
 ![visual studio android player](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/vsplayer.jpg?raw=true)
 
 Als alternatief voor de visual studio player is [Xamarin  player](https://developer.xamarin.com/releases/android/android-player/).
+
+Als tweede alternatief voor een android player kun je ook [genymotion](https://www.genymotion.com/thank-you-freemium/) gebruiken.
+
 Natuurlijk kun je je Android App ook installeren en testen op je eigen android telefoon.
 
 Je hebt in de Android SDK alle software voor de versie lollipop bijgewerkt en geinstalleerd.
