@@ -8,6 +8,9 @@ Voorwaardelijke code: Hoe maak je in php een if else constructie.
 
 ## 5.2 Voorbeeld en uitleg 5.1 
 
+Bekijk allereerst dit voorbeeld
+(Voorbeeldvideo met $_GET parameters)[https://mix.office.com/watch/16sdvrg08ufjb]
+
 ~~~php
 // Maak een script aan in de map hoofdstuk 5 met de naam testget.php
 // Neem de volgende code over in het script en launch het in je browser
