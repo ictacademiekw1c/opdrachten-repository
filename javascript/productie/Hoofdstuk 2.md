@@ -132,20 +132,17 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 	</tr>
 	<tr>
 		<td>
-
-```javascript
+<pre>
          /\_/\
     ____/ o o \
   /~____  =ø= /
  (______)__m_m)
-                
-```
-
+ 
+</pre>
 		</td>
 		<td>
-	
-```javascript
-	    /\ /|
+<pre>
+           /\ /|
           |||| |
            \ | \
        _ _ /  @ @
@@ -154,10 +151,11 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
    \|     /__| |
      \_____\ \__\
                     
- ```
+</pre>
 		 </td>
 		 <td>
-```javascript
+<pre>
+
            .--._.--.
           ( O     O )
           /   . .   \
@@ -171,7 +169,7 @@ _ _`.    \  |  |  |  /    .'_ _
  /. - ~ ,_-'  .^.  `-_, ~ - .\
          '-'|/   \|`-`
 		             
-```
+</pre>
 		</td>
 	</tr>
 </table>
