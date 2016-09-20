@@ -143,6 +143,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 		</td>
 		<td>
 <pre>
+```
            /\ /|
           |||| |
            \ | \
@@ -151,11 +152,13 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
    /|      |   /
    \|     /__| |
      \_____\ \__\
-                    
+
+```	 
 </pre>
 		 </td>
 		 <td>
 <pre>
+```
 
            .--._.--.
           ( O     O )
@@ -169,7 +172,8 @@ _ _`.    \  |  |  |  /    .'_ _
 >_       _} |  |  | {_       _<
  /. - ~ ,_-'  .^.  `-_, ~ - .\
          '-'|/   \|`-`
-		             
+
+```		 
 </pre>
 		</td>
 	</tr>
