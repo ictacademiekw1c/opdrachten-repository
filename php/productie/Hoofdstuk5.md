@@ -12,7 +12,7 @@ Bekijk allereerst dit voorbeeld
 [Voorbeeldvideo met $_GET parameters](https://mix.office.com/watch/16sdvrg08ufjb)
 
 ~~~php
-// Maak een script aan in de map hoofdstuk 5 met de naam testget.php
+// Maak een script aan in de map hoofdstuk 5 met de naam opdracht50.php
 // Neem de volgende code over in het script en launch het in je browser
 // Wat zie je?
 echo $_GET['leeftijd'];
