@@ -11,3 +11,4 @@ Volg de walkthrough en bouw de phoneword app zoals is beschreven.
 1. Je kunt de programmastructuur van de App uitleggen
 2. Je hebt een eigen icon gebruikt voor de App
 3. Je hebt functionaliteit toegevoegd in de vorm van validatie in het invoersscherm
+4. De App moet toestemming hebben om te kunnen bellen en heb je de toestemming toegevoegd aan de AndroidManifest.xml
