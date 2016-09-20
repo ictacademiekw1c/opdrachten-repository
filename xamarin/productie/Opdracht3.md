@@ -1,4 +1,4 @@
-# Opdracht 3
+# Opdracht 3 Phoneword App
 
 ## Phoneword exercise in EdX Course
 
