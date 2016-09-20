@@ -131,7 +131,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 	<tr>
 		<td>
 
-```
+```javascript
          /\_/\
     ____/ o o \
   /~____  =ø= /
@@ -142,7 +142,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 		</td>
 		<td>
 	
-```
+```javascript
 	       /\ /|
           |||| |
            \ | \
@@ -155,7 +155,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
  ```
 		 </td>
 		 <td>
-```
+```javascript
            .--._.--.
           ( O     O )
           /   . .   \
