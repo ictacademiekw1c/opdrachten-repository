@@ -132,12 +132,13 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 	</tr>
 	<tr>
 		<td>
-<pre>
+<pre>```
          /\_/\
     ____/ o o \
   /~____  =ø= /
  (______)__m_m)
- 
+
+ ```
 </pre>
 		</td>
 		<td>
