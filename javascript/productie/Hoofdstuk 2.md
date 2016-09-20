@@ -101,3 +101,75 @@ Alle bestanden gedaan? Upload "OPDRACHT230.rar" in je portfolio
 ####[setSubMenuHeader] Opdrachten
 
 ---
+
+## Opdracht 231 Console.log()
+
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html en .jpg (of .png) ) in een een rar met naam OPDRACHT231.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. ``
+
+### Console.log() ASCII Art
+
+We gaan deze keer wat kunst maken door middel van de *Console.log()* functie. We gaan namelijk enkele ASCII Art kunstwerken in de console van de Inspector tonen.
+
+1. Maak een nieuw HTML bestand in je WebMatrix en koppel hieraan 3 lege JavaScript bestanden (plaats deze JavaScript bestanden in een map genaamd "js"). Noem deze JS bestanden art1.js, art2.js en art3.js.
+2. Zorg ervoor dat middels de *console.log()* functie de onderstaande **3** ASCII kunstwerken in de Console tab van je Inspector getoont worden (onder elkaar). 
+Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren. 
+3. Maak een screenshot van je Console tab waarop deze 3 kunstwerken te zien zijn en sla deze op in de map waar je HTML/JS bestanden bevinden. De naam hiervoor mag je zelf verzinnen
+4. 
+
+<table>
+	<tr>
+		<td>
+		art1.js
+		</td>
+		<td>
+		art2.js
+		</td>
+		<td>
+		art3.js
+		</td>
+	</tr>
+	<tr>
+		<td>
+
+```
+         /\_/\
+    ____/ o o \
+  /~____  =ø= /
+ (______)__m_m)
+                
+```
+
+		</td>
+		<td>
+	
+```
+	       /\ /|
+          |||| |
+           \ | \
+       _ _ /  @ @
+     /    \   =>X<=
+   /|      |   /
+   \|     /__| |
+     \_____\ \__\
+                    
+ ```
+		 </td>
+		 <td>
+```
+           .--._.--.
+          ( O     O )
+          /   . .   \
+         .`._______.'.
+        /(           )\
+      _/  \  \   /  /  \_
+   .~   `  \  \ /  /  '   ~.
+  {    -.   \  V  /   .-    }
+_ _`.    \  |  |  |  /    .'_ _
+>_       _} |  |  | {_       _<
+ /. - ~ ,_-'  .^.  `-_, ~ - .\
+         '-'|/   \|`-`
+		             
+```
+		</td>
+	</tr>
+</table>
