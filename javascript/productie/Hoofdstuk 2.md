@@ -114,7 +114,9 @@ We gaan deze keer wat kunst maken door middel van de *Console.log()* functie. We
 2. Zorg ervoor dat middels de *console.log()* functie de onderstaande **3** ASCII kunstwerken in de Console tab van je Inspector getoont worden (onder elkaar). 
 Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren. 
 3. Maak een screenshot van je Console tab waarop deze 3 kunstwerken te zien zijn en sla deze op in de map waar je HTML/JS bestanden bevinden. De naam hiervoor mag je zelf verzinnen
-4. 
+
+
+>> Wellicht moet je zelf nog wat extra enters of spaties plaatsen als het kopiëren / plakken op jouw specifieke systeem. Kijk daarom goed de afbeeldingen na!
 
 <table>
 	<tr>
