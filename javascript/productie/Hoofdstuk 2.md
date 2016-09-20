@@ -133,7 +133,8 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 	<tr>
 		<td>
 <pre>```
-         /\_/\
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/\_/\
     ____/ o o \
   /~____  =ø= /
  (______)__m_m)
@@ -144,7 +145,8 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 		<td>
 <pre>
 ```
-           /\ /|
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/\ /|
           |||| |
            \ | \
        _ _ /  @ @
@@ -160,7 +162,8 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 <pre>
 ```
 
-           .--._.--.
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp.--._.--.
           ( O     O )
           /   . .   \
          .`._______.'.
