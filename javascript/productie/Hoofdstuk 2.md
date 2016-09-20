@@ -145,7 +145,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 		<td>
 	
 ```javascript
-	       /\ /|
+	    /\ /|
           |||| |
            \ | \
        _ _ /  @ @
