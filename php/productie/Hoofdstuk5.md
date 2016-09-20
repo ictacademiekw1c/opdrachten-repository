@@ -37,13 +37,25 @@ if ($leeftijd > 17) {
 ## Opdracht 50
 
 ### Omschrijving
+Volg alle stappen in het voorbeeld (5.2) hierboven en leg de docent uit wat er gebeurt. 
+
+### Beoordelingscriteria
+1. Je kan uitleggen wat een get-parameter is
+2. Je kan uitleggen hoe je door de URL aanpast een get-parameter kan toevoegen aan je php script
+3. Je hebt een script met 2 get-parameters leeftijd en naam, en een if else statement als in het voorbeeld
+4. Maak een script aan met naam opdracht50.php
+
+---
+## Opdracht 51
+
+### Omschrijving 51
 Maak een script met de naam opdracht50.php en test de script met een aantal get-parameters voor: naam, leeftijd en plaats
 
 Zet in je script 2 if-else constructies met de booleaanse expressies:
 1. $plaats == "Den Bosch"
 2. $leeftijd > 25 
 
-### Visuele weergave
+### Visuele weergave 51
 
 Ik ben Abu Saebu. 
 Ik ben een bosschenaar.
@@ -57,7 +69,7 @@ Ik ben nog best jong.
 
 De visuele weergave hierboven is afhankelijk van de waardes van je GET-parameters.
 
-### Programmastructuur
+### Programmastructuur 51
 
 ~~~php
 $leeftijd = $_GET['leeftijd'];
@@ -74,7 +86,7 @@ if (bosschenaar?) ....
 
 ~~~
 
-### Beoordelingscriteria
+### Beoordelingscriteria 51
 1. Je maakt gebruik van 3 get-parameters
 2. Je script geeft foutmeldingen als je niet de get-parameters toevoegt aan je url
 3. Je script geeft geen foutmeldingen als je de juiste get-parameters en waarden toevoegt aan je url

@@ -20,6 +20,8 @@
   <dd>Een waarde die je doorgeeft via de URL van een script, of via een html formulier met de method get.</dd>
   <dt>### Parse-error</dt>
   <dd>Je hebt een syntax fout gemmaakt in PHP; de interpreter stopt meteen de uitvoering van het script.</dd>
+  <dt>### URL (Uniform Resource Locator)</dt>
+  <dd>Website adres. Het adres dat je invult in de adresbalk van je browser.</dd>
 
 </dl>
  
