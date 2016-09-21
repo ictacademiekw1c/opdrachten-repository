@@ -46,7 +46,7 @@ if ($leeftijd > 17) {
 ~~~
 
 ---
-## Opdracht 50
+## 5.3 Opdracht 50
 
 ### Omschrijving
 Volg alle stappen in het bovenstaande voorbeeld 5.1
@@ -63,7 +63,7 @@ Uiteindelijke weergave opdracht50.php is:
 
 ---
 
-## Opdracht 51
+## 5.4 Opdracht 51
 
 ### Omschrijving 51
 Maak een script met de naam opdracht51.php en test de script met een aantal get-parameters voor: naam, leeftijd en plaats
