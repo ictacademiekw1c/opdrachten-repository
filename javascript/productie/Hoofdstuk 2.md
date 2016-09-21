@@ -116,7 +116,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 3. Maak een screenshot van je Console tab waarop deze 3 kunstwerken te zien zijn en sla deze op in de map waar je HTML/JS bestanden bevinden. De naam hiervoor mag je zelf verzinnen
 
 
->> Wellicht moet je zelf nog wat extra enters of spaties plaatsen als het kopiëren / plakken op jouw specifieke systeem. Kijk daarom goed de afbeeldingen na!
+>> Wellicht moet je zelf nog wat extra enters of spaties plaatsen als het kopiëren / plakken op jouw specifieke systeem wat anders werkt. Kijk daarom goed de afbeeldingen die in je Console komen na!
 
 <table>
 	<tr>
@@ -134,7 +134,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 		<td>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<pre>```
 
-/\_/\
+         /\_/\
     ____/ o o \
   /~____  =ø= /
  (______)__m_m)
@@ -181,3 +181,10 @@ _ _`.    \  |  |  |  /    .'_ _
 		</td>
 	</tr>
 </table>
+
+
+---
+
+## Opdracht 232
+
+Volgt snel!
