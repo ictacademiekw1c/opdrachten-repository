@@ -48,7 +48,7 @@ if ($leeftijd > 17) {
 ---
 ## 5.3 Opdracht 50
 
-### Omschrijving
+### Omschrijving 50
 Volg alle stappen in het bovenstaande voorbeeld 5.1
 
 ### Visuele weergave
@@ -56,7 +56,7 @@ Uiteindelijke weergave opdracht50.php is:
 
 > Giovanni is nog een kind
 
-### Beoordelingscriteria
+### Beoordelingscriteria 50
 1. Launch van de opdracht50.php levert errors op in de browser
 2. Toevoegen van de juiste get-parameters en waardes, voorkomen de error meldingen
 3. De uitvoer (de visuele weergave) is afhankelijk van de invoer.
