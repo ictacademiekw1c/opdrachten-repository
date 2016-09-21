@@ -49,7 +49,7 @@ if ($leeftijd > 17) {
 ## Opdracht 50
 
 ### Omschrijving
-Volg alle stappen in het voorbeeld 5.1
+Volg alle stappen in het bovenstaande voorbeeld 5.1
 
 ### Visuele weergave
 Uiteindelijke weergave opdracht50.php is:
