@@ -66,11 +66,11 @@ Uiteindelijke weergave opdracht50.php is:
 ## Opdracht 51
 
 ### Omschrijving 51
-Maak een script met de naam opdracht50.php en test de script met een aantal get-parameters voor: naam, leeftijd en plaats
+Maak een script met de naam opdracht51.php en test de script met een aantal get-parameters voor: naam, leeftijd en plaats
 
-Zet in je script 2 if-else constructies met de booleaanse expressies:
-1. $plaats == "Den Bosch"
-2. $leeftijd > 25 
+Zet in je script 2 if-else constructies met de volgende voorwaardes:
+1. $plaats == "Den Bosch" // Is de plaats gelijk aan "Den Bosch"?
+2. $leeftijd > 25         // Is de leeftijd hoger dan 25?
 
 ### Visuele weergave 51
 
@@ -89,8 +89,9 @@ De visuele weergave hierboven is afhankelijk van de waardes van je GET-parameter
 ### Programmastructuur 51
 
 ~~~php
+// waar hieronder ... staan wil zeggen dat je er zelf nog code aan moet toevoegen
 $leeftijd = $_GET['leeftijd'];
-..
+...
 
 if ($leeftijd > 25) {
     echo ...
