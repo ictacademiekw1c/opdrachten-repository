@@ -131,10 +131,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 		<td>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<pre>```
 
-.        /\\_/\\\r\n
-    ____/ o o \\\r\n
-	/~____  =\u00F8= /\r\n
-	(______)__m_m)
+.        /\\_/\\\r\n    ____/ o o \\\r\n	/~____  =\u00F8= /\r\n	(______)__m_m)
 
  ```
 </pre>
@@ -160,7 +157,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 	</tr>
 </table>
 
->> Wellicht moet je zelf nog wat extra enters of spaties plaatsen als het kopiëren / plakken op jouw specifieke systeem wat anders werkt. Kijk daarom goed de afbeeldingen die in je Console komen na!
+>> **Extra vraag**: Waarom denk je dat deze enorme lange code voor jou onleesbaar is, maar in de Console een mooie afbeelding geeft? Hint: <a href="http://www.the-art-of-web.com/javascript/escape/" target="_blank">JavaScript escape karakters</a>
 
 ---
 
@@ -183,10 +180,15 @@ We gaan voor jou zo'n elevator pitch maken (die je daarna moeiteloos kunt opdreu
 3. Zorg ervoor dat daarna het verhaaltje via een *alert()* naar de gebruiker gaat. Zie onderstaande screenshot. Kijk goed naar **Codevoorbeeld 1** hieronder om te zien hoe je het verhaaltje aan elkaar knoopt.
 
 ```javascript
-	// 
 	var school = "Koning Willem 1 College";
 	var hobby = "voetballen";
 	
 	alert("Ik zit momenteel op het" + school + ". En mijn hobby is" + hobby);
 ```
-*Codevoorbeeld 1: Het aan elkaar plakken van Strings in JavaScript*
+
+**Eindresultaat:**
+![Zo moet het eruit komen zien!](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht232.png)
+*Codevoorbeeld 1: Het aan elkaar plakken van Strings in JavaScript gebeurt met het + teken. In PHP gebeurt dit met het . teken*
+
+
+
