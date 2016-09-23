@@ -115,9 +115,6 @@ We gaan deze keer wat kunst maken door middel van de *Console.log()* functie. We
 Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren. 
 3. Maak een screenshot van je Console tab waarop deze 3 kunstwerken te zien zijn en sla deze op in de map waar je HTML/JS bestanden bevinden. De naam hiervoor mag je zelf verzinnen
 
-
->> Wellicht moet je zelf nog wat extra enters of spaties plaatsen als het kopiëren / plakken op jouw specifieke systeem wat anders werkt. Kijk daarom goed de afbeeldingen die in je Console komen na!
-
 <table>
 	<tr>
 		<td>
@@ -134,10 +131,10 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 		<td>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<pre>```
 
-.        /\_/\
-    ____/ o o \
-  /~____  =ø= /
- (______)__m_m)
+.        /\\_/\\\r\n
+    ____/ o o \\\r\n
+	/~____  =\u00F8= /\r\n
+	(______)__m_m)
 
  ```
 </pre>
@@ -146,14 +143,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<pre>
 ```
 
-.          /\ /|
-          |||| |
-           \ | \
-       _ _ /  @ @
-     /    \   =>X<=
-   /|      |   /
-   \|     /__| |
-     \_____\ \__\
+.          /\\ /|\r\n          |||| |\r\n           \\ | \\\r\n       _ _ /  @ @\r\n     /    \\   =>X<=\r\n   /|      |   /\r\n   \\|     /__| |\r\n     \\_____\\ \\__\\
 
 ```	 
 </pre>
@@ -162,19 +152,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<pre>
 ```
 
-
-.          .--._.--.
-          ( O     O )
-          /   . .   \
-         .`._______.'.
-        /(           )\
-      _/  \  \   /  /  \_
-   .~   `  \  \ /  /  '   ~.
-  {    -.   \  V  /   .-    }
-_ _`.    \  |  |  |  /    .'_ _
->_       _} |  |  | {_       _<
- /. - ~ ,_-'  .^.  `-_, ~ - .\
-         '-'|/   \|`-`
+.          .--._.--.\r\n          ( O     O )\r\n          /   . .   \\\r\n         .`._______.'.\r\n        /(           )\\\r\n      _/  \\  \\   /  /  \\_\r\n   .~   `  \\  \\ /  /  '   ~.\r\n  {    -.   \\  V  /   .-    }\r\n_ _`.    \\  |  |  |  /    .'_ _\r\n>_       _} |  |  | {_       _<\r\n /. - ~ ,_-'  .^.  `-_, ~ - .\\\r\n         '-'|/   \\|`-`
 
 ```		 
 </pre>
@@ -182,9 +160,33 @@ _ _`.    \  |  |  |  /    .'_ _
 	</tr>
 </table>
 
+>> Wellicht moet je zelf nog wat extra enters of spaties plaatsen als het kopiëren / plakken op jouw specifieke systeem wat anders werkt. Kijk daarom goed de afbeeldingen die in je Console komen na!
 
 ---
 
-## Opdracht 232
+## Opdracht 232 Prompt() en Console.log()
 
-Volgt snel!
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT232.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. ``
+
+### Elevator Pitch
+
+>> Een elevator pitch is een kort verkoop verhaaltje over jezelf, die je in de lift aan iemand kunt vertellen. Het idee erachter is dat je maximaal één minuut met iemand in de lift staat, dus dat je heel snel je verhaaltje moet kunnen doen. <a href="http://www.carrieretijger.nl/carriere/zelfmarketing/elevator-pitch' target="_blank">Meer over de elevator pitch</a>
+
+We gaan voor jou zo'n elevator pitch maken (die je daarna moeiteloos kunt opdreunen aan iedereen) doormiddel van JavaScript. Hiervoor gaan we door middel van *prompt()* eerst 4 vragen stellen aan de gebruiker, waarna we een mooi verhaaltje doormiddel van *alert()* doen.
+
+1. Maak een nieuw HTML bestand aan en koppel hier een JavaScript bestand aan. Zorg dat alle JavaScipt code in dit bestand komt te staan.
+2. Zorg ervoor dat een gebruiker eerst via 4 *prompt()*'s de volgende vragen krijgt. **Zorg dat de resultaten van de prompt() opgeslagen worden in verschillende variabelen** :
+	* Wat is je naam?
+	* Waar werk je of heb je gewerkt?
+	* Waar ben je goed in?
+	* Waar wil je over 5 jaar werken?
+3. Zorg ervoor dat daarna het verhaaltje via een *alert()* naar de gebruiker gaat. Zie onderstaande screenshot. Kijk goed naar **Codevoorbeeld 1** hieronder om te zien hoe je het verhaaltje aan elkaar knoopt.
+
+```javascript
+	// 
+	var school = "Koning Willem 1 College";
+	var hobby = "voetballen";
+	
+	alert("Ik zit momenteel op het" + school + ". En mijn hobby is" + hobby);
+```
+*Codevoorbeeld 1: Het aan elkaar plakken van Strings in JavaScript*
