@@ -54,5 +54,56 @@ Verschillen en overeenkomsten tussen getallen en strings:
 
 ## 6.4 Integers (gehele getallen)
 
+Met getallen kun je rekenen:
+
+~~~php
+echo $getal1 = 13;
+echo "<br>";
+echo $getal2 = 2;
+
+//de verschillende rekenkundige operatoren
+$plus = $getal1 + $getal2;
+$min = $getal1 - $getal2;
+$keer = $getal1 * $getal2;
+$delen = $getal1 / $getal2;
+$modulus = $getal1 % $getal2;
+$macht = $getal1 ** $getal2;
+
+echo "<br".$plus;
+echo "<br".$min;
+echo "<br".$keer;
+echo "<br".$delen;
+echo "<br".$modulus;
+echo "<br".$macht;
+
+//een variabele veranderen ten opzichte van zijn oude waarde
+
+$getal = 15;
+//de waarde is nu 15
+$getal = $getal + 5;
+// de waarde is veranderd in 20
+
+//Maar er is ook een verkorte notatie mogelijk
+$getal += 5;
+//waarde is 5 hoger dan de vorige => 25
+
+//dit kan ook met de andere operatoren
+$getal *= 2;
+//het getal is 2 * de oude waarde => 50
+
+//zo heb je nog een derde manier om getallen met 1 op te hogen of juist te verminderen
+$getal++;  //om de waarde met 1 op te hogen
+
+$getal--; // om de waarde met 1 te verlagen
+~~~
+
 
 ## 6.5 Floats (gebroken getallen)
+
+Gebroken getallen (floats) worden genoteerd met de . (punt) als decimale punt. (Dus niet de komma.)
+
+~~~php
+$getal = 2/3;
+
+echo $getal;
+~~~
