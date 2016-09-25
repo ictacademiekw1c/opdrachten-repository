@@ -22,24 +22,24 @@ Verschillen en overeenkomsten tussen getallen en strings:
 
 - Zowel strings als getallen worden opgeslagen in de computer in bits en bytes (een reeks van 0 en 1). Alleen de manier waarop verschilt.
     - De ruimte die een getal in gebruik neemt in het geheugen is afhankelijk van het datatype (integer of float) 
-        - Bijv een een geheel getal in PHP neemt 16 bits geheugenruimte in. Wat kun je daarin kwijt?
-
-        - Bekijk allereerst deze video:
-        - [![Uitleg bits and bytes](http://img.youtube.com/vi/EXYd9q2Ibn8/0.jpg)](http://www.youtube.com/watch?v=EXYd9q2Ibn8)
-
-    - Van een string neemt ieder karakter/letter neemt 1 byte(8 bits) in beslag
+    - Bijv een een geheel getal in PHP neemt 16 bits geheugenruimte in. Wat kun je daarin kwijt?
+    - Bekijk allereerst deze video:
+    - [![Uitleg bits and bytes](http://img.youtube.com/vi/EXYd9q2Ibn8/0.jpg)](http://www.youtube.com/watch?v=EXYd9q2Ibn8)
+- Van een string neemt ieder karakter/letter neemt 1 byte(8 bits) in beslag
     - Iedere letter komt overeen met een getal uit de ASCII tabel, bekijk de volgende video
     - [![Uitleg ASCII](http://img.youtube.com/vi/0VqcOSC10Yw/0.jpg)](http://www.youtube.com/watch?v=0VqcOSC10Yw)
 
+- [Bestudeer deze wiki pagina over binaire getallen](https://nl.wikipedia.org/wiki/Binair)
+
 ---
-## 5.3 Opdracht 60 Bits en bytes
+## 6.3 Opdracht 60 Bits en bytes
 
 ### Omschrijving 60
 
 1. Hoe wordt jouw naam (in kleine letters) in de computer opgeslagen?
-    a. Wat zijn de ASCII getallen voor ieder karakter
-    b. Wat zijn de binaire waardes
-    c. Hoeveel bits of bytes zijn ervoor nodig?
+    - Wat zijn de ASCII getallen voor ieder karakter
+    - Wat zijn de binaire waardes
+    - Hoeveel bits of bytes zijn ervoor nodig?
 
 2. Wat is het grootste getal dat je kan opslaan in 32bits?
     a. Als je alleen maar gehele positieve wil bewaren
@@ -51,3 +51,8 @@ Verschillen en overeenkomsten tussen getallen en strings:
 3. Je weet wat een ASCII tabel is je weet waarvoor het wordt gebruikt.
 
 ---
+
+## 6.4 Integers (gehele getallen)
+
+
+## 6.5 Floats (gebroken getallen)
