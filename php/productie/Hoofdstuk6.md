@@ -2,17 +2,17 @@
 
 ## 6.1 Wat ga je leren ?
 
-In dit hoofdstuk gaan we het hebben over getallen en strings en hoe ze worden opgeslagen in de computer.
+In dit hoofdstuk gaan we het hebben over getallen en strings en hoe ze worden opgeslagen in de computer. We leren wat bits en bytes zijn en wat het binaire stelsel is.
 
-Verder gaan we ons focussen op getallen
-Gehele getallen
+Verder gaan we ons focussen op getallen.
+### Gehele getallen
 - Wat zijn Integers.
 - Verschil tussen integers en strings
 - Rekenen met integers
 - Toekenningsoperatoren
 - Vermeerderings en verminderingsoperatoren
 
-Gebroken getallen
+### Gebroken getallen
 - Floats
 
 ## 6.2 Bits en bytes, opslag van gegevens
