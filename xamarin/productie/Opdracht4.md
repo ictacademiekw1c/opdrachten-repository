@@ -16,13 +16,15 @@ Later .... Skip voor nu.
 
 ## Voorbereiding 
 
-Bestudeer het volgende hoofdstuk uit de reader van Xamarin.Forms:
-[Naslag over Xaml versus Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/Productie/01.%20Reader/BookPreview2-Ch07-Rel0203.pdf)
-
-[Windows.Forms nog meer Xaml](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/Productie/01.%20Reader/BookPreview2-Ch08-Rel0203.pdf)
+Bestudeer de volgende hoofdstukken uit de reader van Xamarin.Forms:
+    1. [Naslag over Xaml versus Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/Productie/01.%20Reader/BookPreview2-Ch07-Rel0203.pdf)
+    2. [Windows.Forms nog meer Xaml](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/Productie/01.%20Reader/BookPreview2-Ch08-Rel0203.pdf)
 
 ## Opdrachtomschrijving
 
 Maak opdracht 2 opnieuw maar nu puur met Xaml pagina's.
 
-
+## Beoordelingscriteria
+- Iedere pagina wordt vanuit een xaml pagina geladen.
+- UX is dezelfde als in opdracht 2
+ 
