@@ -168,7 +168,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 
 ### Elevator Pitch
 
->> Een elevator pitch is een kort verkoop verhaaltje over jezelf, die je in de lift aan iemand kunt vertellen. Het idee erachter is dat je maximaal één minuut met iemand in de lift staat, dus dat je heel snel je verhaaltje moet kunnen doen. <a href="http://www.carrieretijger.nl/carriere/zelfmarketing/elevator-pitch' target="_blank">Meer over de elevator pitch</a>
+>> Een elevator pitch is een kort verkoop verhaaltje over jezelf, die je in de lift aan iemand kunt vertellen. Het idee erachter is dat je maximaal één minuut met iemand in de lift staat, dus dat je heel snel je verhaaltje moet kunnen doen. <a href="http://www.carrieretijger.nl/carriere/zelfmarketing/elevator-pitch" target="_blank">Meer over de elevator pitch</a>
 
 We gaan voor jou zo'n elevator pitch maken (die je daarna moeiteloos kunt opdreunen aan iedereen) doormiddel van JavaScript. Hiervoor gaan we door middel van *prompt()* eerst 4 vragen stellen aan de gebruiker, waarna we een mooi verhaaltje doormiddel van *alert()* doen.
 
