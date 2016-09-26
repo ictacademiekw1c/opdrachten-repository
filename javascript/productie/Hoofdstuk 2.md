@@ -157,11 +157,12 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 	</tr>
 </table>
 
+
 >> **Extra vraag**: Waarom denk je dat deze enorme lange code voor jou onleesbaar is, maar in de Console een mooie afbeelding geeft? Hint: <a href="http://www.the-art-of-web.com/javascript/escape/" target="_blank">JavaScript escape karakters</a>
 
 ---
 
-## Opdracht 232 Prompt() en Console.log()
+## Opdracht 232 prompt(), alert() en console.log()
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT232.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. ``
 
@@ -177,18 +178,28 @@ We gaan voor jou zo'n elevator pitch maken (die je daarna moeiteloos kunt opdreu
 	* Waar werk je of heb je gewerkt?
 	* Waar ben je goed in?
 	* Waar wil je over 5 jaar werken?
-3. Zorg ervoor dat daarna het verhaaltje via een *alert()* naar de gebruiker gaat. Zie onderstaande screenshot. Kijk goed naar **Codevoorbeeld 1** hieronder om te zien hoe je het verhaaltje aan elkaar knoopt.
+3. Zorg ervoor dat daarna het verhaaltje via een *alert()* naar de gebruiker gaat. Zie onderstaande screenshot. Kijk goed naar het codevoorbeeld hieronder om te zien hoe je het verhaaltje aan elkaar knoopt.
+4. Laat deze melding ook via *console.log()* zien
+5. Check je script in de browser. Zowel de *alert()* als de *console.log()* moeten werken
 
+
+*Codevoorbeeld: Het aan elkaar plakken van Strings in JavaScript gebeurt met het + teken. In PHP gebeurt dit met het . teken. Let hier goed op*
 ```javascript
 	var school = "Koning Willem 1 College";
-	var hobby = "voetballen";
+	var hobby = "vissen";
 	
-	alert("Ik zit momenteel op het" + school + ". En mijn hobby is" + hobby);
+	alert("Ik zit momenteel op het " + school + ". En mijn hobby is" + hobby);
 ```
 
-**Eindresultaat:**
+**Eindresultaat alert():**
 ![Zo moet het eruit komen zien!](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht232.png)
-*Codevoorbeeld 1: Het aan elkaar plakken van Strings in JavaScript gebeurt met het + teken. In PHP gebeurt dit met het . teken*
 
+--- 
 
+## Opdracht 233 
 
+### Deze opdracht komt zsm
+
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT232.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. ``
+
+### 
