@@ -191,7 +191,7 @@ We gaan voor jou zo'n elevator pitch maken (die je daarna moeiteloos kunt opdreu
 	alert("Ik zit momenteel op het " + school + ". En mijn hobby is" + hobby);
 ```
 
-**Eindresultaat alert():**
+**Zo moet het eindresultaat er uit komen te zien:**
 ![Zo moet het eruit komen zien!](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht232.png)
 
 --- 
