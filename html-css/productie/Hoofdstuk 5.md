@@ -3,6 +3,20 @@
 # Hoofdstuk 5
 
 ---
+## Kleurenpuzzel
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Kleurenkiezer%20puzzel.xlsx" target="_blank">Download kleurenpuzzel</a>
+
+### Onderwerpen
+*   Kleur begrijpen
+*   Kleuraanduidingen
+
+### Help
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+
+---
 ## Opdracht 5.1
 ---
 
@@ -16,6 +30,7 @@
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources/Opdracht%205.1%20-%20Banner.jpg" target="_blank">Download banner</a>
 
 ### Help
+*   <a href="http://colorpic.en.softonic.com/download-tracker?th=1%2F6CH9aeXedl4L8u%2BBHNJXWTW%2BLP1LFlnGQpxqjlxAMn8VI9fo0LozyCbJq4G4RzXNuTw231kyydQ2CpJMzvqb3zwKUBbPC3MOYWQiZo0MdLHiw68VE5xJXVZ347XZmU1dMorKWgax96jhjw8%2Fli17%2FPdlhIMiwynqZGyq5VpVU%3D" target="_blank">Kleurenkiezer</a>
 *   Kleur begrijpen
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources/KleurBegrijpen.png">
 *   Kleuraanduidingen
