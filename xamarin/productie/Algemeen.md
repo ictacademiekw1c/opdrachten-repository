@@ -16,13 +16,13 @@ De beoordeling van de opdrachten en het project wordt nog bekend gemaakt.
 Een recent boekwerk over [Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) is hier gratis te downloaden. 
 
 ## En verder ook nog..
-Ook zullen er nog onderwerpen aangesneden worden die in leerjaar 2 zijn behandeld en onderdeel zouden kunnen zijn van het examen. Dit zijn de onderwerpen:
+Ook zullen er nog onderwerpen aangesneden worden die in leerjaar 2 zijn behandeld en onderdeel zijn van het examen. Dit zijn de onderwerpen:
 
 - Beschrijven van werkprocessen (procedures) met behulp van flowcharts.
 - Uitvoeren en rapporteren c.q. documenteren van een applicatie test  .
 - Digitaal archief: het creeren van digitale van rapportages m.b.v. Crystal Reports in Visual Studio
-- Kostenberekening en het fenomeen prijselasticiteit
-- Een tweetal C# windows forms opdrachten
+- Kostenberekening en het fenomeen prijselasticiteit.
+- Een tweetal C# windows forms opdrachten.
 
 
 
