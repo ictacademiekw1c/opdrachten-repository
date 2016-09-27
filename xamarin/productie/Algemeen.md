@@ -12,7 +12,7 @@ De beoordeling van de opdrachten en het project wordt nog bekend gemaakt.
 
 ## B. Examenonderdelen
 
-Ook zullen er nog onderwerpen aangesneden worden die in leerjaar 2 zijn behandeld en onderdeel zijn van het examen. Dit zijn de onderwerpen:
+Ook zullen er nog onderwerpen aangesneden worden die in leerjaar 2 zijn behandeld (of volledig nieuw zijn) en onderdeel zijn van het examen. Dit zijn de onderwerpen:
 
 - Beschrijven van werkprocessen (procedures) met behulp van flowcharts.
 - Uitvoeren en rapporteren c.q. documenteren van een applicatie test  .
