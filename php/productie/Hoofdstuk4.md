@@ -100,23 +100,23 @@ Na de laatste verandering is de mop veranderd in:
 
 ~~~php
     Weekend! Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
-    //Gebruik: substr() om de $mop om te zetten naar:
+    //1. Gebruik: substr() om de $mop om te zetten naar:
     Waarom gaat een Belg op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
     
-    //Gebruik: str_replace() om de $mop om te zetten naar:
+    //2. Gebruik: str_replace() om de $mop om te zetten naar:
     Waarom gaat een blondje op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
     
-    //Gebruik: substr_replace() om de $mop om te zetten naar:
+    //3. Gebruik: substr_replace() om de $mop om te zetten naar:
     Waarom gooit een blondje op vrijdag door het raam naar buiten? Het weekend staat voor de deur.
    
-   //Gebruik: str_replace() om de $mop om te zetten naar:
+   //4. Gebruik: str_replace() om de $mop om te zetten naar:
     Waarom gooit een blondje tijdens een spelletje door het raam naar buiten? Het weekend staat voor de deur.
     
-    //Gebruik: str_replace() om de $mop om te zetten naar:
+    //5. Gebruik: str_replace() om de $mop om te zetten naar:
     Waarom gooit een blondje tijdens een spelletje door het raam naar buiten? .
     positie 'door' is: <positie> lengte mop: <lengte>
     
-    //Gebruik: substr_replace() met een negatieve waarde (zie voorbeeld 2 in de gelinkte pagina) om $mop om te zetten naar:
+    //6. Gebruik: substr_replace() met een negatieve waarde (zie voorbeeld 2 in de gelinkte pagina) om $mop om te zetten naar:
     Waarom gooit een blondje tijdens een spelletje de dobbelsteen tegen het plafond? Wie het hoogst gooit, mag beginnen.
 ~~~
 
