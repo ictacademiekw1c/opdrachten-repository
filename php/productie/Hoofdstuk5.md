@@ -110,3 +110,19 @@ if (bosschenaar?) ....
 3. Je script geeft geen foutmeldingen als je de juiste get-parameters en waarden toevoegt aan je url
 4. De visuele weergave van je script is afhankelijk van de waardes van de get-parameters.
 ---
+
+### Extra - hoe voorkom je foutmeldingen met gebruikte $_GET['parameters']?
+
+~~~php
+
+//Door het te testen met de isset() functie op de volgende manier:
+
+if (isset($_GET['naam'])) {
+
+    $naam = $_GET['naam'];
+} else {
+
+    $naam = "Een andere waarde als de get niet bestaat";
+}
+
+~~~
