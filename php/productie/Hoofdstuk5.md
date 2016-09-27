@@ -115,7 +115,7 @@ if (bosschenaar?) ....
 
 ~~~php
 
-//Door het te testen met de isset() functie op de volgende manier:
+//Door het te testen op het bestaan van de  get-parameter met de isset() functie op de volgende manier:
 
 if (isset($_GET['naam'])) {
 
