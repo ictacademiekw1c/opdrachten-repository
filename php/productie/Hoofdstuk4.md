@@ -116,7 +116,7 @@ Na de laatste verandering is de mop veranderd in:
     Waarom gooit een blondje tijdens een spelletje door het raam naar buiten? .
     positie 'door' is: <positie> lengte mop: <lengte>
     
-    //Gebruik: substr_replace() met een negatieve waarde (zie voorbeeld 3 in de gelinkte pagina) om $mop om te zetten naar:
+    //Gebruik: substr_replace() met een negatieve waarde (zie voorbeeld 2 in de gelinkte pagina) om $mop om te zetten naar:
     Waarom gooit een blondje tijdens een spelletje de dobbelsteen tegen het plafond? Wie het hoogst gooit, mag beginnen.
 ~~~
 
