@@ -209,4 +209,4 @@ De gebruiker voert dus via een *prompt()* het aantal Celcius graden in, waarna h
 2. Unzip de bestanden in je JavaScript huiswerk map
 3. Koppel het bestand */js/Script.js* aan *fahrenheit.html* via de &lt;script&gt; tag
 4. Open het bestand *js/Script.js* in je editor en volg de 4 stappen die daar aangegeven staan. Je moet je JavaScript dus in Script.js plaatsen
-5. Check je scriptje werkt via je browser. Vergeet niet de *console.log()* te checken! 
+5. Check je scriptje via je browser. Vergeet niet de *console.log()* te checken! 
