@@ -1,6 +1,6 @@
 # Xamarin en examenstof 2016-2017
 
-## A.Doel
+## A. Doel
 
 Vanuit dit portaal worden de opdrachten van deze studieroute gepubliceerd, maar ook wordt hier examenstof behandeld zoals verder wordt uitgelegd.
 
