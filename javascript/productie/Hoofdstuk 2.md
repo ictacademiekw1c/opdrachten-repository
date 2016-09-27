@@ -203,6 +203,7 @@ We gaan voor jou zo'n elevator pitch maken (die je daarna moeiteloos kunt opdreu
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html) in een een rar met naam OPDRACHT233.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. ``
 
 We gaan een tool bouwen die de temperatuur in Celcius naar Fahrenheit kan omrekenen. Hiervoor kun je het volgende rekensommetje gebruiken: *(Fahrenheit = Celsius * (9/5) + 32)*
+
 De gebruiker voert dus via een *prompt()* het aantal Celcius graden in, waarna het programma de hoeveelheid Fahrenheit in een *alert()* weergeeft. That's it, that's all!
 
 1. Download het bestand <a href="https://elo.kw1c.nl/CMS/_STUDYROUTE_FOLDERS/33/25187 AO Leerjaar 1 Periode 1/21745/[Bo16 JAV] Javascript [AO o 01]/734D14CA-39E9-44B1-8C5D-9B57DADF6F85/aae05ce7/Opdracht 233.zip">Opdracht 233.zip</a>
