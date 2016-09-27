@@ -1,8 +1,8 @@
 # Xamarin en examenstof 2016-2017
 
-## Doel
+## A.Doel
 
-Vanuit dit portaal worden de opdrachten van deze studieroute gepubliceerd.
+Vanuit dit portaal worden de opdrachten van deze studieroute gepubliceerd, maar ook wordt hier examenstof behandeld zoals verder wordt uitgelegd.
 
 In periode 9 worden een aantal (ca. 6 Andoid Apps opdrachten) opgegeven. Het zijn allemaal losstaande Android Apps, die individueel moeten worden gemaakt en opgeleverd.
 
@@ -10,11 +10,7 @@ De opdrachten zijn voorbereidend aan het Xamarin project die in periode 10 is ge
 
 De beoordeling van de opdrachten en het project wordt nog bekend gemaakt.
 
-## Naslag Xamarin.Forms
-
-Een recent boekwerk over [Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) is hier gratis te downloaden. 
-
-## Examenonderdelen
+## B. Examenonderdelen
 
 Ook zullen er nog onderwerpen aangesneden worden die in leerjaar 2 zijn behandeld en onderdeel zijn van het examen. Dit zijn de onderwerpen:
 
