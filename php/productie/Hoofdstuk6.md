@@ -56,6 +56,7 @@ Verschillen en overeenkomsten tussen getallen en strings:
 
 Met getallen kun je rekenen:
 
+### Voorbeeld 1
 ~~~php
 echo $getal1 = 13;
 echo "<br>";
@@ -76,13 +77,16 @@ echo "<br".$delen;
 echo "<br".$modulus;
 echo "<br".$macht;
 
-//een variabele veranderen ten opzichte van zijn oude waarde
+~~~
 
+### Voorbeeld 2
+
+~~~php
+//een variabele veranderen ten opzichte van zijn oude waarde
 $getal = 15;
 //de waarde is nu 15
 $getal = $getal + 5;
 // de waarde is veranderd in 20
-
 //Maar er is ook een verkorte notatie mogelijk
 $getal += 5;
 //waarde is 5 hoger dan de vorige => 25
@@ -97,9 +101,7 @@ $getal++;  //om de waarde met 1 op te hogen
 $getal--; // om de waarde met 1 te verlagen
 ~~~
 
-
 ## 6.5 Floats (gebroken getallen)
-
 Gebroken getallen (floats) worden genoteerd met de . (punt) als decimale punt. (Dus niet de komma.)
 
 ~~~php
@@ -107,3 +109,22 @@ $getal = 2/3;
 
 echo $getal;
 ~~~
+
+## Opdracht 61
+
+### Opdrachtomschrijving 61
+
+Volg de code in voorbeeld 1 hierboven. Pas deze code aan zodat:
+- De getallen uit een get-parameter worden gehaald
+- De visuele weergave is zoals in de afbeelding die hieronder volgt
+- De pagina een geldige html document is (alle content bevindt zich in de body; er worden bijv h1 en p en br gebruikt voor de structuur
+
+### Visuele weergave 61
+![Visuele weergave 61](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht61.PNG?raw=true)
+
+
+### Beoordelingscriteria 61
+
+1. Visuele weergave als hierboven
+2. Geldige html
+3. Er is gebruik gemaakt van php-commentaar.
