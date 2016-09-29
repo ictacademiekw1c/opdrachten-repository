@@ -112,7 +112,7 @@ echo $getal;
 
 ## Opdracht 61
 
-### Opdrachtomschrijving 61
+### 6.6 Opdrachtomschrijving 61
 
 Volg de code in voorbeeld 1 hierboven. Pas deze code aan zodat:
 - De getallen uit een get-parameter worden gehaald
