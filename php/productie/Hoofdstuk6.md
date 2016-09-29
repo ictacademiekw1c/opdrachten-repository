@@ -67,7 +67,7 @@ $min = $getal1 - $getal2;
 $keer = $getal1 * $getal2;
 $delen = $getal1 / $getal2;
 $modulus = $getal1 % $getal2;
-$macht = $getal1 ** $getal2;
+
 
 echo "<br".$plus;
 echo "<br".$min;
