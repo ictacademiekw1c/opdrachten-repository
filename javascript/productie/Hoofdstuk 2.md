@@ -157,7 +157,7 @@ Gebruik onderstaande stukken tekst als voorbeeld om te kopiëren.
 	</tr>
 </table>
 
-
+<br>
 >> **Extra vraag**: Waarom denk je dat deze enorme lange code voor jou onleesbaar is, maar in de Console een mooie afbeelding geeft? Hint: <a href="http://www.the-art-of-web.com/javascript/escape/" target="_blank">JavaScript escape karakters</a>
 
 ---

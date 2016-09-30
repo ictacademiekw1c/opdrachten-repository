@@ -1,77 +1,16 @@
-ï»¿#### [setSubMenuHeader] Opdrachten
-# Hoofdstuk 3
-
-## Opdracht 311 Datatypes
-
-`` Opleveren: Werk de opdracht uit in een Word bestand genaamd opdracht311.docx.
-Comprimeer het bestand naar opdracht311.rar en upload het naar je portfolio.``
-
-Vul onderstaande tabel in door onderstaande literals of expressies toe te kennen aan een variabele.
-De vraag voor iedere literal/expressie (per rij) is welke datatype het uiteindelijk oplevert. 
-
-Onze tip is om de code daadwerkelijk uit te voeren in een apart .html bestand of direct in de console van de Inspector (via de F12 toets).
-
-** Voorbeeldexpressie: **
-```javascript
-var variable001 = 'javascript';
-console.log(variabele001); //in je console zie je nu â€˜javascriptâ€™ en kun je concluderen dat het een string is
-//of met typeof
-Console.log(typeof variable001); 
-```
-Voor dit voorbeeld zou je dus in opdracht311.docx in je tabel noteren: 
-<table>
-	<tr>
-		<th>**Expressie/literal**</th>
-		<th>**Datatype van de uitkomst**</th>
-	</tr>
-	<tr>
-		<td>'javascript'</td>
-		<td>string</td>
-	</tr>
-</table>
-		
-** Geef van de volgende expressies / literals de datatypes op: **
-<table>
-	<th>** Wat is het datatype van de volgende expressies/literals ?**
-	<tr><td>'javascript'</td></tr>
-	<tr><td>1 + 4</td></tr>
-	<tr><td>20.3</td></tr>
-	<tr><td>2 * 3</td></tr>
-	<tr><td>4 + '8'</td></tr>
-	<tr><td>2 * (4 + '8')</td></tr>
-	<tr><td>'jos' + ' ' + 'Verbeek' </td></tr>
-	<tr><td>false</td></tr>
-	<tr><td>true</td></tr>
-	<tr><td>undefined</td></tr>
-	<tr><td>'abu'</td></tr>
-	<tr><td>89 + 'netherlands'</td></tr>
-	<tr><td>'20' * 1</td></tr>
-	<tr><td>999.22</td></tr>
-</table>
-** Mogelijke datatypes: **
-<table>
-	<tr>
-		<td>**string**</td>
-		<td>**number**</td>
-		<td>**boolean**</td>
-		<td>**NaN / undefined**</td>
-		<td>**Ongeldig (levert syntaxfout op)**</td>
-	</tr>
-</table>
-
 ## Opdracht 312 Variabelenamen
 
 `` Opleveren: Werk de opdracht uit in een Word bestand genaamd opdracht312.docx.
 Comprimeer het bestand naar opdracht312.rar en upload het naar je portfolio.``
 
 Zijn onderstaande variabelenamen geldig of niet geldig? Controleer het aan de hand van de regels die in de reader van dit hoofdstuk zijn beschreven.
-Test de geldigheid van onderstaande variabelenamen via de console van de Inspector (via de F12 toets). Noteer daarna je bevindingen in opdracht312.rar.
+Test de geldigheid van onderstaande variabelenamen via de console van de Inspector. Noteer daarna je bevindingen in opdracht312.rar.
 
 Volg de stappen:
 1. Declareer de variabele naam
 2. Geef de variable een waarde (getal of integer);
 3. Schrijf de waarde naar het console
-4. Krijg je gÃ©Ã©n foutmelding, dan kun je de conclusie trekken dat de variabelenaam geldig is
+4. Krijg je géén foutmelding, dan kun je de conclusie trekken dat de variabelenaam geldig is
 5. Zet in het Word bestand of de variabele geldig is of ongeldig en vermeld ook de reden
 
 ** Voorbeeldcode **
@@ -93,11 +32,12 @@ Teller1 = 10;
 	</tr>
 </table>
 
+
 ## Opdracht 313 Operatoren
 
 ### Operatoren
 
-`` Opleveren: KopieÃ«er ieder regel uit de onderstaande tabel over naar een nieuw HTML bestand (Opdracht313.html) en voeg na iedere regel een console.log(score) toe.
+`` Opleveren: Kopieëer ieder regel uit de onderstaande tabel over naar een nieuw HTML bestand (Opdracht313.html) en voeg na iedere regel een console.log(score) toe.
 ``
 
 Kijk in het console van je browser wat er wordt geprint, en zet die waarde achter de regel in je code in commentaar.``
@@ -188,74 +128,7 @@ console.log(score); // 0
 
 ** Let op: Het is belangrijk dat je alle bovenstaande codes in 1 HTML bestand plaatst. **
 
-## Opdracht 314 TRUE or FALSE
 
-### TRUE or FALSE
-
-`` Opleveren: Werk de opdracht uit in een nieuw bestand genaamd opdracht314.html.
-Comprimeer de bestanden naar opdracht314.rar en upload het naar je portfolio.``
-
-Bepaal de uiteindelijke waarde van de onderstaande condities in de tabel.
-Ga uit van de volgende declaraties en initialisaties:
-
-```javascript
-var a=20, b= 9, c=1, d=null;
-
-var dag1 = â€˜maandagâ€™;
-var dag2 = â€˜dinsdagâ€™;
-var dag3 = â€˜Dinsdagâ€™;
-
-var score = 100;
-```
-
-** Voer daarna de volgende condities uit en bepaal of deze TRUE of FALSE zijn ** 
-
-<table>
-	<tr>
-		<th></th>
-		<th>** TRUE of FALSE</th>
-	</tr>
-	<tr>
-		<td>score === 100</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>score !==100</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>score < 20 || score >50 </td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>score > 0 && score > 99 </td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>score < 30 || score > 100 || 1==1 </td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>a === 20 && b<8 && c<3 </td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>a === 20 && b>8 || c<3 </td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>a == d </td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>dag1 != dag2</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>dag3 == dag2</td>
-		<td></td>
-	</tr>	
-</table>
 
 ## Opdracht 315 Built in / Standaard functies
 
@@ -270,9 +143,9 @@ Ga uit van de volgende code en plaats dit in het body gedeelte van een html-docu
 ```javascript
 <script>
 
-var tekst = â€˜De Bossche burgemeester Ton Rombouts geneert zich voor de wijze waarop
+var tekst = ‘De Bossche burgemeester Ton Rombouts geneert zich voor de wijze waarop
 toeschouwers Jozy Altidore hebben bejegend tijdens de wedstrijd van FC Den Bosch. Dat laat
-hij weten in een persoonlijk brief aan de AZ-speler.â€™;
+hij weten in een persoonlijk brief aan de AZ-speler.’;
 
 /*
 Schrijf hier je code van de onderstaande opdrachten. Je moet de standaard functies gebruiken
@@ -290,11 +163,11 @@ Gebruik bij de volgende 2 opdrachten de variabelen pos1 en pos2 uit opdracht 1 e
 
 2. Zet de eerste zin uit de variabele tekst in een nieuwe variabele zin1.
 3. Zet de tweede zin uit de variabele tekst in een nieuwe variabele zin2
-4. Verwijder â€˜Ton Romboutsâ€™ uit zin1.
+4. Verwijder ‘Ton Rombouts’ uit zin1.
 5. Vervang Bossche door BOSSCHE in zin1.
-6. Vervang â€˜Jozy Altidoreâ€™ door â€˜de AZ-spelerâ€™ in zin 1.
-7. Vervang â€˜Datâ€™ in zin2 door â€˜Het volgendeâ€™
-8. Vervang â€˜de AZ-spelerâ€™ door â€˜de voetballerâ€™ in zin1 en in zin2.
+6. Vervang ‘Jozy Altidore’ door ‘de AZ-speler’ in zin 1.
+7. Vervang ‘Dat’ in zin2 door ‘Het volgende’
+8. Vervang ‘de AZ-speler’ door ‘de voetballer’ in zin1 en in zin2.
 9. Print met document.write() eerst zin2 en vervolgens zin1; 
 
 ** Dit moet uiteindelijk het resultaat zijn: **
@@ -313,11 +186,11 @@ Comprimeer beide bestanden naar opdracht316.rar en upload het naar je portfolio.
 Ga uit van de volgende code en plaats dit in het body gedeelte van een html-document.
 
 ```javascript
-var leerlingen = [â€˜Mohammedâ€™, â€˜Tolgaâ€™, â€˜Ademâ€™,â€™Thomasâ€™, â€˜Jeanâ€™];
+var leerlingen = [‘Mohammed’, ‘Tolga’, ‘Adem’,’Thomas’, ‘Jean’];
 
-document.write(â€˜<p>De eerste leerling is <strong>â€™);
+document.write(‘<p>De eerste leerling is <strong>’);
 
-document.write(leerlingen[0] + â€˜</strong></p>â€™);
+document.write(leerlingen[0] + ‘</strong></p>’);
 /* schrijf na deze regel je code van opdracht 1 */
 /* schrijf na deze regel je code van opdracht 2 */
 /* schrijf na deze regel je code van opdracht 3 */
