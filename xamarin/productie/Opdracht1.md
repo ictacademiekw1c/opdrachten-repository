@@ -2,6 +2,10 @@
 
 ## Hello world Xamarin forms
 
+## Naslag Xamarin.Forms
+
+Een recent boekwerk over [Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) is hier gratis te downloaden. 
+
 ## Voorbereiding
 
 Je hebt alle software geinstalleerd (Visual Studio 2015, Android SDK, Xamarin, Visual Studio Android Player). Zie [video](https://developer.xamarin.com/videos/?v=Installing_Xamarin_on_Windows).
