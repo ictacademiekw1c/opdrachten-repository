@@ -9,6 +9,7 @@
 
 >> **Tip:** Je kunt voortaan de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer. De presentaties komen online na het einde van iedere week.
 
+
 >> In deze opdracht ga je een verhaal bedenken waar de gebruiker zelf bepaalde onderdelen (zoals namen, plaatsen, etc) gaat invoeren. Het verhaal mag je volledig zelf bedenken (gebruik je creativeit). Ook mag je het geheel uitbreidden met bv *confirm()*, etc. Je bent hier vrij in, maar je moet wel aan de minimaal gestelde eisen voldoen!
 
 1. Download en unzip het bestand <a href="https://elo.kw1c.nl/CMS/_STUDYROUTE_FOLDERS/33/25187 AO Leerjaar 1 Periode 1/21745/[Bo16 JAV] Javascript [AO o 01]/734D14CA-39E9-44B1-8C5D-9B57DADF6F85/422bf47f/Opdracht310.zip" target="_blank">Opdracht310.zip</a>
