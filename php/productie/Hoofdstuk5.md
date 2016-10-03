@@ -111,7 +111,7 @@ if (bosschenaar?) ....
 4. De visuele weergave van je script is afhankelijk van de waardes van de get-parameters.
 ---
 
-### Extra - hoe voorkom je foutmeldingen met gebruikte $_GET['parameters']?
+## 5.5 Extra - hoe voorkom je foutmeldingen met gebruikte $_GET['parameters']?
 
 ~~~php
 
