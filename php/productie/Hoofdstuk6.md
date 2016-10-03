@@ -99,6 +99,7 @@ $getal++;  //om de waarde met 1 op te hogen
 
 $getal--; // om de waarde met 1 te verlagen
 ~~~
+---
 
 ## 6.5 Floats (gebroken getallen)
 Gebroken getallen (floats) worden genoteerd met de . (punt) als decimale punt. (Dus niet de komma.)
@@ -138,7 +139,40 @@ Volg de code in voorbeeld 1 hierboven. Pas deze code aan zodat:
 
 
 ### Beoordelingscriteria 61
-
 1. Visuele weergave als hierboven
 2. Geldige html
 3. Er is gebruik gemaakt van php-commentaar.
+
+---
+
+## 6.7 Opdracht 62
+
+### Opdrachtomschrijving 62
+Wat is de uiteindelijke waarde van de variabele $getal?
+
+~~~php
+$getal = 20021964; // Neem je geboortedatum - 20 geb 1964 
+$leeftijd = 52; //Neem je leeftijd
+
+$getal++;
+
+$getal /=$leeftijd;
+
+$getal = ceil($getal);
+
+$getal--;
+
+$getal +=50;
+
+$getal /=3;
+
+$getal = $getal % 15;
+~~~
+
+
+### Beoordelingscriteria 62
+
+1. Je kunt uitleggen wat de waarde is na iedere regel code/verandering.
+2. Je hebt in commentaar erachter gezet wat de waarde is.
+3. Bewaar het script als opdracht62.php en upload het gerarde bestand.
+4. Neem als beginwaardes je eigen geboortedatum (01011998 <= 1 jan 1998) en leeftijd
