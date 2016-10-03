@@ -14,6 +14,7 @@ Verder gaan we ons focussen op getallen.
 
 ### Gebroken getallen
 - Floats
+- De afrondfuncties round(), floor() en ceil() 
 
 ## 6.2 Bits en bytes, opslag van gegevens
 
@@ -69,14 +70,12 @@ $keer = $getal1 * $getal2;
 $delen = $getal1 / $getal2;
 $modulus = $getal1 % $getal2;
 
-
 echo "<br".$plus;
 echo "<br".$min;
 echo "<br".$keer;
 echo "<br".$delen;
 echo "<br".$modulus;
 echo "<br".$macht;
-
 ~~~
 
 ### Voorbeeld 2
@@ -105,9 +104,24 @@ $getal--; // om de waarde met 1 te verlagen
 Gebroken getallen (floats) worden genoteerd met de . (punt) als decimale punt. (Dus niet de komma.)
 
 ~~~php
+<?php
+//float is een gebroken getal; alle getallen die geen integers zijn
 $getal = 2/3;
+echo $getal; // 0.66666666666667 Let op! het is geen komma
 
-echo $getal;
+//afronden op 2 getallen na de komma
+echo "<br>";
+echo round($getal,2);
+
+//afronden naar boven
+echo "<br>";
+echo ceil($getal); //1
+
+//afronden naar beneden
+echo "<br>";
+echo floor($getal); //0
+
+?>
 ~~~
 
 ## Opdracht 61
