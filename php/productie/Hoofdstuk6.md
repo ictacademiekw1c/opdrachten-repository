@@ -10,7 +10,7 @@ Verder gaan we ons focussen op getallen.
 - Verschil tussen integers en strings
 - Rekenen met integers
 - Toekenningsoperatoren
-- Vermeerderings en verminderingsoperatoren
+- Vermeerderings++ en verminderingsoperatoren--
 
 ### Gebroken getallen
 - Floats
@@ -19,7 +19,7 @@ Verder gaan we ons focussen op getallen.
 ## 6.2 Bits en bytes, opslag van gegevens
 
 Verschillen en overeenkomsten tussen getallen en strings:
-- Met getallen kun je rekenen - operatoren: + - * / % **
+- Met getallen kun je rekenen - operatoren: + - * / % 
 
 - Zowel strings als getallen worden opgeslagen in de computer in bits en bytes (een reeks van 0 en 1). Alleen de manier waarop verschilt.
     - De ruimte die een getal in gebruik neemt in het geheugen is afhankelijk van het datatype (integer of float) 
@@ -124,9 +124,9 @@ echo floor($getal); //0
 ?>
 ~~~
 
-## Opdracht 61
+## 6.6 Opdracht 61
 
-### 6.6 Opdrachtomschrijving 61
+### Opdrachtomschrijving 61
 
 Volg de code in voorbeeld 1 hierboven. Pas deze code aan zodat:
 - De getallen uit een get-parameter worden gehaald
