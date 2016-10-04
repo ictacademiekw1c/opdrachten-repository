@@ -171,9 +171,7 @@ $getal /=3;
 $getal = $getal % 15;
 ~~~
 
-
 ### Beoordelingscriteria 62
-
 1. Je kunt uitleggen wat de waarde is na iedere regel code/verandering.
 2. Je hebt in commentaar erachter gezet wat de waarde is.
 3. Bewaar het script als opdracht62.php en upload het gerarde bestand.
