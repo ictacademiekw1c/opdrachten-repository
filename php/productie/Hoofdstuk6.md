@@ -32,6 +32,8 @@ Verschillen en overeenkomsten tussen getallen en strings:
 
 - [Bestudeer deze wiki pagina over binaire getallen](https://nl.wikipedia.org/wiki/Binair)
 
+- [Als je meer wil weten over de werking (en geschiedenis) van computers en de transistor (nullen en enen) in het bijzonder...](http://ed.ted.com/lessons/how-transistors-work-gokul-j-krishnan)
+
 ---
 ## 6.3 Opdracht 60 Bits en bytes
 
@@ -137,14 +139,14 @@ Volg de code in voorbeeld 1 hierboven. Pas deze code aan zodat:
 ### Visuele weergave 61
 ![Visuele weergave 61](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht61.PNG?raw=true)
 
-
 ### Beoordelingscriteria 61
 1. Visuele weergave als hierboven
 2. Geldige html
 3. Er is gebruik gemaakt van php-commentaar.
+4. Je maakt gebruik van get-parameters om de getallen door te geven
+5. Je maakt gebruik van de isset() functie (zie hoofdstuk 5 laatste paragraaf) om te voorkomen dat je foutmeldingen krijgt als er geen get-parameters worden doorgegeven.
 
 ---
-
 ## 6.7 Opdracht 62
 
 ### Opdrachtomschrijving 62
