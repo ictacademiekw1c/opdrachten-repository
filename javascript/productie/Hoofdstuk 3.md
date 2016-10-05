@@ -1,7 +1,7 @@
 ﻿#### [setSubMenuHeader] Opdrachten
 # Hoofdstuk 3
 
-## Opdracht 310
+## Opdracht 310 document.getElementById()
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT310.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. ``
 
@@ -19,13 +19,14 @@
 5. Verander (via JavaScript uiteraard) de src van het img element met ID "image1" naar: http://placekitten.com/g/600/650. Check of je de kat te zien krijgt! Zie de presentaties van Week 6, les 1 voor meer info (Slide #6)
 6. Zorg ervoor dat in de Console de datum van vandaag en jouw komen te staan.
 
-
 --- 
 
 ## Opdracht 320 Datatypes
 
 `` Opleveren: Werk de opdracht uit in een Word bestand genaamd opdracht311.docx.
-Comprimeer het bestand naar opdracht311.rar en upload het naar je portfolio.``
+Comprimeer het bestand naar opdracht320.rar en upload het naar je portfolio.``
+
+### Datatypes
 
 Vul onderstaande tabel in door onderstaande literals of expressies toe te kennen aan een variabele.
 De vraag voor iedere literal/expressie (per rij) is welke datatype het uiteindelijk oplevert. 
@@ -35,9 +36,13 @@ Onze tip is om de code daadwerkelijk uit te voeren in een apart .html bestand of
 ** Voorbeeldexpressie: **
 ```javascript
 var variable001 = 'javascript';
+
+// Manier 1: via console.log()
 console.log(variabele001); //in je console zie je nu ‘javascript’ en kun je concluderen dat het een string is
-//of met typeof
-Console.log(typeof variable001); 
+
+//Manier 2: met typeof
+console.log(typeof variable001);
+ 
 ```
 Voor dit voorbeeld zou je dus in opdracht311.docx in je tabel noteren: 
 <table>
@@ -87,7 +92,7 @@ Voor dit voorbeeld zou je dus in opdracht311.docx in je tabel noteren:
 ### TRUE or FALSE
 
 `` Opleveren: Werk de opdracht uit in een nieuw bestand genaamd opdracht314.html.
-Comprimeer de bestanden naar opdracht314.rar en upload het naar je portfolio.``
+Comprimeer de bestanden naar opdracht330.rar en upload het naar je portfolio.``
 
 Bepaal de uiteindelijke waarde van de onderstaande condities in de tabel.
 Ga uit van de volgende declaraties en initialisaties:
@@ -107,7 +112,7 @@ var score = 100;
 <table>
 	<tr>
 		<th></th>
-		<th>** TRUE of FALSE</th>
+		<th>**TRUE of FALSE**</th>
 	</tr>
 	<tr>
 		<td>score === 100</td>
@@ -150,3 +155,10 @@ var score = 100;
 		<td></td>
 	</tr>	
 </table>
+
+--- 
+
+## Opdracht 340 parseInt(), isNan en parseFloat()
+
+`` Opleveren: Werk de opdracht uit in een nieuw bestand genaamd opdracht340.html.
+Comprimeer de bestanden naar opdracht314.rar en upload het naar je portfolio.``
