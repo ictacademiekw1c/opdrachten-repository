@@ -4,8 +4,23 @@
 
 In dit hoofdstuk worden: 
 - if else constructies verder verdiept
-- wat booleaanse expressies zijn
+- wat booleaanse expressies met
+
+    ==  precies gelijk aan
+    <   kleiner dan
+    <=  kleiner dan of gelijk
+    >   groter dan
+    >=  groter dan of gelijk aan
+    <>  ongelijk aan
+
 - and en or in booleaanse expressies
+
+    - && and
+    - || or
+
+- nesten van if else constructies
+
 - shorthand notatie if else
+
 
 ## 7.2 Voorbeeld en uitleg  
