@@ -6,12 +6,12 @@ In dit hoofdstuk worden:
 - if else constructies verder verdiept
 - wat booleaanse expressies met
 
-    ==  precies gelijk aan
-    <   kleiner dan
-    <=  kleiner dan of gelijk
-    >   groter dan
-    >=  groter dan of gelijk aan
-    <>  ongelijk aan
+    - ==  precies gelijk aan
+    - <   kleiner dan
+    - <=  kleiner dan of gelijk
+    - &gt;   groter dan
+    - &gt;=  groter dan of gelijk aan
+    - <>  ongelijk aan
 
 - and en or in booleaanse expressies
 
