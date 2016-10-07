@@ -1,6 +1,5 @@
 # Opdracht 5
 
-
 ## 5.1 Xaml pagina's en databinding
 
 In xaml pagina's declareer je in feite de opbouw en de elementen van een scherm.
