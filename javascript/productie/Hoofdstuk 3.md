@@ -176,8 +176,8 @@ De gebruiker krijgt via HTML zijn ingevoerde getallen te zien en de uitkomst van
 
 
 >> Kom je er niet uit? Lees hieronder meer
->> parseInt() <a href="http://www.w3schools.com/jsref/jsref_parseint.asp" target="_blank">Lees meer</a>
->> isNan() <a href="http://www.w3schools.com/jsref/jsref_isnan.asp" target="_blank">Lees meer</a>
+>> parseInt() <a href="http://www.w3schools.com/jsref/jsref_parseint.asp" target="_blank">Lees meer</a><br>
+>> isNan() <a href="http://www.w3schools.com/jsref/jsref_isnan.asp" target="_blank">Lees meer</a><br>
 >> parseFloat() <a href="http://www.w3schools.com/jsref/jsref_parsefloat.asp"target="_blank">Lees meer</a>
 
 --- 
@@ -212,8 +212,8 @@ Je gaat veel met IF's werken, dus maak je niet druk als je denkt dat het er teve
 10. Klaar! Lever de opdracht in via de in rood bovenstaande instructies. Vergeet niet de opdracht af te tekenen bij de docent!
 
 >> Kom je er niet uit? Lees hieronder meer
->> indexOf()() <a href="http://www.w3schools.com/jsref/jsref_indexof.asp" target="_blank">Lees meer</a>
->> lastIndexOf()() <a href="http://www.w3schools.com/jsref/jsref_lastindexof.asp" target="_blank">Lees meer</a>
->> toUpperCase() <a href="http://www.w3schools.com/jsref/jsref_touppercase.asp"target="_blank">Lees meer</a>
->> toLowerCase() <a href="http://www.w3schools.com/jsref/jsref_tolowercase.asp"target="_blank">Lees meer</a>
+>> indexOf()() <a href="http://www.w3schools.com/jsref/jsref_indexof.asp" target="_blank">Lees meer</a><br>
+>> lastIndexOf()() <a href="http://www.w3schools.com/jsref/jsref_lastindexof.asp" target="_blank">Lees meer</a><br>
+>> toUpperCase() <a href="http://www.w3schools.com/jsref/jsref_touppercase.asp"target="_blank">Lees meer</a><br>
+>> toLowerCase() <a href="http://www.w3schools.com/jsref/jsref_tolowercase.asp"target="_blank">Lees meer</a><br>
 >> replace() <a href="http://www.w3schools.com/jsref/jsref_replace.asp"target="_blank">Lees meer</a>
