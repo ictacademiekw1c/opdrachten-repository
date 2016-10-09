@@ -210,3 +210,10 @@ Je gaat veel met IF's werken, dus maak je niet druk als je denkt dat het er teve
 	- Vervang zoekwoord2 door "JavaScript"
 	- Vervang zoekwoord3 door "harambe"
 10. Klaar! Lever de opdracht in via de in rood bovenstaande instructies. Vergeet niet de opdracht af te tekenen bij de docent!
+
+>> Kom je er niet uit? Lees hieronder meer
+>> indexOf()() <a href="http://www.w3schools.com/jsref/jsref_indexof.asp" target="_blank">Lees meer</a>
+>> lastIndexOf()() <a href="http://www.w3schools.com/jsref/jsref_lastindexof.asp" target="_blank">Lees meer</a>
+>> toUpperCase() <a href="http://www.w3schools.com/jsref/jsref_touppercase.asp"target="_blank">Lees meer</a>
+>> toLowerCase() <a href="http://www.w3schools.com/jsref/jsref_tolowercase.asp"target="_blank">Lees meer</a>
+>> replace() <a href="http://www.w3schools.com/jsref/jsref_replace.asp"target="_blank">Lees meer</a>
