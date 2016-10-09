@@ -23,7 +23,7 @@
 
 ## Opdracht 320 Datatypes
 
-`` Opleveren: Werk de opdracht uit in een Word bestand genaamd opdracht311.docx.
+`` Opleveren: Werk de opdracht uit in een Word bestand genaamd opdracht320.docx.
 Comprimeer het bestand naar opdracht320.rar en upload het naar je portfolio.``
 
 ### Datatypes
@@ -44,7 +44,7 @@ console.log(variabele001); //in je console zie je nu ‘javascript’ en kun je 
 console.log(typeof variable001);
  
 ```
-Voor dit voorbeeld zou je dus in opdracht311.docx in je tabel noteren: 
+Voor dit voorbeeld zou je dus in opdracht3320.docx in je tabel noteren: 
 <table>
 	<tr>
 		<th>**Expressie/literal**</th>
@@ -91,7 +91,7 @@ Voor dit voorbeeld zou je dus in opdracht311.docx in je tabel noteren:
 
 ### TRUE or FALSE
 
-`` Opleveren: Werk de opdracht uit in een nieuw bestand genaamd opdracht314.html.
+`` Opleveren: Werk de opdracht uit in een nieuw bestand genaamd opdracht3330.rar
 Comprimeer de bestanden naar opdracht330.rar en upload het naar je portfolio.``
 
 Bepaal de uiteindelijke waarde van de onderstaande condities in de tabel.
@@ -158,7 +158,36 @@ var score = 100;
 
 --- 
 
-## Opdracht 340 parseInt(), isNan en parseFloat()
+## Opdracht 340 parseInt() en isNan
 
-`` Opleveren: Werk de opdracht uit in een nieuw bestand genaamd opdracht340.html.
-Comprimeer de bestanden naar opdracht314.rar en upload het naar je portfolio.``
+`` Opleveren: Werk de opdracht uit in een nieuw bestand genaamd opdracht340.rar.
+Comprimeer de bestanden naar opdracht340.rar en upload het naar je portfolio. Laat het ook aftekenen door de docent``
+
+### Maak een rekenmachine met parseInt(), isNan en parseFloat()
+
+We gaan in deze opdracht een rekenmachine maken die 2 getallen kan vermenigvuldigen met elkaar. De getallen zullen ingevoerd worden door de gebruiker.
+De gebruiker krijgt via HTML zijn ingevoerde getallen te zien en de uitkomst van 
+
+1. Download het bestand <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/03.%20Scripts/Huiswerk/Opdracht340.zip">Opdrachr340.zip</a> en pak deze uit.
+2. Lees en maak de 7 opdrachten zoals beschreven in Script.js
+3. Check of je rekenmachine aan de onderstaande eisen voldoet
+	- Je gebruikt parseInt()
+	- Je gebruikt isNan om te controleren of de invoer van de gebruiker daadwerkelijk een getal is
+	- HTML elementen "getal1", "getal2" en "uitkomst" worden via document.getElementById() gevuld
+
+
+>> Kom je er niet uit? Lees hieronder meer
+>> parseInt() <a href="http://www.w3schools.com/jsref/jsref_parseint.asp" target="_blank">Lees meer</a>
+>> isNan() <a href="http://www.w3schools.com/jsref/jsref_isnan.asp" target="_blank">Lees meer</a>
+>> parseFloat() <a href="http://www.w3schools.com/jsref/jsref_parsefloat.asp"target="_blank">Lees meer</a>
+
+--- 
+
+## Opdracht 350 Zoeken in Strings
+
+`` Opleveren: Werk de opdracht uit in een nieuw bestand genaamd opdracht350.rar.
+Comprimeer de bestanden naar opdracht350.rar en upload het naar je portfolio. Laat het ook aftekenen door de docent``
+
+
+
+
