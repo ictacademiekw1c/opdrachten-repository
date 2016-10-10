@@ -6,7 +6,7 @@ In xaml pagina's declareer je in feite de opbouw en de elementen van een scherm.
 Als er geen koppeling zou zijn met variabelen, classes en events zou het een statische scherm blijven.
 Met binding kun je ervoor zorgen dat scherm(/-onderdelen) gekoppeld zijn aan je code en daardoor dynamisch is.
  
-## 5.2 Voorbeeld aan de hand van de feedback App
+## 5.2 Implementatie Xaml en databinding in de Feedback App 
 
 Hieronder een feedback App die bestaat uit 2 schermen:
 1. Een invoerscherm met een aantal usercontrols(views).
