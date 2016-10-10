@@ -209,7 +209,9 @@ Je gaat veel met IF's werken, dus maak je niet druk als je denkt dat het er teve
 	- Vervang zoekwoord1 door "Koning Willem 1 College"
 	- Vervang zoekwoord2 door "JavaScript"
 	- Vervang zoekwoord3 door "harambe"
-10. Klaar! Lever de opdracht in via de in rood bovenstaande instructies. Vergeet niet de opdracht af te tekenen bij de docent!
+10. Maak een P tag aan de de HTML met id "zin". Gebruik document.*getElementById()* om de zin te tonen in deze P tag. Let op: vergeet window*.onload()* niet!
+11. console.*log()* je naam en de datum van vandaag
+12. Klaar! Lever de opdracht in via de in rood bovenstaande instructies. Vergeet niet de opdracht af te tekenen bij de docent!
 
 >> Kom je er niet uit? Lees hieronder meer
 >> indexOf()() <a href="http://www.w3schools.com/jsref/jsref_indexof.asp" target="_blank">Lees meer</a><br>
