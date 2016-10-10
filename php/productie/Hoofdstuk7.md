@@ -22,9 +22,8 @@ In dit hoofdstuk worden:
 
 - shorthand notatie if else
 
-## 7.2 Voorbeelden
 
-### Wanneer en waar wordt het gebruikt?
+## 7.2 Wanneer en waar wordt het gebruikt?
 ~~~php
     //Tussen de ronde haakjes
     if () {
@@ -39,7 +38,7 @@ In dit hoofdstuk worden:
 ~~~
 - Hoe?
 
-### Voorbeeld 1 met strings
+## 7.3 Voorbeeld 1 met strings
 ~~~php
 
       $naam = "Sander";
@@ -72,7 +71,7 @@ In dit hoofdstuk worden:
 
 ~~~
 
-### Voorbeeld 2 met getallen
+## 7.3 Voorbeeld 2 met getallen
 ~~~php
 
     $leeftijd = 28;
@@ -109,7 +108,7 @@ In dit hoofdstuk worden:
 
 ~~~
 
-### Voorbeelden met and (&&) en or (||)
+## 7.3 Voorbeelden met and (&&) en or (||)
 
 && (and) en || (or) worden gebruikt om meerdere voorwaarden te kunnen combineren
 
@@ -154,3 +153,35 @@ Vertaling naar php-code:
 
 ~~~
 
+## 7.4 Opdracht 70
+
+Bestudeer, probeer zelf de code in bovenstaand voorbeeld 1.
+
+Declareer en initialiseer de variabele $mop met de waarde: 
+"Waarom gaan Belgen in Engeland nooit in een dubbeldekker boven zitten? Daar zit geen chauffeur."
+
+Test met een if-else constructie de volgende beweringen:
+1. De lengte van de mop is langer dan 100 karakters. (Tip: strlen()) 
+2. Het woord beneden komt voor in de mop. (Tip: strpos())
+3. De eerste 6 karakters van de mop is "Waarom"
+4. De laatste 10 karakters is gelijk aan "chauffeur."
+5. Er meer dan 1 keer het woord "in" wordt gebruikt.
+
+### Visuele weergave 70
+
+De mop:
+__Waarom gaan Belgen in Engeland nooit in een dubbeldekker boven zitten? Daar zit geen chauffeur.__
+
+- Heeft (g-/)een lengte van meer dan 100 tekens
+- Het woord beneden komt wel/niet voor in de mop.
+- De eerste 6 karakters van de mop is niet/wel waarom.
+- De laatste 10 is wel/niet gelijk aan chauffeur.
+- In de mop komt het woord in wel/niet meer dan 1 keer voor.
+
+### Beoordelingscriteria 70
+1. Geldige html code; content wordt alleen geprint in de body
+2. Sla het bestand op opdracht70.php in de map Hoofdstuk7
+3. Zowel de if code als de else code print de bevestiging/ontkenning van de bewering    
+
+## 7.5 Opdracht 71
+...volgt
