@@ -123,33 +123,34 @@ Voorbeelden van een combinatievragen (voorwaarden) zijn:
 Vertaling naar php-code:
 ~~~php
 
-    $leeftijd = 17;
+ $leeftijd = 17;
     $plaats = "Vught";
 
+    echo "leeftijd is $leeftijd en plaats is $plaats";
     // voorbeeld 1 van hierboven
     echo "<hr>";    
     if ($leeftijd <18 || $leeftijd >65) {
-        echo "Je bent of jong of heel oud";
+        echo "<br>Je bent of jong of heel oud";
     } 
     else {
-        echo "Je bent een volwassen persoon";        
+        echo "<br>Je bent een volwassen persoon";        
     } 
 
     //voorbeeld 2 van hierboven
     if ($leeftijd <18 && $plaats == "Den Bosch") {
-        echo "Je bent een jonge Bosschenaar";
+        echo "<br>Je bent een jonge Bosschenaar";
     } 
     else {
-        echo "Je bent oud en je komt niet uit Den Bosch";        
+        echo "<br>Je bent oud en je komt niet uit Den Bosch";        
     } 
 
     //voorbeeld 3 van hierboven
     if ($leeftijd <18 || $plaats == "Den Bosch") {
-        echo "Je bent een jong persoon of je woont in Den Bosch";
+        echo "<br>Je bent een jong persoon of je woont in Den Bosch";
     } 
     else {
-        echo "Je bent niet jong en je bent geen Bosschenaar;        
-    } 
+        echo "<br>Je bent niet jong en je bent geen Bosschenaar";        
+    }
 
 ~~~
 
