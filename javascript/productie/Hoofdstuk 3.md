@@ -111,8 +111,7 @@ var score = 100;
 
 <table>
 	<tr>
-		<th></th>
-		<th>**TRUE of FALSE**</th>
+		<th>**TRUE or FALSE**</th>
 	</tr>
 	<tr>
 		<td>score === 100</td>
@@ -177,8 +176,8 @@ De gebruiker krijgt via HTML zijn ingevoerde getallen te zien en de uitkomst van
 
 
 >> Kom je er niet uit? Lees hieronder meer
->> parseInt() <a href="http://www.w3schools.com/jsref/jsref_parseint.asp" target="_blank">Lees meer</a>
->> isNan() <a href="http://www.w3schools.com/jsref/jsref_isnan.asp" target="_blank">Lees meer</a>
+>> parseInt() <a href="http://www.w3schools.com/jsref/jsref_parseint.asp" target="_blank">Lees meer</a><br>
+>> isNan() <a href="http://www.w3schools.com/jsref/jsref_isnan.asp" target="_blank">Lees meer</a><br>
 >> parseFloat() <a href="http://www.w3schools.com/jsref/jsref_parsefloat.asp"target="_blank">Lees meer</a>
 
 --- 
@@ -188,6 +187,35 @@ De gebruiker krijgt via HTML zijn ingevoerde getallen te zien en de uitkomst van
 `` Opleveren: Werk de opdracht uit in een nieuw bestand genaamd opdracht350.rar.
 Comprimeer de bestanden naar opdracht350.rar en upload het naar je portfolio. Laat het ook aftekenen door de docent``
 
+### Zoeken in Strings
 
+In deze opdracht gaan we het een en het ander met een zin en zoekwoorden doen. Dit zal waarschijnlijk een wat langer JavaScript bestanden worden dan wat je gewend bent.
+Je gaat veel met IF's werken, dus maak je niet druk als je denkt dat het er teveel zijn.
 
+1. Maak een nieuw leeg .html bestand aan en koppel hier een extern Script.js bestand aan
+2. Declareer in Script.js de onder 3 variabelen. Geef zoekwoord1 de waarde "KW1C", de overige mag je zelf een waarde geven.
+	- zoekwoord1 (waarde 'KW1C')
+	- zoekwoord2 (zelf waarde bedenken)
+	- zoekwoord3 (zelf waarde bedenken)
+3. Vraag via een *prompt()* aan de gebruiker om een zin in te voeren. Sla deze zin op in een variabele (variabelenaam mag je zelf verzinnen).
+4. Check 3 keer via *if* statements, ism *indexOf()* of de zoekwoorden in de zin zitten. 
+	- Zit het woord er niet? Alert de tekst 'Helaas. Het woord *zoekwoord* zit niet in de zin' (vervang *zoekwoord* uiteraard door het zoekwoord) 
+	- Zit het woord er wel in? Alert de tekst 'Gevonden! Het woord *zoekwoord* zit in de zin.' (vervang *zoekwoord* uiteraard door het zoekwoord)
+5. Doe 	nogmaals hetzelfde, maar gebruik overal *lastIndexOf()* in plaats van *indexOf()*
+6. Gebruik hierna *substr()*  om de eerste 10 karakters van de zin te tonen via *alert()*
+7. *alert()* daarna de zin volledig in hoofdletters via *toUpperCase()*
+8. *alert()* daarna de zin volledig in lage letters via *toLowerCase()*
+9. Vervang in de zin de 3 zoekwoorden door onderstaande waardes. Gebruik *replace()* hiervoor. *alert()* daarna de aangepaste zin
+	- Vervang zoekwoord1 door "Koning Willem 1 College"
+	- Vervang zoekwoord2 door "JavaScript"
+	- Vervang zoekwoord3 door "harambe"
+10. Maak een P tag aan de de HTML met id "zin". Gebruik document.*getElementById()* om de zin te tonen in deze P tag. Let op: vergeet window*.onload()* niet!
+11. console.*log()* je naam en de datum van vandaag
+12. Klaar! Lever de opdracht in via de in rood bovenstaande instructies. Vergeet niet de opdracht af te tekenen bij de docent!
 
+>> Kom je er niet uit? Lees hieronder meer
+>> indexOf()() <a href="http://www.w3schools.com/jsref/jsref_indexof.asp" target="_blank">Lees meer</a><br>
+>> lastIndexOf()() <a href="http://www.w3schools.com/jsref/jsref_lastindexof.asp" target="_blank">Lees meer</a><br>
+>> toUpperCase() <a href="http://www.w3schools.com/jsref/jsref_touppercase.asp"target="_blank">Lees meer</a><br>
+>> toLowerCase() <a href="http://www.w3schools.com/jsref/jsref_tolowercase.asp"target="_blank">Lees meer</a><br>
+>> replace() <a href="http://www.w3schools.com/jsref/jsref_replace.asp"target="_blank">Lees meer</a>
