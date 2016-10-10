@@ -71,7 +71,7 @@ In dit hoofdstuk worden:
 
 ~~~
 
-## 7.3 Voorbeeld 2 met getallen
+## 7.4 Voorbeeld 2 met getallen
 ~~~php
 
     $leeftijd = 28;
@@ -108,7 +108,7 @@ In dit hoofdstuk worden:
 
 ~~~
 
-## 7.3 Voorbeelden met and (&&) en or (||)
+## 7.5 Voorbeelden met and (&&) en or (||)
 
 && (and) en || (or) worden gebruikt om meerdere voorwaarden te kunnen combineren
 
@@ -153,7 +153,7 @@ Vertaling naar php-code:
 
 ~~~
 
-## 7.4 Opdracht 70
+## 7.6 Opdracht 70
 
 Bestudeer, probeer zelf de code in bovenstaand voorbeeld 1.
 
@@ -183,5 +183,5 @@ __Waarom gaan Belgen in Engeland nooit in een dubbeldekker boven zitten? Daar zi
 2. Sla het bestand op opdracht70.php in de map Hoofdstuk7
 3. Zowel de if code als de else code print de bevestiging/ontkenning van de bewering    
 
-## 7.5 Opdracht 71
+## 7.7 Opdracht 71
 ...volgt
