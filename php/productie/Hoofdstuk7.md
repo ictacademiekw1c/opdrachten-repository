@@ -184,4 +184,10 @@ __Waarom gaan Belgen in Engeland nooit in een dubbeldekker boven zitten? Daar zi
 3. Zowel de if code als de else code print de bevestiging/ontkenning van de bewering    
 
 ## 7.7 Opdracht 71
-...volgt
+
+![opdracht71](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht71.png?raw=true)
+
+## 7.8 Opdracht 72
+
+![opdracht72](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht72.png?raw=true)
+
