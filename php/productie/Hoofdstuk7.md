@@ -140,7 +140,7 @@ Vertaling naar php-code:
         echo "<br>Je bent een jonge Bosschenaar";
     } 
     else {
-        echo "<br>Je bent oud en je komt niet uit Den Bosch";        
+        echo "<br>Je bent oud of je komt niet uit Den Bosch";        
     } 
 
     //voorbeeld 3 van hierboven
