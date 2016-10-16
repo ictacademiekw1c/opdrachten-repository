@@ -22,12 +22,29 @@ Is het getal na 3 pogingen nog niet geraden, dan heeft de gebruiker verloren. He
 >> Lees per deel goed de beoordelingcriteria door om te zien waar het spel minimaal aan moet voldoen.
 
 ## Deel 1: De opzet van "Raad het getal"
+
+We gaan de JavaScript en HTML bestanden opzetten van het spel. Ook gaan we een H1 element maken waarin je de bezoeker welkom heet en waarin jouw naam staat.
+
 1. Maak binnen WebMatrix een nieuwe website aan. Noem deze "getalRaden"
-2. 
+2. Maak een map genaamd "js" aan
+3. Maak hierin een nieuw JavaScript bestand genaamd "Script.js" aan.
+3. Koppel dit .js bestand in de HTML
+4. Maak in het HTML bestand (in de &st;body&gt;) een H1 element aan, waarin staat "Welkom bij Raad Het Getal. Gemaakt door *Jouw naam*". Vervang hier natuurlijk *Jouw naam*  door jouw naam!
+5. Check of je JavaScript bestand uitgevoerd wordt (bv door een tijdelijke *alert()* aan te maken)
+6. Launch in browser (en check je console)
+7. Ga door met deel 2
+
+### Beoordelingscritera deel1
+- Je hebt het JavaScript bestand in een map genaamd "js" staan
+- Het JavaScript is gekoppeld met de HTML
+- Je hebt een H1 element gemaakt met een begroeting en je naam erin
+
+
+
 
 ## Deel 2: Het spel bouwen
 
-In dit eerste deel maken we de meest simpele variant. Volg de instructies hieronder en hou je cheatsheet erbij!
+In dit tweede deel maken we de meest simpele variant. Volg de instructies hieronder en hou je cheatsheet erbij!
 
 1. Heet de gebruiker welkom via een *alert()*
 2. Leg in een nieuwe *alert()* kort de spelregels uit 
@@ -41,7 +58,7 @@ In dit eerste deel maken we de meest simpele variant. Volg de instructies hieron
 9. Schrijf je naam weg naar de *console.log()*
 10. Speel je spel een aantal keer om fouten te ontdekken
 
-### Beoordelingscritera deel 2:
+### Beoordelingscritera deel 2
 - Je meldingen gaan naar de gebruiker via *alert()*
 - Je input van de gebruiker krijg je via *prompt()*
 - Je mag maximaal 3 pogingen doen
@@ -50,4 +67,6 @@ In dit eerste deel maken we de meest simpele variant. Volg de instructies hieron
 - Je *if statements* hebben op de correcte plekken tab's
 
 
-## Deel 2:  Je score in de HTML
+
+
+## Deel 3:  Je score wegschrijven in de HTML
