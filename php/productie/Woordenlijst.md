@@ -22,6 +22,8 @@
   <dd>Je hebt een syntax fout gemmaakt in PHP; de interpreter stopt meteen de uitvoering van het script.</dd>
   <dt>### URL (Uniform Resource Locator)</dt>
   <dd>Website adres. Het adres dat je invult in de adresbalk van je browser.</dd>
+  <dt>Default waarde</dt>
+  <dd>Een standaard waarde die wordt ingesteld als er geen andere waarde wordt doorgegeven  of ingevoerd.</dd>
 
 </dl>
  

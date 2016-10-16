@@ -152,8 +152,34 @@ Vertaling naar php-code:
     }
 
 ~~~
+## 7.6 Nesten van if else constructies
 
-## 7.6 Opdracht 70
+Het komt vaak voor dat binnen een if-else constructie weer een if-else constructie nodig is. Voorbeeld...
+
+~~~php
+    //leeftijd if
+    if ($leeftijd > 25) {
+        //ook een plaats voorwaardelijkheid nodig
+        if ($plaats == "Den Bosch") {
+            $korting = "99%";
+        } //else is niet verplicht 
+        
+    }
+    else {
+        //nesten kan in de if mmar ook in de else
+        if($leeftijd<45) {
+            $korting= "33%";
+        }
+        else {
+            $korting = "40%";
+        }
+    
+    }
+~~~
+
+__Let op__: Zorg ervoor bij nesten dat je inspringt zoals hierboven, zodat je code leestbaar blijft. Vergeet ook geen commentaar te schrijven
+
+## 7.7 Opdracht 70
 
 Bestudeer, probeer zelf de code in bovenstaand voorbeeld 1.
 
@@ -183,11 +209,40 @@ __Waarom gaan Belgen in Engeland nooit in een dubbeldekker boven zitten? Daar zi
 2. Sla het bestand op opdracht70.php in de map Hoofdstuk7
 3. Zowel de if code als de else code print de bevestiging/ontkenning van de bewering    
 
-## 7.7 Opdracht 71
+## 7.8 Opdracht 71
+
+### Opdrachtomschrijving 71
+
+Maak een php-script dat ervoor zorgt dat bij een gekozen verzekeringstype (wa, casco of allrisk via een get-parameter) welke schade(/-oorzaak) wel of niet wordt gedekt. Ga uit van de volgende afbeelding.
 
 ![opdracht71](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht71.png?raw=true)
 
-## 7.8 Opdracht 72
+### Beoordelingscriteria 71
+1. Sla je script op opdracht71.php en upload het als rar in je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+3. Je maakt gebruik van een get-parameter met als default waarde "allrisk"
+4. Je toont alleen de schades die gedekt zijn voor het verzekeringstype
+5. Je maakt gebruik van een if else statement.
+
+## 7.9 Opdracht 72
+
+### Opdrachtomschrijving 72
+
+Maak een php-script dat ervoor zorgt dat uitgaande van 2 get-parameters:
+1. Aantal personen op 1 pas
+2. Bezoeknummer 1,2,3,4,5
+
+Het juiste kortingspercentage wordt geprint. Ga uit van de standaardwaarde voor aantal personen 1, en voor bezoeknummer ook 1.
+ 
+Ga uit van de volgende afbeelding.
 
 ![opdracht72](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht72.png?raw=true)
+
+### Beoordelingscriteria 72
+1. Sla je script op opdracht72.php en upload het als rar in je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+3. Je maakt gebruik van 2 get-parameters
+4. De namen van de variabelen zijn geldig en zinvol
+5. Je hebt in een if-else statement de && (and) of || (or) operator gebruikt.
+6. Je test je script op alle mogelijke combinaties van de get-parameters   
 
