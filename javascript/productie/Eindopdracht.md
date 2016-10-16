@@ -92,7 +92,13 @@ Alle onderstaande acties moeten dus pas uitgevoerd worden op het moment dat het 
 - Je hebt gebruik gemaakt van document.getElementById()
 - Je hebt gebruik gemaakt van het *window.onload()* event
 
-`` Uploaden en opsturen: Je pakt alle bestanden in een rar bestand en upload deze naar je JavaScript map in je portfolio op N@tschool. Maak hiervoor een extra map aan genaamd "Eindopdracht peridoe 1" en upload je rar bestand hierin! `` 
-
 ![Hoe de HTML er in je browser uit moet komen te zien](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/Screenshot.png)
-* Zo moet 
+*Voorbeeld hoe de pagina er ongeveer uit moet zien*
+
+<br><br>
+
+
+## Opsturen van je opdracht
+Je hoeft de opdracht niet af te tekenen, maar alleen tijdens de laatste les deze te uploaden.
+
+`` Uploaden en opsturen: Je pakt alle bestanden in een rar bestand en upload deze naar je JavaScript map in je portfolio op N@tschool. Maak hiervoor een extra map aan genaamd "Eindopdracht peridoe 1" en upload je rar bestand hierin! `` 
