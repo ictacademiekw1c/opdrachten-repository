@@ -185,9 +185,37 @@ __Waarom gaan Belgen in Engeland nooit in een dubbeldekker boven zitten? Daar zi
 
 ## 7.7 Opdracht 71
 
+### Opdrachtomschrijving 71
+
+Maak een php-script dat ervoor zorgt dat bij een gekozen verzekeringstype (wa, casco of allrisk via een get-parameter) welke schade(/-oorzaak) wel of niet wordt gedekt. Ga uit van de volgende afbeelding.
+
 ![opdracht71](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht71.png?raw=true)
+
+### Beoordelingscriteria 71
+1. Sla je script op opdracht71.php en upload het als rar in je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+3. Je maakt gebruik van een get-parameter met als default waarde "allrisk"
+4. Je toont alleen de schades die gedekt zijn voor het verzekeringstype
 
 ## 7.8 Opdracht 72
 
+### Opdrachtomschrijving 72
+
+Maak een php-script dat ervoor zorgt dat uitgaande van 2 get-parameters:
+1. Aantal personen op 1 pas
+2. Bezoeknummer 1,2,3,4,5
+
+Het juiste kortingspercentage wordt geprint. Ga uit van de standaardwaarde voor aantal personen 1, en voor bezoeknummer ook 1.
+ 
+Ga uit van de volgende afbeelding.
+
 ![opdracht72](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht72.png?raw=true)
+
+### Beoordelingscriteria 72
+1. Sla je script op opdracht72.php en upload het als rar in je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+3. Je maakt gebruik van 2 get-parameters
+4. De namen van de variabelen zijn geldig en zinvol
+5. Je hebt in een if-else statement de && (and) of || (or) operator gebruikt.
+6. Je test je script op alle mogelijke combinaties van de get-parameters   
 
