@@ -1,4 +1,5 @@
 # Eindopdracht
+`` Uploaden en opsturen: Je pakt alle bestanden in een rar bestand en upload deze naar je JavaScript map in je portfolio op N@tschool. Maak hiervoor een extra map aan genaamd "Eindopdracht peridoe 1" en upload je rar bestand hierin! `` 
 
 ## Spel: Raad het getal!
 
@@ -18,6 +19,7 @@ Is het getal na 3 pogingen nog niet geraden, dan heeft de gebruiker verloren. He
 ![Activiteitendiagram](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/Activeitendiagram.png)
 *Hier zie je hoe de gebruikersacties verlopen tijdens het spel. Deze opzet gaan wij nambouwen in ons spel*
 
+<br><br><br>
 
 >> Lees per deel goed de beoordelingcriteria door om te zien waar het spel minimaal aan moet voldoen.
 
@@ -40,7 +42,7 @@ We gaan de JavaScript en HTML bestanden opzetten van het spel. Ook gaan we een H
 - Je hebt een H1 element gemaakt met een begroeting en je naam erin
 
 
-
+<br><br><br>
 
 ## Deel 2: Het spel bouwen
 
@@ -68,7 +70,7 @@ In dit tweede deel maken we de meest simpele variant. Volg de instructies hieron
 - Je *if statements* hebben op de correcte plekken tab's
 
 
-
+<br><br><br>
 
 ## Deel 3:  Je score wegschrijven in de HTML
 
@@ -90,7 +92,7 @@ Alle onderstaande acties moeten dus pas uitgevoerd worden op het moment dat het 
 - Je hebt gebruik gemaakt van document.getElementById()
 - Je hebt gebruik gemaakt van het *window.onload()* event
 
-`` Uploaden: 
+`` Uploaden en opsturen: Je pakt alle bestanden in een rar bestand en upload deze naar je JavaScript map in je portfolio op N@tschool. Maak hiervoor een extra map aan genaamd "Eindopdracht peridoe 1" en upload je rar bestand hierin! `` 
 
 ![Hoe de HTML er in je browser uit moet komen te zien](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/Screenshot.png)
 * Zo moet 
