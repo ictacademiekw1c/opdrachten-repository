@@ -16,11 +16,38 @@ Is het getal na 3 pogingen nog niet geraden, dan heeft de gebruiker verloren. He
 
 **Activiteitendiagram**<br>
 ![Activiteitendiagram](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/Activeitendiagram.png)
-*Hier zie je hoe de gebruikersacties verlopen tijdens het spel. Deze opzet gaan wij namaken*
+*Hier zie je hoe de gebruikersacties verlopen tijdens het spel. Deze opzet gaan wij nambouwen in ons spel*
 
 
 >> Lees per deel goed de beoordelingcriteria door om te zien waar het spel minimaal aan moet voldoen.
 
+## Deel 1: De opzet van "Raad het getal"
+1. Maak binnen WebMatrix een nieuwe website aan. Noem deze "getalRaden"
+2. 
 
-### Deel 1: De opzet van "Raad het getal"
-In dit eerste deel maken we de meest simpele variant. 
+## Deel 2: Het spel bouwen
+
+In dit eerste deel maken we de meest simpele variant. Volg de instructies hieronder en hou je cheatsheet erbij!
+
+1. Heet de gebruiker welkom via een *alert()*
+2. Leg in een nieuwe *alert()* kort de spelregels uit 
+3. Bereken random een getal tussen de 1 en 10 en schrijf deze weg naar een variabele genaamd *getal*. Gebruik hiervoor deze code: ```var getal = parseInt( Math.random() * 10 + 1);``` 
+4. Vraag in een *prompt()* aan de gebruiker om een eerste getal op te geven
+5. Check via een *if statement* of het opgegeven getal gelijk, hoger of lager is dan het random *getal* van stap 3. Tip: Gebruik een *else if* om de 3 opties te checken
+6. Geef de correcte melding aan de gebruiker (zie *voorbeeld 1* hieronder voor de 3 opties die er zijn)
+![De 3 voorbeelden van opties](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/3opties.png)
+7. Zorg ervoor dat de gebruiker 3 keer mag raden (tip: gebruik hiervoor meerdere <a href="http://javascript.about.com/od/decisionmaking/a/des09.htm">nested if statements</a>)
+8. *alert()* op het einde van het spel het correcte antwoord naar de gebruiker
+9. Schrijf je naam weg naar de *console.log()*
+10. Speel je spel een aantal keer om fouten te ontdekken
+
+### Beoordelingscritera deel 2:
+- Je meldingen gaan naar de gebruiker via *alert()*
+- Je input van de gebruiker krijg je via *prompt()*
+- Je mag maximaal 3 pogingen doen
+- Na het correct raden van het getal krijg je een felicitatie te zien en is het spel afgelopen
+- Het spel werkt correct
+- Je *if statements* hebben op de correcte plekken tab's
+
+
+## Deel 2:  Je score in de HTML
