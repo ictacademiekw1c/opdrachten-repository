@@ -31,7 +31,7 @@ We gaan de JavaScript en HTML bestanden opzetten van het spel. Ook gaan we een H
 2. Maak een map genaamd "js" aan
 3. Maak hierin een nieuw JavaScript bestand genaamd "Script.js" aan.
 3. Koppel dit .js bestand in de HTML
-4. Maak in het HTML bestand (in de &st;body&gt;) een H1 element aan, waarin staat "Welkom bij Raad Het Getal. Gemaakt door *Jouw naam*". Vervang hier natuurlijk *Jouw naam*  door jouw naam!
+4. Maak in het HTML bestand (in de &lt;body&gt;) een H1 element aan, waarin staat "Welkom bij Raad Het Getal. Gemaakt door *Jouw naam*". Vervang hier natuurlijk *Jouw naam*  door jouw naam!
 5. Check of je JavaScript bestand uitgevoerd wordt (bv door een tijdelijke *alert()* aan te maken)
 6. Launch in browser (en check je console)
 7. Check de beoordelingscriteria (om te checken of je overal aan voldoet) en ga door met deel 2
