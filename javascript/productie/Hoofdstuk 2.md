@@ -196,7 +196,7 @@ We gaan voor jou zo'n elevator pitch maken (die je daarna moeiteloos kunt opdreu
 
 --- 
 
-## Opdracht 233 
+## Opdracht 233 Fahrenheit
 
 ### Celsius naar Fahrenheit
 

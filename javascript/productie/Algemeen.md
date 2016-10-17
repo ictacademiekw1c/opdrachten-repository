@@ -24,6 +24,11 @@ Hieronder zie de deadlines van inleveren van je opdrachten
 | Opdrachten 200 + 201 | 23 september   |
 | Opdrachten 221 + 222 + 230 |  30 september  |
 | Opdracht 231 + 232 + 233 | 7 oktober | 
+| Opdracht 310 + 320 + 330| 14 oktober |
+| Opdracht 340 + 350 | **Let op:** 17 oktober |
+
+<br> 
+
 **Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op** 
 
 ## Opleveren opdrachten

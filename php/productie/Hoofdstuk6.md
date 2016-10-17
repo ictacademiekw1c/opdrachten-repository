@@ -153,7 +153,7 @@ Volg de code in voorbeeld 1 hierboven. Pas deze code aan zodat:
 Wat is de uiteindelijke waarde van de variabele $getal?
 
 ~~~php
-$getal = 20021964; // Neem je geboortedatum - 20 geb 1964 
+$getal = 20021964; // Neem je geboortedatum - 20 feb 1964 
 $leeftijd = 52; //Neem je leeftijd
 
 $getal++;
