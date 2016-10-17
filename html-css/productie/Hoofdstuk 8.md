@@ -63,3 +63,24 @@
 ### Help
 *   Mappenstructuur en relatieve URL's
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Resources/mappenstructuur.png">
+
+---
+## Opdracht 8.4
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Opdracht%208.3.pdf" target="_blank">Download opdracht 8.4</a>
+
+### Onderwerpen
+*   Links openen in een nieuw tabblad
+*   Relatieve URL's
+*   Ankers
+*   Links vormgeven
+*   Inline / blok wijzigen
+
+### Benodigde bestanden
+*   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+*   <a href="http://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_a_href_anchor" target="_blank">Ankers</a>
+
