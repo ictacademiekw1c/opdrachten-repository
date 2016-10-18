@@ -46,7 +46,7 @@ Verschillen en overeenkomsten tussen getallen en strings:
 
 2. Wat is het grootste getal dat je kan opslaan in 32bits?
     a. Als je alleen maar gehele positieve wil bewaren
-    b. Als je ook negatieve gehele getallen wil opslaan. 
+    b. Als je ook negatieve gehele getallen wil opslaan. Tip: Zie het filmpje over de "Signed Bits"
 
 ### Beoordelingscriteria 60
 1. Je hebt een word document aangemaakt met de vragen en antwoorden opdracht60.docx
