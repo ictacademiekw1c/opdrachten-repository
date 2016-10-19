@@ -96,7 +96,7 @@ Alle onderstaande acties moeten dus pas uitgevoerd worden op het moment dat het 
 - De winnaar krijgt een andere gif te zien dan een verliezer
 
 ![Hoe de HTML er in je browser uit moet komen te zien](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/Screenshot.png)
-*Voorbeeld hoe de pagina er ongeveer uit moet zien*
+*Voorbeeld hoe de pagina er ongeveer uit moet zien. De .gif afbeelding zie je niet, deze staat namelijk onder de tekst*
 
 <br><br>
 
