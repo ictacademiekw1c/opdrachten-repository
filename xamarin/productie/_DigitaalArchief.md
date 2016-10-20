@@ -22,7 +22,17 @@ Crystal reports kan als extensie worden toegevoegd aan Visual Studio.
 
 [Downloaden van Crystal Repots vanaf de SAP site](http://go.sap.com/netherlands/product/analytics/crystal-visual-studio.html)
 
-## Naslag rapportages met Crystal Reports in Visual Studio
 
-## Materiaal - Naslag en Opdrachten
+## Materiaal - Naslag/Opdrachten
+
+[Naslag en oefenopdrachten](https://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811v Vakinhoudelijke MBO  AO/1.19 Digitaal archief/95311 AO/Semester 5 [Periode 9 en 10]/Crystal Reports/Reader Crystal Reports.doc)
+
+### Downloads t.b.v. opdrachten
+
+- [crystalreport.sql](https://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811v Vakinhoudelijke MBO  AO/1.19 Digitaal archief/95311 AO/Semester 5 [Periode 9 en 10]/Crystal Reports/crystalreport.sql)
+
+- [euroreizen.rar](https://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811v Vakinhoudelijke MBO  AO/1.19 Digitaal archief/95311 AO/Semester 5 [Periode 9 en 10]/Crystal Reports/euroreizen.rar)
+
+- [xtreme2011.rar](https://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811v Vakinhoudelijke studieroutes/811 Ontwikkelen van applicaties/Applicatiebeheer/Cohort 2011/Crystal Reports/xtreme2011.rar)
+
 
