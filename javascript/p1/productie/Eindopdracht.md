@@ -16,7 +16,7 @@ Is het getal na 3 pogingen nog niet geraden, dan heeft de gebruiker verloren. He
 
 
 **Activiteitendiagram**<br>
-![Activiteitendiagram](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/Activeitendiagram.png)
+![Activiteitendiagram](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p1/productie/afbeeldingen/eindopdracht/Activeitendiagram.png)
 *Hier zie je hoe de gebruikersacties verlopen tijdens het spel. Deze opzet gaan wij naabouwen in ons spel*
 
 <br><br><br>
@@ -54,7 +54,7 @@ In dit tweede deel maken we de meest simpele variant. Volg de instructies hieron
 4. Vraag in een *prompt()* aan de gebruiker om een eerste getal op te geven
 5. Check via een *if statement* of het opgegeven getal gelijk, hoger of lager is dan het random *getal* van stap 3. Tip: Gebruik een *else if* om de 3 opties te checken
 6. Geef de correcte melding aan de gebruiker (zie voorbeeld 1 hieronder voor de 3 opties die er zijn)
-![De 3 voorbeelden van opties](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/3opties.png)
+![De 3 voorbeelden van opties](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p1/productie/afbeeldingen/eindopdracht/3opties.png)
 7. Zorg ervoor dat de gebruiker 3 keer mag raden (tip: gebruik hiervoor meerdere <a href="http://javascript.about.com/od/decisionmaking/a/des09.htm">nested if statements</a>)
 8. *alert()* op het einde van het spel het correcte antwoord naar de gebruiker
 9. Schrijf je naam weg naar de *console.log()*
@@ -78,7 +78,7 @@ In het derde en laatste gedeelte gaan we het resultaat van het spel wegschrijven
 Alle onderstaande acties moeten dus pas uitgevoerd worden op het moment dat het spel klaar is.
 
 1. Maak in de HTML de volgende structuur:
-	- ![Hoe de HTML er in je browser uit moet komen te zien](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/Screenshot2.png) 
+	- ![Hoe de HTML er in je browser uit moet komen te zien](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p1/productie/afbeeldingen/eindopdracht/Screenshot2.png) 
 2. Zet je JavaScript code binnen een *window.onload( function() {   })*. Zie cheatsheet voor meer info
 3. Zodra het spel is afgelopen:
 	- Zodra het spel afgelopen is, schrijf via *document.getElementById()* de uitkomst (of hij gewonnen / verloren heeft) een stukje tekst naar het H2 element met ID "result"  
@@ -95,7 +95,7 @@ Alle onderstaande acties moeten dus pas uitgevoerd worden op het moment dat het 
 - Je hebt gebruik gemaakt van het *window.onload()* event
 - De winnaar krijgt een andere gif te zien dan een verliezer
 
-![Hoe de HTML er in je browser uit moet komen te zien](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/Screenshot.png)
+![Hoe de HTML er in je browser uit moet komen te zien](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p1/productie/afbeeldingen/eindopdracht/Screenshot.png)
 *Voorbeeld hoe de pagina er ongeveer uit moet zien. De .gif afbeelding zie je niet, deze staat namelijk onder de tekst*
 
 <br><br>
@@ -105,4 +105,4 @@ Alle onderstaande acties moeten dus pas uitgevoerd worden op het moment dat het 
 Je hoeft de opdracht niet af te tekenen, maar alleen via de N@tschool als inleveropdracht op te sturen.
 
 `` Uploaden en opsturen: Je pakt alle bestanden in een rar bestand en levert deze in via N@tschool inleveropdracht "Eindopdracht JS Periode 1". Zie afbeelding hieronder voor meer informatie! `` 
-![Hoe de HTML er in je browser uit moet komen te zien](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/eindopdracht/Inleveren.png)
+![Hoe de HTML er in je browser uit moet komen te zien](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p1/productie/afbeeldingen/eindopdracht/Inleveren.png)

@@ -25,7 +25,7 @@ Volg de volgende stappen:
 ### WebMatrix extensies
 
 1. Installeer de volgende 2 extensions binnen WebMatrix (via de Extensions knop):
-![Github Extension en Git for WebMatrix](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht201-1.jpg)
+![Github Extension en Git for WebMatrix](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p1/productie/afbeeldingen/Opdracht201-1.jpg)
 2. Maak een screenshot van je "Installed extensions" scherm (als bewijs van installatie)
 3. Plak de screenshot in een Word document genaamd `Opdracht201.docx`
 4. Upload dit document via de bovenstaande instructies naar je portfoliomap
@@ -192,7 +192,7 @@ We gaan voor jou zo'n elevator pitch maken (die je daarna moeiteloos kunt opdreu
 ```
 
 **Zo moet het eindresultaat er uit komen te zien:**
-![Zo moet het eruit komen zien!](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/productie/afbeeldingen/Opdracht232.png)
+![Zo moet het eruit komen zien!](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p1/productie/afbeeldingen/Opdracht232.png)
 
 --- 
 
