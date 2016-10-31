@@ -14,8 +14,8 @@ De opdracht is dat een feedbackItem uit opdracht 5 wordt opgeslagen in een lokal
 
 ## Stappenplan
 
-1. Installeer SQLite.Net PCL library in zowel de Android als de Portable project van je App
-2. Maak een interface class aan in de Portable project die de sql interactie gaat implementeren
+### 1. Installeer SQLite.Net PCL library in zowel de Android als de Portable project van je App
+### 2. Maak een interface class aan in de Portable project die de sql interactie gaat implementeren
 
 ~~~c#
 using SQLite;
@@ -30,7 +30,7 @@ namespace <Jouw namespace>
 }
 ~~~
 
-3. Maak een class aan in het android project met de inheritance van deze interface class en een implementatie van de GetConnection() method.
+### 3. Maak een class aan in het android project met de inheritance van deze interface class en een implementatie van de GetConnection() method.
 
 ~~~c#
 using <jouwnamespace>.Droid;
@@ -64,7 +64,7 @@ namespace AppSQLite.Droid
 ~~~
 Hiermee is alle droid specifieke code geimplementeerd.
 
-4. Implementeer de class die alle interactie met de SQLite database implementeert, dus connectie, select, insert, update en delete methods. Noem het bijvoorbeeld FeedbackItemDB.cs
+### 4. Implementeer de class die alle interactie met de SQLite database implementeert, dus connectie, select, insert, update en delete methods. Noem het bijvoorbeeld FeedbackItemDB.cs
 
 ~~~c#
 using SQLite;
@@ -131,7 +131,7 @@ namespace <jouwnamespace>
 }
 ~~~
 
-5. Breidt de __FeedbackItem__ class aan met een ID en wat assembly directives voor de SQLite library om de database - tabel te kunnen aanmaken/gebruiken.
+### 5. Breidt de __FeedbackItem__ class aan met een ID en wat assembly directives voor de SQLite library om de database - tabel te kunnen aanmaken/gebruiken.
 
 ~~~c#
 
@@ -150,7 +150,7 @@ namespace <jouwnamespace>
 
 ~~~
 
-6. Instantieer een FeedbackitemDB object in je app class, zodat je die beschikbaar hebt in al je pages.
+### 6. Instantieer een FeedbackitemDB object in je app class, zodat je die beschikbaar hebt in al je pages.
 ~~~c#
    public class App : Application
     {
@@ -175,7 +175,7 @@ namespace <jouwnamespace>
         }
 ~~~
 
-7. Gebruik het db object om een FeedbackItem op te slaan in je SurveyPage class bij het clicken op de submit button.
+### 7. Gebruik het db object om een FeedbackItem op te slaan in je SurveyPage class bij het clicken op de submit button.
 
 ~~~c#
     //Opslaan in de database
