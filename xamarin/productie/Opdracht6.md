@@ -181,3 +181,12 @@ namespace <jouwnamespace>
     //Opslaan in de database
     App.Db.SaveItem(ViewModel.Feedback);
 ~~~
+
+### 8. Wil je in je pagina alle FeedbackItems ophalen dan doe je dat alsvolgt:
+
+~~~c#
+
+//Onderzoek waar je deze code moet plaatsen
+FeedbackItems = new ObservableCollection<FeedbackItem>(App.Db.GetItems());
+
+~~~
