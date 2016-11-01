@@ -35,4 +35,22 @@ Crystal reports kan als extensie worden toegevoegd aan Visual Studio.
 
 - [xtreme2011.rar](https://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811v Vakinhoudelijke studieroutes/811 Ontwikkelen van applicaties/Applicatiebeheer/Cohort 2011/Crystal Reports/xtreme2011.rar)
 
+### (Examen) Eisen aan een rapport
+
+Een rapport dient aan de onderstaande eisen te voldoen:
+
+•	Paginanummer + afdrukdatum op elke pagina
+•	Een duidelijke titel waarvan de inhoud van het rapport af te leiden valt.
+•	Alle veldinformatie is leesbaar.
+
+Bij een datum laat je de tijd weg als deze niet belangrijk is.
+
+•	Zorg dat de velden ‘hoog’ genoeg zijn. Anders vallen de lussen van de g, j, enz weg.
+
+•	Zorg voor een goede paginaindeling.
+•	Zorg dat er alleen informatie op staat.
+
+Dus geen gegevens waar je niets aan hebt.
+
+
 
