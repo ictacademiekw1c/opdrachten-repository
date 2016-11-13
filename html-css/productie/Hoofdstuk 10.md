@@ -40,7 +40,7 @@
 ### Help
 *   <a href="http://www.w3schools.com/cssref/pr_border-collapse.asp" target="_blank">Tabel met enkele omlijning</a>
 *   <a href="http://www.w3schools.com/TAgs/att_td_colspan.asp" target="_blank">Kolommen overbruggen</a>
-*   <a href="http://www.w3schools.com/TAgs/att_td_colspan.asp" target="_blank">Kolommen overbruggen</a>" target="_blank">Rijen overbruggen</a>
+*   <a href="http://www.w3schools.com/TAgs/att_td_rowspan.asp" target="_blank">Rijen overbruggen</a>
 
 ---
 ## Opdracht 10.3
