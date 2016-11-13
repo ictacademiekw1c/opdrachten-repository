@@ -20,7 +20,7 @@
 *   <a href="https://docs.gimp.org/2.8/nl/" target="_blank">Gimp</a>
 
 ---
-## Opdracht 9.1
+## Opdracht 9.2
 ---
 
 Wordt binnenkort toegevoegd!
