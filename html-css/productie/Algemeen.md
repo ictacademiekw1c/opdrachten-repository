@@ -70,15 +70,10 @@ Hierdoor wordt het een uitstekend hulpmiddel om in te zetten tijdens je sollicit
 
 ## Periodecijfer
 
-Gedurende deze periode behaal je in totaal 3 cijfers.
+Gedurende deze periode behaal je in totaal 2 cijfers.
 * Cijfer A: Huiswerkopdrachten
-* Cijfer B: Portfolio website
-* Cijfer C: Toets
+* Cijfer B: Toets
 
-Het periodecijfer wordt bepaald middels onderstaande formule:
-* Cijfer 1: (Cijfer A + cijfer B) / 2
-* Cijfer 2: Cijfer C
-
-Periodecijfer = (Cijfer 1 + (cijfer 2 * 3)) / 4
+Periodecijfer = (Cijfer A + (cijfer B * 3)) / 4
 
 #### [setSubMenuHeader]Testingsss
