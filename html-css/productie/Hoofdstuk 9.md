@@ -19,3 +19,8 @@
 ### Help
 *   <a href="https://docs.gimp.org/2.8/nl/" target="_blank">Gimp</a>
 
+---
+## Opdracht 9.1
+---
+
+Wordt binnenkort toegevoegd!
