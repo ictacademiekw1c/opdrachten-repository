@@ -10,7 +10,9 @@
   <dt>### Declareren</dt>
   <dd>Introduceren/reserveren van een nieuw stukje geheugen voor een variabele bijvoorbeeld</dd>
   <dt>### Initialiseren</dt>
-  <dd>Een variabele de eerste keer na declaratie een waarde toekennen</dd>
+  <dd>Een variabele de eerste keer na declaratie een waarde toekennen</dd>  
+  <dt>### Loop of lus</dt>
+  <dd>Een codeblok dat herhaaldelijk wordt uitgevoerd</dd>
 </dl>
 
 ## Woordenlijst PHP
