@@ -8,7 +8,7 @@
 - teller 
 - oneindige lus
 
-## 8.2 Waarom heb je lussen nodig?
+## 8.2 Wanneer heb je een lus of loop nodig?
 
 ![voorbeeld tabel](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/voorbeeld2.jpg?raw=true)
 
