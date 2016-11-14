@@ -56,8 +56,8 @@ c. 10 getallen per rij, maar print alleen de even getallen
 d. als opdracht 80b maar dan in een tabel
 e. Aflopend van100 naar 1 als opdracht 80b en 80d (in een tabel) maar dan alleen de veelvouden van 3. Print wel een lege cel als het getal geen veelvoud is van 3.
 
-### Visuele weergave
-
+### Visuele weergave 80e
+![visuele weergave 80e](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/80e.PNG?raw=true)
 
 ### Beoordelingscriteria 80
 1. Sla je script op opdracht80.php en upload het als rar in je portfolio
