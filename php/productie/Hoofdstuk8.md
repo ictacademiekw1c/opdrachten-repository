@@ -54,7 +54,7 @@ Programmeer een php-script dat de getallen 1 t/m 100 print
 - b) 10 getallen per rij
 - c) 10 getallen per rij, maar print alleen de even getallen
 - d) Als opdracht 80b maar dan in een tabel
-- e) Aflopend van100 naar 1 als opdracht 80b en 80d (in een tabel) maar dan alleen de veelvouden van 3. Print wel een lege cel als het getal geen veelvoud is van 3.
+- e) Aflopend van 100 naar 1 als opdracht 80b en 80d (in een tabel) maar dan alleen de veelvouden van 3. Print wel een lege cel als het getal geen veelvoud is van 3.
 
 ### Visuele weergave 80e
 ![visuele weergave 80e](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht80e.PNG?raw=true)
