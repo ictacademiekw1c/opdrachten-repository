@@ -39,7 +39,7 @@ Om je wat tijd te besparen zijn de regels iets simpeler dan de eindopdracht. Lee
 
 ## Opdracht 422 Boodschappenlijstje met een for EN while loop
 
-`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT421.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT422.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
 ### Boodschappenlijstje met een for EN while loop
 
@@ -47,7 +47,7 @@ Om je wat tijd te besparen zijn de regels iets simpeler dan de eindopdracht. Lee
 
 **Opdracht**
 We gaan het boodschappenlijstje uit opdracht 341 (Hoofdstuk 3) wat oppimpen. We gaan namelijk nu ook toevoegen dat het uitlezen van de boodschappenitems via een *for* loop gaat gebeuren.
-We slaan nog steeds de boodschappenitems opslaan in een *Array* (Tip: copy / paste uit opdracht 341), maar daarna de boodschappenitems uitlezen door middel van een for loop.
+We slaan nog steeds de boodschappenitems opslaan in een *Array* (Tip: bekijk opdracht 341), maar daarna de boodschappenitems uitlezen door middel van een for loop.
 
 1.  
 
