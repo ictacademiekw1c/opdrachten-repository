@@ -17,7 +17,7 @@ Daarna laten we het boodschappen lijstje weer zien aan de gebruiker middels een 
 2. Laat via JavaScript aan de gebruiker 5x een vraag zien om een item op te geven
 3. Sla de input (de 5 items) van de gebruiker op in een Array (Zie presentaties week 1, les 1 voor voorbeeld code)
 4. Laat de 5 items vanuit de Array zien via de HTML. Doe dit in de 5 eerder aangemaakte &lt;OL&gt; elementen. *Tip: Kijk in de cheatsheet op n@tschool*
-5. Stuur je naar en de datum van maken naar de console
+5. Stuur je naam en de datum van maken naar de console
 6. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten!
 
 **Beoordelingscriteria**
@@ -25,7 +25,6 @@ Daarna laten we het boodschappen lijstje weer zien aan de gebruiker middels een 
 1. Je voegt de items toe aan de array via de *push()* of *unshift()*
 2. Je plaatst de boodschappen items in een array en leest vanuit daaruit ze uit naar de HTML
 3. Je laat de 5 items zien in de HTML &lt;OL&gt; elementen
-4. 
-
+4. Je naam en datum staan in de console
 
 ---

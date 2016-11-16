@@ -13,6 +13,13 @@ We gaan in deze opdracht opnieuw het spel "raad het getal" maken! Nu zul je waar
 We doen dit namelijk deze keer door gebruik te maken van een while loop. Je zult zien dat het deze maal vele keren simpeler is om dit spel te maken
 Om je wat tijd te besparen zijn de regels iets simpeler dan de eindopdracht. Lees ze dus goed door
 
+1. Genereer een random getal tussen de 1 en 10 (zie de code uit je eindopdracht of gebruik Google)
+2. Gebruik een *while* loop om de gebruiker continue te blijven vragen om een getal in te geven
+3. Beëindig deze loop zodra het juiste getal geraden is
+4. Zorg er ook voor dat er bij gehouden wordt hoeveel pogingen er gedaan zijn
+5. Toon na het raden van het getal een felicitatiemelding met het aantal pogingen erbij. Deze mag je zelf verzinnen
+6. Stuur daarna je naam en de datum van maken naar de console!
+
 **Nieuwe spelregels "Raad het getal"**
 - De speler heeft oneindig aantal pogingen om het getal te raden. Een verliesmelding hoef je dus niet te laten zien
 - Je hoeft de gebruikersinvoer niet controleren via IsNan o.i.d. We gaan ervanuit dat de gebruiker netjes een getal invoert
@@ -21,11 +28,11 @@ Om je wat tijd te besparen zijn de regels iets simpeler dan de eindopdracht. Lee
 
 **Beoordelingscriteria**
 1. Je gebruikt een *while* loop om het spel te laten werken
-2. Het aantal pogingen wordt bijgehouden en aan het einde getoond
-3. Het aantal pogingen is oneindig
+2. Het aantal pogingen wordt bijgehouden in een variabele en aan het einde getoond
+3. Het aantal pogingen is oneindig (zolang de *while* loop blijft lopen)
 4. Aan het einde wordt een melding getoond van het aantal pogingen
 
->> Mocht de opdracht nog te lastig voor je zijn, maak de lesopdracht nogmaals. Lees ook het naslagwerk wat je kunt vinden in de lesopdrachten. Lees ook goed de beoordelingscriteria door
+>> Mocht de opdracht nog te lastig voor je zijn, maak de lesopdracht nogmaals. Lees ook het naslagwerk wat je kunt vinden in de lesopdrachten. Lees ook goed de beoordelingscriteria door!
 
 
 ---
