@@ -1,8 +1,8 @@
 # Hoofdstuk 4
 
-## Opdracht 420 While loop: Raad het getal
+## Opdracht 421 While loop: Raad het getal
 
-`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT420.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT421.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
 ### "Raad het getal" via een while loop
 
@@ -36,3 +36,7 @@ Om je wat tijd te besparen zijn de regels iets simpeler dan de eindopdracht. Lee
 
 
 ---
+
+## Opdracht 422
+
+Komt zsm
