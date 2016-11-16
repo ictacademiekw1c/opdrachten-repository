@@ -24,4 +24,19 @@
 ## Opdracht 9.2
 ---
 
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%209/Opdracht%209.2.pdf" target="_blank">Download opdracht 9.2</a>
+
+### Onderwerpen
+*   Afbeeldingen toevoegen aan een webpagina
+*   Afbeeldingen uitlijnen
+
+### Benodigde bestanden
+*   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+*   <a href="http://www.w3schools.com/css/css_float.asp" target="_blank">Float</a>
+*   <a href="http://www.w3schools.com/css/css_margin.asp" target="_blank">Margin</a>
+
 Wordt binnenkort toegevoegd!
+
