@@ -10,6 +10,10 @@ De opdrachten zijn voorbereidend aan het Xamarin project die in periode 10 is ge
 
 De beoordeling van de opdrachten en het project wordt nog bekend gemaakt.
 
+Na 14 november is het niet meer mogelijk om Xamarin opdrachten op te leveren.
+Hieronder staan de (deel-)uitwerkingen van de 6 opdrachten: 
+[De opdrachten in een rar bestand](https://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811 VakkenInhoud/[B.29 INFi] Informatica instructie/Productie/03. Scripts/jamirojafar-kw1c-xamarin-course-8bc0ef7b3a8f.rar)
+
 ## B. Examenonderdelen
 
 Ook zullen er nog onderwerpen aangesneden worden die in leerjaar 2 zijn behandeld (of volledig nieuw zijn) en onderdeel zijn van het examen. Dit zijn de onderwerpen:
