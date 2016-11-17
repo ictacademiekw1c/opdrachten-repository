@@ -64,3 +64,36 @@ Programmeer een php-script dat de getallen 1 t/m 100 print
 2. Je php-script toont een volledige en geldige html pagina
 3. Je maakt gebruik van een while lus en eventueel if-else binnen de while
 
+## 8.6 Opdracht 81 while lussen
+
+### Opdrachtomschrijving 81
+De volgende code print de tafel van 5:
+
+~~~php
+    //printen van de tabelkop
+    echo '<table border="1">
+            <tr><th colspan="2">Tafel van 5</th></tr>';
+            $teller = 1;    
+            //de tafel van 5 in rijen en cellen printen    
+            while ($teller < 11) {
+                        $uitkomst = $teller * 5;
+                        echo "<tr><td>$teller</td><td>$uitkomst</td></tr>";   
+                        //teller (1,2,3,4,5,6,7,8,9,10) ophogen zodat de loop stopt bij 10
+                        $teller++;         
+            }
+    //afsluiten van de tabel
+    echo    '</table>';
+~~~
+
+Kopieer de bovenstaande code en test het uit. Breidt de code uit zodat niet alleen de tafel van 5 wordt geprint maar alle tafels van 1 t/m 10.
+
+### Visuele weergave 81
+![visuele weergave 81](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/tafels.PNG?raw=true)
+
+### Beoordelingscriteria 81
+1. Sla je script op opdracht81.php en upload het als rar in je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+3. Je maakt gebruik van een while lus en eventueel if-else binnen de while
+4. Je maakt gebruik van een geneste while loop
+
+
