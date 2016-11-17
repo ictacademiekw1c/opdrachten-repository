@@ -27,6 +27,8 @@ Crystal reports kan als extensie worden toegevoegd aan Visual Studio.
 
 [Naslag en oefenopdrachten](https://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811v Vakinhoudelijke MBO  AO/1.19 Digitaal archief/95311 AO/Semester 5 [Periode 9 en 10]/Crystal Reports/Reader Crystal Reports.doc)
 
+[Video opdracht 1 uit de reader](https://mix.office.com/watch/wd5c62z3lrd8)
+
 ### Downloads t.b.v. opdrachten
 
 - [crystalreport.sql](https://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811v Vakinhoudelijke MBO  AO/1.19 Digitaal archief/95311 AO/Semester 5 [Periode 9 en 10]/Crystal Reports/crystalreport.sql)
