@@ -106,7 +106,7 @@ Hoe maak je een tabel met oplopende cijfers zoals opdracht 80d, maar dan met var
 
 ![visuele weergave 81](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht81alt.PNG?raw=true)
 
-Voor hen die de bovenstaan ook al hebben kunnen deze dan ook nog proberen.
+Voor hen die de bovenstaande figuur ook al hebben kunnen deze dan nog proberen.
 Plaats een rode kruis in het midden van de tabel.
 
 ![visuele weergave 81](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht81alt2.PNG?raw=true)
