@@ -97,3 +97,18 @@ Kopieer de bovenstaande code en test het uit. Breidt de code uit zodat niet alle
 4. Je maakt gebruik van een geneste while loop
 
 
+## 8.7 Opdracht 81 (alternatief) while lussen
+### Alternatieve opdrachten zijn opdrachten voor leerlingen die iets meer uitdaging willen. Als huiswerkopdracht lever je dan de normale opdracht in of de alternatieve opdracht. In dit geval opdracht 81 of opdracht81 alternatief.
+### Opdrachtomschrijving 81 alternatief
+Hoe maak je een tabel met oplopende cijfers zoals opdracht 80d, maar dan met variabele kolommen en variabele rijen, die je binnen krijgt als GET parameters. Print een tabel met default waardes voor rijen=10 en kolommen=10.
+
+### Visuele weergave 81 alternatief
+
+![visuele weergave 81](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht81alt.PNG?raw=true)
+
+### Beoordelingscriteria 81 alternatief
+1. Sla je script op opdracht81alt.php en upload het als rar in je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+3. Je maakt gebruik van een while lus en eventueel if-else binnen de while
+4. Je maakt gebruik van GET-parameters en default waardes bij het ontbreken ervan.
+
