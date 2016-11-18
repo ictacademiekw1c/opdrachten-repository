@@ -106,6 +106,11 @@ Hoe maak je een tabel met oplopende cijfers zoals opdracht 80d, maar dan met var
 
 ![visuele weergave 81](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht81alt.PNG?raw=true)
 
+Voor hen die de bovenstaan ook al hebben kunnen deze dan ook nog proberen.
+Plaats een rode kruis in het midden van de tabel.
+
+![visuele weergave 81](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht81alt2.PNG?raw=true)
+
 ### Beoordelingscriteria 81 alternatief
 1. Sla je script op opdracht81alt.php en upload het als rar in je portfolio
 2. Je php-script toont een volledige en geldige html pagina
