@@ -57,7 +57,7 @@ Daarom gaan we aan de hand van zijn voortgang verschillende berichtjes laten zie
 
 
 ---
-### Lesopdracht 4 (functions)
+## Lesopdracht 4 (functions)
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
@@ -67,14 +67,14 @@ Omdat functions voor jullie nogal een nieuw iets is, gaan we de opdrachten steed
 
 1. Vraag eerst aan de gebruiker om 2 getallen op te geven. Sla deze getallen op. Je hoeft geen controles op de invoer uit te voeren.
 
-## Deel 1 (functie zonder parameter)
+#### Deel 1 (functie zonder parameter)
 1. Maak een functie genaamd *count()*. Laat de functie de volgende dingen doen: 
 	- Vraag in deze functie via een *prompt()* 2 keer om een getal in te voeren aan de bezoeker
 	- Doe een *parseInt()* over deze getallen, zodat we zeker weten dat we met *numbers* werken
 	- Tel deze 2 getallen bij elkaar op en *alert()* de uitkomst
 2. Laat je code de functie uitvoeren
 
-## Deel 2 (functie met parameter)
+#### Deel 2 (functie met parameter)
 1. Laat de gebruiker 2 getallen opgeven via *prompt()*. Sla deze 2 getallen op in variabelen
 1. Maak een functie genaamd *multiply(getal1, getal2)*
 2. Deze functie heeft 2 parameters (getal1 en getal2). Laat de functie de volgende dingen doen
@@ -92,7 +92,7 @@ Omdat functions voor jullie nogal een nieuw iets is, gaan we de opdrachten steed
 
 
 ---
-### Lesopdracht 5 (Functions deel 2)
+## Lesopdracht 5 (Functions deel 2)
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
