@@ -109,13 +109,13 @@ Ook gaan we wat commentaar toevoegen aan de code!
 		- Als het getal niet geldig, geef een meldig en *return* het de waarde 0
 		- Als het getal wel geldig is, *return* het getal vanuit de functie
 2. Laat de functie 5 keer uitgevoerd worden. Vang dus ook 5 keer het resultaat van de functie op in een variabele. Hieronder zie je een voorbeeld voor 1 keer aanroepen van de functie.
-``javascript
+```javascript
 	// Voer 1 keer de getUserInput() uit.
 	var getal1 = getUserInput();
 	
 	// Laat het opgegeven getal aan de gebruiker zien
 	alert("Getal 1 is: " + getal1);
-``
+```
 3. Zorg dat je minimaal op 3 plekken commentaar hebt geplaatst
 
 **Naslagwerk**
