@@ -2,11 +2,12 @@
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT210.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
-### Arrays
+### Boodschappenlijstje via Arrays
 
 >> **Tip:** Je kunt de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer.
 
 **Opdracht:**
+
 In deze opdracht gaan we boodschappenlijst tool maken. We gaan de gebruiker 5 items laten opgeven (ons boodschappenlijstje is voor deze opdracht maar 5 items groot), die worden in ons boodschappenlijstje geplaatst (middels een *array*).
 Daarna laten we het boodschappen lijstje weer zien aan de gebruiker middels een &lt;OL&gt; element.
 
@@ -25,6 +26,7 @@ Daarna laten we het boodschappen lijstje weer zien aan de gebruiker middels een 
 2. Je plaatst de boodschappen items in een array en leest vanuit daaruit ze uit naar de HTML
 3. Je laat de 5 items zien in de HTML &lt;LI&gt; elementen
 4. Je naam en datum staan in de console
+5. Er is voldoende en logisch commentaar geplaatst in de code
 
 ---
 
@@ -37,6 +39,7 @@ Daarna laten we het boodschappen lijstje weer zien aan de gebruiker middels een 
 >> **Tip:** Je kunt de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer.
 
 **Opdracht**
+
 We gaan in deze opdracht opnieuw het spel "raad het getal" maken! Nu zul je waarschijnlijk denken: Waarom? 
 We doen dit namelijk deze keer door gebruik te maken van een while loop. Je zult zien dat het deze maal vele keren simpeler is om dit spel te maken
 Om je wat tijd te besparen zijn de regels iets simpeler dan de eindopdracht. Lees ze dus goed door
@@ -59,6 +62,7 @@ Om je wat tijd te besparen zijn de regels iets simpeler dan de eindopdracht. Lee
 2. Het aantal pogingen wordt bijgehouden in een variabele en aan het einde getoond
 3. Het aantal pogingen is oneindig (zolang de *while* loop blijft lopen)
 4. Aan het einde wordt een melding getoond van het aantal pogingen
+5. Er is voldoende en logisch commentaar geplaatst in de code
 
 >> Mocht de opdracht nog te lastig voor je zijn, maak lesopdracht 2 nogmaals. Lees ook het naslagwerk wat je kunt vinden in de lesopdrachten. Lees ook goed de beoordelingscriteria door!
 
@@ -74,6 +78,7 @@ Om je wat tijd te besparen zijn de regels iets simpeler dan de eindopdracht. Lee
 >> **Tip:** Je kunt de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer (Week 2). 
 
 **Opdracht**
+
 We gaan het boodschappenlijstje uit opdracht 210 wat oppimpen. We gaan namelijk nu ook toevoegen dat het uitlezen van de boodschappenitems via een *for* loop gaat gebeuren.
 We slaan nog steeds de boodschappenitems opslaan in een *Array* (Tip: bekijk opdracht 210), maar daarna de boodschappenitems uitlezen door middel van een for loop.
 
@@ -95,6 +100,7 @@ We slaan nog steeds de boodschappenitems opslaan in een *Array* (Tip: bekijk opd
 3. Je gebruikt een *for* loop om de boodschappen array uit te lezen
 4. Je laat de 5 items zien in de HTML &lt;LI&gt; elementen
 4. Je naam en datum staan in de console 
+5. Er is voldoende en logisch commentaar geplaatst in de code
 
 >> Mocht de opdracht nog te lastig voor je zijn, maak de lesopdrachten 1 en 3 nogmaals. Lees ook het naslagwerk wat je kunt vinden in de lesopdrachten. Lees ook goed deze beoordelingscriteria door!
 
