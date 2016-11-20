@@ -20,12 +20,8 @@ Hieronder zie de deadlines van inleveren van je opdrachten
 
 |Opdracht              | Deadline       |
 |--------------------  |--------------- |
-| Opdrachten 100 + 110 | 16 september    |
-| Opdrachten 200 + 201 | 23 september   |
-| Opdrachten 221 + 222 + 230 |  30 september  |
-| Opdracht 231 + 232 + 233 | 7 oktober | 
-| Opdracht 310 + 320 + 330| 14 oktober |
-| Opdracht 340 + 350 | **Let op:** 17 oktober |
+| Opdrachten Week 1 | 30 november    |
+| Opdrachten Week 2 | 7 dec   |
 
 <br> 
 
