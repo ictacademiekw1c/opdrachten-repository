@@ -129,5 +129,16 @@ Ook gaan we wat commentaar toevoegen aan de code!
 **Opdracht**
 We gaan enkele JavaScript events gebruiken om op verschillende manieren meldingen (*alert()*'s) te laten zien. We gaan dit doen door in de HTML een &lt;div&gt; element aan te maken en hierop enkele events aan te koppelen
 
-1. Maak in je HTML een nieuwe &lt;div&gt; element aan. Geef deze ook een ID attribuut (bedenk zelf een naam)
-2. 
+1. Maak in je HTML een nieuwe &lt;H1&gt; element aan. Geef deze ook een ID attribuut (bedenk zelf een naam) en voer natuurlijk een zelf verzonnen titel hier in! 
+2. Zorg ervoor dat er een *alert()* naar de gebruiker gaat (bedenk zelf leuke teksten) bij de volgende events op dit element:
+	- onclick 
+	- onhover 
+	- oncontextmenu
+3. Laat de volgende events ook een *alert()* doen (dit doe je vanuit de JavaScript code, gebruik de *window.onload()* als voorbeeld). Probeer uit te vinden wat de events precies doen!
+	- window.onload
+	- document.onkeypress
+	- window.onresize
+	
+
+	
+	
