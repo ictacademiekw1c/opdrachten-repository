@@ -134,11 +134,14 @@ We gaan enkele JavaScript events gebruiken om op verschillende manieren meldinge
 	- onclick 
 	- onhover 
 	- oncontextmenu
-3. Laat de volgende events ook een *alert()* doen (dit doe je vanuit de JavaScript code, gebruik de *window.onload()* als voorbeeld). Probeer uit te vinden wat de events precies doen!
+3. Laat de volgende DOM events ook een *alert()* doen (dit doe je vanuit de JavaScript code, gebruik de *window.onload()* als voorbeeld). Probeer uit te vinden wanneer de events getriggerd worden
 	- window.onload
 	- document.onkeypress
 	- window.onresize
-	
+
+**Naslagwerk**
+<a href="hhttp://www.w3schools.com/js/js_events.asp" target="_blank">HTML Events (Events in de HTML plaatsen)</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onload" target="_blank">Meer over DOM events</a>	
 
 	
 	
