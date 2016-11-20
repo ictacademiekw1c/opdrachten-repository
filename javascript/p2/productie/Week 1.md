@@ -1,8 +1,36 @@
-# Hoofdstuk 4
+## Opdracht 210 Boodschappenlijstje dmv Array's
 
-## Opdracht 421 While loop: Raad het getal
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT210.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
-`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT421.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
+### Arrays
+
+>> **Tip:** Je kunt de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer.
+
+**Opdracht:**
+In deze opdracht gaan we boodschappenlijst tool maken. We gaan de gebruiker 5 items laten opgeven (ons boodschappenlijstje is voor deze opdracht maar 5 items groot), die worden in ons boodschappenlijstje geplaatst (middels een *array*).
+Daarna laten we het boodschappen lijstje weer zien aan de gebruiker middels een &lt;OL&gt; element.
+
+1. Maak een nieuw HTML bestand aan en koppel daar een extern JS bestand aan
+2. Maak in het HTML bestand een &lt;OL&gt; aan met 5 &lt;LI&gt; elementen. Geef ze alle 5 een uniek ID attribuut. Laat deze elementen verder voor nu nog leeg
+2. Laat via JavaScript aan de gebruiker 5x een vraag zien om een item op te geven
+3. Sla de input (de 5 items) van de gebruiker op in een Array (Zie presentaties week 1, les 1 voor voorbeeld code)
+4. Laat de 5 items vanuit de Array zien via de HTML. Doe dit in de 5 eerder aangemaakte &lt;LI&gt; elementen. Tip: Kijk de presentaties van Week 1 Les 1 door!
+5. Zorg er dus voor de ieder &lt;LI&gt; element één boodschappenitem laat zien. Tip: Open de cheatsheet van Periode 1.
+5. Stuur je naam en de datum van maken naar de console
+6. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten!
+
+**Beoordelingscriteria**
+1. De gebruiker krijgt 5 losse vragen over zijn toe te voegen boodschappen
+1. Je voegt de items toe aan de array via de *push()* of *unshift()*
+2. Je plaatst de boodschappen items in een array en leest vanuit daaruit ze uit naar de HTML
+3. Je laat de 5 items zien in de HTML &lt;LI&gt; elementen
+4. Je naam en datum staan in de console
+
+---
+
+## Opdracht 211 While loop: Raad het getal
+
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT211.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
 ### "Raad het getal" via een while loop
 
@@ -37,9 +65,9 @@ Om je wat tijd te besparen zijn de regels iets simpeler dan de eindopdracht. Lee
 
 ---
 
-## Opdracht 422 Boodschappenlijstje met een for EN while loop
+## Opdracht 212 Boodschappenlijstje met een for EN while loop
 
-`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT422.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT212.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
 ### Boodschappenlijstje met een for EN while loop
 
