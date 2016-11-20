@@ -88,7 +88,7 @@ Omdat functions voor jullie nogal een nieuw iets is, gaan we de opdrachten steed
 5. Laat je code de 2 functies uitvoeren
 
 **Naslagwerk**
-<a href="http://www.w3schools.com/js/js_functions.asp" target="_blank">Functions</a>
+- <a href="http://www.w3schools.com/js/js_functions.asp" target="_blank">Functions</a>
 
 
 ---
@@ -119,7 +119,7 @@ Ook gaan we wat commentaar toevoegen aan de code!
 3. Zorg dat je minimaal op 3 plekken commentaar hebt geplaatst
 
 **Naslagwerk**
-<a href="http://www.w3schools.com/js/js_functions.asp" target="_blank">Functions (Kopje "Function Return")</a>
+- <a href="http://www.w3schools.com/js/js_functions.asp" target="_blank">Functions (Kopje "Function Return")</a>
 
 ---
 ## Lesopdracht 6 (Events)
@@ -140,8 +140,8 @@ We gaan enkele JavaScript events gebruiken om op verschillende manieren meldinge
 	- window.onresize
 
 **Naslagwerk**
-<a href="hhttp://www.w3schools.com/js/js_events.asp" target="_blank">HTML Events (Events in de HTML plaatsen)</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onload" target="_blank">Meer over DOM events</a>	
+- <a href="hhttp://www.w3schools.com/js/js_events.asp" target="_blank">HTML Events (Events in de HTML plaatsen)</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onload" target="_blank">Meer over DOM events</a>	
 
 	
 	
