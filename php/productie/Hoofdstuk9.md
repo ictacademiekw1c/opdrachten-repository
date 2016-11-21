@@ -18,8 +18,41 @@ Functies maak je wanneer je stukjes code vaker gebruikt je website. Het gevolg d
 - Makkelijker onderhoudbaar is
 - Effectiever is
 
-## 9.3 functie declaratie 1 printGroet()
+## 9.3 voorbeeld functie 1 printGroet()
 
+Het volgende voorbeeld is een functie met 2 argumenten.
+~~~php
+/***********************
+* printGroet()
+* @param $voornaam voornaam van persoon
+* @param $achternaam achternaam 
+* @return geen return
+**************************/ 
+function printGroet ($voornaam, $achternaam) {
+
+       //wat is de lokale tijdszone
+    date_default_timezone_set('Europe/Amsterdam');
+
+    //Geeft het uur van de dag terug in 24uurs notatie
+    $uur = date('G');
+    
+    if ($uur >= 12 && $uur < 16) {
+        $dagdeel = "middag";
+    }
+    elseif($uur > 5 && $uur < 12) {
+        $dagdeel = "ochtend";
+    }
+    elseif( $uur> 16 && $uur<= 11) {
+        $dagdeel = "avond";
+    }
+    else {
+        $dagdeel = "nacht";
+    }
+
+    echo "Hallo meneer $achternaam, goede-$dagdeel";
+
+}
+~~~
 
 ## 9.4 Waar plaats je functie declaraties?
 
@@ -27,8 +60,8 @@ Er zijn 2 mogelijkheden:
 - Bovenaan het script (Niet in het html gedeelte)
 - In een apart php script, bijvoorbeeld functies.php en waar je het nodig hebt bovenin toevoegen met een include-statement.
 
-De tweede manier heeft de voorkeur 
-__functies.php__
+De tweede manier heeft de voorkeur.<br> 
+Noem het bijvoorbeeld __functies.php__
 ~~~php
 //Dit is de declaratie
 /***********************
@@ -47,6 +80,7 @@ function printGroet ($voornaam, $achternaam) {
 }
 ~~~
 
+In het volgende script maak je er gebruik van <br>
 __voorbeeld1.php__
 ~~~php
 <?php
@@ -59,9 +93,11 @@ include('functies.php');
         <title><?php printGroet('Abu','Saebu'); ?></title>
     </head>
     <body>
+        <article>
         <?php
              printGroet('Abu','Saebu');
         ?>
+        </article>
     </body>
 </html>
 ~~~
