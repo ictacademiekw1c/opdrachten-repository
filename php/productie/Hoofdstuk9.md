@@ -24,11 +24,10 @@ Het volgende voorbeeld is een functie met 2 argumenten.
 ~~~php
 /***********************
 * printGroet()
-* @param $voornaam voornaam van persoon
 * @param $achternaam achternaam 
 * @return geen return
 **************************/ 
-function printGroet ($voornaam, $achternaam) {
+function printGroet ($achternaam) {
 
        //wat is de lokale tijdszone
     date_default_timezone_set('Europe/Amsterdam');
@@ -65,17 +64,18 @@ Noem het bijvoorbeeld __functies.php__
 //Dit is de declaratie
 /***********************
 * printGroet()
-* @param $voornaam voornaam van persoon
 * @param $achternaam achternaam 
 * @return geen return
 **************************/ 
-function printGroet ($voornaam, $achternaam) {
+function printGroet ($achternaam) {
 
     //wat is de lokale tijdszone
     date_default_timezone_set('Europe/Amsterdam');
 
     //Geeft het uur van de dag terug in 24uurs notatie
     ...(dezelfde code als hierboven)
+
+    echo "Hallo meneer $achternaam, goede-$dagdeel";
 }
 ~~~
 
@@ -91,12 +91,12 @@ include('functies.php');
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title><?php printGroet('Abu','Saebu'); ?></title>
+        <title><?php printGroet('Saebu'); ?></title>
     </head>
     <body>
         <article>
         <?php
-             printGroet('Abu','Saebu');
+             printGroet('Saebu');
         ?>
         </article>
     </body>
