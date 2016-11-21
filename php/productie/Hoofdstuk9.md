@@ -83,6 +83,8 @@ In het volgende script maak je er gebruik van <br>
 __voorbeeld1.php__
 ~~~php
 <?php
+
+//Met include() wordt de code in functies.php volledig toegevoegd aan voorbeeld1.php
 include('functies.php');
 ?>
 <!DOCTYPE html>
