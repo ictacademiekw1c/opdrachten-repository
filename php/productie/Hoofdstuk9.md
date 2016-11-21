@@ -54,8 +54,7 @@ function printGroet ($voornaam, $achternaam) {
 }
 ~~~
 
-## 9.4 Waar plaats je functie declaraties?
-
+## 9.4 Op welke plek in je code zet je een functie?
 Er zijn 2 mogelijkheden:
 - Bovenaan het script (Niet in het html gedeelte)
 - In een apart php script, bijvoorbeeld functies.php en waar je het nodig hebt bovenin toevoegen met een include-statement.
