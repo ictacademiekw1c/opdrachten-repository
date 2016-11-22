@@ -117,4 +117,18 @@ include('functies.php');
 </html>
 ~~~
 
+## 9.5 Opdracht 90 function
 
+Neem functies.php over van hierboven en maak een opdracht90.php, waarin je functies.php toevoegt met een include() statement.
+In opdracht90.php roep je de functie aan op 2 vrschillende plekken in je html-document.
+1. Test je opdracht90.php
+2. Pas de functie aan zodanig....
+3. Pas de aanroep van de functie aan zodanig....
+
+### Opdrachtomschrijving 91
+
+### Visuele weergave 91
+
+### Beoordelingscriteria 91
+1. Sla je script op opdracht91.php en upload het als rar in je portfolio
+2. Je php-script toont een volledige en geldige html pagina
