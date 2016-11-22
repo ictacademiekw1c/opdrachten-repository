@@ -20,8 +20,12 @@ Functies maak je wanneer je stukjes code vaker gebruikt je website. Het gevolg d
 
 Functie declaratie 
 ~~~php
-
-> function functienaam() {
+/***********************
+* printGroet()
+* @param geen parameters 
+* @return geen return
+**************************/ 
+function functienaam() {
 
 //code van de functie
 
