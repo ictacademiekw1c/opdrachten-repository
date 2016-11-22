@@ -18,6 +18,16 @@ Functies maak je wanneer je stukjes code vaker gebruikt je website. Het gevolg d
 - Makkelijker onderhoudbaar is
 - Effectiever is
 
+Functie declaratie 
+~~~php
+
+> function functienaam() {
+
+//code van de functie
+
+}
+~~~
+
 ## 9.3 voorbeeld functie 1 printGroet()
 
 Het volgende voorbeeld is een functie met 2 argumenten.
