@@ -55,7 +55,7 @@ function printGroet ($achternaam) {
     elseif($uur > 5 && $uur < 12) {
         $dagdeel = "ochtend";
     }
-    elseif( $uur> 16 && $uur<= 11) {
+    elseif( $uur> 16 && $uur<= 23) {
         $dagdeel = "avond";
     }
     else {
@@ -124,9 +124,9 @@ Neem functies.php over van hierboven en maak een opdracht90.php, waarin je funct
 In opdracht90.php roep je de functie aan op 2 vrschillende plekken in je html-document.
 1. Test je opdracht90.php
 2. Pas de functie aan zodanig dat je een tweede argument en derde argument voor de functie moet gebruiken. Als tweede argument gebruik je de voornaam, en als derde argument de leeftijd. Als de leeftijd ouder is dan 30 print je:<br>
- Hallo meneer Saebu, goede-middag.<br>
+ __Hallo meneer Saebu, goede-middag.__<br>
  Maar als de leeftijd jonger dan 30 is print je:<br>
- He Abu, fijne middag he?
+ __He Abu, fijne middag he?__
 3. Test het vervolgens in opdracht90.php door de functie aanroepen met verschillende waardes en op verschillende plaatsen in je html-document te laten plaatsvinden.
 
 ### Visuele weergave 90
