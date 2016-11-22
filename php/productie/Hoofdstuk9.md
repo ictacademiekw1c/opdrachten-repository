@@ -34,7 +34,7 @@ function functienaam() {
 
 ## 9.3 voorbeeld functie 1 printGroet()
 
-Het volgende voorbeeld is een functie met 2 argumenten.
+Het volgende voorbeeld is een functie met 1 argument.
 ~~~php
 /***********************
 * printGroet()
@@ -123,11 +123,14 @@ include('functies.php');
 Neem functies.php over van hierboven en maak een opdracht90.php, waarin je functies.php toevoegt met een include() statement.
 In opdracht90.php roep je de functie aan op 2 vrschillende plekken in je html-document.
 1. Test je opdracht90.php
-2. Pas de functie aan zodanig....
-3. Pas de aanroep van de functie aan zodanig....
+2. Pas de functie aan zodanig dat je een tweede argument en derde argument voor de functie moet gebruiken. Als tweede argument gebruik je de voornaam, en als derde argument de leeftijd. Als de leeftijd ouder is dan 30 print je:<br>
+ Hallo meneer Saebu, goede-middag.<br>
+ Maar als de leeftijd jonger dan 30 is print je:<br>
+ He Abu, fijne middag he?
+3. Test het vervolgens in opdracht90.php door de functie aanroepen met verschillende waardes en op verschillende plaatsen in je html-document te laten plaatsvinden.
 
-### Visuele weergave 91
+### Visuele weergave 90
 
-### Beoordelingscriteria 91
-1. Sla je script op opdracht91.php en upload het als rar in je portfolio
+### Beoordelingscriteria 90
+1. Comprimeer opdracht91.php en functies.php als opdracht90.rar en upload het naar je portfolio
 2. Je php-script toont een volledige en geldige html pagina
