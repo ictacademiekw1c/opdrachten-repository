@@ -148,7 +148,7 @@ Zet de functie printTafel() in functies.php
 als opdracht 81
 
 ### Beoordelingscriteria 91
-1. Comprimeer opdracht91.php en functies.php als opdracht90.rar en upload het naar je portfolio
+1. Comprimeer opdracht91.php en functies.php als opdracht91.rar en upload het naar je portfolio
 2. Je php-script toont een volledige en geldige html pagina
 3. PrinTafel() gebruikt 1 argument
 4. PrintTafel() heeft geen return waarde
