@@ -116,8 +116,12 @@ include('functies.php');
     </body>
 </html>
 ~~~
+## 9.5 Verdere uitleg op w3schools
 
-## 9.5 Opdracht 90 functions
+Bestudeer ook verder de theorie op de volgende pagina:<br>
+[w3schools over functions](http://www.w3schools.com/php/php_functions.asp)
+
+## 9.6 Opdracht 90 functions
 
 ### Opdrachtomschrijving 91
 Neem functies.php over van hierboven en maak een opdracht90.php, waarin je functies.php toevoegt met een include() statement.
