@@ -12,7 +12,7 @@
 
 ## 9.2 Uitleg  
 
-Functies maak je wanneer je stukjes code vaker gebruikt je website. Het gevolg daarvan is dat je code:
+Functies maak je wanneer je stukjes code op je website vaker gebruikt. Het gevolg daarvan is dat je code:
 - Leesbaarder wordt
 - Minder regels code omvat
 - Makkelijker onderhoudbaar is
