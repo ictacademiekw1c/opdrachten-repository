@@ -41,20 +41,24 @@ We gaan dus een functie schrijven die aan de hand van een parameter (de naam die
 In deze opdracht gaan we uitvinden wat voor dingen we allemaal met events kunnen doen! Daarom gaan we spelen met events en functies, om te kijken wat er allemaal mogelijk is.
 Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. Let er alleen op dat de beoordelingscriteria gehaald worden!
 
-### HTML Sctructuur opzetten
+
+**Deel 1: HTML Sctructuur opzetten**
+
 1. Maak uiteraard weer een leeg HTML bestand aan en koppel hier een leeg JavaScript bestand aan
 2. Maak in je HTML bestand een &lt;H1&gt; aan en geef deze een zelfverzonnen ID attribuut
 3. Maak in je HTML bestand 3een &lt;H2&gt; element aan. Vul deze met eigen verzonnen teksten
 4. Maak een &lt;P&gt; element aan en geef deze via de CSS een hoogte van 1800PX, zodat er horizontale scrollbalken ontstaan in je browser
 
-### Mouse events
+**Deel 2: Mouse events**
+
 3. Zorg ervoor dat je 3 zelfverzonnen teksten (via *alert()*) te zien krijgt bij de volgende 3 events op het zojuist aangemaakte &lt;H2&gt; element:
 	- onclick
 	- onmouseenter
 	- onmousedown
 	- oncontextmenu
 	
-### DOM / Object Events
+**Deel 3: DOM / Object Events**
+
 3. Schijf een nieuwe functie genaamd "eventCatcher" en zorg dat deze twee parameters genaamd *name* en *color* accepteerd. Laat deze functie de volgende dingen doen:
 	- vervang de tekst binnen het H1 element van punt 2 naar "Bedankt! U heeft event {name} uitgevoerd". Zorg ervoor dat {name} uiteraard vervangen wordt door de eerste *name* parameter
 	- Vervang de achtergrondkleur van de &lt;body&gt; van het document naar de kleur die via de *color* parameter binnenkomt (gebruik *RGB* of *HEX*). <a href="http://www.w3schools.com/jsref/prop_style_backgroundcolor.asp" target="_blank">Lees meer hierover</a>
