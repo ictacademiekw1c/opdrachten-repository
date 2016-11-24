@@ -30,7 +30,7 @@ We gaan dus een functie schrijven die aan de hand van een parameter (de naam die
 6. Je hebt je naam en de datum van maken naar de console gestuurd
 
 ---
-### Opdracht 221 Events, functies en nog veel meer pret!
+## Opdracht 221 Events, functies en nog veel meer pret!
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT221.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
