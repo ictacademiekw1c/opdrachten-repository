@@ -48,6 +48,7 @@ Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. L
 2. Maak in je HTML bestand een &lt;H1&gt; aan en geef deze een zelfverzonnen ID attribuut
 3. Maak in je HTML bestand 3een &lt;H2&gt; element aan. Vul deze met eigen verzonnen teksten
 4. Maak een &lt;P&gt; element aan en geef deze via de CSS een hoogte van 1800PX, zodat er horizontale scrollbalken ontstaan in je browser
+5. Stuur je naam en de datum van maken naar de *console*
 
 **Deel 2: Mouse events**
 
@@ -75,6 +76,11 @@ Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. L
 >> *Tip*: Check <a href="http://www.w3schools.com/js/js_events_examples.asp" target="_blank">deze link</a> voor een aardige lijst met bruikbare voorbeelden van events
 
 **Beoordelingcriteria**
-1. Je hebt minimaal 3 verschillende events direct in de HTML geplaatst (bv *onclick*, *onmouseover*)
-2. Je hebt minimaal 3 verschillende DOM events gebruikt (bv *window.onload*, etc)
+1. Je hebt de HTML structuur zoals beschreven opgemaakt
+1. Je hebt minimaal 5 verschillende Mouse Events gebruikt (bv *onclick*, *onmouseover*)
+2. Je hebt minimaal 5 verschillende DOM events gebruikt (bv *window.onload*, etc)
+3. De functie eventCatcher accepteert 2 parameters
+4. De functie eventCatcher kan zowel de tekst van de H1 als ook de achtergrondkleur van de H1 veranderen
+4. Er is voldoende en logisch commentaar geplaatst in de code
+5. Je hebt je naam en de datum van maken naar de console gestuurd
 
