@@ -56,20 +56,20 @@ Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. L
 	- onmouseenter
 	- onmousedown
 	- oncontextmenu
+	- Vind er zelf nog minimaal één zelf!
 	
 **Deel 3: DOM / Object Events**
 
-3. Schijf een nieuwe functie genaamd "eventCatcher" en zorg dat deze twee parameters genaamd *name* en *color* accepteerd. Laat deze functie de volgende dingen doen:
+1. Schijf een nieuwe functie genaamd "eventCatcher" en zorg dat deze twee parameters genaamd *name* en *color* accepteerd. Laat deze functie de volgende dingen doen:
 	- vervang de tekst binnen het H1 element van punt 2 naar "Bedankt! U heeft event {name} uitgevoerd". Zorg ervoor dat {name} uiteraard vervangen wordt door de eerste *name* parameter
 	- Vervang de achtergrondkleur van de &lt;body&gt; van het document naar de kleur die via de *color* parameter binnenkomt (gebruik *RGB* of *HEX*). <a href="http://www.w3schools.com/jsref/prop_style_backgroundcolor.asp" target="_blank">Lees meer hierover</a>
 	- Schrijf naar de *console* de volgende zin weg "Event {name} is uitgevoerd"
-	- Vind er zelf nog minimaal één!
-4. Zorg ervoor dat de eventCatcher functie aangeroepen wordt (bedenk zelf de waardes voor de *name* en *color* parameters) tijdens de onderstaande events. Bekijk het kopje "Frame / Object Events" van <a href="http://www.w3schools.com/jsref/dom_obj_event.asp" target="_blank">deze pagina</a> voor meer informatie.
+2. Zorg ervoor dat de eventCatcher functie aangeroepen wordt (bedenk zelf de waardes voor de *name* en *color* parameters) tijdens de onderstaande events. Bekijk het kopje "Frame / Object Events" van <a href="http://www.w3schools.com/jsref/dom_obj_event.asp" target="_blank">deze pagina</a> voor meer informatie.
 	- Na het laden van de HTML en het downloaden van alle afbeeldingen en scripts (zie de cheatsheet)
 	- Resizen van je browservenster
 	- Scrollen door de pagina (vergeet niet punt 4 van het kopje "HTML Structuur opzetten" om scrollbalken te tonen)
 	- Zodra een pagina getoond wordt (tip: *onpageshow*). Kijk wat het verschil is met *window.onload*
-	- Vind er zelf nog minimaal één!
+	- Vind er zelf nog minimaal één zelf!
 	
 
 >> *Tip*: Check <a href="http://www.w3schools.com/js/js_events_examples.asp" target="_blank">deze link</a> voor een aardige lijst met bruikbare voorbeelden van events
