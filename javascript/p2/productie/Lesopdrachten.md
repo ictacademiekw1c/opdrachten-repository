@@ -132,12 +132,14 @@ We gaan enkele JavaScript events gebruiken om op verschillende manieren meldinge
 1. Maak in je HTML een nieuwe &lt;H1&gt; element aan. Geef deze ook een ID attribuut (bedenk zelf een naam) en voer natuurlijk een zelf verzonnen titel hier in! 
 2. Zorg ervoor dat er een *alert()* naar de gebruiker gaat (bedenk zelf leuke teksten) bij de volgende events op dit element:
 	- onclick 
-	- onhover 
+	- onmouseenter
 	- oncontextmenu
 3. Laat de volgende DOM events ook een *alert()* doen (dit doe je vanuit de JavaScript code, gebruik de *window.onload()* als voorbeeld). Probeer uit te vinden wanneer de events getriggerd worden
 	- window.onload
 	- document.onkeypress
 	- window.onresize
+	
+>> Tip: Bekijk de voorbeelden van de events (<a href="http://www.w3schools.com/js/js_events_examples.asp" target="_blank">Klik hier</a>) om allerlei voorbeelden te bekijken
 
 **Naslagwerk**
 - <a href="hhttp://www.w3schools.com/js/js_events.asp" target="_blank">HTML Events (Events in de HTML plaatsen)</a>

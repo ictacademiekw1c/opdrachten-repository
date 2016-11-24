@@ -29,7 +29,6 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | Opdrachten Week 7 | 18 januari | 20 januari |
 | Opdrachten Week 8 | 25 januari | 27 januari |
 
-
 <br> 
 
 **Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op** 
