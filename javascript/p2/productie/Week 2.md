@@ -73,7 +73,7 @@ Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. L
 	- Vind er zelf nog minimaal één zelf!
 	
 
->> *Tip*: Check <a href="http://www.w3schools.com/js/js_events_examples.asp" target="_blank">deze link</a> voor een aardige lijst met bruikbare voorbeelden van events
+>> *Tip*: Check <a href="http://www.w3schools.com/js/js_events_examples.asp" target="_blank">deze link</a> voor een aardige lijst met bruikbare voorbeelden van events. Zie vooral het kopje "Frame / Object Events".
 
 **Beoordelingcriteria**
 1. Je hebt de HTML structuur zoals beschreven opgemaakt
