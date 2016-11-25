@@ -26,6 +26,9 @@
   <dd>Website adres. Het adres dat je invult in de adresbalk van je browser.</dd>
   <dt>Default waarde</dt>
   <dd>Een standaard waarde die wordt ingesteld als er geen andere waarde wordt doorgegeven  of ingevoerd.</dd>
-
+  <dt>Functie declaratie</dt>
+  <dd>Het introduceren van een nieuwe functie die in het script aangeroepen zou kunnen worden. In de documentatie lees je wat de functie doet en hoe je het kan aanroepen.</dd>
+  <dt>Functie argumenten of parameters</dt>
+  <dd>De gegevens die je doorgeeft aan een functie, om er iets te doen of om iets te laten berekenen.</dd>
 </dl>
  

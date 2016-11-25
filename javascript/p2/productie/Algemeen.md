@@ -16,16 +16,18 @@ Klik op onderstaande afbeelding om WebMatrix te downloaden.
 [<img src="https://raw.githubusercontent.com/ictacademiekw1c/tijdelijke-test-repository/master/Afbeeldingen/download_webmatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
 
 ## Opleverdata
-Hieronder zie de deadlines van inleveren van je opdrachten
+Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
-|Opdracht              | Deadline       |
-|--------------------  |--------------- |
-| Opdrachten 100 + 110 | 16 september    |
-| Opdrachten 200 + 201 | 23 september   |
-| Opdrachten 221 + 222 + 230 |  30 september  |
-| Opdracht 231 + 232 + 233 | 7 oktober | 
-| Opdracht 310 + 320 + 330| 14 oktober |
-| Opdracht 340 + 350 | **Let op:** 17 oktober |
+|Opdracht              | Deadline **IO1A4** + **IO1B4**    | Deadline **IO1C4** + **IO1D4** + **IO1E4** |
+|--------------------  |--------------- | --------- |
+| Opdrachten Week 1 | 30 november    | 2 december |
+| Opdrachten Week 2 | 30 november    | 2 december |
+| Opdrachten Week 3 | 7 december | 9 december |
+| Opdrachten Week 4 | 14 december | 16 december |
+| Opdrachten Week 5 | 21 december | 23 december |
+| Opdrachten Week 6 | 11 januari | 13 januari |
+| Opdrachten Week 7 | 18 januari | 20 januari |
+| Opdrachten Week 8 | 25 januari | 27 januari |
 
 <br> 
 
@@ -33,7 +35,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten
 
 ## Opleveren opdrachten
 1. Je dient al je huisopdrachten in de Javascript map van je N@tschool portfolio te plaatsen
-2. Daarna laat je de opdracht uit je N@tschool aan de docent zien 
+2. Daarna laat je de opdracht uit je N@tschool aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
 
 Per opdracht staat er in deze opdrachtenportaal in rood vermeldt hoe de bestandsnaam moet zijn
 
