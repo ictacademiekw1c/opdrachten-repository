@@ -22,6 +22,7 @@
 ### Help
 *   <a href="http://www.w3schools.com/html/html_forms.asp" target="_blank">HTML-formulier</a>
 *   <a href="http://www.w3schools.com/html/html_form_elements.asp" target="_blank">Formulierelementen</a>
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2011/Resources/Formulierelementen.png">
 *   <a href="http://www.w3schools.com/html/html_form_elements.asp" target="_blank">Invoertypes</a>  
 *   <a href="http://www.w3schools.com/css/css_pseudo_classes.asp" target="_blank">Overzicht pseudoclasses</a>  
 
