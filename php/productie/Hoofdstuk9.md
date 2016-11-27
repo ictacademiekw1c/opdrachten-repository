@@ -153,12 +153,17 @@ als opdracht 81
 3. PrinTafel() gebruikt 1 argument
 4. PrintTafel() heeft geen return waarde
 
-## 9.7 Functies met een return waarde
+## 9.8 Functies met een return waarde
 
 ### Waarom en hoe werkt het?
 
-Voorbeeld 1 function zonder return
+### Voorbeeld 1 function zonder return
 ~~~php
+/***********************
+* functie print de $naam in hoofdletters in een h1 tag
+* @param $naam een stringwaarde
+* @return geen return
+**************************/ 
 function printWaarde ($naam) {
 
     echo "<h1>De waarde is:".strtoupper($naam)."</h1>";
@@ -171,19 +176,35 @@ printWaarde ('Bernhard');
 ~~~
 __Nadeel__ de naam wordt altijd in een h1 geprint.
 
-Voorbeeld 2 function met return
+### Voorbeeld 2 function met return
 ~~~php 
+/***********************
+* functie retourneert de $naam in hoofdletters 
+* @param $naam een string-waarde
+* @return de stringwaarde in hoofdletters
+**************************/ 
 function getHoofdletters($naam) {
     return strtoupper($naam);
 }
 
 //nu kan ik de waarde ook in andere html-tags zetten
 echo "<h2>".getHoofdletters('Koen')."</h2>";
-echo "<p>".getHoofdletters('')."</p>";
+echo "<p>".getHoofdletters('Lars')."</p>";
 // ipv in een echo statement kan ik de return waarde ook opvangen in een andere variabele
 $naam2 = getHoofdletters('Joey');
 // voordeel hiervan is dat ik de aanroep niet hoef te doen op de plek waar het getoond wordt.
 echo "<ul><li>$naam2</li></ul>";
 ~~~
+
+## 9.9 Opdracht 92 functions
+### Opdrachtomschrijving 92
+
+### Visuele weergave 92
+
+### Beoordelingscriteria 92
+1. Comprimeer opdracht92.php en functies.php als opdracht91.rar en upload het naar je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+
+
 
 
