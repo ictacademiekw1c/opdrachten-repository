@@ -18,7 +18,7 @@
 *   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   <a href="http://www.w3schools.com/Tags/tag_div.asp target="_blank">Div</a>
+*   <a href="http://www.w3schools.com/Tags/tag_div.asp" target="_blank">Div</a>
 *   <a href="http://www.w3schools.com/cssref/css_units.asp" target="_blank">CSS eenheden</a>
 
 ---
