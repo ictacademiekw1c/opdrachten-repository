@@ -196,8 +196,11 @@ $naam2 = getHoofdletters('Joey');
 echo "<ul><li>$naam2</li></ul>";
 ~~~
 
+Zie ook de volgende voorbeelden op github [verschillende functie voorbeelden](https://gist.github.com/saebuabu/777fbbb8651f3a6cf26b)
 ## 9.9 Opdracht 92 functions
+
 ### Opdrachtomschrijving 92
+//TODO
 
 ### Visuele weergave 92
 
