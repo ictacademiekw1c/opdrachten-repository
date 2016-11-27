@@ -31,8 +31,9 @@ Hierdoor bootsen we binnen onze webpagina het KW1C na, zodat we in staat zijn om
 *Je mag de pagina zelf helemaal aanpassen zoals je zelf wilt. Zolang de 9 object properties er maar door de JavaScript erin geplaatst zijn*
 4. Voer daarna de functie "drawStatistics" uit en vergeet niet je eerder aangemaakte *object* variabele mee te geven als parameter
 5. Test de pagina
+6. Schijf je naam en de datum van vandaag naar de console
 
-### Extra opdracht (voor de eindbazen):
+### Extra opdracht (voor de eindbazen onder jullie!):
 We gaan het aangemaakte *object* uitbreidden met 2 zogeheten *Object methods*. Lees meer <a href="http://www.w3schools.com/js/js_object_methods.asp" target="_blank">hierover</a>
 
 1. Voeg een zogeheten *Object method* toe aan je aangemaakte object van punt 3 (functie binnen een object) genaamd *addLeerling()*. Deze functie verhoogt het leerlingen aantal op met 1
@@ -55,3 +56,7 @@ We gaan het aangemaakte *object* uitbreidden met 2 zogeheten *Object methods*. L
 6. Je hebt je naam en de datum van maken naar de console gestuurd
 
 ---
+
+## Opdracht 231
+
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT230.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
