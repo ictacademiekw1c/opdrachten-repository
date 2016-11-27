@@ -127,6 +127,7 @@ Ook gaan we wat commentaar toevoegen aan de code!
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
 **Opdracht**
+
 We gaan enkele JavaScript events gebruiken om op verschillende manieren meldingen (*alert()*'s) te laten zien. We gaan dit doen door in de HTML een &lt;div&gt; element aan te maken en hierop enkele events aan te koppelen
 
 1. Maak in je HTML een nieuwe &lt;H1&gt; element aan. Geef deze ook een ID attribuut (bedenk zelf een naam) en voer natuurlijk een zelf verzonnen titel hier in! 
@@ -151,6 +152,7 @@ We gaan enkele JavaScript events gebruiken om op verschillende manieren meldinge
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
 **Opdracht**
+
 We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt nabootsen in een *object* variabele.
 
 1. Maak in je JavaScript code een nieuw *object* variabele aan. Bedenk zelf een passende naam
@@ -177,5 +179,16 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 - <a href="http://www.w3schools.com/js/js_object_methods.asp" target="_blank">Object Methods (extra opdracht)</a>
 
 --- 
-## Lesopdracht 8 ()
+## Lesopdracht 8 (Globale en lokale variabelen)
+
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
+
+**Opdracht**
+
+1. Maak in je JavaScript een nieuwe functie genaamd "testFunctie" aan. Deze functie accepteerd één parameter genaamd *name* .Laat deze functie de volgende dingen doen:
+	- Maak een nieuwe variabele genaamd *begroeting* aan. Zet hier een de *name* en een welkomstekst in
+	- Toon *begroeting* aan de gebruiker
+2. Voer de functie uit (bedenk zelf een waarde voor de *name*  )
+3. Probeer daaronder de variabele *begroeting* te alert'en. Krijg je een error?
+4. Geef antwoord op de vraag: Bestaat de variabele *begroeting* buiten de functie?
 	
