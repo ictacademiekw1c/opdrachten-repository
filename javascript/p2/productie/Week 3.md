@@ -12,7 +12,7 @@ Hierdoor bootsen we binnen onze webpagina het KW1C na, zodat we in staat zijn om
 
 1. Maak een nieuw HTML document aan en koppel hier een extern JavaScript bestand aan
 2. Maak onderstaande &lt;table&gt; aan in de HTML. Geef alle 2é &lt;td&gt; kolommen een uniek ID attribuut (hier gaan we later data in plaatsen):
-![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/afbeeldingen/Opdracht230_2.png)
+![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht230_2.png)
 3. Maak een nieuw *object* variabele aan (bedenk zelf een naam) en koppel de volgende gegevens aan dit *object*:
 	- Naam: "Koning Willem 1 College"
 	- Student van het jaar: "Asef Mahmoudi"
@@ -27,7 +27,7 @@ Hierdoor bootsen we binnen onze webpagina het KW1C na, zodat we in staat zijn om
 3. Maak een nieuwe *function* aan genaamd "drawStatistics" die één *parameter* (schoolStatistics) accepteerd. Laat deze functie de volgende dingen doen:
 	- De schoolStatistics *parameter* die je hier binnenkrijgt is de eerder aangemaakte *object* variabele 
 	- Zorg ervoor dat de gemaakte table (uit punt 3) gevuld wordt met data uit de schoolStatistics *parameter*. Zie onderstaande screenshot
-![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/afbeeldingen/Opdracht230.png)
+![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht230.png)
 *Je mag de pagina zelf helemaal aanpassen zoals je zelf wilt. Zolang de 9 object properties er maar door de JavaScript erin geplaatst zijn*
 4. Maak een nieuwe button aan in de HTML
 5. Test de pagina
@@ -69,7 +69,7 @@ Ook gaan we stof behandelen die nieuw is voor jullie. Zo gaan we onder andere ge
 
 Begin dus met het nabouwen van onderstaande afbeelding in de HTML. Maak daarna het spel, zoals het uitgelegd is in de speluitleg.
 
-![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/afbeeldingen/Opdracht231.png)
+![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht231.png)
 
 **Speluitleg**
 
