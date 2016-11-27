@@ -145,5 +145,27 @@ We gaan enkele JavaScript events gebruiken om op verschillende manieren meldinge
 - <a href="hhttp://www.w3schools.com/js/js_events.asp" target="_blank">HTML Events (Events in de HTML plaatsen)</a>
 - <a href="http://www.w3schools.com/js/js_events_examples.asp" target="_blank">Heel veel voorbeelden van events</a>	
 
-	
+---
+## Lesopdracht 7 (objects)
+
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
+
+**Opdracht**
+We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt nabootsen in een *object* variabele.
+
+1. Maak in je JavaScript code een nieuw *object* variabele aan. Bedenk zelf een passende naam
+2. Zet de volgende informatie over het lokaal waar je momenteel in zit (tel dit zelf!):
+	- Lokaalnummer
+	- Aantal stoelen
+	- Aantal ramen
+	- Bord aanwezig? (Ja / Nee)
+	- Beamer aanwezig? (Ja / Nee)
+	- Aantal personen in dit lokaal
+	- Kleur van de vloerbedekking
+	- Aantal lampen
+	- Bedenk zelf nog één ding dat je kan toevoegen over dit lokaal
+3. *console.log()* daarna minimaal 3 dingen uit voorgaand lijstje.
+
+**Naslagwerk**
+- 
 	
