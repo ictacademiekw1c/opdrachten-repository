@@ -153,3 +153,37 @@ als opdracht 81
 3. PrinTafel() gebruikt 1 argument
 4. PrintTafel() heeft geen return waarde
 
+## 9.7 Funcyie met een return waarde
+
+### Waarom en hoe werkt het?
+
+Voorbeeld 1 function zonder return
+~~~php
+function printWaarde ($naam) {
+
+    echo "<h1>De waarde is:".strtoupper($naam)."</h1>";
+
+}
+
+printWaarde ('Luigi');
+printWaarde ('Bernhard');
+~~~
+
+__Nadeel__ de naam wordt altijd in een h1 geprint.
+
+Voorbeeld 2 function met return
+~~~php 
+function getHoofdletters($naam) {
+    return strtoupper($naam);
+}
+
+//nu kan ik de waarde ook in andere html-tags zetten
+echo "<h2>".getHoofdletters('Koen')."</h2>";
+echo "<p>".getHoofdletters('')."</p>";
+// ipv in een echo statement kan ik de return waarde ook opvangen in een andere variabele
+$naam2 = getHoofdletters('Joey');
+// voordeel hiervan is dat ik de aanroep niet hoef te doen op de plek waar het getoond wordt.
+echo "<ul><li>$naam2</li></ul>";
+
+~~~
+
