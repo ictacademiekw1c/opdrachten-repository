@@ -166,6 +166,16 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 	- Bedenk zelf nog één ding dat je kan toevoegen over dit lokaal
 3. *console.log()* daarna minimaal 3 dingen uit voorgaand lijstje.
 
+**Extra opdracht**
+1. Maak op het zojuist aangemaakte object een zogeheten "Object Method" (een functie binnen het object) genaamd "removeStudent()". Laat deze functie de volgende dingen doen
+	- Verlaag het aantal leerlingen met één
+	- Geef een alert() zodra de leerling succesvol verwijderd is. Geef ook een melding zodra er geen leerlingen meer over zijn om te verwijderen
+2. Voer deze functie via de console tab in je Inspector uit (of handmatig via de JavaScript code)
+
 **Naslagwerk**
-- 
+- <a href="http://www.w3schools.com/js/js_objects.asp" target="_blank">Javascript Objects</a>
+- <a href="http://www.w3schools.com/js/js_object_methods.asp" target="_blank">Object Methods (extra opdracht)</a>
+
+--- 
+## Lesopdracht 8 ()
 	
