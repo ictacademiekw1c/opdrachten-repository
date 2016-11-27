@@ -153,7 +153,7 @@ als opdracht 81
 3. PrinTafel() gebruikt 1 argument
 4. PrintTafel() heeft geen return waarde
 
-## 9.7 Funcyie met een return waarde
+## 9.7 Functies met een return waarde
 
 ### Waarom en hoe werkt het?
 
@@ -167,8 +167,8 @@ function printWaarde ($naam) {
 
 printWaarde ('Luigi');
 printWaarde ('Bernhard');
-~~~
 
+~~~
 __Nadeel__ de naam wordt altijd in een h1 geprint.
 
 Voorbeeld 2 function met return
@@ -184,6 +184,6 @@ echo "<p>".getHoofdletters('')."</p>";
 $naam2 = getHoofdletters('Joey');
 // voordeel hiervan is dat ik de aanroep niet hoef te doen op de plek waar het getoond wordt.
 echo "<ul><li>$naam2</li></ul>";
-
 ~~~
+
 
