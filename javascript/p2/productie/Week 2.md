@@ -46,7 +46,7 @@ Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. L
 
 1. Maak uiteraard weer een leeg HTML bestand aan en koppel hier een leeg JavaScript bestand aan
 2. Maak in je HTML bestand een &lt;H1&gt; aan en geef deze een zelfverzonnen ID attribuut
-3. Maak in je HTML bestand 3een &lt;H2&gt; element aan. Vul deze met eigen verzonnen teksten
+3. Maak in je HTML bestand een &lt;H2&gt; element aan. Vul deze met eigen verzonnen teksten
 4. Maak een &lt;P&gt; element aan en geef deze via de CSS een hoogte van 1800PX, zodat er horizontale scrollbalken ontstaan in je browser
 5. Stuur je naam en de datum van maken naar de *console*
 
