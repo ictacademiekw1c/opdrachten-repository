@@ -10,6 +10,8 @@
 
 ## 8.2 Wanneer heb je een lus of loop nodig?
 
+Bijvoorbeeld wanneer er veel html-onderdelen worden geprint die zich herhalen, bijvoorbeeld cellen of rijen in een tabel. <br>
+De truc is te kijken wat er zich herhaalt en wat er verandert ten opzichte van een vorige herhaling. 
 ![voorbeeld tabel](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/voorbeeld2.jpg?raw=true)
 
 ## 8.3 Verschillen en overeenkomsten met if-else
@@ -32,14 +34,14 @@ while ( conditie ) {
 }
 ~~~
 
-a. Heeft een conditie nodig, die uiteindelijk true of false oplevert
-b. Heeft een { } = codeblok nodig die wordt uitgevoerd wanneer de conditie true is
-c. Je kan if-else constructies en while-lussen **nesten**
+-. Heeft een conditie nodig, die uiteindelijk true of false oplevert
+-. Heeft een { } = codeblok nodig die wordt uitgevoerd wanneer de conditie true is
+-. Je kan if-else constructies en while-lussen **nesten**
 
 ### Verschillen if-else en while
 
-a. while heeft geen **else**
-b. if wordt **eenmaal** uitgevoerd en while wordt **herhaaldelijk** uitgevoerd
+-. while heeft geen **else**
+-. if wordt **eenmaal** uitgevoerd en while wordt **herhaaldelijk** uitgevoerd
 
 ## 8.4 Uitleg while en do while
 
@@ -60,9 +62,11 @@ Programmeer een php-script dat de getallen 1 t/m 100 print
 ![visuele weergave 80e](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht80e.PNG?raw=true)
 
 ### Beoordelingscriteria 80
-1. Sla je script op opdracht80.php en upload het als rar in je portfolio
-2. Je php-script toont een volledige en geldige html pagina
-3. Je maakt gebruik van een while lus en eventueel if-else binnen de while
+1. Maak voor iedere deelopdracht een apart script. (80a, 80b, 80c etc).
+2. Comprimeer de bestanden als opdracht80.rar en upload het naar je portfolio
+3. Je php-script toont een volledige en geldige html pagina
+4. Je maakt gebruik van een while lus en eventueel if-else binnen de while
+5. Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen mee hebt
 
 ## 8.6 Opdracht 81 while lussen
 
@@ -85,7 +89,9 @@ De volgende code print de tafel van 5:
     echo    '</table>';
 ~~~
 
-Kopieer de bovenstaande code en test het uit. Breidt de code uit zodat niet alleen de tafel van 5 wordt geprint maar alle tafels van 1 t/m 10.
+Kopieer de bovenstaande code en test het uit. <br>
+__Breidt de code uit zodat niet alleen de tafel van 5 wordt geprint maar alle tafels van 1 t/m 10.__
+<br>Het moet er uit komen te zien als de volgende visuele weergave (tabellen naast elkaar).
 
 ### Visuele weergave 81
 ![visuele weergave 81](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/tafels.PNG?raw=true)
@@ -95,7 +101,11 @@ Kopieer de bovenstaande code en test het uit. Breidt de code uit zodat niet alle
 2. Je php-script toont een volledige en geldige html pagina
 3. Je maakt gebruik van een while lus en eventueel if-else binnen de while
 4. Je maakt gebruik van een geneste while loop
+5. Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen mee hebt
 
+---
+__Alternatieve opdrachten (niet verplicht)__
+---
 
 ## 8.7 Opdracht 81 (alternatief) while lussen
 ### Alternatieve opdrachten zijn opdrachten voor leerlingen die iets meer uitdaging willen. Als huiswerkopdracht lever je dan de normale opdracht in of de alternatieve opdracht. In dit geval opdracht 81 of opdracht81 alternatief.
