@@ -138,6 +138,8 @@ In opdracht90.php roep je de functie aan op 2 vrschillende plekken in je html-do
 ### Beoordelingscriteria 90
 1. Comprimeer opdracht90.php en functies.php als opdracht90.rar en upload het naar je portfolio
 2. Je php-script toont een volledige en geldige html pagina
+3. Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen mee hebt
+
 
 ## 9.7 Opdracht 91 functions
 ### Opdrachtomschrijving 91
@@ -149,9 +151,11 @@ als opdracht 81
 
 ### Beoordelingscriteria 91
 1. Comprimeer opdracht91.php en functies.php als opdracht91.rar en upload het naar je portfolio
-2. Je php-script toont een volledige en geldige html pagina
-3. PrinTafel() gebruikt 1 argument
+2. Je php-script toont een volledige en geldige html pagina.
+3. PrinTafel($tafel) gebruikt 1 argument
 4. PrintTafel() heeft geen return waarde
+5. Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen mee hebt
+
 
 ## 9.8 Functies met een return waarde
 
