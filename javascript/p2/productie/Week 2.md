@@ -39,6 +39,7 @@ We gaan dus een functie schrijven die aan de hand van een parameter (de naam die
 **Opdracht**
 
 In deze opdracht gaan we uitvinden wat voor dingen we allemaal met events kunnen doen! Daarom gaan we spelen met events en functies, om te kijken wat er allemaal mogelijk is.
+De opdracht kan wat verwarrend overkomen, lees daarom de opdracht goed door en pak bijvoorbeeld de presentaties erbij!
 Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. Let er alleen op dat de beoordelingscriteria gehaald worden!
 
 
@@ -46,13 +47,13 @@ Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. L
 
 1. Maak uiteraard weer een leeg HTML bestand aan en koppel hier een leeg JavaScript bestand aan
 2. Maak in je HTML bestand een &lt;H1&gt; aan en geef deze een zelfverzonnen ID attribuut
-3. Maak in je HTML bestand 3een &lt;H2&gt; element aan. Vul deze met eigen verzonnen teksten
+3. Maak in je HTML bestand een &lt;H2&gt; element aan. Vul deze met eigen verzonnen teksten
 4. Maak een &lt;P&gt; element aan en geef deze via de CSS een hoogte van 1800PX, zodat er horizontale scrollbalken ontstaan in je browser
 5. Stuur je naam en de datum van maken naar de *console*
 
 **Deel 2: Mouse events**
 
-3. Zorg ervoor dat je 3 zelfverzonnen teksten (via *alert()*) te zien krijgt bij de volgende 3 events op het zojuist aangemaakte &lt;H2&gt; element:
+3. Zorg ervoor dat je 3 keer een zelfverzonnen *alert* toond bij de volgende 3 events op het eerder aangemaakte &lt;H2&gt; element:
 	- onclick
 	- onmouseenter
 	- onmousedown
@@ -65,12 +66,13 @@ Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. L
 	- vervang de tekst binnen het H1 element van punt 2 naar "Bedankt! U heeft event {name} uitgevoerd". Zorg ervoor dat {name} uiteraard vervangen wordt door de eerste *name* parameter
 	- Vervang de achtergrondkleur van de &lt;body&gt; van het document naar de kleur die via de *color* parameter binnenkomt (gebruik *RGB* of *HEX*). <a href="http://www.w3schools.com/jsref/prop_style_backgroundcolor.asp" target="_blank">Lees meer hierover</a>
 	- Schrijf naar de *console* de volgende zin weg "Event {name} is uitgevoerd"
-2. Zorg ervoor dat de eventCatcher functie aangeroepen wordt (bedenk zelf de waardes voor de *name* en *color* parameters) tijdens de onderstaande events. Bekijk het kopje "Frame / Object Events" van <a href="http://www.w3schools.com/jsref/dom_obj_event.asp" target="_blank">deze pagina</a> voor meer informatie.
-	- Na het laden van de HTML en het downloaden van alle afbeeldingen en scripts (zie de cheatsheet)
-	- Resizen van je browservenster
-	- Scrollen door de pagina (vergeet niet punt 4 van het kopje "HTML Structuur opzetten" om scrollbalken te tonen)
+2. Zorg ervoor dat de eventCatcher functie aangeroepen wordt tijdens de onderstaande events (bedenk zelf de waardes voor de *name* en *color* parameters). Meer info hierover (bij kopje "Frame / Object Events"): <a href="http://www.w3schools.com/jsref/dom_obj_event.asp" target="_blank">W3 Object Events</a> voor meer informatie.*
+	- Na het laden van de HTML en het downloaden van alle afbeeldingen en scripts (tip: *onload*)
+	- Resizen van je browservenster (tip: *onResize*)
+	- Scrollen door de pagina (vergeet niet punt 4 van het kopje "HTML Structuur opzetten" om scrollbalken te tonen) (tip: *onScroll*)
 	- Zodra een pagina getoond wordt (tip: *onpageshow*). Kijk wat het verschil is met *window.onload*
 	- Vind er zelf nog minimaal één zelf!
+	- Kom je er niet uit? Zie <a href="https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onresize" target="_blank"> hier </a>een voorbeeld van het *onResize* event
 	
 
 >> *Tip*: Check <a href="http://www.w3schools.com/js/js_events_examples.asp" target="_blank">deze link</a> voor een aardige lijst met bruikbare voorbeelden van events. Zie vooral het kopje "Frame / Object Events".

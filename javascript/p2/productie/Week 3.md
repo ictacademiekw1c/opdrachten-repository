@@ -29,7 +29,6 @@ Hierdoor bootsen we binnen onze webpagina het KW1C na, zodat we in staat zijn om
 	- Zorg ervoor dat de gemaakte table (uit punt 3) gevuld wordt met data uit de schoolStatistics *parameter*. Zie onderstaande screenshot
 ![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht230_2.png)
 *Je mag de pagina zelf helemaal aanpassen zoals je zelf wilt. Zolang de 9 object properties er maar door de JavaScript erin geplaatst zijn*
-4. Maak een nieuwe button aan in de HTML
 5. Test de pagina
 6. Schijf je naam en de datum van vandaag naar de console
 
