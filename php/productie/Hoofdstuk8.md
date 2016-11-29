@@ -34,14 +34,14 @@ while ( conditie ) {
 }
 ~~~
 
--. Heeft een conditie nodig, die uiteindelijk true of false oplevert
--. Heeft een { } = codeblok nodig die wordt uitgevoerd wanneer de conditie true is
--. Je kan if-else constructies en while-lussen **nesten**
+- Heeft een conditie nodig, die uiteindelijk true of false oplevert
+- Heeft een { } = codeblok nodig die wordt uitgevoerd wanneer de conditie true is
+- Je kan if-else constructies en while-lussen **nesten**
 
 ### Verschillen if-else en while
 
--. while heeft geen **else**
--. if wordt **eenmaal** uitgevoerd en while wordt **herhaaldelijk** uitgevoerd
+- while heeft geen **else**
+- if wordt **eenmaal** uitgevoerd en while wordt **herhaaldelijk** uitgevoerd
 
 ## 8.4 Uitleg while en do while
 
