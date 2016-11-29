@@ -62,7 +62,7 @@ Programmeer een php-script dat de getallen 1 t/m 100 print
 ![visuele weergave 80e](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/opdracht80e.PNG?raw=true)
 
 ### Beoordelingscriteria 80
-1. Maak voor iedere deelopdracht een apart script. (80a, 80b, 80c etc).
+1. Maak voor iedere deelopdracht een apart script. (80a.php, 80b, 80c etc).
 2. Comprimeer de bestanden als opdracht80.rar en upload het naar je portfolio
 3. Je php-script toont een volledige en geldige html pagina
 4. Je maakt gebruik van een while lus en eventueel if-else binnen de while
