@@ -4,7 +4,7 @@
 
 ### Objecten: Het KW1C College nabootsen
 
->> **Tip:** Je kunt de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer.
+>> **Tip 1 ** Je kunt de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer.<br>Tip 2: De opdracht is wat lastiger dan normaal, dus lees hem heel goed door!
 
 **Opdracht**
 We gaan wat gegevens die we hebben over het KW1C in een *object* zetten. 
@@ -81,15 +81,23 @@ Afhankelijk van zijn of haar score wordt bepaald of de speler een highscore heef
 welke plaats de speler heeft behaald, of dat de gebruiker geen highscore heeft behaald. 
 Dit doe je door het bewerken van een paragraaftekst (dus geen alert).
 
+**Tips voor het bouwen**
+1. Maak een functie die al het werk voor je doet
+2. Gebruik een <a href="http://www.w3schools.com/js/js_timing.asp" target="_blank">timer</a> voor het tellen van de 5 seconden
+3. Gebruik een array om de highscores in op te slaan. <a href="http://www.w3schools.com/jsref/jsref_sort.asp" target="_blank">Lees hier</a> hoe je een array sorteert
+4. Speel met het 'verborgen' maken van buttons. Zie de hulpbronnen voor enkele tips
+5. Schrijf eerst op papier hoe het spel moet werken in jouw ogen, ga daarna aan de gang met het bouwen!
+6. Veel succes! 
+
 **Hulpbronnen**
-<a href="http://www.w3schools.com/jsref/prop_style_display.asp" target="_blank">Elementen verbergen / tonen met Javascript (display: none)</a>
-<a href="http://www.w3schools.com/jsref/prop_style_display.asp" target="_blank">Elementen verbergen / tonen met Javascript (visibility: hidden)</a>
-<a href="http://www.w3schools.com/jsref/prop_html_innerhtml.asp" target="_blank">Text wegschrijven in een P element</a>
-<a href="http://www.w3schools.com/js/js_timing.asp" target="_blank">Werken met een timer</a>
-<a href="http://www.w3schools.com/js/js_arrays.asp" target="_blank">Aanmaken van Arrays</a>
-<a href="http://www.w3schools.com/js/js_array_methods.asp" target="_blank">Standaard array functies</a>
-<a href="http://www.w3schools.com/jsref/jsref_obj_array.asp" target="_blank">Algemene array info</a>
-<a href="http://www.w3schools.com/jsref/jsref_sort.asp" target="_blank"></a>
+	- <a href="http://www.w3schools.com/jsref/prop_style_display.asp" target="_blank">Elementen verbergen / tonen met Javascript (display: none)</a>
+	- <a href="http://www.w3schools.com/jsref/prop_style_display.asp" target="_blank">Elementen verbergen / tonen met Javascript (visibility: hidden)</a>
+	- <a href="http://www.w3schools.com/jsref/prop_html_innerhtml.asp" target="_blank">Text wegschrijven in een P element</a>
+	- <a href="http://www.w3schools.com/js/js_timing.asp" target="_blank">Werken met een timer</a>
+	- <a href="http://www.w3schools.com/js/js_arrays.asp" target="_blank">Aanmaken van Arrays</a>
+	- <a href="http://www.w3schools.com/js/js_array_methods.asp" target="_blank">Standaard array functies</a>
+	- <a href="http://www.w3schools.com/jsref/jsref_obj_array.asp" target="_blank">Algemene array info</a>
+	- <a href="http://www.w3schools.com/jsref/jsref_sort.asp" target="_blank"></a>
 
 
 **Beoordelingcriteria**

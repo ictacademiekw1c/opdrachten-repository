@@ -1,16 +1,18 @@
-## Opdracht 230 Objecten: Het KW1C nabootsen
+## Opdracht 240 HTML / CSS Opdracht 6.3 met jQuery opleuken!
 
-`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT230.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT240.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
-### Objecten: Het KW1C College nabootsen
+### Objecten: HTML / CSS Opdracht 6.3 met jQuery opleuken!
 
->> **Tip:** Je kunt de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer.
+>> Heb je opdracht 6.3 niet gemaakt? Geen probleem, download <a href="" target="_blank">hier</a> de uitwerking.
 
 **Opdracht**
-We gaan wat gegevens die we hebben over het KW1C in een *object* zetten. 
-Hierdoor bootsen we binnen onze webpagina het KW1C na, zodat we in staat zijn om daarna de gegevens over het KW1C te laten zien in onze webpagina. Ook kunnen we later gemakkelijk deze gegevens aanpassen.
+We gaan jullie uitwerking van de HTML/CSS opdracht 6.3 een beetje opleuken (het recept voor Albert Heijn). Dit gaan we doen door gebruik te maken van de kracht van jQuery!
+Zo gaan we de grote afbeelding laten infaden, de H1 komt met een effect binnen en ook doen we iets grappigs met de H2 en de P elementen. Wellicht kun je zelf nog een ander leuk effect vinden!
 
-1. Maak een nieuw HTML document aan en koppel hier een extern JavaScript bestand aan
+
+1. Kopieer / plak je uitwerking van opdracht 6.3. Mocht je dit niet hebben, dan kun <a href="" target="_blank">hier</a> de uitwerking downloaden.
+2. Koppel hier de jQuery (zoals )
 2. Maak onderstaande &lt;table&gt; aan in de HTML. Geef alle 2'e &lt;td&gt; kolommen een uniek ID attribuut (hier gaan we later data in plaatsen):
 ![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht230.png)
 3. Maak een nieuw *object* variabele aan (bedenk zelf een naam) en koppel de volgende gegevens aan dit *object*:
@@ -28,7 +30,7 @@ Hierdoor bootsen we binnen onze webpagina het KW1C na, zodat we in staat zijn om
 	- De schoolStatistics *parameter* die je hier binnenkrijgt is de eerder aangemaakte *object* variabele 
 	- Zorg ervoor dat de gemaakte table (uit punt 3) gevuld wordt met data uit de schoolStatistics *parameter*. Zie onderstaande screenshot
 ![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht230_2.png)
-*Je mag de pagina zelf helemaal aanpassen zoals je zelf wilt. Zolang de 9 object properties er maar door de JavaScript erin geplaatst zijn*
+*Je mag de pagina zelf helemaal aanpassen zoals je zelf wilt. Zolang de 9 object properties er maar door de JavaScript in geplaatst zijn*
 5. Test de pagina
 6. Schijf je naam en de datum van vandaag naar de console
 
@@ -46,10 +48,7 @@ We gaan het aangemaakte *object* uitbreidden met 2 zogeheten *Object methods*. L
 
 
 **Beoordelingcriteria**
-1. Je hebt een object aangemaakt met minimaal 9 properties
-2. Je hebt de gegevens uit het *object* variabele gehaald
-3. Je hebt een table gebruikt in de HTML
-4. De functie drawStatistics doet het werk wat betreft het tonen van de gegevens
+1. 
 5. Er is voldoende en logisch commentaar geplaatst in de code
 6. Je hebt je naam en de datum van maken naar de console gestuurd
 
