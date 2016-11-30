@@ -36,6 +36,8 @@ We gaan dus een functie schrijven die aan de hand van een parameter (de naam die
 
 ### Events, functies en nog meer pret!
 
+>> De opdracht is wat uitgebreider dan normaal. Lees daarom **goed** de opdracht door en pak de presentaties erbij!
+
 **Opdracht**
 
 In deze opdracht gaan we uitvinden wat voor dingen we allemaal met events kunnen doen! Daarom gaan we spelen met events en functies, om te kijken wat er allemaal mogelijk is.
@@ -53,7 +55,7 @@ Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. L
 
 **Deel 2: Mouse events**
 
-3. Zorg ervoor dat je 3 keer een zelfverzonnen *alert* toond bij de volgende 3 events op het eerder aangemaakte &lt;H2&gt; element:
+3. Zorg ervoor dat je 3 keer een zelfverzonnen *alert* toont bij de volgende 3 events op het eerder aangemaakte &lt;H2&gt; element:
 	- onclick
 	- onmouseenter
 	- onmousedown
