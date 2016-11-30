@@ -143,7 +143,7 @@ In opdracht90.php roep je de functie aan op 2 vrschillende plekken in je html-do
 
 ## 9.7 Opdracht 91 functions
 ### Opdrachtomschrijving 91
-Herschrijf opdracht 81 (niet de alternatieve opdracht) en maak gebruik van de functie printTafel() om de tafels te printen.
+Herschrijf opdracht 81 (niet de alternatieve opdracht) en maak gebruik van de functie printTafel() om 1 tafel te printen. Geef de tafel die je wil printen als parameter door aan de functie printTafel(). Bijvoorbeeld om de tafel van 3 te laten printen: printTafel(3).
 Zet de functie printTafel() in functies.php
 
 ### Visuele weergave 91
@@ -201,7 +201,7 @@ echo "<ul><li>$naam2</li></ul>";
 ~~~
 
 Zie ook de volgende voorbeelden op github [verschillende functie voorbeelden](https://gist.github.com/saebuabu/777fbbb8651f3a6cf26b)
-## 9.9 Opdracht 92 functions
+## 9.9 Opdracht 92 functions met return
 
 ### Opdrachtomschrijving 92
 Maak de onderstaande code af zodat de visuele weergave van een factuur wordt getoond zoals in onderstaande afbeelding.
