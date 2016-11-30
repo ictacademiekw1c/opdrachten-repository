@@ -186,7 +186,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 **Opdracht**
 
 1. Maak in je JavaScript een nieuwe functie genaamd "testFunctie" aan. Deze functie accepteerd één parameter genaamd *name* .Laat deze functie de volgende dingen doen:
-	- Maak een nieuwe variabele genaamd *begroeting* aan. Zet hier een de *name* en een welkomstekst in
+	- Maak een nieuwe variabele genaamd *begroeting* aan. Zet hier de *name* en een verzin een welkomstekst
 	- Toon *begroeting* aan de gebruiker
 2. Voer de functie uit (bedenk zelf een waarde voor de *name*)
 3. Probeer daaronder de variabele *begroeting* te alert'en. Krijg je een error?
