@@ -143,7 +143,7 @@ In opdracht90.php roep je de functie aan op 2 vrschillende plekken in je html-do
 
 ## 9.7 Opdracht 91 functions
 ### Opdrachtomschrijving 91
-Herschrijf opdracht 81 (niet de alternatieve opdracht) en maak gebruik van de functie printTafel() om de tafels te printen.
+Herschrijf opdracht 81 (niet de alternatieve opdracht) en maak gebruik van de functie printTafel() om 1 tafel te printen. Geef de tafel die je wil printen als parameter door aan de functie printTafel(). Bijvoorbeeld om de tafel van 3 te laten printen: printTafel(3).
 Zet de functie printTafel() in functies.php
 
 ### Visuele weergave 91
@@ -201,16 +201,70 @@ echo "<ul><li>$naam2</li></ul>";
 ~~~
 
 Zie ook de volgende voorbeelden op github [verschillende functie voorbeelden](https://gist.github.com/saebuabu/777fbbb8651f3a6cf26b)
-## 9.9 Opdracht 92 functions
+## 9.9 Opdracht 92 functions met return
 
 ### Opdrachtomschrijving 92
-//TODO
+Maak de onderstaande code af zodat de visuele weergave van een factuur wordt getoond zoals in onderstaande afbeelding.
+Doe dit door de functies berekenBtw() en berekenTotaal() te maken (declareren en implementeren). 
+
+### Programmastructuur 92
+
+Begin met de volgende programmastructuur:
+~~~php
+<?php
+include('functies.php');
+?>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+    </head>
+    <body>        
+        <table border="1">
+        <tr><th></th><th>Beschrijving</th><th>Bedrag</th><th>Totaal</th><th>BTW</th></tr>
+        <?php
+        
+        $uur = 2;
+        $uurprijs = 90;
+        $btw = 21;
+        $subtotaal = product($uur, $uurprijs);
+        $btwbedrag = berekenBtw($btw , $subtotaal);
+        $totaal = berekenTotaal($subtotaal, $btwbedrag);
+
+        echo "<tr><td>$uur uur</td><td>Advieswerkzaamheden</td><td>&euro; $uurprijs</td><td>$subtotaal</td><td>$btw %</td></tr>";
+        echo "<tr><td colspan='2'></td><td>Subtotaal</td><td>$subtotaal</td><td></td></tr>";
+        echo "<tr><td colspan='2'></td><td>21%BTW</td><td>$btwbedrag</td><td></td></tr>";
+        echo "<tr><td colspan='2'></td><td>Totaal</td><td>$totaal</td><td></td></tr>";  
+        ?>        
+        </table>
+    </body>
+</html>
+~~~
+
+De functie product() in functies.php ziet er als volgt uit:
+~~~php
+/**************
+* Omschrijving: berekend product van 2 getallen
+* @param  $g1 en $g2: 2 getallen
+* @return het product van de 2 getallen
+**************/
+function product($g1, $g2) {
+    
+    $uitkomst = $g1 * $g2;
+
+    return $uitkomst;
+}
+~~~
 
 ### Visuele weergave 92
+![factuur](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/factuur.png?raw=true)
+
 
 ### Beoordelingscriteria 92
-1. Comprimeer opdracht92.php en functies.php als opdracht91.rar en upload het naar je portfolio
+1. Comprimeer opdracht92.php en functies.php als opdracht92.rar en upload het naar je portfolio
 2. Je php-script toont een volledige en geldige html pagina
+3. Voeg zinvolle commentaar toe aan de verschillende onderdelen van je code
 
 
 
