@@ -246,7 +246,8 @@ De functie product() in functies.php ziet er als volgt uit:
 ~~~php
 /**************
 * Omschrijving: berekend product van 2 getallen
-* @param  $g1 en $g2: 2 getallen
+* @param  $g1 eerste getal
+* @param  $g2 tweede getal
 * @return het product van de 2 getallen
 **************/
 function product($g1, $g2) {
