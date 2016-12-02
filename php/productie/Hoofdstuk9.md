@@ -267,6 +267,27 @@ function product($g1, $g2) {
 2. Je php-script toont een volledige en geldige html pagina
 3. Voeg zinvolle commentaar toe aan de verschillende onderdelen van je code
 
+## 9.10 Opdracht 92a Alternatieve opdracht
 
+### Opdrachtomschrijving 92a
 
+Maak een factuurtabel zoals in opdracht 92 maar nu er zijn meer werkzaamheden die moeten worden gefactureerd.
+In de programmastructuur staat welke uren en werkzaamheden gefactureerd moeten worden.
 
+### Programmastructuur 92a
+
+~~~php
+        $uur = array(2,8,4);
+        $werkzaamheden = array('Advieswerkzaamheden', 'Onderzoek', 'Instructie');
+        $uurprijs = 90;
+        $btw = 21;
+~~~
+
+Er moeten aldus 2 uur Advieswerkzaamheden, 8 uur Onderzoek en 4 uur instructie worden gefactureerd.
+
+### Beoordelingscriteria 92a
+1. Comprimeer opdracht92a.php en functies.php als opdracht92a.rar en upload het naar je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+3. Voeg zinvolle commentaar toe aan de verschillende onderdelen van je code
+4. Je maakt gebruik van functies om subtotalen, totalen en btw bedragen uit te rekenen.
+5. Je functies mogen ook html code retourneren
