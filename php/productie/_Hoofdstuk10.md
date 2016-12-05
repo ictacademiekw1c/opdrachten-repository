@@ -69,7 +69,7 @@ While constructies met arrays:
 ### Opdrachtomschrijving 100
 Declareer een array $cijfers met al je cijfers van alle vakken die je in periode 1 hebt gehad.
 
-Programmeer een while lus en bereken/bepaal in de lus de volgende zaken:<br>
+Programmeer een __while lus__ en bereken/bepaal in de lus de volgende zaken:<br>
 - Het aantal cijfers
 - Het laagste cijfer
 - Het hoogste cijfer
