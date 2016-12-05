@@ -64,5 +64,35 @@ While constructies met arrays:
     }
 ~~~
 
+## 10.4 Opdracht 100 arrays
+
+### Opdrachtomschrijving 100
+Declareer een array $cijfers met al je cijfers van alle vakken die je in periode 1 hebt gehad.
+
+Programmeer een while lus en bereken/bepaal in de lus de volgende zaken:<br>
+- Het aantal cijfers
+- Het laagste cijfer
+- Het hoogste cijfer
+- Het gemiddelde cijfer afgerond 2 cijfer achter de komma
+- Het aantal onvoldoendes
+
+``Je mag geen functies gebruiken die nog niet eerder zijn voorgekomen in de php-lessen in periode 1 of 2``
+
+Wel mag je gebruiken: count() of sizeof() en round() en je mag zoveel variabelen gebruiken als je zelf wil.
+
+### Visuele weergave 100
+
+Je cijfers zijn: 2, 7, 6.7, 8.8, 10, 1, 7.5
+Je hebt 7 cijfers gehaald
+Het hoogste cijfer is: 10
+Het laagste cijfer is: 2
+Het gemiddelde is: 6.14
+Het aantal onvoldoendes: 2
+
+### Beoordelingscriteria 100
+1. Comprimeer opdracht100.php als opdracht100.rar en upload het naar je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+3. Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen mee hebt
+4. Je mag geen special functies gebruiken die het hoogste, laagste of gemiddelde getal voor je direct bepalen.
 
 
