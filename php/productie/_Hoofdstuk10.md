@@ -82,12 +82,12 @@ Wel mag je gebruiken: count() of sizeof() en round() en je mag zoveel variabelen
 
 ### Visuele weergave 100
 
-Je cijfers zijn: 2, 7, 6.7, 8.8, 10, 1, 7.5
-Je hebt 7 cijfers gehaald
-Het hoogste cijfer is: 10
-Het laagste cijfer is: 2
-Het gemiddelde is: 6.14
-Het aantal onvoldoendes: 2
+- Je cijfers zijn: 2, 7, 6.7, 8.8, 10, 1, 7.5
+- Je hebt 7 cijfers gehaald
+- Het hoogste cijfer is: 10
+- Het laagste cijfer is: 2
+- Het gemiddelde is: 6.14
+- Het aantal onvoldoendes: 2
 
 ### Beoordelingscriteria 100
 1. Comprimeer opdracht100.php als opdracht100.rar en upload het naar je portfolio
