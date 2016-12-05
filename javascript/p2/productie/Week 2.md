@@ -58,9 +58,8 @@ Je bent vrij om zelf voor andere events te kiezen mocht je deze leuker vinden. L
 3. Zorg ervoor dat je 3 keer een zelfverzonnen *alert* toont bij de volgende 3 events op het eerder aangemaakte &lt;H2&gt; element:
 	- onclick
 	- onmouseenter
-	- onmousedown
 	- oncontextmenu
-	- Vind er zelf nog minimaal één zelf!
+	- Vind er zelf nog minimaal twee zelf!
 	
 **Deel 3: DOM / Object Events**
 
