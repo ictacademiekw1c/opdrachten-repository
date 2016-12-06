@@ -92,7 +92,32 @@ Wel mag je gebruiken: count() of sizeof() en round() en je mag zoveel variabelen
 ### Beoordelingscriteria 100
 1. Comprimeer opdracht100.php als opdracht100.rar en upload het naar je portfolio
 2. Je php-script toont een volledige en geldige html pagina
-3. Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen mee hebt
+3. Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen had
 4. Je mag geen special functies gebruiken die het hoogste, laagste of gemiddelde getal voor je direct bepalen.
 
+## 10.5 Opdracht 101 arrays
+
+### Opdrachtomschrijving 100
+Declareer een array $namen met alle voornamen van alle leerlingen uit je klas.
+
+Programmeer een __while lus__ en bereken/bepaal in de lus de volgende zaken:<br>
+- Bepaal de kortste naam
+- Wat is de langste naam
+- Welke namen hebben een a 
+- Welke namen eindigen op een n
+- Welke namen hebben de meeste klinkers
+- (Extra) Welke naam heeft de minst voorkomende medeklinkers?
+
+``Je mag geen functies gebruiken die nog niet eerder zijn voorgekomen in de php-lessen in periode 1 of 2``
+
+Wel mag je gebruiken: strlen(), substr() en je mag zoveel variabelen gebruiken als je zelf wil.
+
+### Visuele weergave 101
+
+### Beoordelingscriteria 101
+1. Comprimeer opdracht101.php als opdracht101.rar en upload het naar je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+3. Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen had
+4. Je mag geen special functies gebruiken die letters zoeken in een woord en posities teruggeven
+5. Je moet een while lus gebruiken.
 
