@@ -1,14 +1,9 @@
-<?php
+# Hoofdstuk 12 Planning en activiteitendiagram
 
-?>
+## Wat ga je leren?
 
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title></title>
-    </head>
-    <body>
-        
-    </body>
-</html>
+- Hoe maak je een realistische planning van je werkzaamheden?
+- Wat is een activiteitendiagram en hoe maak je het in Visio?
+
+
+
