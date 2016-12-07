@@ -191,4 +191,22 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 2. Voer de functie uit (bedenk zelf een waarde voor de *name*)
 3. Probeer daaronder de variabele *begroeting* te alert'en. Krijg je een error?
 4. Geef antwoord op de vraag: Bestaat de variabele *begroeting* buiten de functie?
-	
+
+---
+### Lesopdracht 9 (jQuery toevoegen aan je website)
+
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
+
+**Opdracht**
+
+1. Maak een nieuwe website binnen WebMatrix
+2. Maak hier een &lt;H1&gt; element aan met een zelfverzonnen tekst en geef deze een ID attribuut met de waarde "zelfverzonnenTekst"
+2. Koppel hier (zoals in de presentatie Week 4 Les 1 te zien is) de jQuery library aan
+3. Koppel hier een extern JS bestand (Script.js) aan zoals je altijd doet
+4. Maak binnen Script.js de *$(document).Reeady() {}* (Zie Week 4 Les 1, slide nummer 7) event aan aan
+5. Voer onderstaande code binnen dit event uit:
+```
+	// Fade het element met ID "zelfverzonnenTekst" uit
+	$("#zelfverzonnenTekst").fadeOut();
+```
+
