@@ -4,7 +4,7 @@
 
 ### Objecten: Het KW1C College nabootsen
 
->> **Tip 1 ** Je kunt de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer.<br>Tip 2: De opdracht is wat lastiger dan normaal, dus lees hem heel goed door!
+>> **Tip 1 ** Je kunt de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer.
 
 **Opdracht**
 We gaan wat gegevens die we hebben over het KW1C in een *object* zetten. 
@@ -26,11 +26,13 @@ Hierdoor bootsen we binnen onze webpagina het KW1C na, zodat we in staat zijn om
 	- Weet je zelf nog leuke gegevens? Voeg ze toe!
 3. Maak een nieuwe *function* aan genaamd "drawStatistics" die één *parameter* (schoolStatistics) accepteerd. Laat deze functie de volgende dingen doen:
 	- De schoolStatistics *parameter* die je hier binnenkrijgt is de eerder aangemaakte *object* variabele 
-	- Zorg ervoor dat de gemaakte table (uit punt 3) gevuld wordt met data uit de schoolStatistics *parameter*. Zie onderstaande screenshot
+	- Zorg ervoor dat de gemaakte table (uit punt 2 gevuld wordt met data uit de schoolStatistics *parameter*. Zie onderstaande screenshot
 ![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht230_2.png)
-*Je mag de pagina zelf helemaal aanpassen zoals je zelf wilt. Zolang de 9 object properties er maar door de JavaScript erin geplaatst zijn*
+*Tip: Vul je de table via document.getElementById().innerHTML = 'waarde' *
 5. Test de pagina
 6. Schijf je naam en de datum van vandaag naar de console
+
+**Voorbeeld van je Object:
 
 ### Extra opdracht (voor de eindbazen onder jullie!):
 We gaan het aangemaakte *object* uitbreidden met 2 zogeheten *Object methods*. Lees meer <a href="http://www.w3schools.com/js/js_object_methods.asp" target="_blank">hierover</a>
@@ -59,7 +61,7 @@ We gaan het aangemaakte *object* uitbreidden met 2 zogeheten *Object methods*. L
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT231.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
->> In deze opdracht vragen we wat uitzoekwerk van jullie zelf. Lees daarom de opdracht goed door en gebruik de hulpbronnen!
+>> In deze opdracht vragen we wat uitzoekwerk van jullie zelf. Lees daarom de opdracht goed door en gebruik de hulpbronnen! Kijk ook heel goed naar de gegeven voorbeelden
 
 **Opdracht**
 
@@ -83,11 +85,34 @@ Dit doe je door het bewerken van een paragraaftekst (dus geen alert).
 
 **Tips voor het bouwen**
 1. Maak een functie die al het werk voor je doet
-2. Gebruik een <a href="http://www.w3schools.com/js/js_timing.asp" target="_blank">timer</a> voor het tellen van de 5 seconden
+2. Gebruik een <a href="http://www.w3schools.com/js/js_timing.asp" target="_blank">timer</a> voor het tellen van de 5 seconden. Zie voorbeeld 1
 3. Gebruik een array om de highscores in op te slaan. <a href="http://www.w3schools.com/jsref/jsref_sort.asp" target="_blank">Lees hier</a> hoe je een array sorteert
 4. Speel met het 'verborgen' maken van buttons. Zie de hulpbronnen voor enkele tips
 5. Schrijf eerst op papier hoe het spel moet werken in jouw ogen, ga daarna aan de gang met het bouwen!
 6. Veel succes! 
+
+
+*Voorbeeld 1: Aanmaken van een timer:*
+```
+	// De code binnen de function wordt pas na 3 seconden uitgevoerd
+	setTimeout(function(){ 
+		// Deze code wordt pas na 3000 milliseconden uitgevoerd
+		alert("Hallo");
+	}, 3000);
+	
+	
+```
+
+*Voorbeeld 2: Verbergen / tonen van een element (met ID "button1")*
+```
+	// Verbergen van element met ID button1`
+	document.getElementbyId("button1").style.display = 'none';
+	
+	// Tonen van element met ID button1
+	document.getElementById("button1").style.display = 'block';
+
+```
+
 
 **Hulpbronnen**
 	- <a href="http://www.w3schools.com/jsref/prop_style_display.asp" target="_blank">Elementen verbergen / tonen met Javascript (display: none)</a>

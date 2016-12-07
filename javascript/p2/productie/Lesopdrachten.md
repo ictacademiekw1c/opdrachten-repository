@@ -203,10 +203,20 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 2. Maak hier een &lt;H1&gt; element aan met een zelfverzonnen tekst en geef deze een ID attribuut met de waarde "zelfverzonnenTekst"
 2. Koppel hier (zoals in de presentatie Week 4 Les 1 te zien is) de jQuery library aan
 3. Koppel hier een extern JS bestand (Script.js) aan zoals je altijd doet
-4. Maak binnen Script.js de *$(document).ready() {}* (Zie Week 4 Les 1, slide nummer 7) event aan aan
+4. Maak binnen Script.js een *$(document).ready() {}* (Zie Week 4 Les 1, slide nummer 7) event aan
 5. Voer onderstaande code binnen dit event uit:
 ```
 	// Fade het element met ID "zelfverzonnenTekst" uit
 	$("#zelfverzonnenTekst").fadeOut();
 ```
+
+---
+### Lesopdracht 10
+
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
+
+**Opdracht**
+
+1. 
+
 
