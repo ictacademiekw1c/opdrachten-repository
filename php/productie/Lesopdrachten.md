@@ -10,7 +10,7 @@ We gaan een *array* maken met de namen van minimaal 10 klasgenoten. Daarna gaan 
 3. Zorg ervoor (**zonder een loop te gebruiken!**) dat je alle klasgenoten binnen een &lt;H2&gt; element echo't (zie voorbeeld hieronder). Doe dit natuurlijk binnen de &lt;body&gt;
 4. Nu gaan we (via een *for* loop) nogmaals alle klasgenoten echo'en, maar dan nu binnen een &lt;H3&gt; element (zie voorbeeld hieronder). Doe dit natuurlijk binnen de &lt;body&gt;
 
-![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/php/productie/Afbeeldingen/Lesopdracht1.png)
+![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/php/productie/afbeeldingen/Lesopdracht1.png)
 
 
 
