@@ -79,4 +79,4 @@ Onze buurman "Henk" heeft een katten website. Hij heeft aan jou gevraagd om deze
 
 1. Download de bovenstaande website en pak deze uit. Open deze daarna in WebMatrix via de File -> Open -> Open as Folder. Zie onderstaande afbeelding.
 
-2. 
+2. De rest komt zsm!
