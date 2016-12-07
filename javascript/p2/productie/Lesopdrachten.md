@@ -199,7 +199,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 
 **Opdracht**
 
-1. Maak een nieuwe website binnen WebMatrix
+1. Maak een nieuwe HTML bestand aan
 2. Maak hier een &lt;H1&gt; element aan met een zelfverzonnen tekst en geef deze een ID attribuut met de waarde "zelfverzonnenTekst"
 2. Koppel hier (zoals in de presentatie Week 4 Les 1 te zien is) de jQuery library aan
 3. Koppel hier een extern JS bestand (Script.js) aan zoals je altijd doet
@@ -217,6 +217,27 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 
 **Opdracht**
 
-1. 
+1. Maak een nieuw HTML bestand aan
+2. Koppel hier zoals in de vorige les de jQuery library aan
+3. Koppel hier een extern JS bestand aan. Voeg de volgende HTML code toe aan de &lt;body&gt;
+```HTML
+    <body>
+        <h1>
+			Dit is een H1 tag
+		</h1>
+        <h2>
+			Dit is een H2 tag
+		</h2>
+        <p class="paragraaf1">
+			Dit is een paragraaf met een class genaamd "paragraaf1". Dit is een paragraaf met een class genaamd "paragraaf1"
+		</p>
+        <h3 id="bericht1">
+			Dit is een H3 met ID 'bericht1'
+		</h3>        
+    </body>
+```
+4. Laat het H1 element uitfaden via onderstaande jQuery code:
+```$("h1").fadeOut();```
+5. Bedenk zelf de code om het H2 element te laden uitfaden!
 
 
