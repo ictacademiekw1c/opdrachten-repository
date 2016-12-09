@@ -129,7 +129,6 @@ Bepaal alle priemgetallen tussen 2 en 20. [Wat is een priemgetal?](https://nl.wi
 ### Visuele weergave 102
 __De priemgetallen tot 20 zijn: 2, 3, 5, 7, 11, 13, 17, 19__
 
-
 ### Beoordelingscriteria 102
 1. Comprimeer opdracht102.php als opdracht102.rar en upload het naar je portfolio
 2. Je php-script toont een volledige en geldige html pagina
