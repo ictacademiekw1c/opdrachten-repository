@@ -103,7 +103,7 @@
 *   Mediaquery
 
 ### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2013/Resources/Opdracht%2013.6.rar" target="_blank">Opdracht13.6.rar</a>
 
 ### Help
 *   MediaQuery
