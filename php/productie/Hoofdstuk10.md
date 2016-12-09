@@ -134,5 +134,5 @@ __De priemgetallen tot 20 zijn: 2, 3, 5, 7, 11, 13, 17, 19__
 2. Je php-script toont een volledige en geldige html pagina
 3. Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen had
 4. Je moet een while lus gebruiken.
-5. Je moet een functie maken die retourneert (return) of een getal (parameter) een priemgetal is of niet.
+5. Je moet een functie isPriem() maken, die teruggeeft (return) of een getal (parameter) een priemgetal is of niet.
 
