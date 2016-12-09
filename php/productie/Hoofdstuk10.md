@@ -121,3 +121,18 @@ Wel mag je gebruiken: strlen(), substr() en strpos() en je mag zoveel variabelen
 4. Je mag geen special functies gebruiken die letters zoeken in een woord en posities teruggeven
 5. Je moet een while lus gebruiken.
 
+## 10.6 Opdracht 102 (ifelse - while - functies - algoritmes)
+
+### Opdrachtomschrijving 102
+Bepaal alle priemgetallen tussen 2 en 20. [Wat is een priemgetal?](https://nl.wikipedia.org/wiki/Priemgetal)
+
+### Visuele weergave 102
+__De priemgetallen tot 20 zijn: 2, 3, 5, 7, 11, 13, 17, 19__
+
+### Beoordelingscriteria 102
+1. Comprimeer opdracht102.php als opdracht102.rar en upload het naar je portfolio
+2. Je php-script toont een volledige en geldige html pagina
+3. Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen had
+4. Je moet een while lus gebruiken.
+5. Je moet een functie isPriem() maken, die teruggeeft (return) of een getal (parameter) een priemgetal is of niet.
+
