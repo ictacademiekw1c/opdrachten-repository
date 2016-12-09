@@ -121,7 +121,7 @@ Wel mag je gebruiken: strlen(), substr() en strpos() en je mag zoveel variabelen
 4. Je mag geen special functies gebruiken die letters zoeken in een woord en posities teruggeven
 5. Je moet een while lus gebruiken.
 
-## 10.6 Opdracht 102 ``ifelse - while - functies - algoritmes``
+## 10.6 Opdracht 102 (ifelse - while - functies - algoritmes)
 
 ### Opdrachtomschrijving 102
 Bepaal alle priemgetallen tussen 2 en 20. [Wat is een priemgetal?](https://nl.wikipedia.org/wiki/Priemgetal)
