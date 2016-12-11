@@ -265,7 +265,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 		</ul> 
 		<div id="content">
 			<p>Paragraaf 1. Deze moet wegfaden bij de buttonklik!/p>
-			<p>Paragraaf 2. Deze paragraaf mag niet wegfaden</p>
+			<p>Paragraaf 2. Deze paragraaf mag niet wegfaden bij de buttonklik</p>
 		</div>
 		
 
@@ -274,5 +274,5 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 		<button onclick="doOpdracht6()">Opdracht 6</button>
     </body>
 ```
-5. Opdracht 5: Zorg ervoor dat alle LI items van #navBar verborgen (via fadeOut()) worden zodra de eerste button een klik krijgt. #navBar zelf mag niet verdwijnen
+5. Opdracht 5: Zorg ervoor dat alle LI items van #navBar verborgen (via fadeOut()) worden zodra de eerste button een klik krijgt. #navBar zelf mag niet verdwijnen!
 6. Opdracht 6: Zorg ervoor dat alleen het eerste P element onder #content verborgen (via fadeOut()) wordt zodra de tweede button een klik krijgt.  #content zelf mag niet verdwijnen!
