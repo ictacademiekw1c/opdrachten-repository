@@ -40,4 +40,4 @@ We gaan een array maken met spellen die veel gespeeld worden. Daarna gaan we doo
 - <a href="http://www.w3schools.com/php/func_string_strlen.asp" tabel="_blank">String lengte bepalen</a>
 
 *Eindresultaat ongeveer*
-![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/php/productie/afbeeldingen/Lesopdracht1.png)
+![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/php/productie/afbeeldingen/Lesopdracht2.png)
