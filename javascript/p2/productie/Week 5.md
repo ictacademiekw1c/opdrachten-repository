@@ -1,6 +1,6 @@
 ## Opdracht 251 jQuery selectoren
 
-`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT241.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT251.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
 ### Een katten fansite pimpen met jQuery
 
@@ -9,7 +9,7 @@
 Onze buurman "Henk" heeft een katten website. Hij heeft aan jou gevraagd om deze wat te pimpen door gebruik te maken van jQuery. 
 We gaan dit doen door wat dingen toe te voegen aan de HTML en zelf de JS code schrijven, zodat we allerlei verschillende selectoren kunnen uitproberen! De bedoeling is dus dat we de aangegeven effecten te zien krijgen zodra een gebruiker de website opent
 
->> De website van buurman Henk kun je <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht241.zip" target="_blank">hier</a> vinden.
+>> Download de website van buurman Henk <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht241.zip" target="_blank">hier</a>.
 
 ### Deel 1: Opzetten HTML & CSS
 1. Download de bovenstaande website en pak deze uit. Open deze daarna in WebMatrix via de File -> Open -> Open as Folder. Zie onderstaande afbeelding.
@@ -62,8 +62,9 @@ Zorg ervoor dat via de onderstaande gegeven selectoren de jQuery effecten uitgev
 
 ### Deel 3: Button
 1. Zorg ervoor dat wanneer iemand op de button klikt, de H3 en OL lijst ingefade komen. Maak hierbij gebruik van:
-	- Gebruik hier een event voor
-	- Tip: Maak een functie aan die de fade doet
+	- Gebruik hier een onclick event
+	- Tip: Maak een functie aan die de *fadeIn()*'s doet!
+	- Tip: Kijk goed welke elementen je met de CSS verborgen hebt! Wellicht loop je hier tegen problemen aan
 2. Klaar!
 
 <br>
