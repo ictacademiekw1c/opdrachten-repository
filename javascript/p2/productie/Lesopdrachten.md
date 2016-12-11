@@ -193,7 +193,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 4. Geef antwoord op de vraag: Bestaat de variabele *begroeting* buiten de functie?
 
 ---
-### Lesopdracht 9 (jQuery toevoegen aan je website)
+## Lesopdracht 9 (jQuery toevoegen aan je website)
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
@@ -211,7 +211,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 ```
 
 ---
-### Lesopdracht 10
+## Lesopdracht 10(Selectoren)
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
@@ -219,7 +219,8 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 
 1. Maak een nieuw HTML bestand aan
 2. Koppel hier zoals in de vorige les de jQuery library aan
-3. Koppel hier een extern JS bestand aan. Voeg de volgende HTML code toe aan de &lt;body&gt;
+3. Koppel hier een extern JS bestand aan. Vergeet niet ```$(document)ready(  function() {  }); toe te voegen aan je extern JS bestand
+4. Voeg de volgende HTML code toe aan de &lt;body&gt;
 ```HTML
     <body>
         <h1>
@@ -237,7 +238,12 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
     </body>
 ```
 4. Laat het H1 element uitfaden via onderstaande jQuery code:
-```$("h1").fadeOut();```
+```	$("h1").fadeOut();```
 5. Bedenk zelf de code om het H2 element te laden uitfaden!
+6. Bedenk zelf de code om ook het element met de "paragraaf1" class uit te faden
+7. Bedenk zelf de code om ook het element met het ID "bericht1" uit te faden
+-- 
+## Lesopdracht 11
+
 
 
