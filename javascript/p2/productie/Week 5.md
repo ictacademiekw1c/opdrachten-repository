@@ -16,11 +16,14 @@ We gaan dit doen door wat dingen toe te voegen aan de HTML en zelf de JS code sc
 2. Voeg de jQuery library toe
 3. Koppel een extern JS bestand
 4. Voeg een extern CSS bestand toe en laat deze de volgende dingen doen
-		- Verberg alle elementen (behalve de &lt;button&gt;) via *display: none*
+	- Verberg alle elementen (behalve de &lt;button&gt;) via *display: none*
+5. Klaar? Ga verder met deel 2
 
 
-### Deel 2:  
-1. Zorg ervoor dat via de gegeven selectoren de jQuery functie uitgevoerd wordt. Je moet dus soms iets in de HTML aanpassen of toevoegen en daarna de benodigde Javascript zelf maken!
+### Deel 2: Effecten bij openen van website
+Hieronder zie je een tabel van de effecten die we graag op bepaalde elementen willen zien. 
+Zorg ervoor dat via de onderstaande gegeven selectoren de jQuery effecten uitgevoerd worden. Je moet dus soms iets in de HTML aanpassen of toevoegen en daarna de benodigde Javascript zelf maken!.
+
 <table><tr>
 <th>**Element**</th>
 <th>**Selector**</th>
@@ -54,9 +57,19 @@ We gaan dit doen door wat dingen toe te voegen aan de HTML en zelf de JS code sc
 <td>*.fadeIn(4000)*</td>
 </tr>
 
-
 </table>
 <br><br>
 
+### Deel 3: Button
+1. Zorg ervoor dat wanneer iemand op de button klikt, de H3 en OL lijst ingefade komen. Maak hierbij gebruik van:
+	- Gebruik hier een event voor
+	- Tip: Maak een functie aan die de fade doet
+2. Klaar!
+
+<br>
+<br>
+<br>
 *Zie hier hoe je een bestand opent binnen WebMatrix, zodat je deze "Launch in browser" kunt doen*
 ![Hoe een bestand te openen in webmatrix, zodat deze te openen is](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht241_1.png)
+
+--- 
