@@ -251,7 +251,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 **Opdracht**
 1. Maak een nieuw HTML bestand aan
 2. Koppel hier zoals in de vorige les de jQuery library aan
-3. Koppel hier een extern JS bestand aan. Vergeet niet ```$(document)ready(  function() {  }); toe te voegen aan je extern JS bestand
+3. Koppel hier een extern JS bestand aan. Vergeet niet ```$(document)ready(  function() {  });``` toe te voegen aan je extern JS bestand
 4. Voeg de volgende HTML code toe aan de &lt;body&gt;
 ```HTML
     <body>
