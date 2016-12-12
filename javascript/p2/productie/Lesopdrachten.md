@@ -242,6 +242,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 5. Bedenk zelf de code om het H2 element te laden uitfaden!
 6. Bedenk zelf de code om ook het element met de "paragraaf1" class uit te faden
 7. Bedenk zelf de code om ook het element met het ID "bericht1" uit te faden
+
 -- 
 
 ## Lesopdracht 11
