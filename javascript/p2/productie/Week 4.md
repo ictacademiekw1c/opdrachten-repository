@@ -62,21 +62,3 @@ Zo gaan we de grote afbeelding laten in en uit sliden, de H1 en H2 komt infaden 
 3. Je maakt via een *onclick* event een image zichtbaar of juist onzichtbaar via *slideToggle()*
 4. Er is voldoende en logisch commentaar geplaatst in de code
 5. Je hebt je naam en de datum van maken naar de console gestuurd
-
----
-
-## Opdracht 241 jQuery selectoren
-
-`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT241.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
-
-### Een katten fansite pimpen met jQuery
-
-**Opdracht**
-
-Onze buurman "Henk" heeft een katten website. Hij heeft aan jou gevraagd om deze wat te pimpen door gebruik te maken van jQuery. Dit doen wij natuurlijk maar al te graag!
-
->> De website van buurman Henk kun je <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht241.zip" target="_blank">hier</a> vinden.
-
-1. Download de bovenstaande website en pak deze uit. Open deze daarna in WebMatrix via de File -> Open -> Open as Folder. Zie onderstaande afbeelding.
-
-2. De rest komt zsm!
