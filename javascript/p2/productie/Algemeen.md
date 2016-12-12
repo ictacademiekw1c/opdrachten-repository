@@ -22,8 +22,8 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 |--------------------  |--------------- | --------- |
 | Opdrachten Week 1 | 30 november    | 2 december |
 | Opdrachten Week 2 | 30 november    | 2 december |
-| Opdrachten Week 3 | 7 december | 9 december |
-| Opdrachten Week 4 | 14 december | 16 december |
+| Opdrachten Week 3 | 14 december | 9 december |
+| Opdrachten Week 4 | 21 december | 16 december |
 | Opdrachten Week 5 | 21 december | 23 december |
 | Opdrachten Week 6 | 11 januari | 13 januari |
 | Opdrachten Week 7 | 18 januari | 20 januari |
@@ -83,5 +83,3 @@ Voor opdrachten vanaf hoofdstuk 5 gelden de volgende aanvullende beoordelingscri
 *	De Javascriptcode is geschreven in een extern JS-bestand `Script.js` genaamd
 
 #### [setSubMenuHeader]Algemene informatie
-
-eenctkweenc
