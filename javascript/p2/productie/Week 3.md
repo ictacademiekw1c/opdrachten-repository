@@ -87,7 +87,7 @@ Dit doe je door het bewerken van een paragraaftekst (dus geen alert).
 1. Maak een functie die al het werk voor je doet
 2. Gebruik een <a href="http://www.w3schools.com/js/js_timing.asp" target="_blank">timer</a> voor het tellen van de 5 seconden. Zie voorbeeld 1
 3. Gebruik een array om de highscores in op te slaan. <a href="http://www.w3schools.com/jsref/jsref_sort.asp" target="_blank">Lees hier</a> hoe je een array sorteert
-4. Speel met het 'verborgen' maken van buttons. Zie de hulpbronnen voor enkele tips
+4. Speel met het 'verborgen' maken van buttons. Zie de voorbeeld 2 en de hulpbronnen voor enkele tips
 5. Schrijf eerst op papier hoe het spel moet werken in jouw ogen, ga daarna aan de gang met het bouwen!
 6. Veel succes! 
 
@@ -110,24 +110,23 @@ Dit doe je door het bewerken van een paragraaftekst (dus geen alert).
 	
 	// Tonen van element met ID button1
 	document.getElementById("button1").style.display = 'block';
-
 ```
 
 
 **Hulpbronnen**
-	- <a href="http://www.w3schools.com/jsref/prop_style_display.asp" target="_blank">Elementen verbergen / tonen met Javascript (display: none)</a>
-	- <a href="http://www.w3schools.com/jsref/prop_style_display.asp" target="_blank">Elementen verbergen / tonen met Javascript (visibility: hidden)</a>
-	- <a href="http://www.w3schools.com/jsref/prop_html_innerhtml.asp" target="_blank">Text wegschrijven in een P element</a>
-	- <a href="http://www.w3schools.com/js/js_timing.asp" target="_blank">Werken met een timer</a>
-	- <a href="http://www.w3schools.com/js/js_arrays.asp" target="_blank">Aanmaken van Arrays</a>
-	- <a href="http://www.w3schools.com/js/js_array_methods.asp" target="_blank">Standaard array functies</a>
-	- <a href="http://www.w3schools.com/jsref/jsref_obj_array.asp" target="_blank">Algemene array info</a>
-	- <a href="http://www.w3schools.com/jsref/jsref_sort.asp" target="_blank"></a>
+- <a href="http://www.w3schools.com/jsref/prop_style_display.asp" target="_blank">Elementen verbergen / tonen met Javascript (display: none)</a>
+- <a href="http://www.w3schools.com/jsref/prop_style_display.asp" target="_blank">Elementen verbergen / tonen met Javascript (visibility: hidden)</a>
+- <a href="http://www.w3schools.com/jsref/prop_html_innerhtml.asp" target="_blank">Text wegschrijven in een P element</a>
+- <a href="http://www.w3schools.com/js/js_timing.asp" target="_blank">Werken met een timer</a>
+- <a href="http://www.w3schools.com/js/js_arrays.asp" target="_blank">Aanmaken van Arrays</a>
+- <a href="http://www.w3schools.com/js/js_array_methods.asp" target="_blank">Standaard array functies</a>
+- <a href="http://www.w3schools.com/jsref/jsref_obj_array.asp" target="_blank">Algemene array info</a>
+- <a href="http://www.w3schools.com/jsref/jsref_sort.asp" target="_blank">Array sorteren</a>
 
 
 **Beoordelingcriteria**
-1. Javascript code is geschreven in een eigen JavaScript-bestand.
-2. CSS code is geschreven in een eigen CSS-bestand.
+1. Javascript code is geschreven in een extern JavaScript-bestand.
+2. CSS code is geschreven in een extern CSS-bestand.
 3. De code is voorzien van waardevol commentaar.
 4. De webpagina bevat alle HTML-elementen die nodig zijn voor het spel.
 5. Als je op de aanwezige button klikt verschijnt er een nieuwe button met de tekst 'Klik hier'.
