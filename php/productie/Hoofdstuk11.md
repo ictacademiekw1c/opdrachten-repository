@@ -50,8 +50,8 @@ Breidt het formulier uit met de volgende invoer velden:
 <label>Plaats: </label>
 <select name="plaats">
     <option value="a">Den Bosch</option>
-    <option value="b">Den Bosch</option>
-    <option value="c">Den Bosch</option>
+    <option value="b">Tilburg</option>
+    <option value="c">Breda</option>
 </select>
 
 <label>Geslacht: </label>
