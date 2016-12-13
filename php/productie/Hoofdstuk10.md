@@ -110,7 +110,7 @@ Programmeer een __while lus__ en bereken/bepaal in de lus de volgende zaken:<br>
 
 ``Je mag geen functies gebruiken die nog niet eerder zijn voorgekomen in de php-lessen in periode 1 of 2``
 
-Wel mag je gebruiken: strlen(), substr() en strpos() en je mag zoveel variabelen gebruiken als je zelf wil.
+Wel mag je gebruiken: strlen(), substr(), strpos() en substr_count() en je mag zoveel variabelen, loops, en if statements gebruiken als je zelf wil.
 
 ### Visuele weergave 101
 
