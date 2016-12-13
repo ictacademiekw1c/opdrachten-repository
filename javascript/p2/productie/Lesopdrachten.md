@@ -244,7 +244,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 7. Bedenk zelf de code om ook het element met het ID "bericht1" uit te faden
 
 ---
-## Lesopdracht 11
+## Lesopdracht 11 (Selectors deel 2)
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
@@ -282,7 +282,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 7. Opdracht 7: Zorg ervoor dat alléén de eerste &lt;button&gt; onder de &lt;body&gt; verborgen wordt zodra de 3e button (Opdracht 7) een klik krijgt
 
 ---
-## Lesopdracht 12
+## Lesopdracht 12 (DOM aanpassingen)
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
