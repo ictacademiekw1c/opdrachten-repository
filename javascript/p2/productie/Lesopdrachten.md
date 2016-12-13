@@ -243,8 +243,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 6. Bedenk zelf de code om ook het element met de "paragraaf1" class uit te faden
 7. Bedenk zelf de code om ook het element met het ID "bericht1" uit te faden
 
--- 
-
+---
 ## Lesopdracht 11
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
@@ -259,20 +258,77 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 		<div>
 			<a href="">Eerste link</a>
 		</div>
-
 		<ul id="navbar">
 			<li><a href="">Tweede sublink</a></li> 
 			<li><a href="">Derde sublink</a></li>
 		</ul> 
 		<div id="content">
-			<p>Paragraaf 1. Deze moet wegfaden bij de buttonklik!/p>
-			<p>Paragraaf 2. Deze paragraaf mag niet wegfaden bij de buttonklik</p>
+			<p>
+				Paragraaf 1. Deze moet wegfaden bij de buttonklik!
+			</p>
+			<p>
+				Paragraaf 2. Deze paragraaf mag niet wegfaden bij de buttonklik
+			</p>
 		</div>
 
 		<a href="">Een andere link naar een andere pagina</a>
 		<button onclick="doOpdracht5()">Opdracht 5</button>
 		<button onclick="doOpdracht6()">Opdracht 6</button>
+		<button onclick="doOpdracht7()">Opdracht 7</button>
     </body>
 ```
-5. Opdracht 5: Zorg ervoor dat alle LI items van #navBar verborgen (via fadeOut()) worden zodra de eerste button een klik krijgt. #navBar zelf mag niet verdwijnen!
-6. Opdracht 6: Zorg ervoor dat alleen het eerste P element onder #content verborgen (via fadeOut()) wordt zodra de tweede button een klik krijgt.  #content zelf mag niet verdwijnen!
+5. Opdracht 5: Zorg ervoor dat alle LI items van #navBar verborgen (via fadeOut()) worden zodra de eerste button (Opdracht 5) een klik krijgt. #navBar zelf mag niet verdwijnen!
+6. Opdracht 6: Zorg ervoor dat alleen het eerste P element onder #content verborgen (via fadeOut()) wordt zodra de tweede button (Opdracht 6) een klik krijgt.  #content zelf mag niet verdwijnen!
+7. Opdracht 7: Zorg ervoor dat alléén de eerste &lt;button&gt; onder de &lt;body&gt; verborgen wordt zodra de 3e button (Opdracht 7) een klik krijgt
+
+---
+## Lesopdracht 12
+
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
+
+**Opdracht**
+1. Maak een nieuw HTML bestand aan
+2. Koppel hier zoals in de vorige les de jQuery library aan
+3. Koppel hier een extern JS bestand aan
+4. Voeg in dit extern js bestand de bekende document.ready() code toe (zie presentaties Week 4 Les1, Sheet 7)
+4. Voeg de volgende HTML code toe aan de &lt;body&gt;
+```HTML
+<form action="index.html" method="post">
+	<h1 class="mainTitle"></h1>
+	<table class="gegevensTable">
+		<tr>
+			<td>
+				<label for="naam">
+					Geef u naam op
+				</label>
+				<input type="text" name="naam" id="naam">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label for="straat">
+					Geef uw straatnaam op
+				</label>
+				<input type="text" name="straat" id="straat">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label for="straat">
+					Geef uw email op
+				</label>
+				<input type="text" name="email" id="straat">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<input type="submit" value="Versturen">
+			</td>
+		</tr>
+	</table>
+</form>
+```
+5. Launch in de browser een keer om te kijken wat je precies gemaakt hebt
+6. Laat via jQuery de volgende dingen gebeuren:
+	- Geef de H1 met de class 'mainTitle' de text "Welkom op het inschrijf formulier"
+	- Voeg na iedere &lt;input&gt; 
