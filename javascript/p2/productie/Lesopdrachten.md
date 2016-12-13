@@ -218,7 +218,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 **Opdracht**
 
 1. Maak een nieuw HTML bestand aan
-2. Koppel hier zoals in de vorige les de jQuery library aan
+2. Koppel hier zoals in de vorige lessen de jQuery library aan
 3. Koppel hier een extern JS bestand aan. Vergeet niet ```$(document)ready(  function() {  });``` toe te voegen aan je extern JS bestand
 4. Voeg de volgende HTML code toe aan de &lt;body&gt;
 ```HTML
@@ -250,7 +250,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 
 **Opdracht**
 1. Maak een nieuw HTML bestand aan
-2. Koppel hier zoals in de vorige les de jQuery library aan
+2. Koppel hier zoals in de vorige lessen de jQuery library aan
 3. Koppel hier een extern JS bestand aan. Vergeet niet ```$(document)ready(  function() {  });``` toe te voegen aan je extern JS bestand
 4. Voeg de volgende HTML code toe aan de &lt;body&gt;
 ```HTML
@@ -288,19 +288,22 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 
 **Opdracht**
 1. Maak een nieuw HTML bestand aan
-2. Koppel hier zoals in de vorige les de jQuery library aan
+2. Koppel hier zoals in de vorige lessen de jQuery library aan
 3. Koppel hier een extern JS bestand aan
 4. Voeg in dit extern js bestand de bekende document.ready() code toe (zie presentaties Week 4 Les1, Sheet 7)
 4. Voeg de volgende HTML code toe aan de &lt;body&gt;
 ```HTML
 <form action="index.html" method="post">
 	<h1 class="mainTitle"></h1>
+	<h2 id="introductie">Dit is een waardeloze introductietekst</h2>
 	<table class="gegevensTable">
 		<tr>
 			<td>
 				<label for="naam">
-					Geef u naam op
+					Geef uw naam op
 				</label>
+			</td>
+			<td>
 				<input type="text" name="naam" id="naam">
 			</td>
 		</tr>
@@ -309,15 +312,19 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 				<label for="straat">
 					Geef uw straatnaam op
 				</label>
+			</td>
+			<td>
 				<input type="text" name="straat" id="straat">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<label for="straat">
+				<label for="email">
 					Geef uw email op
 				</label>
-				<input type="text" name="email" id="straat">
+			</td>
+			<td>
+				<input type="text" name="email" id="email">
 			</td>
 		</tr>
 		<tr>
@@ -328,7 +335,9 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 	</table>
 </form>
 ```
-5. Launch in de browser een keer om te kijken wat je precies gemaakt hebt
+5. "Launch in browser" om te kijken wat je precies gemaakt hebt
 6. Laat via jQuery de volgende dingen gebeuren:
 	- Geef de H1 met de class 'mainTitle' de text "Welkom op het inschrijf formulier"
-	- Voeg na iedere &lt;input&gt; 
+	- Voeg na iedere &lt;input&gt; deze html toe: ```<p>Verplicht!</p>```. Tip: Kijk in de presentaties naar *append()*
+	- Voeg na de &lt;table&gt; deze html toe: ```<p>We zullen uw gegevens nooit verkopen aan derden</p>```. Tip: Kijk in de presentaties naar *before()*
+	- Verwijder de h2 met de class "introductie". Tip: Kijk in de presentaties naar *remove()*
