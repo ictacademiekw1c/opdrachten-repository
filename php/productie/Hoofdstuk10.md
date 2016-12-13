@@ -87,7 +87,7 @@ Wel mag je gebruiken: count() of sizeof() en round() en je mag zoveel variabelen
 - Het hoogste cijfer is: 10
 - Het laagste cijfer is: 2
 - Het gemiddelde is: 6.14
-- Het aantal onvoldoendes: 2
+- Het aantal onvoldoendes: 1
 
 ### Beoordelingscriteria 100
 1. Comprimeer opdracht100.php als opdracht100.rar en upload het naar je portfolio
