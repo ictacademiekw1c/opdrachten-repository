@@ -218,7 +218,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 **Opdracht**
 
 1. Maak een nieuw HTML bestand aan
-2. Koppel hier zoals in de vorige les de jQuery library aan
+2. Koppel hier zoals in de vorige lessen de jQuery library aan
 3. Koppel hier een extern JS bestand aan. Vergeet niet ```$(document)ready(  function() {  });``` toe te voegen aan je extern JS bestand
 4. Voeg de volgende HTML code toe aan de &lt;body&gt;
 ```HTML
@@ -243,15 +243,14 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 6. Bedenk zelf de code om ook het element met de "paragraaf1" class uit te faden
 7. Bedenk zelf de code om ook het element met het ID "bericht1" uit te faden
 
--- 
-
-## Lesopdracht 11
+---
+## Lesopdracht 11 (Selectors deel 2)
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
 **Opdracht**
 1. Maak een nieuw HTML bestand aan
-2. Koppel hier zoals in de vorige les de jQuery library aan
+2. Koppel hier zoals in de vorige lessen de jQuery library aan
 3. Koppel hier een extern JS bestand aan. Vergeet niet ```$(document)ready(  function() {  });``` toe te voegen aan je extern JS bestand
 4. Voeg de volgende HTML code toe aan de &lt;body&gt;
 ```HTML
@@ -259,20 +258,86 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 		<div>
 			<a href="">Eerste link</a>
 		</div>
-
 		<ul id="navbar">
 			<li><a href="">Tweede sublink</a></li> 
 			<li><a href="">Derde sublink</a></li>
 		</ul> 
 		<div id="content">
-			<p>Paragraaf 1. Deze moet wegfaden bij de buttonklik!/p>
-			<p>Paragraaf 2. Deze paragraaf mag niet wegfaden bij de buttonklik</p>
+			<p>
+				Paragraaf 1. Deze moet wegfaden bij de buttonklik!
+			</p>
+			<p>
+				Paragraaf 2. Deze paragraaf mag niet wegfaden bij de buttonklik
+			</p>
 		</div>
 
 		<a href="">Een andere link naar een andere pagina</a>
 		<button onclick="doOpdracht5()">Opdracht 5</button>
 		<button onclick="doOpdracht6()">Opdracht 6</button>
+		<button onclick="doOpdracht7()">Opdracht 7</button>
     </body>
 ```
-5. Opdracht 5: Zorg ervoor dat alle LI items van #navBar verborgen (via fadeOut()) worden zodra de eerste button een klik krijgt. #navBar zelf mag niet verdwijnen!
-6. Opdracht 6: Zorg ervoor dat alleen het eerste P element onder #content verborgen (via fadeOut()) wordt zodra de tweede button een klik krijgt.  #content zelf mag niet verdwijnen!
+5. Opdracht 5: Zorg ervoor dat alle LI items van #navBar verborgen (via fadeOut()) worden zodra de eerste button (Opdracht 5) een klik krijgt. #navBar zelf mag niet verdwijnen!
+6. Opdracht 6: Zorg ervoor dat alleen het eerste P element onder #content verborgen (via fadeOut()) wordt zodra de tweede button (Opdracht 6) een klik krijgt.  #content zelf mag niet verdwijnen!
+7. Opdracht 7: Zorg ervoor dat alléén de eerste &lt;button&gt; onder de &lt;body&gt; verborgen wordt zodra de 3e button (Opdracht 7) een klik krijgt
+
+---
+## Lesopdracht 12 (DOM aanpassingen)
+
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
+
+**Opdracht**
+1. Maak een nieuw HTML bestand aan
+2. Koppel hier zoals in de vorige lessen de jQuery library aan
+3. Koppel hier een extern JS bestand aan
+4. Voeg in dit extern js bestand de bekende document.ready() code toe (zie presentaties Week 4 Les1, Sheet 7)
+4. Voeg de volgende HTML code toe aan de &lt;body&gt;
+```HTML
+<form action="index.html" method="post">
+	<h1 class="mainTitle"></h1>
+	<h2 id="introductie">Dit is een waardeloze introductietekst</h2>
+	<table class="gegevensTable">
+		<tr>
+			<td>
+				<label for="naam">
+					Geef uw naam op
+				</label>
+			</td>
+			<td>
+				<input type="text" name="naam" id="naam">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label for="straat">
+					Geef uw straatnaam op
+				</label>
+			</td>
+			<td>
+				<input type="text" name="straat" id="straat">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label for="email">
+					Geef uw email op
+				</label>
+			</td>
+			<td>
+				<input type="text" name="email" id="email">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<input type="submit" value="Versturen">
+			</td>
+		</tr>
+	</table>
+</form>
+```
+5. "Launch in browser" om te kijken wat je precies gemaakt hebt
+6. Laat via jQuery de volgende dingen gebeuren:
+	- Geef de H1 met de class 'mainTitle' de text "Welkom op het inschrijf formulier". Tip: Kijk in de presentaties naar *.html()*
+	- Voeg na iedere &lt;input&gt; deze html toe: ```<p>Verplicht!</p>```. Tip: Kijk in de presentaties naar *append()*
+	- Voeg na de &lt;table&gt; deze html toe: ```<p>We zullen uw gegevens nooit verkopen aan derden</p>```. Tip: Kijk in de presentaties naar *before()*
+	- Verwijder de h2 met de class "introductie". Tip: Kijk in de presentaties naar *remove()*
