@@ -97,7 +97,7 @@ Wel mag je gebruiken: count() of sizeof() en round() en je mag zoveel variabelen
 
 ## 10.5 Opdracht 101 arrays
 
-### Opdrachtomschrijving 100
+### Opdrachtomschrijving 101
 Declareer een array $namen met alle voornamen van alle leerlingen uit je klas.
 
 Programmeer een __while lus__ en bereken/bepaal in de lus de volgende zaken:<br>
