@@ -71,12 +71,13 @@ Programmeer vervolgens in opdracht110.php
 ### Visuele weergave 110
 
 ``De geprinte waardes in de visuele weergave komen overeen met wat er is ingevuld in het formulier``
-De waarde van plaats is : .....
-De waarde van keuze is : .....
-De waarde van geslacht is : .....
-De waarde van geheim is : ......
-De waarde van tekst is : ......
-De waarde van wachtwoord is : ......
+
+De waarde van plaats is : .....<br>
+De waarde van keuze is : .....<br>
+De waarde van geslacht is : .....<br>
+De waarde van geheim is : ......<br>
+De waarde van tekst is : ......<br>
+De waarde van wachtwoord is : ......<br>
 
 ### Beoordelingscriteria 110
 - Comprimeer opdracht110.php als opdracht110.rar en upload het naar je portfolio
