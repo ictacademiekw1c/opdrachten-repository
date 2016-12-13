@@ -337,7 +337,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 ```
 5. "Launch in browser" om te kijken wat je precies gemaakt hebt
 6. Laat via jQuery de volgende dingen gebeuren:
-	- Geef de H1 met de class 'mainTitle' de text "Welkom op het inschrijf formulier"
+	- Geef de H1 met de class 'mainTitle' de text "Welkom op het inschrijf formulier". Tip: Kijk in de presentaties naar *.html()*
 	- Voeg na iedere &lt;input&gt; deze html toe: ```<p>Verplicht!</p>```. Tip: Kijk in de presentaties naar *append()*
 	- Voeg na de &lt;table&gt; deze html toe: ```<p>We zullen uw gegevens nooit verkopen aan derden</p>```. Tip: Kijk in de presentaties naar *before()*
 	- Verwijder de h2 met de class "introductie". Tip: Kijk in de presentaties naar *remove()*
