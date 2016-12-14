@@ -87,7 +87,7 @@ Wel mag je gebruiken: count() of sizeof() en round() en je mag zoveel variabelen
 - Het hoogste cijfer is: 10
 - Het laagste cijfer is: 2
 - Het gemiddelde is: 6.14
-- Het aantal onvoldoendes: 2
+- Het aantal onvoldoendes: 1
 
 ### Beoordelingscriteria 100
 1. Comprimeer opdracht100.php als opdracht100.rar en upload het naar je portfolio
@@ -97,7 +97,7 @@ Wel mag je gebruiken: count() of sizeof() en round() en je mag zoveel variabelen
 
 ## 10.5 Opdracht 101 arrays
 
-### Opdrachtomschrijving 100
+### Opdrachtomschrijving 101
 Declareer een array $namen met alle voornamen van alle leerlingen uit je klas.
 
 Programmeer een __while lus__ en bereken/bepaal in de lus de volgende zaken:<br>
@@ -110,7 +110,7 @@ Programmeer een __while lus__ en bereken/bepaal in de lus de volgende zaken:<br>
 
 ``Je mag geen functies gebruiken die nog niet eerder zijn voorgekomen in de php-lessen in periode 1 of 2``
 
-Wel mag je gebruiken: strlen(), substr() en strpos() en je mag zoveel variabelen gebruiken als je zelf wil.
+Wel mag je gebruiken: strlen(), substr(), strpos() en substr_count() en je mag zoveel variabelen, loops, en if statements gebruiken als je zelf wil.
 
 ### Visuele weergave 101
 
