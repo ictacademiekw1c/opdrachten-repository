@@ -1,3 +1,14 @@
+## Opdracht 250 jQuery
+
+`` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT250.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
+
+### Een katten fansite pimpen met jQuery
+
+**Opdracht**
+
+
+---
+
 ## Opdracht 251 jQuery selectoren
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT251.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
@@ -62,7 +73,7 @@ Zorg ervoor dat via de onderstaande gegeven selectoren de jQuery effecten uitgev
 
 ### Deel 3: Button
 1. Zorg ervoor dat wanneer iemand op de button klikt, de H3 en OL lijst ingefade komen. Maak hierbij gebruik van:
-	- Gebruik hier een onclick event
+	- onclick event
 	- Tip: Maak een functie aan die de *fadeIn()*'s doet!
 	- Tip: Kijk goed welke elementen je met de CSS verborgen hebt! Wellicht loop je hier tegen problemen aan
 2. Klaar!
@@ -72,5 +83,3 @@ Zorg ervoor dat via de onderstaande gegeven selectoren de jQuery effecten uitgev
 <br>
 *Zie hier hoe je een bestand opent binnen WebMatrix, zodat je deze "Launch in browser" kunt doen*
 ![Hoe een bestand te openen in webmatrix, zodat deze te openen is](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht241_1.png)
-
---- 

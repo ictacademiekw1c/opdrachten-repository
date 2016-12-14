@@ -62,6 +62,7 @@ We gaan het aangemaakte *object* uitbreidden met 2 zogeheten *Object methods*. L
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT231.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
 >> In deze opdracht vragen we wat uitzoekwerk van jullie zelf. Lees daarom de opdracht goed door en gebruik de hulpbronnen! Kijk ook heel goed naar de gegeven voorbeelden
+>> Is deze opdracht te lastig voor je? Laat hem zitten en ga door met de volgende opdracht
 
 **Opdracht**
 

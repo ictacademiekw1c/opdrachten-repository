@@ -277,9 +277,9 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 		<button onclick="doOpdracht7()">Opdracht 7</button>
     </body>
 ```
-5. Opdracht 5: Zorg ervoor dat alle LI items van #navBar verborgen (via fadeOut()) worden zodra de eerste button (Opdracht 5) een klik krijgt. #navBar zelf mag niet verdwijnen!
-6. Opdracht 6: Zorg ervoor dat alleen het eerste P element onder #content verborgen (via fadeOut()) wordt zodra de tweede button (Opdracht 6) een klik krijgt.  #content zelf mag niet verdwijnen!
-7. Opdracht 7: Zorg ervoor dat alléén de eerste &lt;button&gt; onder de &lt;body&gt; verborgen wordt zodra de 3e button (Opdracht 7) een klik krijgt
+5. Opdracht 5: Zorg ervoor dat alle LI items van #navBar verborgen (via *fadeOut()*) worden zodra de eerste button (Opdracht 5) een klik krijgt. #navBar zelf mag niet verdwijnen!
+6. Opdracht 6: Zorg ervoor dat alleen het eerste P element onder #content verborgen (via *fadeOut()*) wordt zodra de tweede button (Opdracht 6) een klik krijgt.  #content zelf mag niet verdwijnen!
+7. Opdracht 7: Zorg ervoor dat alléén de eerste &lt;button&gt; onder de &lt;body&gt; verborgen wordt zodra de 3e button (Opdracht 7) een klik krijgt.
 
 ---
 ## Lesopdracht 12 (DOM aanpassingen)
@@ -338,6 +338,6 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 5. "Launch in browser" om te kijken wat je precies gemaakt hebt
 6. Laat via jQuery de volgende dingen gebeuren:
 	- Geef de H1 met de class 'mainTitle' de text "Welkom op het inschrijf formulier". Tip: Kijk in de presentaties naar *.html()*
-	- Voeg na iedere &lt;input&gt; deze html toe: ```<p>Verplicht!</p>```. Tip: Kijk in de presentaties naar *append()*
+	- Voeg na iedere &lt;input&gt; deze html toe: ```<p>Verplicht!</p>```. Tip: Kijk in de presentaties naar *after()*
 	- Voeg na de &lt;table&gt; deze html toe: ```<p>We zullen uw gegevens nooit verkopen aan derden</p>```. Tip: Kijk in de presentaties naar *before()*
 	- Verwijder de h2 met de class "introductie". Tip: Kijk in de presentaties naar *remove()*
