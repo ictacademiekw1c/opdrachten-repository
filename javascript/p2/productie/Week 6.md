@@ -2,9 +2,9 @@
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT260.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
->> Tip: Pak de presentaties erbij van de afgelopen week 5 en 6!
-<br>
->> Download het template bestand <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht%20250.zip">hier</a>.
+> Tip: Pak de presentaties erbij van de afgelopen week 5 en 6!
+
+> Download het template bestand <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht260.zip">hier</a>.
 
 ### Updaten van een website!
 
