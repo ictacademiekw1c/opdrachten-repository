@@ -4,9 +4,9 @@
 
 ### Een website voor je rooster voor maandag en dinsdag
 
-> Tip: Pak de presentaties erbij van de afgelopen week 4 en 5!
+> -Tip: Pak de presentaties erbij van de afgelopen week 4 en 5!
 
-> Download het template bestand <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht%20250.zip" target="_blank">hier</a>.
+> - Download het template bestand <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht%20250.zip" target="_blank">hier</a>.
 
 **Opdracht**
 
