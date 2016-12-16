@@ -1,10 +1,24 @@
-## Opdracht 250 jQuery
+## Opdracht 250 jQuery rooster
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT250.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
-### Een katten fansite pimpen met jQuery
+### Een website voor je rooster voor maandag en dinsdag
+
+>> Download het template bestand <a href="">hier</a>.
 
 **Opdracht**
+
+We gaan een website bouwen, waarin (via jQuery) je rooster getoond ingetoond wordt voor de maandag en de dinsdag. Via een button kun je kiezen welke dag je te zien krijgt. Gelukkig voor jullie krijg je al de HTML aangeleverd van een leeg rooster. De Javascript en jQuery om dit rooster daarna te vullen mogen jullie zelf schrijven!
+
+**Beoordelingscriteria**
+1. Je hebt een extern JavaScript bestand gebruikt
+2. Je hebt de jQuery library ingeladen
+3. Zodra je de pagina opent, zie je een leeg rooster. Pas na het klikken op een van de buttons, krijg je de informatie te zien
+3. De informatie over je rooster wordt via Javascript / jQuery inladen in de HTML
+4. Je hebt minimaal de jQuery functie *.html()* gebruikt en *fadeIn()*, *fadeOut()*
+
+
+
 
 
 ---
