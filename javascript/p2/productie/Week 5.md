@@ -4,9 +4,9 @@
 
 ### Een website voor je rooster voor maandag en dinsdag
 
-> -Tip: Pak de presentaties erbij van de afgelopen week 4 en 5!
-
-> - Download het template bestand <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht%20250.zip" target="_blank">hier</a>.
+> Tip: Pak de presentaties erbij van de afgelopen week 4 en 5!
+<br>
+> Download het template bestand <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht%20250.zip" target="_blank">hier</a>.
 
 **Opdracht**
 
@@ -18,10 +18,10 @@ Zodra je de website opent, moet je dus een leeg rooster te zien krijgen. Pas na 
 2. Open deze in WebMatrix via de File -> Open -> Open as Folder optie
 2. Koppel hier een extern JS bestand en koppel ook de jQuery library
 3. Zorg ervoor dat wanneer je op een van de buttons klikt het rooster met de gegevens van die dag gevuld worden. Doe / let op de volgende dingen:
-	1. Vervang de &lt;h2&gt; tekst door de gekozen dag bij een klik op een van de buttons. Tip: Zie presentaties week 5, Les 2
-	2. Je mag de HTML aanpassen naar je eigen wens! Voeg classes, ID's, etc toe. Je mag alleen geen gegevens van je rooster in de HTML zetten!
-	3. Probeer slim gebruik te maken van de jQuery selectoren, zodat je minder code hoeft te typen!
-	4. Maak gebruik van functies!
+	- Vervang de &lt;h2&gt; tekst door de gekozen dag bij een klik op een van de buttons. Tip: Zie presentaties week 5, Les 2
+	- Je mag de HTML aanpassen naar je eigen wens! Voeg classes, ID's, etc toe. Je mag alleen geen gegevens van je rooster in de HTML zetten!
+	- Probeer slim gebruik te maken van de jQuery selectoren, zodat je minder code hoeft te typen!
+	- Maak gebruik van functies!
 	
 <br>
 **Voorbeeld:** De maandag (na een klik op de button)**
