@@ -14,7 +14,8 @@ We gaan een website bouwen, waarin (via jQuery) je rooster getoond wordt voor de
 Via een button kun je kiezen welke dag je te zien krijgt. Gelukkig voor jullie krijg je al de HTML aangeleverd van een leeg rooster. De Javascript en jQuery om dit rooster daarna te vullen mogen jullie zelf schrijven!
 Zodra je de website opent, moet je dus een leeg rooster te zien krijgen. Pas na het klikken op een van de bovenstaande buttons moet er een rooster zichtbaar worden voor die dag!
 
-1. Download het template bestand (<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht%20250.zip" target="_blank">hier</a>) en pak deze uit. Open deze daarna in WebMatrix via de File -> Open -> Open as Folder.
+1. Download het template bestand (<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht%20250.zip" target="_blank">hier</a>) en pak deze uit. 
+2. Open deze in WebMatrix via de File -> Open -> Open as Folder optie
 2. Koppel hier een extern JS bestand en koppel ook de jQuery library
 3. Zorg ervoor dat wanneer je op een van de buttons klikt het rooster met de gegevens van die dag gevuld worden. Doe / let op de volgende dingen:
 	1. Vervang de &lt;h2&gt; tekst door de gekozen dag bij een klik op een van de buttons. Tip: Zie presentaties week 5, Les 2
