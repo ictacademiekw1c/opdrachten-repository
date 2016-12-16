@@ -38,7 +38,7 @@ en voeg deze klasse toe met jQuery aan alle elementen met id="kerntaken"
 
 
 *De teksten moeten veranderen zodra er op de button (in rood) geklikt is!*
-![Voorbeeld](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht260.png)
+![Voorbeeld](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/opdracht260.png)
   
 
 
