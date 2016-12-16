@@ -4,8 +4,9 @@
 
 ### Een website voor je rooster voor maandag en dinsdag
 
->> Tip: Pak de presentaties erbij van de afgelopen week 4 en 5!
->> Download het template bestand <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht%20250.zip" target="_blank">hier</a>.
+> Tip: Pak de presentaties erbij van de afgelopen week 4 en 5!
+
+> Download het template bestand <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht%20250.zip" target="_blank">hier</a>.
 
 **Opdracht**
 
@@ -50,7 +51,7 @@ Zodra je de website opent, moet je dus een leeg rooster te zien krijgen. Pas na 
 Onze buurman "Henk" heeft een katten website. Hij heeft aan jou gevraagd om deze wat te pimpen door gebruik te maken van jQuery. 
 We gaan dit doen door wat dingen toe te voegen aan de HTML en zelf de JS code schrijven, zodat we allerlei verschillende selectoren kunnen uitproberen! De bedoeling is dus dat we de aangegeven effecten te zien krijgen zodra een gebruiker de website opent
 
->> Download de website van buurman Henk <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht241.zip" target="_blank">hier</a>.
+> Download de website van buurman Henk <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht241.zip" target="_blank">hier</a>.
 
 ### Deel 1: Opzetten HTML & CSS
 1. Download de bovenstaande website en pak deze uit. Open deze daarna in WebMatrix via de File -> Open -> Open as Folder. Zie onderstaande afbeelding voor meer info.
