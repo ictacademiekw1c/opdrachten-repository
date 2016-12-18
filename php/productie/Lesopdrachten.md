@@ -55,13 +55,13 @@ Zodra je je naam hebt ingevoerd en het formuliertje hebt opgestuurd, laat hij ee
 
 1. Maak een nieuwe PHP bestand aan
 2. Maak in de HTML een formulier aan zoals je bij HTML/CSS geleerd hebt. Maak hierin de volgende dingen aan
-	- Je form moet action="*bestandsnaam.php*" en een method="get" hebben
+	- Je form moet action="*bestandsnaam.php*" en een method="get" hebben (vul bij *bestandsnaam.php* de bestandsnaam in van je aangemaakte bestand)
 	- een input met type="text" en name="voornaam"
 	- een submit button (via type="submit")
-3. Maak in de PHP code een if statement die checkt of de $_GET paramater "voornaam" bestaat (*isset($_GET["voornaam"]*)
-4. Zet binnen deze if een echo die onderstaande zin echo't
+3. Maak in de PHP code een if statement die checkt of de $_GET parameter "voornaam" bestaat (*isset($_GET["voornaam"]*). Bekijk Hoofdstuk 5 voor meer info
+4. Zet binnen deze *if* een echo die de zin echo't "Welkom *voornaam*"
 5. "Launch in browser" en check of je formulier werkt!
 
 *Eindresultaat ongeveer*
-![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/php/productie/afbeeldingen/Lesopdracht2.png)
+![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/php/productie/afbeeldingen/Lesopdracht3.png)
 
