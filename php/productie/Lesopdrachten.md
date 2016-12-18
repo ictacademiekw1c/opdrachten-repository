@@ -50,7 +50,8 @@ We gaan een array maken met spellen die veel gespeeld worden. Daarna gaan we doo
 
 **Opdracht**
 
-We gaan een formuliertje maken die je om je naam vraagt. Zodra je je naam hebt ingevoerd en het formuliertje hebt opgestuurd, laat hij een welkomsbericht zien!
+We gaan een formuliertje maken die je om je naam vraagt. Deze maken we in HTML, die daarna (na het versturen) uitgelezen kan worden in PHP
+Zodra je je naam hebt ingevoerd en het formuliertje hebt opgestuurd, laat hij een welkomsbericht zien!
 
 1. Maak een nieuwe PHP bestand aan
 2. Maak in de HTML een formulier aan zoals je bij HTML/CSS geleerd hebt. Maak hierin de volgende dingen aan
@@ -64,6 +65,3 @@ We gaan een formuliertje maken die je om je naam vraagt. Zodra je je naam hebt i
 *Eindresultaat ongeveer*
 ![Webpagina om na te maken](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/php/productie/afbeeldingen/Lesopdracht2.png)
 
---- 
-
-## Lesopdracht 4 (Formulieren via $_POST)
