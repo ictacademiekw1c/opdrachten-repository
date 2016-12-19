@@ -92,6 +92,8 @@ In een goed werkende applicatie krijgt de gebruiker feedback/terugkoppeling als 
 
 Bestudeer het gedrag in deze video en breid het formulier zo uit dat hetzelfde gedrag wordt vertoond als in de video.
 
+[Bekijk hier de video van het formulier](https://mix.office.com/watch/14j36qfov0w4g)
+
 ### Opzet programmastructuur
 Begin met de volgende html/php code:
 ~~~php
