@@ -251,7 +251,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 **Opdracht**
 1. Maak een nieuw HTML bestand aan
 2. Koppel hier zoals in de vorige lessen de jQuery library aan
-3. Koppel hier een extern JS bestand aan. Vergeet niet ```$(document)ready(  function() {  });``` toe te voegen aan je extern JS bestand
+3. Koppel hier een extern JS bestand aan. Vergeet niet ```$(document).ready(  function() {  });``` toe te voegen aan je extern JS bestand
 4. Voeg de volgende HTML code toe aan de &lt;body&gt;
 ```HTML
     <body>
@@ -341,3 +341,10 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 	- Voeg na iedere &lt;input&gt; deze html toe: ```<p>Verplicht!</p>```. Tip: Kijk in de presentaties naar *after()*
 	- Voeg na de &lt;table&gt; deze html toe: ```<p>We zullen uw gegevens nooit verkopen aan derden</p>```. Tip: Kijk in de presentaties naar *before()*
 	- Verwijder de h2 met de class "introductie". Tip: Kijk in de presentaties naar *remove()*
+	
+--- 
+## Lesopdracht 13
+
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
+
+**Opdracht**

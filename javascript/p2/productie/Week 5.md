@@ -33,7 +33,7 @@ Zodra je de website opent, moet je dus een leeg rooster te zien krijgen. Pas na 
 1. Je hebt een extern JavaScript bestand gebruikt
 2. Je hebt de jQuery library ingeladen
 3. Zodra je de pagina opent, zie je een leeg rooster. Pas na het klikken op een van de buttons, krijg je de informatie te zien
-3. De informatie over je rooster wordt via Javascript / jQuery inladen in de HTML. Er staat dus geen 
+3. De informatie over je rooster wordt via Javascript / jQuery inladen in de HTML. Er staat dus geen informatie in de HTML.
 4. Je hebt minimaal de jQuery functie *.html()* gebruikt en *fadeIn()*, *fadeOut()*
 5. Je hebt voor de button clicks een event gebruikt
 6. Je hebt de code om het rooster te vullen in functies gezet
