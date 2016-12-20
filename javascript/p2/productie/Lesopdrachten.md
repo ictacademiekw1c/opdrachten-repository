@@ -350,6 +350,21 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 **Opdracht**
 1. Maak een nieuw HTML bestand aan
 2. Koppel hier zoals in de vorige lessen de jQuery library aan
+4. Koppel hier een extern CSS bestand aan
 3. Koppel hier een extern JS bestand aan
 4. Voeg in dit extern js bestand de bekende document.ready() code toe (zie presentaties Week 4 Les1, Sheet 7)
-5. 
+5. Maak in het CSS bestand de onderstaande classes aan, met de volgende CSS:
+	- *.red*: background-color: #f00; 
+	- *#green*: background-color: #00ff21;
+6. Voeg in de HTML een &lt;h1&gt;, een &lt;h2&gt; en een &lt;p&gt; element toe en verzin zelf wat teksten om erin te plaatsen!
+7. Laat via jQuery de volgende dingen gebeuren (binnen de *$(document).ready*) (bekijk de presentaties voor meer info)
+	- Laat de &lt;h1&gt; rood worden door middel van de *red* class (Gebruik .addClass() )
+	- Voeg de volgende css toe aan het &lt;h2&gt; element: ```font-size: 35px;``` (Gebruik .css() )
+	- Voeg het volgende attribuut toe aan de &lt;p&gt;: id="green" (Gebruik .attr() )
+8. Maak een button met een onclick event die de volgende dingen doet:
+	- Verwijder de eerder toegevoegde .red class uit de &lt;h1&gt; (Gebruik .removeClass() )
+	- Verwijder het eerder toegevoegde attribuut  id="green" uit het &lt;p&gt; element
+
+
+
+
