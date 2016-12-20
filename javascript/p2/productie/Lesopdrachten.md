@@ -343,8 +343,13 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 	- Verwijder de h2 met de class "introductie". Tip: Kijk in de presentaties naar *remove()*
 	
 --- 
-## Lesopdracht 13
+## Lesopdracht 13 (CSS Aanpassingen)
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
 **Opdracht**
+1. Maak een nieuw HTML bestand aan
+2. Koppel hier zoals in de vorige lessen de jQuery library aan
+3. Koppel hier een extern JS bestand aan
+4. Voeg in dit extern js bestand de bekende document.ready() code toe (zie presentaties Week 4 Les1, Sheet 7)
+5. 

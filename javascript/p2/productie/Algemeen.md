@@ -18,13 +18,13 @@ Klik op onderstaande afbeelding om WebMatrix te downloaden.
 ## Opleverdata
 Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
-|Opdracht              | Deadline **IO1A4** + **IO1B4**    | Deadline **IO1C4** + **IO1D4** + **IO1E4** |
+|Opdracht              | Deadline **IO1A4** + **IO1B4**  &nbsp;  | Deadline **IO1C4** + **IO1D4** + **IO1E4** &nbsp;|
 |--------------------  |--------------- | --------- |
 | Opdrachten Week 1 | 30 november    | 2 december |
 | Opdrachten Week 2 | 30 november    | 2 december |
 | Opdrachten Week 3 | 14 december | 9 december |
 | Opdrachten Week 4 | 21 december | 16 december |
-| Opdrachten Week 5 | 21 december | 23 december |
+| Opdrachten Week 5 | 11 januari | 13 januari |
 | Opdrachten Week 6 | 11 januari | 13 januari |
 | Opdrachten Week 7 | 18 januari | 20 januari |
 | Opdrachten Week 8 | 25 januari | 27 januari |
