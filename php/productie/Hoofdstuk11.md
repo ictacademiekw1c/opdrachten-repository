@@ -84,6 +84,63 @@ De waarde van wachtwoord is : ......<br>
 - Je php-script toont een volledige en geldige html pagina
 - Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen had
 
+## 11.3 Opdracht 111 formuliervelden validatie
+
+### Opdrachtomschrijving 111
+In de volgende video wordt een formulier getoond, waarin met php gecontroleerd wordt wat de gebruiker heeft ingevuld.
+In een goed werkende applicatie krijgt de gebruiker feedback/terugkoppeling als niet de gewenste input door de gebruiker is gegeven.
+
+Bestudeer het gedrag in deze video en breid het formulier zo uit dat hetzelfde gedrag wordt vertoond als in de video.
+
+[Bekijk hier de video van het formulier](https://mix.office.com/watch/14j36qfov0w4g)
+
+### Opzet programmastructuur
+Begin met de volgende html/php code:
+~~~php
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Formulier en $_GET</title>
+         <style>
+            section {
+                width:  40%;
+                margin:  auto;
+                padding:  1em;
+                border: 1px solid black;
+            }
+        </style>
+    </head>
+    <body>      
+        <section>      
+        <form method="get" action="opdracht111.php">
+            <label>Getal 1: </label><input type="text" value="<?php echo $getal ?>" name ="getal">
+            <input type="submit" name="verzend" value="verzend">
+        </form>
+        <p><?php echo $msg; ?></p>
+        </section>
+    </body>
+</html>
+~~~
+
+### Stappenplan 111
+
+- Je krijgt meteen een foutmelding dat $getal en $msg niet bestaan. Initialiseer getal op null en msg op "Vul een getal in tussen de 10 en de 20.".
+- Maak een if else constructie met isset() en $_GET zodat je kan testen of het formulier verzonden is.
+- Indien het formulier verzonden is test dan of er iets is ingevuld in het veld getal met de functie empty()
+- Test vervolgens of het ingevulde getal groter is dan 10 en tegelijkertijd kleiner is dan 20.
+- Test of je de juiste melding krijgt bij goede en foute invoer.
+
+### Visuele weergave en gedrag 111
+
+[Bekijk hier de video van het formulier](https://mix.office.com/watch/14j36qfov0w4g)
+
+### Beoordelingscriteria 111
+- Comprimeer opdracht111.php als opdracht111.rar en upload het naar je portfolio
+- Je php-script toont een volledige en geldige html pagina
+- Je code bevat commentaar; vooral op plekken waar het moeilijk wordt of waar jij problemen had
+- Je maakt gebruik van de method get
+- Voor de validatie gebruik je de functies isset() en empty()
 
 
 
