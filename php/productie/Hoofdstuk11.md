@@ -6,6 +6,7 @@
 - De methods get en post
 - action
 - verborgen formulier velden
+- Hoe valideer je ingevulde waardes
 
 ## Voorbeelden
 
