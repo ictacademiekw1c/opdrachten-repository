@@ -94,6 +94,10 @@ Bestudeer het gedrag in deze video en breid het formulier zo uit dat hetzelfde g
 
 [Bekijk hier de video van het formulier](https://mix.office.com/watch/14j36qfov0w4g)
 
+Of programmeer het gedrag zoals het in de volgende UML activiteiten diagram is beschreven.
+
+![UML diagram 111](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/images/Opdracht111.png?raw=true)
+
 ### Opzet programmastructuur
 Begin met de volgende html/php code:
 ~~~php
