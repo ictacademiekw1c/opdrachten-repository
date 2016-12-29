@@ -56,7 +56,7 @@ en voeg deze klasse toe met jQuery aan alle elementen met id="kerntaken"
      
 ---
 
-## Opdracht 261 jQuery CSS, onClick en append, prepend etc
+## Opdracht 261 jQuery DOM en CSS manipulaties
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT261.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
 
