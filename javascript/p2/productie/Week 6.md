@@ -38,7 +38,7 @@ en voeg deze klasse toe met jQuery aan alle elementen met id="kerntaken"
 
 
 *De teksten moeten veranderen zodra er op de button (in rood) geklikt is!*
-![Voorbeeld](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/opdracht260.png)
+![Voorbeeld](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht260.png)
   
 **Beoordelingscriteria**
 1. Je hebt een extern JavaScript bestand gebruikt
@@ -81,14 +81,14 @@ Dit gaan we allemaal doen door middel van jQuery, dus pak de presentaties erbij 
 5. Zet alle CSS code de je kunt vinden op deze pagina over naar een extern CSS bestand en lees deze CSS even door, zodat je ongeveer weet wat er aan styling is
 6. Open de website om te kijken of hij eruit ziet zoals onderstaande afbeelding:
 
-![Voorbeeld van de lege website](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/opdracht261_2.png)
+![Voorbeeld van de lege website](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht261_2.png)
 
 #Deel 2: Toevoegen van blokken
 Zorg ervoor dat de 3 meest rechste buttons doen wat er als commentaar in de HTML beschreven is (zie afbeelding hieronder). Je gaat dus de "Nieuwe rood blok", "Nieuw zwart blok" en "Verwijder eerste blok"
 **Tip:** Pak de presentaties erbij om code voorbeelden terug te kijken!
 
 *Lees goed het commentaar in de HTML!*
-![De buttons die je moet programmeren](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/opdracht261_3.png)
+![De buttons die je moet programmeren](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht261_3.png)
 
 
 #Deel 3: Besturing van de blokken
@@ -103,12 +103,12 @@ Om ALLE blokken tegelijk 15px naar beneden te sturen heb je onderstaande jQuery 
 Bedenk zelf de jQuery code om de blokken naar links en rechts te sturen!
 
 *Lees goed het commentaar in de HTML!*
-![De buttons die je moet programmeren](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/opdracht261_4.png)
+![De buttons die je moet programmeren](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht261_4.png)
 
 # Deel 4: Nabouwen van een plaatje
 Je bent klaar met de opdracht zodra je onderstaand plaatje kunt namaken (door de buttons te gebruiken uiteraard)!
 
-![De buttons die je moet programmeren](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/opdracht261.png)
+![De buttons die je moet programmeren](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht261.png)
 
 
 **Beoordelingscriteria**
