@@ -25,7 +25,7 @@ Laat de onderstaande dingen gebeuren via jQuery zodra er op de button "Verander 
 2. Verander de tweede titel in 'Waar kan ik werken?'
 3. Voeg een extra paragraaf toe na de alinea met 'Als applicatieontwikkelaar...' met de tekst: 'Ook de overheid is vaak een goede werkgever. Secundaire arbeidsvoorwaarden zijn meestal goed.'
 4. Maak van 'Praesent sed est' een h3 element. met de tekst 'Hoe ziet de opleiding eruit?'
-5. Voeg voor de eerste paragraaf na 'Hoe ziet de opleiding eruit' een nieuwe paragraaf toe met de tekst: 'De overstap die je maakt van vmbo-T of Have is rdelijk groot. Er wordt van je verwacht dat je zelfstandig te werk gaat en gaat het er minder schools aan toe dan je gewend was.'
+5. Voeg voor de eerste paragraaf na 'Hoe ziet de opleiding eruit' een nieuwe paragraaf toe met de tekst: 'De overstap die je maakt van vmbo-T of Have is redelijk groot. Er wordt van je verwacht dat je zelfstandig te werk gaat en gaat het er minder schools aan toe dan je gewend was.'
 6. Verander van iedere h2 element de tekstkleur in rood
 7. Voeg in je styling toe: ```.zwartopwit { 
 	background: #fff;
@@ -34,14 +34,28 @@ Laat de onderstaande dingen gebeuren via jQuery zodra er op de button "Verander 
 ```
 en voeg deze klasse toe met jQuery aan alle elementen met id="kerntaken"
 8. Verander de achtergrondkleur van blauw naar een andere  kleur, en verander ook de kleur van de tekst, zodat alle tekst wel goed leesbaar blijft
-9. Open de site in je browser en klik op de button "Verander de pagina!"
+9. Open de site in je browser en klik op de button "Verander de pagina!". Check of alles veranderd zoals is beschreven
 
 
 *De teksten moeten veranderen zodra er op de button (in rood) geklikt is!*
 ![Voorbeeld](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/opdracht260.png)
   
-
+**Beoordelingscriteria**
+1. Je hebt een extern JavaScript bestand gebruikt
+2. Je hebt de jQuery library ingeladen
+3. Zodra je op de button drukt gebeuren er de volgende dingen:
+	- Eerste titel veranderd in 'Opleiding applicatieontwikkelaar'
+	- Tweede titel veranderd in 'Waar ik kan ik werken?'
+	- Extra P tag wordt toegevoegd 
+	- "Praesent sed est" H3 header veranderd
+	- Extra P tag wordt toegevoegd
+	- Alle H2 elementen worden rood
+	- Er is extra styling toegevoegd
+  
+  
+     
 ---
+
 ## Opdracht 261 jQuery CSS, onClick en append, prepend etc
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT261.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 2 zitten.``
@@ -96,3 +110,11 @@ Je bent klaar met de opdracht zodra je onderstaand plaatje kunt namaken (door de
 
 ![De buttons die je moet programmeren](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/opdracht261.png)
 
+
+**Beoordelingscriteria**
+1. Je hebt een extern JavaScript bestand gebruikt
+2. Je hebt de jQuery library ingeladen
+3. De bezoeker kan rode blokken aanmaken
+4. De bezoeker kan zwarte blokken aanmaken
+5. De bezoeker kan een blok verwijderen
+6. De bezoeker kan alle zichtbare blokken besturen (links, rechts, boven en onder)
