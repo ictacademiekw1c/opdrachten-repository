@@ -357,14 +357,19 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 	- *.red*: background-color: #f00; 
 	- *#green*: background-color: #00ff21;
 6. Voeg in de HTML een &lt;h1&gt;, een &lt;h2&gt; en een &lt;p&gt; element toe en verzin zelf wat teksten om erin te plaatsen!
-7. Laat via jQuery de volgende dingen gebeuren (binnen de *$(document).ready*) (bekijk de presentaties voor meer info)
+7. Laat via jQuery de volgende dingen gebeuren (binnen de *$(document).ready*) (bekijk de presentaties Week 7 voor meer info)
 	- Laat de &lt;h1&gt; rood worden door middel van de *red* class (Gebruik .addClass() )
-	- Voeg de volgende css toe aan het &lt;h2&gt; element: ```font-size: 35px;``` (Gebruik .css() )
+	- Voeg de volgende css toe aan het &lt;h2&gt; element: ```font-size: 10px; color: #ccc;``` (Gebruik .css() )
 	- Voeg het volgende attribuut toe aan de &lt;p&gt;: id="green" (Gebruik .attr() )
 8. Maak een button met een onclick event die de volgende dingen doet:
 	- Verwijder de eerder toegevoegde .red class uit de &lt;h1&gt; (Gebruik .removeClass() )
-	- Verwijder het eerder toegevoegde attribuut  id="green" uit het &lt;p&gt; element
+	- Verwijder het eerder toegevoegde attribuut  id="green" uit het &lt;p&gt; element (Gebruik .removeAttr() )
+	
+---
+# Lesopdracht 14 (jQuery Events)
 
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
+**Opdracht**
 
 
