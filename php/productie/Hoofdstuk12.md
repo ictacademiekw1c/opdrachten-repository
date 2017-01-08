@@ -31,7 +31,24 @@ echo $_SESSION['naam'];
 unset ($_SESSION['naam']);
 ~~~
 
-## 12.3 Voorbeeld
+## 12.3 Opdracht 120 formulier en sessie
+
+### Opdrachtomschrijving 120
+
+Maak de volgende scripts aan die naar elkaar gaan verwijzen via links of via de action in het formulier.
+
+- formulier.php  
+> Een formulier met method post en action naar sessie.php
+- sessie.php
+> de post variabele naam wordt in de sessie variabele naam gezet
+- sessie1.php
+> de sessie variabele naam wordt geprint
+- sessie2.php
+> de sessie variabele naam wordt verwijderd uit de sessie
+
+Haal de scripts op vanuit github: [voorbeeld scripts](https://gist.github.com/saebuabu/57afc5251c820fb36127a946ea130689)
+
+Test de scripts zelf uit. Zou je hier een login systeem van kunnen maken?
 
 
 
