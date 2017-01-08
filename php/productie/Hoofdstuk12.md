@@ -8,12 +8,10 @@
 - Hoe zet je een waarde in een sessie
 - Hoe haal je een waarde op in de sessie
 
-## 12.2 Planning en activiteitendiagram
+## 12.2 Uitleg en voorbeelden
 
-## Wat ga je leren?
+> In een sessie bewaar je gegevens die je nodig kan hebben gedurende het bezoek van een gebruiker aan een website. Bijvoorbeeld de gebruikersnaam of de producten in een winkelwagen in een webshop.
 
-- Hoe maak je een realistische planning van je werkzaamheden?
-- Wat is een activiteitendiagram en hoe maak je het in Visio?
 
 
 
