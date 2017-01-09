@@ -342,6 +342,10 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 	- Voeg na de &lt;table&gt; deze html toe: ```<p>We zullen uw gegevens nooit verkopen aan derden</p>```. Tip: Kijk in de presentaties naar *before()*
 	- Verwijder de h2 met de class "introductie". Tip: Kijk in de presentaties naar *remove()*
 	
+**Naslagwerk**
+- <a href="http://www.w3schools.com/jquery/jquery_dom_add.asp" target="_blank">Append, Prepend, After, Before</a>
+- <a href="https://api.jquery.com/html/" target="_blank">jQuery docs: .html()</a>
+	
 --- 
 ## Lesopdracht 13 (CSS Aanpassingen)
 
@@ -370,7 +374,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 
 
 ---
-# Lesopdracht 14 (jQuery Events)
+## Lesopdracht 14 (jQuery Events)
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
@@ -420,7 +424,3 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 
 **Extra opdracht**
 Probeer uit te vinden hoe je bij het *submit()* event van het formuliertje kunt voorkomen dat de bezoeker doorgestuurd wordt naar www.kw1c.nl!. Tip: Lees <a href="https://api.jquery.com/submit/" target="_blank">api.jquery.com/submit</a>
-
-
----
-# Lesopdracht 15
