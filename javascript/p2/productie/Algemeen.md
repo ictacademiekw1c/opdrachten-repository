@@ -27,7 +27,6 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | Opdrachten Week 5 | 11 januari | 13 januari |
 | Opdrachten Week 6 | 11 januari | 13 januari |
 | Opdrachten Week 7 | 18 januari | 20 januari |
-| Opdrachten Week 8 | 25 januari | 27 januari |
 
 <br> 
 
