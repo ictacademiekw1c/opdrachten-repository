@@ -382,7 +382,7 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 1. Maak een nieuw HTML bestand aan
 2. Voeg de volgende HTML toe aan de &lt;body&gt;:
 ```html
-	<button id="button1">Klik mij!</a>
+	<button id="button1">Klik mij!</button>
 	<hr>
 	<p id="paragraph1">Ga met je muis over mij heen!</p>
 	<hr>
@@ -415,6 +415,11 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 <td>#form1</td>
 <td>.submit</td>
 <td>"Dankje voor het invullen!</td>
+</tr>
+<tr>
+<td>#inputText1</td>
+<td>.keyup</td>
+<td>"Hallo, hier spreekt je toetsenbord"</td>
 </tr>
 </table>
 
