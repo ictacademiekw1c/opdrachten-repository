@@ -1,3 +1,5 @@
+#### [kleurcode]rgba(224,67,54,1)
+
 #  Hoofdstuk 2 Cookies en sessies
 
 ## 2.1 $_SESSION variabele
