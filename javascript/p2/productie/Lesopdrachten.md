@@ -416,6 +416,11 @@ We gaan informatie die we hebben over het lokaal waar je je momenteel bevindt na
 <td>.submit</td>
 <td>"Dankje voor het invullen!</td>
 </tr>
+<tr>
+<td>#inputText1</td>
+<td>.keyup</td>
+<td>"Hallo, hier spreekt je toetsenbord"</td>
+</tr>
 </table>
 
 **Naslagwerk**
