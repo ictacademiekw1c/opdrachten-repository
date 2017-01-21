@@ -2,17 +2,23 @@
 
 #  Hoofdstuk 1 PHPstorm + Github
 
-## 1.1 Github
+## 1.1 Phpstorm
 
-### 1.1.1 Account Github
+  Downloaden
 
-...
-Account
-Team
-Fork
-Clone
+  Licentie
 
-## 1.2 PHPStorm
+  php.exe
 
-...
-Licentie
+## 1.2 Account Github
+
+  Account aanmaken
+
+  Team ICTAcademie
+
+  Fork opdrachten project op github
+
+  Clone: Openen geforkte project in PHPstorm via github
+
+  Openen opdrachten op c9.io
+
