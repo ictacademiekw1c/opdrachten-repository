@@ -2,23 +2,10 @@
 
 #  Hoofdstuk 1 PHPstorm + Github
 
-## 1.1 Phpstorm
+## 1.0 Handleiding PHPstorm
 
-  Downloaden
+Volg alle stappen in de volgende handleiding:
+[Handleiding PHPStorm](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/Productie/01.%20Reader/PHP%20Handleiding%20PHPStorm%20GitHub.docx)
 
-  Licentie
-
-  php.exe
-
-## 1.2 Account Github
-
-  Account aanmaken
-
-  Team ICTAcademie
-
-  Fork opdrachten project op github
-
-  Clone: Openen geforkte project in PHPstorm via github
-
-  Openen opdrachten op c9.io
+## 1.1 Opdracht 1 je eerste commit en oplevering
 
