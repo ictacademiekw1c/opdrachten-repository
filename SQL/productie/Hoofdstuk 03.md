@@ -20,28 +20,31 @@
 ### Help
 *   Module header
 ```sql
+
 /*
-~    Opdracht:       opdrachtnaam
-~    Auteur:         naam van de maker
-~    Aanmaakdatum:   startdatum + tijd
-~    Bestandsnaam:   bestandsnaam
+     Opdracht:       opdrachtnaam
+     Auteur:         naam van de maker
+     Aanmaakdatum:   startdatum + tijd
+     Bestandsnaam:   bestandsnaam
 */
 ```
 *   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
 ```sql
+
 -- Deze regel staat in commentaar!
 
 /*  
-    Deze
-    regels
-    staan
-    ook
-    in
-    commentaar!
+     Deze
+     regels
+     staan
+     ook
+     in
+     commentaar!
 */
 ```
 *   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
 ```sql
+
 -- Vanuit master heb je de juiste rechten om een nieuwe database aan te maken
 USE MASTER;
 GO
