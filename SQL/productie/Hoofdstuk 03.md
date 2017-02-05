@@ -38,3 +38,31 @@
     commentaar
 */
 ```
+*   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
+```sql
+-- Vanuit master heb je de juiste rechten om een nieuwe database aan te maken
+USE MASTER;
+GO
+
+-- Maak database aan
+CREATE DATABASE <Database naam>;
+
+-- Verwijder database 
+DROP DATABASE <Database naam>;
+
+-- Gebruik database 
+USE <database naam>;
+GO
+
+-- Maak tabel aan
+CREATE TABLE <tabel naam>
+(
+	<kolumnaam>     <datatype>,
+	<kolumnaam>     <datatype>,
+    <kolumnaam>     <datatype>,
+    <kolumnaam>     <datatype>
+)
+-- 
+
+
+```

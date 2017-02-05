@@ -18,7 +18,7 @@
 *   De installatiebestanden worden in de eerste les SQL en ASP uitgedeeld op USB-stick.
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk01/Resources/InrichtenWerkomgeving.pdf" target="_blank">Download InrichtenWerkomgeving.pdf</a>
 
 ---
 ## Opdracht 1.2
@@ -31,7 +31,7 @@
 *   Inrichten N@tschool
 
 ### Benodigde bestanden
-*   <a href="NOG INVULLEN" target="_blank">InrichtenNatschoolSQL.pdf</a>
+*   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
 *   Er zijn geen hulplinks voor deze opdracht beschikbaar.
