@@ -21,10 +21,10 @@
 *   Module header
 ```sql
 /*
-    Opdracht:       opdrachtnaam
-    Auteur:         naam van de maker
-    Aanmaakdatum:   startdatum + tijd
-    Bestandsnaam:   bestandsnaam
+~    Opdracht:       opdrachtnaam
+~    Auteur:         naam van de maker
+~    Aanmaakdatum:   startdatum + tijd
+~    Bestandsnaam:   bestandsnaam
 */
 ```
 *   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
@@ -57,10 +57,10 @@ GO
 -- Maak tabel aan
 CREATE TABLE <tabel naam>
 (
-	<kolumnaam>     <datatype>,
-	<kolumnaam>     <datatype>,
-    <kolumnaam>     <datatype>,
-    <kolumnaam>     <datatype>
+~	<kolumnaam>     <datatype>,
+~	<kolumnaam>     <datatype>,
+~   <kolumnaam>     <datatype>,
+~   <kolumnaam>     <datatype>
 )
 -- 
 
