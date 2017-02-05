@@ -1,5 +1,5 @@
 #### [kleurcode]rgba(204,67,54,1)
 
-#  Hoofdstuk 4 - programmeeropdrachten
+#  Hoofdstuk 16 - programmeeropdrachten
 
-## Integrale programmeeropdrachten
+## 16.1 Integrale programmeeropdrachten
