@@ -49,7 +49,7 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
 
-*	Ieder bestand is voorzien van een module header.
+*	Ieder bestand is voorzien van een module header (<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdrachtenportaal/index.html#opdracht-3-1" target="_blank">Klik hier</a>)
 *	De programmacode is voorzien van waardevol en voldoende commentaar.
 *	De programmacode is overzichtelijk opgebouwd door onder andere gebruik te maken van tabs en enters.
 *	Tabel- en kolomnamen zijn enkelvoudig geschreven.
