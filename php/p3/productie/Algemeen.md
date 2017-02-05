@@ -11,7 +11,7 @@ Deze studieroute bouwt voort op de eerdere hoofdstukken die in periode 1 en peri
 Daarom begint de studieroute ook met hoofdstuk 13.
 
 * Opdrachten
-Opdrachten worden opgeleverd op github.
+Opdrachten worden opgeleverd op github....
 
 * Huiswerk & voortgangsdocument
 Het huiswerk wordt iedere les klassikaal getoond. Houdt er rekening mee dat je minimaal 1 opdracht per week opgegeven krijgt.
