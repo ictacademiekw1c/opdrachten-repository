@@ -12,65 +12,29 @@
 ### Onderwerpen
 *   Module header
 *   Commentaar 
+*   Syntax SQL
 
 ### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk03/Resources/opdracht%203.1.sql" target="_blank">Download opdracht3.1.sql </a> 
 
 ### Help
 *   Module header
-```html
-<!--
-Opdracht:       <opdrachtnaam>
-Auteur:         <naam van de maker>
-Aanmaakdatum:   <startdatum + tijd>
-Bestandsnaam:   bestandsnaam
--->
+```sql
+/*
+    Opdracht:       opdrachtnaam
+    Auteur:         naam van de maker
+    Aanmaakdatum:   startdatum + tijd
+    Bestandsnaam:   bestandsnaam
+*/
 ```
-*   <a href="http://www.w3schools.com/html/html_comments.asp" target="_blank">Commentaar </a> 
-```html
-<!-- Deze regel staat in commentaar! -->
-```
-
----
-## Opdracht 3.2
----
-
-### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%203/Opdracht%203.2.pdf" target="_blank">Download opdracht 3.2</a>
-
-### Onderwerpen
-*   Structurele mark-up
-*   Blokelementen
-*   Koppen
-*   Alinea's
-*   Witruimte
-*   Regeleinden
-
-### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
-
-### Help
-*   <a href="http://www.w3schools.com/html/html_blocks.asp" target="_blank">Blokelementen </a> 
-*   <a href="http://www.w3schools.com/html/html_headings.asp" target="_blank">Kopteksten </a> 
-```html
-    <h1>
-        Grootste koptekst
-    </h1>
-    <h6>
-        Kleinste koptekst
-    </h6>
-```
-*   <a href="http://www.w3schools.com/html/html_paragraphs.asp" target="_blank">Alinea's en witruimtes</a> 
-```html
-    <p>
-        Dit is een paragraaf
-    </p>
-```
-*   <a href="http://www.w3schools.com/tags/tag_br.asp" target="_blank">Regeleinden</a> 
-```html
-    <p>
-        Dit is regel 1
-        <br>
-        Dit is regel 2
-    </p>
+*   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
+```sql
+--  Deze regel staat in commentaar! --
+/*  Deze
+    regels
+    staan
+    ook
+    in
+    commentaar
+*/
 ```
