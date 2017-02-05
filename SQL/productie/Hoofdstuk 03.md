@@ -32,7 +32,6 @@
 *   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
 
 ```sql
-
 -- Deze regel staat in commentaar!
 
 /*  
@@ -71,7 +70,6 @@
 *   Voorbeeldcode
 
 ```sql
-
 -- Vanuit master heb je de juiste rechten om een nieuwe database aan te maken
 USE MASTER;
 GO;
