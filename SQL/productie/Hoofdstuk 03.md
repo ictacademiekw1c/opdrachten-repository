@@ -19,8 +19,8 @@
 
 ### Help
 *   Module header
-```sql
 
+```sql
 /*
      Opdracht:       opdrachtnaam
      Auteur:         naam van de maker
@@ -28,7 +28,9 @@
      Bestandsnaam:   bestandsnaam
 */
 ```
+
 *   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
+
 ```sql
 
 -- Deze regel staat in commentaar!
@@ -42,34 +44,8 @@
      commentaar!
 */
 ```
+
 *   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
-
-```sql
-
--- Vanuit master heb je de juiste rechten om een nieuwe database aan te maken
-USE MASTER;
-GO
-
--- Maak database aan
-CREATE DATABASE <Database naam>;
-
--- Verwijder database 
-DROP DATABASE <Database naam>;
-
--- Gebruik database 
-USE <database naam>;
-GO
-
--- Maak tabel aan
-CREATE TABLE <tabel naam>
-(
- 	<kolumnaam>     <datatype>,
- 	<kolumnaam>     <datatype>,
-    <kolumnaam>     <datatype>,
-    <kolumnaam>     <datatype>
-) 
-
-```
 
 ---
 ## Opdracht 3.2
@@ -94,3 +70,33 @@ CREATE TABLE <tabel naam>
 *   <a href="http://www.w3schools.com/sql/sql_create_table.asp" target="_blank">Tabel maken </a> 
 *   <a href="http://www.w3schools.com/sql/sql_drop.asp" target="_blank">Tabel verwijderen </a> 
 *   <a href="https://www.techonthenet.com/sql_server/datatypes.php" target="_blank">Datatypen </a> 
+*   Voorbeeldcode
+```sql
+
+-- Vanuit master heb je de juiste rechten om een nieuwe database aan te maken
+USE MASTER;
+GO
+
+-- Maak database aan
+CREATE DATABASE <Databasenaam>;
+
+-- Verwijder database 
+DROP DATABASE <Databasenaam>;
+
+-- Gebruik database 
+USE <databasenaam>;
+GO
+
+-- Maak tabel aan
+CREATE TABLE <tabelnaam>
+(
+ 	<kolumnaam>     <datatype>,
+ 	<kolumnaam>     <datatype>,
+    <kolumnaam>     <datatype>,
+    <kolumnaam>     <datatype>
+) 
+
+-- Verwijder tabel
+DROP TABLE <tabelnaam>
+
+```
