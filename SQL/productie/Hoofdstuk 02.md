@@ -17,4 +17,5 @@
 *   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
+*   <a href="http://www.w3schools.com/sql/sql_intro.asp" target="_blank">Inleiding SQL</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FR4QIeZaPeM" frameborder="0" allowfullscreen></iframe>
