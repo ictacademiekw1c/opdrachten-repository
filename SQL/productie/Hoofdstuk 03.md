@@ -15,7 +15,7 @@
 *   Syntax SQL
 
 ### Benodigde bestanden
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk03/Resources/opdracht%203.1.sql" target="_blank">Download opdracht3.1.sql </a> 
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk03/Resources/opdracht%203.1.sql" target="_blank">Opdracht3.1.sql </a> 
 
 ### Help
 *   Module header
@@ -43,6 +43,7 @@
 */
 ```
 *   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
+
 ```sql
 
 -- Vanuit master heb je de juiste rechten om een nieuwe database aan te maken
@@ -62,12 +63,34 @@ GO
 -- Maak tabel aan
 CREATE TABLE <tabel naam>
 (
-~	<kolumnaam>     <datatype>,
-~	<kolumnaam>     <datatype>,
-~   <kolumnaam>     <datatype>,
-~   <kolumnaam>     <datatype>
-)
--- 
-
+ 	<kolumnaam>     <datatype>,
+ 	<kolumnaam>     <datatype>,
+    <kolumnaam>     <datatype>,
+    <kolumnaam>     <datatype>
+) 
 
 ```
+
+---
+## Opdracht 3.2
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk03/Opdracht%203.2.pdf" target="_blank">Download opdracht 3.2</a>
+
+### Onderwerpen
+*   Database maken
+*   Database verwijderen
+*   Tabel maken
+*   Tabel verwijderen
+*   Datatypen
+
+### Benodigde bestanden
+*   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+*   <a href="http://www.w3schools.com/sql/sql_create_db.asp" target="_blank">Database maken </a> 
+*   <a href="http://www.w3schools.com/sql/sql_drop.asp" target="_blank">Database verwijderen </a> 
+*   <a href="http://www.w3schools.com/sql/sql_create_table.asp" target="_blank">Tabel maken </a> 
+*   <a href="http://www.w3schools.com/sql/sql_drop.asp" target="_blank">Tabel verwijderen </a> 
+*   <a href="https://www.techonthenet.com/sql_server/datatypes.php" target="_blank">Datatypen </a> 
