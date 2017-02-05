@@ -24,5 +24,31 @@ Redenen om github te gebruiken in de studieroute PHP:
 Volg alle stappen in de volgende handleiding:
 [Handleiding PHPStorm](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/Productie/01.%20Reader/PHP%20Handleiding%20PHPStorm%20GitHub.docx)
 
-## 13.1 Opdracht 1 je eerste commit en oplevering
+## 13.1 Opdracht 130 je eerste commit en oplevering
+
+Zet een tabel op in opdracht130.php met alle hoofdstukken uit periode 1 en 2 met de behandelde onderwerpen.
+<table><thead>
+<tr>
+<th>Hoofdstuk</th>
+<th align="left">Onderwerpen</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>1</td>
+<td align="left">Variabelen en waarden</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="left">Strings koppelen</td>
+</tr>
+<tr>
+<td>3 t/m 12</td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+
+Zodra je klaar bent met alle hoofdstukken lever je het op via github.
+Hoe je dit doet in PHPstorm wordt door de leraar uitgelegd.
+
+De docent laat ook zien hoe je je code op de c9 server kan laten zien.
 
