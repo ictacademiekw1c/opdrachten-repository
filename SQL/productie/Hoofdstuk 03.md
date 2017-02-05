@@ -90,8 +90,8 @@ GO
 -- Maak tabel aan
 CREATE TABLE <tabelnaam>
 (
- 	<kolumnaam>     <datatype>,
- 	<kolumnaam>     <datatype>,
+    <kolumnaam>     <datatype>,
+    <kolumnaam>     <datatype>,
     <kolumnaam>     <datatype>,
     <kolumnaam>     <datatype>
 ) 
