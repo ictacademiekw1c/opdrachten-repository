@@ -45,8 +45,6 @@
 */
 ```
 
-*   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
-
 ---
 ## Opdracht 3.2
 ---
@@ -71,11 +69,12 @@
 *   <a href="http://www.w3schools.com/sql/sql_drop.asp" target="_blank">Tabel verwijderen </a> 
 *   <a href="https://www.techonthenet.com/sql_server/datatypes.php" target="_blank">Datatypen </a> 
 *   Voorbeeldcode
+
 ```sql
 
 -- Vanuit master heb je de juiste rechten om een nieuwe database aan te maken
 USE MASTER;
-GO
+GO;
 
 -- Maak database aan
 CREATE DATABASE <Databasenaam>;
@@ -85,7 +84,7 @@ DROP DATABASE <Databasenaam>;
 
 -- Gebruik database 
 USE <databasenaam>;
-GO
+GO;
 
 -- Maak tabel aan
 CREATE TABLE <tabelnaam>
@@ -94,9 +93,9 @@ CREATE TABLE <tabelnaam>
     <kolumnaam>     <datatype>,
     <kolumnaam>     <datatype>,
     <kolumnaam>     <datatype>
-) 
+);
 
 -- Verwijder tabel
-DROP TABLE <tabelnaam>
+DROP TABLE <tabelnaam>;
 
 ```
