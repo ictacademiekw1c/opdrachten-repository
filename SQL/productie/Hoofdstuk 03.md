@@ -29,7 +29,6 @@
 ```
 *   <a href="http://www.w3schools.com/sql/sql_comments.asp" target="_blank">Commentaar </a> 
 ```sql
---  Deze regel staat in commentaar! --
 /*  
     Deze
     regels
