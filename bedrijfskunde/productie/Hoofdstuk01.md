@@ -6,6 +6,8 @@
 
 [Reader over bedrijf en organisatie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijf%20-%20Organisatie.docx)
 
+[![Bedrijf, organisatie onderneming](http://img.youtube.com/vi/33fjBhQHcn4/0.jpg)](http://www.youtube.com/watch?v=33fjBhQHcn4)
+
 ## 1.2 Huiswerkopdracht 1, oefenen met algoritmes
 
 ### 1.2.1 Lees hier wat een [algoritme](https://nl.wiktionary.org/wiki/algoritme) is 
@@ -25,8 +27,7 @@ output = [12,16,24,48,24];
 of in [pseudocode](https://nl.wikipedia.org/wiki/Pseudocode)
 - Programmeer het vervolgens in een programmeertaal die je zelf bepaalt.
 
+## 1.3 Huiswerkopdracht 2 reader 
 
-## 1.3 Huiswerkopdracht samenvatting reader 
-
-Maak een samenvatting van de reader.
+Voer de opdracht uit die in de reader over bedrijf en organisatie gaat.
 
