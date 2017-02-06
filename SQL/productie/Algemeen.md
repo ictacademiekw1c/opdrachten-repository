@@ -1,7 +1,7 @@
 # Algemene informatie
 
 ## Doelstelling
-Tijdens deze lessen wordt je geleerd om te gaan met databases en SQL. 
+Tijdens deze lessen wordt je geleerd om te gaan met databases en SQL. Je gaat in periode 3 kennismaken met databases en SQL, zodat je een eenvoudige database kunt bouwen met meerdere tabellen. Deze tabellen worden met elkaar verbonden met zogeheten relaties. Daarnaast leer je ook hoe je gegevens kunt selecteren, verwijderen en toevoegen. 
 
 ## Voorkennis
 Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Databases en SQL. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
