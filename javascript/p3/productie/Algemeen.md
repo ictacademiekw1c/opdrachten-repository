@@ -10,9 +10,9 @@ Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academi
 ## Opleverdata
 Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
-|Opdracht              | **IO1A4** + **IO1B4**  &nbsp;  | Deadline **IO1C4** + **IO1D4** + **IO1E4** &nbsp;|
+|Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1E4** &nbsp; &nbsp;  | &nbsp; Deadline **IO1C4** + **IO1D4** + **IO1E4** &nbsp;|
 |--------------------  |--------------- | --------- |
-| Opdrachten Week 1 | | |
+| Opdrachten Week 1 | 14 februari | 15 februari |
 | Opdrachten Week 2 | | |
 | Opdrachten Week 3 | | |
 | Opdrachten Week 4 | | |

@@ -4,7 +4,7 @@
 
 ### Bowlingcentrum inschrijfformulier
 
->> **Tip:** Pak Reader 1 en de presentaties van Periode 2, week 5 / 6 erbij!
+>> **Tip:** Pak <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/Reader%201%20-%20Attributen%20&%20Properties.pdf" target="_blank">Reader 1</a> , cheatsheets van <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/Cheat%20Sheet%20-%20Javascript%20-%20periode%201%20en%202.pdf" target="blank"> periode 1</a> en  <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/Cheat%20Sheet%20-%20Javascript%20-%20Periode%202.pdf" target="_blank">periode 2</a> erbij!
 
 ![Voorbeeld](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/310-1.png)
 
@@ -40,7 +40,6 @@ Aan ons de taak om het inschrijfformulier via Javascript te laten valideren en d
 		- Gewenste datum
 		- Mee eten? (Ja / Nee)
 		- Aantal eters
-		
 
 
 ---
