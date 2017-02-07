@@ -6,6 +6,8 @@
 
 >> **Tip:** Pak Reader 1 en de presentaties van Periode 2, week 5 / 6 erbij!
 
+![Voorbeeld](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/310-1.png)
+
 **Opdracht:**
 
 Het bowlingcentrum "De Kromme Pin" loopt heel erg goed! Zo goed zelfs, dat ze een online inschrijfformulier willen gaan maken.
