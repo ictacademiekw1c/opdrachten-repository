@@ -8,7 +8,7 @@
 2. Lees op de opdrachten in Script.js
 
 **Naslagwerk**
-- Reader 1 - Formulieren & jQuery
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/Reader%201%20-%20Attributen%20&%20Properties.pdf" target="_blank">Reader 1 - Attributen & Properties</a>
 - <a href="http://www.w3schools.com/jquery/event_change.asp" target="_blank">change() event</a>
 - <a href="http://www.w3schools.com/jquery/event_keyup.asp" target="_blank">keyup() event</a>
 
