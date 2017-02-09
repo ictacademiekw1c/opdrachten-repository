@@ -30,4 +30,6 @@ of in [pseudocode](https://nl.wikipedia.org/wiki/Pseudocode)
 ## 1.3 Huiswerkopdracht 2 reader 
 
 Voer de opdracht uit die in de reader over bedrijf en organisatie gaat.
+[Reader over bedrijf en organisatie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijf%20-%20Organisatie.docx)
+
 
