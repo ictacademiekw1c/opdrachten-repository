@@ -20,6 +20,11 @@
 
 ## 14.3 Lesopdracht
 
+### Voorbereiding
+
+Onderzoek in de browser die je normaal gesproken gebruikt hoe je cookies van een site kunt bekijken,
+wijzigen en verwijderen. 
+
 ### Omschrijving
 Volg de volgende stappen en geef antwoord op de bijbehorende vragen.
 
