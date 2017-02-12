@@ -2,17 +2,19 @@
 
 #  Hoofdstuk 14 Cookies en sessies
 
-## 14.1 $_SESSION variabele
+## 14.1 Theorie
 
-- gegevens zijn server side opgeslagen
-- 1 cookie client side
+### Theorie overzicht
 
-## 14.2 $_COOKIE variabele
+- $_SESSION variabele
+   - gegevens zijn server side opgeslagen
+   - 1 cookie client side
+   
+- $_COOKIE variabele
+   - geen gegevens server side
+   - alle data in aparte cookies opgeslagen(client side)
 
-- geen gegevens server side
-- alle data in aparte cookies opgeslagen(client side)
-
-### 14.3 Reader sessies en cookies
+## 14.2 Reader sessies en cookies
 
 [Open de reader](http://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811v Vakinhoudelijke MBO  AO/1.11 PHP/95311 AO/Semester 2[Periode 03 en 04]/Productie/Reader 2015/Reader H7.pdf)
 
