@@ -73,9 +73,9 @@ $_SESSION['cijfer'] = 7;
     - Wat is nu de inhoud van het bestand dat je hiervoor bekeken hebt?
 
 - Voeg in testsessie.php de volgende regels toe:
+
 ~~~php
 echo "<hr>";
-
 session_save_path("c:/tmp");
 session_start();
 if (isset($_SESSION['naam'])) {
