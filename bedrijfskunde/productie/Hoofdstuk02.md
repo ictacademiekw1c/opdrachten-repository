@@ -14,4 +14,4 @@ Bekijk op de site van de belastingdienst wat de eisen zijn van een goede factuur
 
 ## 2.3 Voorbeelden van facturen
 
-![Voorbeeld 1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Factuur1.png)
+[Voorbeeld 1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Factuur1.png)
