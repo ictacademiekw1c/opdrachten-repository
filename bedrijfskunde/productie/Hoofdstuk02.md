@@ -15,3 +15,14 @@ Bekijk op de site van de belastingdienst wat de eisen zijn van een goede factuur
 ## 2.3 Voorbeelden van facturen
 
 [Voorbeeld 1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Factuur1.png)
+
+[Voorbeeld 2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Factuur2.png)
+
+[Voorbeeld 3](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Factuur3.png)
+
+## 2.4 Voorbeelden van spookfacturen
+
+(Wat zijn spookfacturen?)[https://www.efactuurdirect.nl/blog/wat-zijn-spookfacturen-en-hoe-herken-je-ze/]
+
+
+(Voorbeeld spookfactuur)[https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/Materiaal%2095311/Spookfactuur1.png]
