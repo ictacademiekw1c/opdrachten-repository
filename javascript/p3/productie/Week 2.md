@@ -26,10 +26,13 @@ Toelichting:
 - Leg uit waar er precies een klik gebeurtenis wordt afgevangen en op welke elementen.
 - Leg uit wat de acties zijn en op welke elementen dat wordt uitgevoerd.
 - Leg uit waarom er een if statement wordt gebruikt en wat de conditie is
+
+
 ### OPDRACHT Deel 2
-- Maak 2 functies aan:
+Maak 2 functies aan:
 *werpDobbelstenen()* en *berekenTotaal()* en gebruik ze in de huidige code. Het gedrag van de pagina moet precies hetzelfde
-blijven. Denk zelf even na over wat de beste manier is om deze functies in te zetten!
+blijven. 
+Denk zelf even na over wat de beste manier is om deze functies in te zetten!
 
 
 **Beoordelingscriteria**:
