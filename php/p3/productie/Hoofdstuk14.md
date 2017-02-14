@@ -133,6 +133,9 @@ Neem het formulier van opdracht 131.
 </table>
 
 ### Beoordelingscriteria 140
-- Er is gebruik gemaakt van sessievariabelen 
+- Het formulier maakt gebruik van de method get.
 - Het formulier heeft als action opdracht141.php (zichzelf)
+- Laat de naam/klas/leerlingnummer maar 1 keer invullen; zet deze gegevens vast in de sessie.
+- Er is gebruik gemaakt van sessievariabelen voor de leerlinggegevens en vakken en cijfers
 - In de sessie wordt een variabele met datatype array gebruikt.
+- Maak gebruik van de sessievariabelen $_SESSION['vakken'] en $_SESSION['cijfers'] aan; beide zijn arrays.
