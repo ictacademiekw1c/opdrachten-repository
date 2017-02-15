@@ -2,8 +2,6 @@
 
 `` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT320.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 3 zitten.``
 
-###  inschrijfformulier
-
 >> **Tip:** Pak <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/Reader%201%20-%20Attributen%20&%20Properties.pdf" target="_blank">Reader 1</a> , cheatsheets van <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/Cheat%20Sheet%20-%20Javascript%20-%20periode%201%20en%202.pdf" target="blank"> periode 1</a> en  <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/Cheat%20Sheet%20-%20Javascript%20-%20Periode%202.pdf" target="_blank">periode 2</a> erbij!
 
 **Opdracht:**
@@ -20,7 +18,8 @@ moment dat we erop klikken EN dat het terugverandert op het moment dat we er nog
 De code begint nu al een beetje onoverzichtelijk te worden en zul je sommige regels niet meer begrijpen als je volgende week
 weer naar kijkt. 
 
-### OPDRACHT Deel 1
+
+### Deel 1
 Zet commentaar in de code en leg daarmee uit wat er precies in de code code wordt gedaan.
 Toelichting:
 - Leg uit waar er precies een klik gebeurtenis wordt afgevangen en op welke elementen.
@@ -28,7 +27,7 @@ Toelichting:
 - Leg uit waarom er een if statement wordt gebruikt en wat de conditie is
 
 
-### OPDRACHT Deel 2
+### Deel 2
 Maak 2 functies aan:
 *werpDobbelstenen()* en *berekenTotaal()* en gebruik ze in de huidige code. Het gedrag van de pagina moet precies hetzelfde
 blijven. 
@@ -48,3 +47,11 @@ Denk zelf even na over wat de beste manier is om deze functies in te zetten!
 	- Commentaar toevoegen
 
 ---
+
+### Opdracht 321 Yahtzee Cheat
+
+```` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT320.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 3 zitten.````
+
+**Opdracht:**
+
+Maak een cheat voor het Yahtzee spel. Zorg ervoor dat zodra een gebruiker een bepaalde toets intikt op de website hij een Yahtzee krijgt.
