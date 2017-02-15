@@ -13,7 +13,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1E4** &nbsp; &nbsp;  | &nbsp; Deadline **IO1B4** + **IO1C4** + **IO1D4** &nbsp;|
 |--------------------  |--------------- | --------- |
 | Opdrachten Week 1 | 14 februari | 15 februari |
-| Opdrachten Week 2 | | |
+| Opdrachten Week 2 | 21 februari | 22 februari |
 | Opdrachten Week 3 | | |
 | Opdrachten Week 4 | | |
 | Opdrachten Week 5 | | |
