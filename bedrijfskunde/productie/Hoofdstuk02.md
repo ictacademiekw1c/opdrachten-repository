@@ -28,7 +28,7 @@ Bekijk op de site van de belastingdienst wat de eisen zijn van een goede factuur
 
 [Voorbeeld spookfactuur](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/Materiaal%2095311/Spookfactuur1.png)
 
-## 2.5 Opdracht 2 facturen
+## 2.5 Opdracht 3 facturen
 
 >1. Maak ZELF een samenvatting waaraan een factuur moet voldoen.
 >2. Je verkoopt een website voor € 750,00 aan de ICT-Academie. De site is opgeleverd, getest en geaccepteerd. Je gaat nu een factuur opmaken die je aan de ICT-academie moet versturen. 
