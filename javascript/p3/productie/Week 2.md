@@ -52,10 +52,14 @@ Denk zelf even na over wat de beste manier is om deze functies in te zetten!
 
 ```` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT320.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 3 zitten.````
 
+>> Je moet voor deze opdracht verder gaan met de Yahtzee opdracht die je in de les gemaakt hebt. Heb je deze niet gemaakt? Vraag een mede leerling!
+
 **Opdracht:**
 
-Maak een cheat voor het Yahtzee spel. Zorg ervoor dat zodra een gebruiker een bepaalde toets oid button intikt hij direct een yahtzee gooit (5 opeenvolgende getallen)!
-Je mag zelf weten hoe je dit maakt. **Tip:** Pak de 2 cheatsheets erbij (*keyup()*)!
+Maak een cheat voor het Yahtzee spel. Zorg ervoor dat zodra een gebruiker een bepaalde toets (of combinatie) intikt hij direct een yahtzee gooit (5 dezelfde getallen)!
+Je mag zelf weten hoe je dit maakt.
 
 * Beoordelingscriteria**
-- Gebruiker kan via het toetsenbord
+- Gebruiker kan via het toetsenbord de cheat activeren
+- Hij gooit direct een yahtzee via de cheat
+- Ook het totaal wordt bijgewerkt
