@@ -30,7 +30,7 @@ Bekijk op de site van de belastingdienst wat de eisen zijn van een goede factuur
 
 ## 2.5 Opdracht 3 facturen
 
->1. Maak ZELF een samenvatting waaraan een factuur moet voldoen.
+>1. Maak een samenvatting waaraan een factuur moet voldoen.
 >2. Je verkoopt een website voor € 750,00 aan de ICT-Academie. De site is opgeleverd, getest en geaccepteerd. Je gaat nu een factuur opmaken die je aan de ICT-academie moet versturen. 
 <br>Je mag de overige gegevens verzinnen.
 >Maak een __papieren__ factuur op die voldoet aan alle wettelijke eisen.
