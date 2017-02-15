@@ -61,7 +61,9 @@ Denk zelf even na over wat de beste manier is om deze functies in te zetten! *be
 Maak een cheat voor het Yahtzee spel. Zorg ervoor dat zodra een gebruiker een bepaalde toets (of combinatie) intikt hij direct een yahtzee gooit (5 dezelfde getallen)!
 Je mag zelf weten hoe je dit maakt.
 
-* Beoordelingscriteria**
+**Beoordelingscriteria**
 - <input type="checkbox" name="a1"> Gebruiker kan via het toetsenbord de cheat activeren
 - <input type="checkbox" name="a2"> Je gooit ALTIJD een Yahtzee- Ook het totaal wordt bijgewerkt
 - <input type="checkbox" name="a3"> De totaalscore moet ook geupdate worden
+
+#### [renderCheckboxes]test
