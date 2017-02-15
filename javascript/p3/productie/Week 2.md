@@ -54,4 +54,8 @@ Denk zelf even na over wat de beste manier is om deze functies in te zetten!
 
 **Opdracht:**
 
-Maak een cheat voor het Yahtzee spel. Zorg ervoor dat zodra een gebruiker een bepaalde toets intikt op de website hij een Yahtzee krijgt.
+Maak een cheat voor het Yahtzee spel. Zorg ervoor dat zodra een gebruiker een bepaalde toets oid button intikt hij direct een yahtzee gooit (5 opeenvolgende getallen)!
+Je mag zelf weten hoe je dit maakt. **Tip:** Pak de 2 cheatsheets erbij (*keyup()*)!
+
+* Beoordelingscriteria**
+- Gebruiker kan via het toetsenbord
