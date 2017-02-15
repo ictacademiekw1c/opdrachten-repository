@@ -16,7 +16,7 @@ moment dat we erop klikken EN dat het terugverandert op het moment dat we er nog
 
 
 De code begint nu al een beetje onoverzichtelijk te worden en zul je sommige regels niet meer begrijpen als je volgende week
-weer naar kijkt. 
+weer naar kijkt.
 
 
 ### Deel 1
@@ -31,11 +31,12 @@ Toelichting:
 Maak 2 functies aan:
 *werpDobbelstenen()* en *berekenTotaal()* en gebruik ze in de huidige code. Het gedrag van de pagina moet precies hetzelfde
 blijven. 
-Denk zelf even na over wat de beste manier is om deze functies in te zetten!
+Denk zelf even na over wat de beste manier is om deze functies in te zetten! *berekenTotaal()* 
 
 
 **Beoordelingscriteria**:
 - Deel 1:
+	- berekenTotaal() update ook de totaalscore van de dobbelstenen
 	- Alle events zijn voorzien van commentaar
 	- Alle aangemaakte functies zijn voorzien van commentaar
 		- Vertel ook wat de functie doet
@@ -48,9 +49,10 @@ Denk zelf even na over wat de beste manier is om deze functies in te zetten!
 
 ---
 
-### Opdracht 321 Yahtzee Cheat
 
-```` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT320.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 3 zitten.````
+## Opdracht 321 Yahtzee Cheat
+
+```` Opleveren: Plaats al je gemaakte bestanden (.js, .html ) in een een rar met naam OPDRACHT321.rar en upload deze in je portfolio. Laat daarna de opdracht zien aan de docent om deze af te tekenen. Onthoud bij het uploaden dat we inmiddels in Periode 3 zitten.````
 
 >> Je moet voor deze opdracht verder gaan met de Yahtzee opdracht die je in de les gemaakt hebt. Heb je deze niet gemaakt? Vraag een mede leerling!
 
@@ -61,5 +63,5 @@ Je mag zelf weten hoe je dit maakt.
 
 * Beoordelingscriteria**
 - Gebruiker kan via het toetsenbord de cheat activeren
-- Hij gooit direct een yahtzee via de cheat
+- Je gooit ALTIJD een Yahtzee
 - Ook het totaal wordt bijgewerkt
