@@ -62,8 +62,8 @@ Maak een cheat voor het Yahtzee spel. Zorg ervoor dat zodra een gebruiker een be
 Je mag zelf weten hoe je dit maakt.
 
 **Beoordelingscriteria**
-- <input type="checkbox" name="a1"> Gebruiker kan via het toetsenbord de cheat activeren
-- <input type="checkbox" name="a2"> Je gooit ALTIJD een Yahtzee- Ook het totaal wordt bijgewerkt
-- <input type="checkbox" name="a3"> De totaalscore moet ook geupdate worden
+	- Gebruiker kan via het toetsenbord de cheat activeren
+	- Je gooit ALTIJD een Yahtzee- Ook het totaal wordt bijgewerkt
+	- De totaalscore moet ook geupdate worden
 
-#### [renderCheckboxes]test
+#### [renderCheckboxes]
