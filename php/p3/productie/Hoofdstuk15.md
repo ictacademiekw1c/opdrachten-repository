@@ -91,17 +91,13 @@ $aDoelpunten = array("Jörgensen" => 15
 <br>Speler Armenteros speelt bij Heracles en heeft 10 doelpunten gescoord.
  <br>Speler Weghorst speelt bij AZ en heeft 10 doelpunten gescoord.
 <br>etc.
-
 Maak gebruik van de volgende foreach lus:
 ~~~php
 foreach ($aClubs as $key=>$value) {
 ...
 }
 ~~~
-
 ##15.4 Opdracht 150 doelpuntgemiddelde 
-
-
 ~~~php
 $aWedstrijden = array(
 ,"Jörgensen" => 22
