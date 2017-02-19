@@ -66,7 +66,7 @@ $aClubs = array("Jörgensen"=>"Feyenoord"
 ,"Mahi"=>"FC Groningen"
 ,"Sol"=>"Willem"
 ,"Baker"=>"Vitesse"
-,"Haller"=>"FC"
+,"Haller"=>"FC Utrecht"
 ,"Pereiro"=>"PSV");
 
 $aDoelpunten = array("Jörgensen" => 15
@@ -98,7 +98,8 @@ foreach ($aClubs as $key=>$value) {
 }
 ~~~
 
-#15.4 Opdracht 150 doelpuntgemiddelde 
+##15.4 Opdracht 150 doelpuntgemiddelde 
+
 
 ~~~php
 $aWedstrijden = array(
@@ -115,5 +116,11 @@ $aWedstrijden = array(
 ,"Baker" => 21
 ,"Haller" => 23
 ,"Pereiro" => 21);
-
 ~~~
+
+### Opdrachten 150
+- Bepaal welke speler het hoogste doelpuntgemiddelde heeft.
+- Bepaal welke club de meeste doelpunten heeft gescoord
+- Bepaal het totaal aan doelpunten van spelers van clubs die beginnen met FC
+
+### Beoordelingscriteria 150
