@@ -124,3 +124,4 @@ $aWedstrijden = array(
 
 - Je maakt gebruik van een of meerdere foreach lussen
 - Je mag geen gebruik maken van een array functie die totalen voor jou berekent, of hoogste waardes of laagste waardes bepaalt.
+- Je maakt gebruikt van de bovenstaande associatieve arrays $aClubs, $aDoelpunten en $aWedstrijden, waarin per speler de club, het aantal gescoorde doelpunten en het aantal gespeelde wedstrijden staan.
