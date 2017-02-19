@@ -49,11 +49,71 @@ Associatieve arrays doorloop je met een foreach lus:
     //foreach heeft geen teller nodig om de loop te stoppen
     // de lus stopt zodra alle elementen zijn gepasseerd
     foreach ($aLeerling as $key => $value) {    
-        echo "<br>".$key . " : ". $value;
+        echo "<br>".$key . ": ". $value;
     }
 ~~~
+## 15.3 Lesopdracht
 
+~~~php
+$aClubs = array("Jörgensen"=>"Feyenoord"
+,"Ghoochannejhad"=>"sc Heerenveen"
+,"Armenteros"=>"Heracles"
+,"Weghorst"=>"AZ"
+,"Dolberg"=>"Ajax"
+,"ünal"=>"FC Twente"
+,"v.Wolfswinkel"=>"Vitesse"
+,"Klaassen"=>"Ajax"
+,"Mahi"=>"FC Groningen"
+,"Sol"=>"Willem"
+,"Baker"=>"Vitesse"
+,"Haller"=>"FC"
+,"Pereiro"=>"PSV");
 
+$Doelpunten = array("Jörgensen" => 15
+,"Ghoochannejhad" => 13
+,"Armenteros" => 10
+,"Weghorst" => 10
+,"Dolberg" => 10
+,"ünal" => 10
+,"v.Wolfswinkel" => 10
+,"Klaassen" => 10
+,"Mahi" => 9
+,"Sol" => 9
+,"Baker" => 9
+,"Haller" => 9
+,"Pereiro" => 8);
+~~~
 
+Maak het script foreach.php in de map hoofdstuk15, die de volgende uitvoer heeft.
+<br>Speler Jörgensen speelt bij Feyenoord en heeft 15 doelpunten gescoord.
+<br>Speler Ghoochannejhad speelt bij sc Heerenveen en heeft 13 doelpunten gescoord.
+<br>Speler Armenteros speelt bij Heracles en heeft 10 doelpunten gescoord.
+ <br>Speler Weghorst speelt bij AZ en heeft 10 doelpunten gescoord.
+<br>etc.
 
+Maak gebruik van de volgende foreach lus:
+~~~php
+foreach ($aClubs as $key=>$value) {
+...
+}
+~~~
 
+#15.4 Opdracht 150 doelpuntgemiddelde 
+
+~~~php
+$aWedstrijden = array(
+,"Jörgensen" => 22
+,"Ghoochannejhad" => 23
+,"Armenteros" => 17
+,"Weghorst" => 19
+,"Dolberg" => 21
+,"ünal" => 21
+,"v.Wolfswinkel" => 21
+,"Klaassen" => 21
+,"Mahi" => 20
+,"Sol" => 20
+,"Baker" => 21
+,"Haller" => 23
+,"Pereiro" => 21);
+
+~~~
