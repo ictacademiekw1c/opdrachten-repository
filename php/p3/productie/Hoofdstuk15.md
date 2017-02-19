@@ -125,3 +125,6 @@ $aWedstrijden = array(
 - Bepaal het totaal aan doelpunten van spelers van clubs die beginnen met FC
 
 ### Beoordelingscriteria 150
+
+- Je maakt gebruik van een of meerdere foreach lussen
+- Je mag geen gebruik maken van een array functie die totalen voor jou berekent, of hoogste waardes of laagste waardes bepaalt.
