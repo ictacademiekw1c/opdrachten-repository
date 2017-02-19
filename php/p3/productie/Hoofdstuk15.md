@@ -84,8 +84,9 @@ $aDoelpunten = array("Jörgensen" => 15
 ,"Pereiro" => 8);
 ~~~
 
-Maak het script foreach.php in de map hoofdstuk15, die de volgende uitvoer heeft.
-<br>Speler Jörgensen speelt bij Feyenoord en heeft 15 doelpunten gescoord.
+>Maak het script foreach.php in de map hoofdstuk15, die de volgende uitvoer heeft.
+
+>Speler Jörgensen speelt bij Feyenoord en heeft 15 doelpunten gescoord.
 <br>Speler Ghoochannejhad speelt bij sc Heerenveen en heeft 13 doelpunten gescoord.
 <br>Speler Armenteros speelt bij Heracles en heeft 10 doelpunten gescoord.
  <br>Speler Weghorst speelt bij AZ en heeft 10 doelpunten gescoord.
