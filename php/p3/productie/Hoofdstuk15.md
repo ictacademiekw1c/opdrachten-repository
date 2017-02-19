@@ -69,7 +69,7 @@ $aClubs = array("Jörgensen"=>"Feyenoord"
 ,"Haller"=>"FC"
 ,"Pereiro"=>"PSV");
 
-$Doelpunten = array("Jörgensen" => 15
+$aDoelpunten = array("Jörgensen" => 15
 ,"Ghoochannejhad" => 13
 ,"Armenteros" => 10
 ,"Weghorst" => 10
