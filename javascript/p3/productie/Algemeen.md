@@ -14,7 +14,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 |--------------------  |--------------- | --------- |
 | Opdrachten Week 1 | 14 februari | 15 februari |
 | Opdrachten Week 2 | 21 februari | 22 februari |
-| Opdrachten Week 3 | | |
+| Opdrachten Week 3 (*Yahtzee Stap 2 & 3*) | 7 maart | 8 maart |
 | Opdrachten Week 4 | | |
 | Opdrachten Week 5 | | |
 | Opdrachten Week 6 | | |
