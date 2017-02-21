@@ -12,9 +12,9 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1E4** &nbsp; &nbsp;  | &nbsp; Deadline **IO1B4** + **IO1C4** + **IO1D4** &nbsp;|
 |--------------------  |--------------- | --------- |
-| Opdrachten Week 1 | 14 februari | 15 februari |
-| Opdrachten Week 2 | 21 februari | 22 februari |
-| Opdrachten Week 3 (*Yahtzee Stap 2 & 3*) | 7 maart | 8 maart |
+| Opdrachten Week 1 (310) | 14 februari | 15 februari |
+| Opdrachten Week 2 (320 + 321)| 21 februari | 22 februari |
+| Opdrachten Week 3 (330 + 331) | 7 maart | 8 maart |
 | Opdrachten Week 4 | | |
 | Opdrachten Week 5 | | |
 | Opdrachten Week 6 | | |
