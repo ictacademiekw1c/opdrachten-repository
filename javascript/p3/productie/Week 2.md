@@ -6,7 +6,7 @@
 
 **Opdracht:**
 
-We hebben tijdens de les nu voor mekaar gekregen dat we 5 dobbelstenen hebben, die we met een druk op de button ‘werp’
+We hebben tijdens de les nu voor elkaar gekregen dat we 5 dobbelstenen hebben, die we met een druk op de button ‘werp’
 in iedere dobbelsteen nu getal tussen 1 en 6 laten verschijnen.
 We hebben er ook voor gezorgd dat er een totaalberekening wordt gemaakt van alle dobbelstenen en het totaal wordt in de
 div met id ‘totaal’ in de pagina gezet.
