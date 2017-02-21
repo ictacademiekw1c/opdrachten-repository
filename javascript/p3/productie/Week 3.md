@@ -34,6 +34,6 @@ Denk hierbij van te voren goed na hoe en wat je wilt maken.
 4. Bij klikken button "Volgende beurt"
 	1. Verdwijnt de scorelijst weer
 	2. Verschijnt de "Gooi" button weer
-5. 
+5. Speel het spel en kijk of we iets missen
 
 ---
