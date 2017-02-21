@@ -10,6 +10,6 @@
 
 ## 3.3 Opdracht 
 
-Geen opdracht. De verschillende softwaresystemen die bedrijfsprocessen ondersteunen moet je wel kennen voor de toets.
+- De verschillende softwaresystemen die bedrijfsprocessen ondersteunen moet je kennen voor de toets.
 
 
