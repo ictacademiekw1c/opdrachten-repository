@@ -31,7 +31,7 @@ Toelichting:
 Maak 2 functies aan:
 *werpDobbelstenen()* en *berekenTotaal()* en gebruik ze in de huidige code. Het gedrag van de pagina moet precies hetzelfde
 blijven. 
-Denk zelf even na over wat de beste manier is om deze functies in te zetten! *berekenTotaal()* 
+Denk zelf even na over wat de beste manier is om deze functies in te zetten! 
 
 
 **Beoordelingscriteria**:
