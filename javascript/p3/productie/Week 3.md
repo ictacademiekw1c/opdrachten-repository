@@ -26,7 +26,7 @@ Denk hierbij van te voren goed na hoe en wat je wilt maken.
 1. Het scorelijstje is niet zichtbaar wanneer je de pagina opent
 2. Het scorelijstje wordt zichtbaar zodra je 3x gegooid hebt
 3. De "Gooi" button verdwijnt zodra je voor de 3e keer gegooid hebt
-3. Na het selecteren van een gewenste keuze (uit het scorelijstje):
+3. Na het selecteren van een gewenste keuze (Klikken op "Volgende beurt"):
 	1. Rekent het systeem je score uit
 	2. Wordt de totaalscore geupdate
 	2. Verdwijnt de radio input van je keuze
