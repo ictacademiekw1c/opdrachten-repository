@@ -1,7 +1,7 @@
 ## Opdracht 330 Yahtzee Stap 2
 
 `` Opleveren: Uploaden via de Inleveropdrachten (zie afbeelding hieronder):
-![Voorbeeld](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/Yahtzee1.png)``
+<a href="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/Yahtzee1.png">``
 
 >> Download de uitwerking van Stap 1 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Lesopdrachten/Yahtzee%20Deel%202.zip" target="_blank">hier</a>
 
