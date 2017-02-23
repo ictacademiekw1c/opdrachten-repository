@@ -82,3 +82,7 @@ Voor opdrachten vanaf hoofdstuk 5 gelden de volgende aanvullende beoordelingscri
 *	De Javascriptcode is geschreven in een extern JS-bestand `Script.js` genaamd
 
 #### [setSubMenuHeader]Algemene informatie
+
+<input type="checkbox" name="a">Test 1
+<input type="checkbox" name="b">Test 2
+<input type="checkbox" name="a">Test 3
