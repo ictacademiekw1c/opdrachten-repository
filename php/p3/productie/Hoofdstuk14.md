@@ -139,3 +139,4 @@ Neem het formulier van opdracht 131.
 - Er is gebruik gemaakt van sessievariabelen voor de leerlinggegevens en vakken en cijfers
 - In de sessie wordt een variabele met datatype array gebruikt.
 - Maak gebruik van de sessievariabelen $_SESSION['vakken'] en $_SESSION['cijfers'] aan; beide zijn arrays.
+- Er wordt een gemiddelde berekend van alle cijfers. Deze wordt als laatste cijfer getoond in het rapport.
