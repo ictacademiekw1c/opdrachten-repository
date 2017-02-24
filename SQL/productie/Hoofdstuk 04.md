@@ -17,6 +17,7 @@
 
 ### Help
 *   <a href="https://www.w3schools.com/sql/sql_select.asp" target="_blank">Select statement </a> 
+*   <a href="https://www.w3schools.com/sql/sql_where.asp" target="_blank">Select statement met voorwaarde </a>
 
 ```sql
 -- SQL select statement syntax
@@ -39,4 +40,4 @@ FROM table_name;
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk04/Resources/opdracht4.2.rar" target="_blank">Opdracht4.2.sql </a> 
 
 ### Help
-*   <a href="https://www.w3schools.com/sql/sql_select.asp" target="_blank">Select statement </a> 
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
