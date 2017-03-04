@@ -47,6 +47,8 @@ Nu heb je gelezen hoe de spelregels zijn van het echte spel black jack, maar ga 
 speelt tegen de computer. Hoe ga je de puntentelling doen en met hoeveel stokken ga je spelen?
 Om het eenvoudiger te houden is het aan te raden om slechts met 1 stol te spelen (52 kaarten).
 
+Hoe wordt jouw eigen Black Jack online game? Beschrijf de spelregels zoals jij het wil gaan maken. Laat je inspireren door de uitleg op de wikipagina.
+
 ### 16.2.3 Visualisatie van de kaarten
 
 Om het leuker en echter te maken wil je natuurlijk de kaarten als plaatjes laten zien. Je kan 52 verschillende afbeeldingen gebruiken maar je kan ook 1 afbeelding gebruiken waar alle afbeeldingen naast elkaar op staan.
