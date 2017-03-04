@@ -45,7 +45,7 @@ Test dit zelf uit in stap0.php (in een nieuwe map hoofdstuk16).
 
 Nu heb je gelezen hoe de spelregels zijn van het echte spel black jack, maar ga je een eigen versie maken in php waarin 1 speler 
 speelt tegen de computer. Hoe ga je de puntentelling doen en met hoeveel stokken ga je spelen?
-Om het eenvoudiger te houden is het aan te raden om slechts met 1 stol te spelen (52 kaarten).
+Om het eenvoudig te houden is het aan te raden om slechts met 1 stok te spelen (52 kaarten).
 
 Hoe wordt jouw eigen Black Jack online game? Beschrijf de spelregels zoals jij het wil gaan maken. Laat je inspireren door de uitleg op de wikipagina.
 
