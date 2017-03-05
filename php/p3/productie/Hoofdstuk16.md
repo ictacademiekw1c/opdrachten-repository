@@ -58,3 +58,27 @@ Dat scheelt het laden van afbeeldingen als je andere kaarten wil laten zien. Dit
 
 Maar hoe toon je nu 1 specifieke kaart?
 
+Met css styling kun je 1 specifieke afbeelding tonen:
+~~~css
+            p {
+                margin: 3px;
+                width: 79px;
+                height: 123px;
+                float: left;
+                background-image: url('cards.png');
+            }
+
+            .schoppen {
+                background-position-x: -79px;
+            }
+
+            .twee {
+                background-position-y: -369px;
+            }
+~~~
+
+~~~html
+    <p class="schoppen twee"></p>
+~~~
+
+Komt eruit te zien als schoppen 2? Test dit zelf uit.
