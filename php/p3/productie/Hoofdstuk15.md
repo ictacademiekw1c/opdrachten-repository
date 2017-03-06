@@ -100,7 +100,7 @@ foreach ($aClubs as $key=>$value) {
 ##15.4 Opdracht 150 doelpuntgemiddelde 
 ~~~php
 $aWedstrijden = array(
-,"Jörgensen" => 22
+"Jörgensen" => 22
 ,"Ghoochannejhad" => 23
 ,"Armenteros" => 17
 ,"Weghorst" => 19
