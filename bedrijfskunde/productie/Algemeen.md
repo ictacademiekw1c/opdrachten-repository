@@ -22,9 +22,11 @@ Deze site bevat:
 - Wat is een bedrijf (diensten en producten)?
 - Werkprocessen / procedures
 - IT bedrijven, beroepen, vaktermen, onderwerpen
-- (Offerte)
 - Facturering en BTW
-- Integrale Kostenprijs berekening
+- Bedrijfsprocessen en bedrijfssoftware
+- Licenties en auteursrecht
+- Kosten
+- Integrale Kostprijs berekening
 
 ## 0.4 Opdrachten
 
