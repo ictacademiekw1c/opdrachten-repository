@@ -2,6 +2,8 @@
 
 #  Hoofdstuk 16 - Toepassingsopdracht  
 
+[Meervoudige intelligentietest](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/Productie/02.%20Opdrachten/Meervoudige_intelligentie_-_vragenlijst_leeg.xlsx)
+
 ## 16.1 Black Jack
 
 Wat is Black Jack en hoe wordt het gespeeld?
