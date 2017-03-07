@@ -11,7 +11,7 @@ We hebben naar een aantal voorbeelden gekeken om met *.animate()* te werken. Nu 
 
 
 1. Download de <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Huiswerkopdrachten/Opdracht%20340.zip" target="blank">template</a>
-2. Open de https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.16%20JAV]%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Huiswerkopdrachten/zonopgang/zonopkomst.html" target="_blank">zonopkomst</a> website. Bekijk de cyclus een paar keer, zodat je weet wat je moet gaan namaken!
+2. Open de <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.16%20JAV]%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Huiswerkopdrachten/zonopgang/zonopkomst.html" target="_blank">zonopkomst</a> website. Bekijk de cyclus een paar keer, zodat je weet wat je moet gaan namaken!
 3. Begin met de "zonopkomst" (van nacht naar dag). Zie afbeeldingen hieronder
 4. Maak daarna "dag" (de zon schuift van rechts naar links). Zie afbeeldingen hieronder
 5. Maak daarna de "zonondergang" (van dag naar nacht). Zie afbeeldingen hieronder
