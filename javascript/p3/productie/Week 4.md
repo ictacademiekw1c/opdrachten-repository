@@ -17,6 +17,9 @@ We hebben naar een aantal voorbeelden gekeken om met *.animate()* te werken. Nu 
 5. Maak daarna de "zonondergang" (van dag naar nacht). Zie afbeeldingen hieronder
 6. Extra opdracht: Zorg ervoor dat dit patroon zichzelf blijft herhalen
 
+>> Tip: In de template zit de jQuery plugin "color" al ingebouwd! Hierdoor gaan ook kleurovergangen automatisch
+
+
 ### Zonopkomst
 **Start:**
 <img src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/340-1.png">
@@ -25,12 +28,16 @@ We hebben naar een aantal voorbeelden gekeken om met *.animate()* te werken. Nu 
 <img src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/340-2.png">
 
 
-### Dag
+
+
+### Dag (zon van rechts naar links)
 **Start:**
 <img src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/340-2.png">
 
 **Einde:**
 <img src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/340-3.png">
+
+
 
 
 ## Zonondergang
