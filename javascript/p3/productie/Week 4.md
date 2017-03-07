@@ -6,6 +6,7 @@
 
 
 **Opdracht:**
+
 We gaan een al bestaande website met enkele effecten zo goed mogelijk nabouwen. De website die we gaan nabouwen kun je <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.16%20JAV]%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Huiswerkopdrachten/zonopgang/zonopkomst.html" target="_blank">hier</a>
 We hebben naar een aantal voorbeelden gekeken om met *.animate()* te werken. Nu is het tijd om *.animate()* daadwerkelijk te gaan gebruiken!
 
@@ -22,6 +23,7 @@ We hebben naar een aantal voorbeelden gekeken om met *.animate()* te werken. Nu 
 
 ### Zonopkomst
 **Start:**
+
 <img src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/340-1.png">
 
 **Einde:**
@@ -32,6 +34,7 @@ We hebben naar een aantal voorbeelden gekeken om met *.animate()* te werken. Nu 
 
 ### Dag (zon van rechts naar links)
 **Start:**
+
 <img src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/340-2.png">
 
 **Einde:**
