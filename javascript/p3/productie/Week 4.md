@@ -53,6 +53,9 @@ We hebben naar een aantal voorbeelden gekeken om met *.animate()* te werken. Nu 
 
 
 **Beoordelingscriteria**:
+1. Je hebt gebruik gemaakt van zowel de *CSS* parameter
+2. Je hebt gebruik gemaakt van de *Duration* parameter
+3. Je hebt gebruik gemaakt van de *Callback* parameter
 1. De zonopkomst gaat (ongeveer) zoals in de afbeeldingen is aangegegeven
 2. De dag gaat (ongeveer) zoals in de afbeeldingen is aangegeven
 3. De zonondergang gaat (ongeveer) zoals in de afbeelding aangegeven
