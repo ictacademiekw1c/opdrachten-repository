@@ -18,7 +18,10 @@ We hebben naar een aantal voorbeelden gekeken om met *.animate()* te werken. Nu 
 5. Maak daarna de "zonondergang" (van dag naar nacht). Zie afbeeldingen hieronder
 6. Extra opdracht: Zorg ervoor dat dit patroon zichzelf blijft herhalen
 
->> Tip: In de template zit de jQuery plugin "color" al ingebouwd! Hierdoor gaan ook kleurovergangen automatisch
+>> Tips:
+1. Pak <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/Reader%202%20-%20.animate().pdf">reader 2 - .animate()</a> erbij!
+1. In de template zit de jQuery plugin "color" al ingebouwd! Hierdoor gaan ook kleurovergangen automatisch
+<br>
 
 
 ### Zonopkomst
