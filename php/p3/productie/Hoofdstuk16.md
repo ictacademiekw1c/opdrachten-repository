@@ -1,7 +1,6 @@
 #### [kleurcode]rgba(204,67,54,1)
 
-#  Hoofdstuk 16 - Toepassingsopdracht  
-
+#  Hoofdstuk 16 - Toepassingsopdracht: Black Jack 
 Tussendoortje:
 [Meervoudige intelligentietest](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/Productie/02.%20Opdrachten/Meervoudige_intelligentie_-_vragenlijst_leeg.xlsx)
 
@@ -82,3 +81,39 @@ Komt eruit te zien als schoppen 2? Test dit zelf uit.
 
 [![Spelverloop Blackjack](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/blackjackx.png?raw=true)](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/blackjack.png?raw=true) 
 
+### 16.2.4 Startcode
+
+[Download je startcode](https://gist.github.com/saebuabu/89aa96ad9fd75cb4b3a664d26bd4b879)
+
+### 16.2.5 Opdracht 160 week 13-17 mrt
+
+Programmeer minimaal 1 onderdeel, die je zelf kiest, uit het activiteiten diagram in ###16.2.4, die in de startcode (###16.2.4) ontbreekt.
+
+**Beoordelingscriteria**
+- Je code bevat beschrijvende commentaar
+- Je hebt minimaal 1 onderdeel toegevoegd aan het blackjack spel
+- Maak gebruik van sessievariabelen om spel informatie op te slaan.
+- Oplevering uiterlijk 20 maart
+
+### 16.2.6 Opdracht 161 week 20-24 mrt
+
+Programmeer minimaal 2 onderdelen uit het activiteiten diagram in ###16.2.4
+
+**Beoordelingscriteria**
+- Je code bevat beschrijvende commentaar
+- Je hebt minimaal 2 onderdelen toegevoegd aan het blackjack spel
+- Maak gebruik van sessievariabelen om spel informatie op te slaan.
+- Oplevering uiterlijk 27 maart
+
+### 16.2.7 Bonusopdracht 162 week 13-17 mrt
+
+Programmeer blackjack zodanig dat alle onderdelen uit het activity diagram (###16.2.4) zijn geprogrammeerd.
+
+**Beoordelingscriteria**
+- Je code bevat beschrijvende commentaar
+- Je hebt minimaal 2 onderdelen toegevoegd aan het blackjack spel
+- Maak gebruik van sessievariabelen om spel informatie op te slaan.
+- Oplevering uiterlijk 27 maart
+
+**Opleveringen**
+Blackjack moet in de week van 27 maart persoonlijk worden nagekeken bij de docent. 
