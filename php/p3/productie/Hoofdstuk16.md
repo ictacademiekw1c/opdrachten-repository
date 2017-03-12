@@ -44,15 +44,7 @@ Als je een foreach en een while lus programmmeert dan kun je alle kaarten laten 
 
 Test dit zelf uit in stap0.php (in een nieuwe map hoofdstuk16).
 
-### 16.2.2 Opdracht 
-
-Nu heb je gelezen hoe de spelregels zijn van het echte spel black jack, maar ga je een eigen versie maken in php waarin 1 speler 
-speelt tegen de computer. Hoe ga je de puntentelling doen en met hoeveel stokken ga je spelen?
-Om het eenvoudig te houden is het aan te raden om slechts met 1 stok te spelen (52 kaarten).
-
-Hoe wordt jouw eigen Black Jack online game? Beschrijf de spelregels zoals jij het wil gaan maken. Laat je inspireren door de uitleg op de wikipagina.
-
-### 16.2.3 Visualisatie van de kaarten
+### 16.2.2 Visualisatie van de kaarten
 
 Om het leuker en echter te maken wil je natuurlijk de kaarten als plaatjes laten zien. Je kan 52 verschillende afbeeldingen gebruiken maar je kan ook 1 afbeelding gebruiken waar alle afbeeldingen naast elkaar op staan.
 Dat scheelt het laden van afbeeldingen als je andere kaarten wil laten zien. Dit noemen ze een sprite.
@@ -85,3 +77,8 @@ Met css styling kun je 1 specifieke afbeelding tonen:
 ~~~
 
 Komt eruit te zien als schoppen 2? Test dit zelf uit.
+
+### 16.2.3 Spelverloop 
+
+[![Spelverloop Blackjack](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/blackjackx.png?raw=true)](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/blackjack.png?raw=true) 
+
