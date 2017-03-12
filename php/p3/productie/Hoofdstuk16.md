@@ -46,7 +46,7 @@ Test dit zelf uit in stap0.php (in een nieuwe map hoofdstuk16).
 ### 16.2.2 Visualisatie van de kaarten
 
 Om het leuker en echter te maken wil je natuurlijk de kaarten als plaatjes laten zien. Je kan 52 verschillende afbeeldingen gebruiken maar je kan ook 1 afbeelding gebruiken waar alle afbeeldingen naast elkaar op staan.
-Dat scheelt het laden van afbeeldingen als je andere kaarten wil laten zien. Dit noemen ze een sprite.
+Dat scheelt het laden van afbeeldingen als je andere kaarten wil laten zien. Dit noemen ze een sprite sheet.
 
 **Download de black jack kaarten sprite sheet**
 [![Download de black jack kaarten sprite sheet](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/cardsx.png?raw=true)](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/cards.png?raw=true)
@@ -90,7 +90,7 @@ Komt eruit te zien als schoppen 2? Test dit zelf uit.
 
 [Download je startcode](https://gist.github.com/saebuabu/89aa96ad9fd75cb4b3a664d26bd4b879)
 
-### 16.2.5 Opdracht 160 week 13-17 mrt
+### 16.2.5 Opdracht 160 week 13-17 maart
 
 Programmeer minimaal 1 onderdeel, die je zelf kiest, uit het activiteiten diagram in ###16.2.4, die in de startcode (###16.2.4) ontbreekt.
 
@@ -100,7 +100,7 @@ Programmeer minimaal 1 onderdeel, die je zelf kiest, uit het activiteiten diagra
 - Maak gebruik van sessievariabelen om spel informatie op te slaan.
 - Oplevering uiterlijk 20 maart
 
-### 16.2.6 Opdracht 161 week 20-24 mrt
+### 16.2.6 Opdracht 161 week 20-24 maart
 
 Programmeer minimaal 2 onderdelen uit het activiteiten diagram in ###16.2.4
 
@@ -110,13 +110,13 @@ Programmeer minimaal 2 onderdelen uit het activiteiten diagram in ###16.2.4
 - Maak gebruik van sessievariabelen om spel informatie op te slaan.
 - Oplevering uiterlijk 27 maart
 
-### 16.2.7 Bonusopdracht 162 week 13-17 mrt
+### 16.2.7 Bonusopdracht 162 week 13-24 maart
 
 Programmeer blackjack zodanig dat alle onderdelen uit het activity diagram (###16.2.4) zijn geprogrammeerd.
 
 **Beoordelingscriteria**
 - Je code bevat beschrijvende commentaar
-- Je hebt minimaal 2 onderdelen toegevoegd aan het blackjack spel
+- Je hebt alle onderdelen toegevoegd aan het blackjack spel
 - Maak gebruik van sessievariabelen om spel informatie op te slaan.
 - Oplevering uiterlijk 27 maart
 
