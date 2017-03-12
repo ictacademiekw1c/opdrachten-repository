@@ -48,7 +48,7 @@ Test dit zelf uit in stap0.php (in een nieuwe map hoofdstuk16).
 Om het leuker en echter te maken wil je natuurlijk de kaarten als plaatjes laten zien. Je kan 52 verschillende afbeeldingen gebruiken maar je kan ook 1 afbeelding gebruiken waar alle afbeeldingen naast elkaar op staan.
 Dat scheelt het laden van afbeeldingen als je andere kaarten wil laten zien. Dit noemen ze een sprite.
 
-[Download de kaarten sprite](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/cards.png?raw=true)
+[![Download de black jack kaarten sprite sheet](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/cardsx.png?raw=true)](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/cards.png?raw=true)
 
 Maar hoe toon je nu 1 specifieke kaart?
 
@@ -70,6 +70,8 @@ Met css styling kun je 1 specifieke afbeelding tonen:
                 background-position-y: -369px;
             }
 ~~~
+
+In de html heb je een p-tag nodig met de 2 klassen voor de kleur en de kaart.
 
 ~~~html
     <p class="schoppen twee"></p>
