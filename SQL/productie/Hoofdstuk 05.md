@@ -13,7 +13,7 @@
 *   Invoeren van gegevens
 
 ### Benodigde bestanden
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk05/Resources/opdracht5.1.rar" target="_blank">Opdracht5.1.rar </a> 
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk05/Resources/Opdracht%205.1.rar" target="_blank">Opdracht5.1.rar </a> 
 
 ### Help
 *   <a href="https://www.w3schools.com/sql/sql_insert.asp" target="_blank">Insert statement </a> 
@@ -37,7 +37,7 @@ VALUES (value1,value2,value3,...);
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk04/Opdracht%205.2.pdf" target="_blank">Download opdracht 5.2</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk05/Opdracht%205.2.pdf" target="_blank">Download opdracht 5.2</a>
 
 ### Onderwerpen
 *   Invoeren van gegevens
@@ -59,7 +59,7 @@ VALUES (value1,value2,value3,...);
 *   Invoeren van gegevens
 
 ### Benodigde bestanden
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk05/Resources/opdracht5.3.rar" target="_blank">Opdracht5.3.rar </a> 
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk05/Resources/Opdracht%205.3.rar" target="_blank">Opdracht5.3.rar </a> 
 
 ### Help
 *   Er zijn geen hulplinks voor deze opdracht beschikbaar.
