@@ -84,7 +84,13 @@ Komt eruit te zien als schoppen 2? Test dit zelf uit.
 
 ### 16.2.3 Spelverloop 
 
+In de volgende UML activity diagram wordt visueel beschreven hoe het spelverloop is bij een spelletje Black Jack tegen de computer.
+
+Zoals je kunt zien in het diagram kan het spel anders verlopen afhankelijk van verschillende spelsituaties.
+
 [![Spelverloop Blackjack](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/blackjackx.png?raw=true)](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/blackjack.png?raw=true) 
+
+[Wat is een UML activity diagram](https://nl.wikipedia.org/wiki/Activiteitendiagram)
 
 ### 16.2.4 Startcode
 
