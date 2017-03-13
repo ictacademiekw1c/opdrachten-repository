@@ -110,7 +110,7 @@ Programmeer minimaal 1 onderdeel, die je zelf kiest, uit het activiteiten diagra
 - Je eigen code bevat beschrijvende commentaar
 - Je hebt minimaal 1 onderdeel toegevoegd aan het blackjack spel
 - Maak gebruik van sessievariabelen om spel informatie (geld, totaalspeler, totaalcomputer) op te slaan.
-- Oplevering uiterlijk 20 maart
+- Oplevering uiterlijk 20 maart (via commits en pushes)
 
 ### 16.2.6 Opdracht 161 week 20-24 maart
 
@@ -121,7 +121,7 @@ Programmeer minimaal 2 onderdelen uit het activiteiten diagram in ###16.2.4
 - Je code bevat beschrijvende commentaar
 - Je hebt minimaal 2 onderdelen toegevoegd aan het blackjack spel
 - Maak gebruik van sessievariabelen om spel informatie op te slaan.
-- Oplevering uiterlijk 27 maart
+- Oplevering uiterlijk 27 maart (via commits en pushes)
 
 ### 16.2.7 Bonusopdracht 162 week 13-24 maart
 
@@ -132,7 +132,7 @@ Programmeer blackjack zodanig dat alle onderdelen uit het activity diagram (###1
 - Je code bevat beschrijvende commentaar
 - Je hebt alle onderdelen toegevoegd aan het blackjack spel
 - Maak gebruik van sessievariabelen om spel informatie op te slaan.
-- Oplevering uiterlijk 27 maart
+- Oplevering uiterlijk 27 maart (via commits en pushes)
 
 **Opleveringen**
 Blackjack moet in de week van 27 maart persoonlijk worden nagekeken bij de docent. 
