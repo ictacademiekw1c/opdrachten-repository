@@ -94,16 +94,22 @@ Zoals je kunt zien in het diagram kan het spel anders verlopen afhankelijk van v
 
 ### 16.2.4 Startcode
 
+In de volgende startcode is al een deel van het spelverloop geimplementeerd.
+ 
 [Download je startcode](https://gist.github.com/saebuabu/89aa96ad9fd75cb4b3a664d26bd4b879)
+
+Test dit stukje code en probeer de verschillende onderdelen te begrijpen hoe bepaalde dingen zijn geprogrammeerd.
+In de klas zal de docent de werkende startcode demonstreren. 
 
 ### 16.2.5 Opdracht 160 week 13-17 maart
 
 Programmeer minimaal 1 onderdeel, die je zelf kiest, uit het activiteiten diagram in ###16.2.4, die in de startcode (###16.2.4) ontbreekt.
 
 **Beoordelingscriteria**
-- Je code bevat beschrijvende commentaar
+- Je hebt alle bestaande code van commentaar voorzien, zodat je aantoont dat je de code begrijpt
+- Je eigen code bevat beschrijvende commentaar
 - Je hebt minimaal 1 onderdeel toegevoegd aan het blackjack spel
-- Maak gebruik van sessievariabelen om spel informatie op te slaan.
+- Maak gebruik van sessievariabelen om spel informatie (geld, totaalspeler, totaalcomputer) op te slaan.
 - Oplevering uiterlijk 20 maart
 
 ### 16.2.6 Opdracht 161 week 20-24 maart
@@ -111,6 +117,7 @@ Programmeer minimaal 1 onderdeel, die je zelf kiest, uit het activiteiten diagra
 Programmeer minimaal 2 onderdelen uit het activiteiten diagram in ###16.2.4
 
 **Beoordelingscriteria**
+- Je eigen code bevat beschrijvende commentaar
 - Je code bevat beschrijvende commentaar
 - Je hebt minimaal 2 onderdelen toegevoegd aan het blackjack spel
 - Maak gebruik van sessievariabelen om spel informatie op te slaan.
