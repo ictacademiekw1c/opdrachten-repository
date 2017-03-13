@@ -121,6 +121,7 @@ Programmeer minimaal 2 onderdelen uit het activiteiten diagram in ###16.2.4
 Programmeer blackjack zodanig dat alle onderdelen uit het activity diagram (###16.2.4) zijn geprogrammeerd.
 
 **Beoordelingscriteria**
+- Je bent uitgegaan van de startcode of je hebt hebt je eigen black jack versie gemaakt
 - Je code bevat beschrijvende commentaar
 - Je hebt alle onderdelen toegevoegd aan het blackjack spel
 - Maak gebruik van sessievariabelen om spel informatie op te slaan.
