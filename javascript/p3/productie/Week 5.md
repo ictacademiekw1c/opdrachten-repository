@@ -50,7 +50,6 @@ We gaan voor 7 steden (3 steden moet je zelf bedenken) de temperaturen inlezen e
         </td>
     </tr>
     <tr>
-    <td>
         <td>
             Vlissingen
         </td>
