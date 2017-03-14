@@ -69,7 +69,7 @@ We gaan voor 7 steden (3 steden moet je zelf bedenken) de temperaturen inlezen e
 </table>
 
 ### Visueel voorbeeld:
-<img src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/350-1.png">
+<img style="width: 40%" src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/350-1.png">
 
  **Beoordelingscriteria:**
 1. De temperatuur van de onderstaande steden is te zien op de kaart
@@ -81,3 +81,7 @@ We gaan voor 7 steden (3 steden moet je zelf bedenken) de temperaturen inlezen e
 3. De temperatuur staat gepositioneerd ongeveer op de plek waar de steden liggen
 4. Bij een klik op de "Update" button worden de temperaturen opnieuw ingeladen via AJAX
 5. Er worden in totaal minimaal 7 losse AJAX requests gemaakt (voor iedere stad één)
+
+---
+
+## Opdracht 351

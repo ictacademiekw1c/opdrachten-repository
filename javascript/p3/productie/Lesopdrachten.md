@@ -33,3 +33,16 @@
 
 `` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
+---
+## Lesopdracht 3
+
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Lesopdrachten/Lesopdracht%203%20-%20AJAX.zip" target="_blank">Download het template bestand</a>
+
+** Opdracht**
+
+1. Pak het bovenstaande template bestand uit en open deze in je editor (PHPStorm oid)
+2. Zorg ervoor dat na het klikken op de update button de volgende dingen gebeuren
+    - Er gaat een AJAX request naar de URL "php/temperatur.php"
+    - De string die terug komt wordt geparsed naar een Object via *$.parseJSON()*
+    - De temperaturen van de 4 steden uit de AJAX request worden getoond in de &gt;table&lt;
+3. Klaar!
