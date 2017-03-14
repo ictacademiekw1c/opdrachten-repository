@@ -82,6 +82,3 @@ We gaan voor 7 steden (3 steden moet je zelf bedenken) de temperaturen inlezen e
 4. Bij een klik op de "Update" button worden de temperaturen opnieuw ingeladen via AJAX
 5. Er worden in totaal minimaal 7 losse AJAX requests gemaakt (voor iedere stad één)
 
----
-
-## Opdracht 351
