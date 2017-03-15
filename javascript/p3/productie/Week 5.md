@@ -19,8 +19,8 @@ We gaan voor 7 steden (3 steden moet je zelf bedenken) de temperaturen inlezen e
  
  **Ron's extra tips:**
  1. Bekijk de API URL alvast in je browser om een idee te hebben hoe de JSON is opgebouwd
- 2. Kijk heel goed hoe de JSON is opgebouwd. Hier zul je waarschijnlijk veel tijd aan kwijt zijn
- 3. Maak een test AJAX request (wel met een van de onderstaande API URLS) aan en gebruik hier *$.parseJSON()*. Plaats daarna het *debugger;* keyword en kijk in je Inspector naar de uitkomst
+ 2. Kijk heel goed hoe het result is opgebouwd die je terug krijgt van de webserver. 
+ 3. Maak een test AJAX request. Plaats daarna het *debugger;* keyword en kijk in je Inspector naar de uitkomst
  4. Gebruik je Console en *debugger* zo goed mogelijk!
   
  **Extra opdracht:**
