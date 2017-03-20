@@ -57,7 +57,7 @@ Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscri
 *   Tabel- en kolomnamen hebben een naamgeving waarbij indien nodig camelCasing wordt toegepast.
 *   Alle keywords worden in hoofdletters geschreven.
 *   Bij het aanmaken van databases, tabellen en sleutels wordt in commentaar de SQL-code gegeven om deze ook wweer te verwijderen.
-*   Sleutels worden na het aanmaken van de tabel was gedeclareerd.
+*   Sleutels worden na het aanmaken van de tabel gedeclareerd.
 *   Ieder statement wordt afgesloten met een puntkomma (';').
 
 ## Periodecijfer
