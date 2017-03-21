@@ -56,7 +56,7 @@ $jsonString = json_encode($cookieArray);
 2. Vergeet dit niet ook in de PHP door te voeren
 
 ### Visueel voorbeeld 1
-<img src style="width: 80%" src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/360-1.png">
+<img style="width: 80%" src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/360-1.png">
 
 **Beoordelingscriteria**
 
