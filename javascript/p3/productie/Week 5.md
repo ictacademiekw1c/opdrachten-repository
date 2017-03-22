@@ -38,7 +38,7 @@ We gaan voor 7 steden (3 steden moet je zelf bedenken) de temperaturen inlezen e
             Amsterdam
         </td>
         <td>
-            http://api.openweathermap.org/data/2.5/weather?q=Amsterdam&appid=8d294e9544f1f24d1ec04c7e8839cba9&units=metric
+            http://api.openweathermap.org/data/2.5/weather?q=Amsterdam&appid=8e31e7284590a8b40b66cfd240af5850&units=metric
         </td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@ We gaan voor 7 steden (3 steden moet je zelf bedenken) de temperaturen inlezen e
             Groningen
         </td>
         <td>
-            http://api.openweathermap.org/data/2.5/weather?q=Groningen&appid=8d294e9544f1f24d1ec04c7e8839cba9&units=metric
+            http://api.openweathermap.org/data/2.5/weather?q=Groningen&appid=8e31e7284590a8b40b66cfd240af5850&units=metric
         </td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@ We gaan voor 7 steden (3 steden moet je zelf bedenken) de temperaturen inlezen e
             Vlissingen
         </td>
         <td>
-            http://api.openweathermap.org/data/2.5/weather?q=Vlissingen&appid=8d294e9544f1f24d1ec04c7e8839cba9&units=metric
+            http://api.openweathermap.org/data/2.5/weather?q=Vlissingen&appid=8e31e7284590a8b40b66cfd240af5850&units=metric
         </td>
     </tr>
     <tr>
@@ -62,7 +62,7 @@ We gaan voor 7 steden (3 steden moet je zelf bedenken) de temperaturen inlezen e
             DenBosch
         </td>
         <td>
-            http://api.openweathermap.org/data/2.5/weather?q=DenBosch&appid=8d294e9544f1f24d1ec04c7e8839cba9&units=metric
+            http://api.openweathermap.org/data/2.5/weather?q=DenBosch&appid=8e31e7284590a8b40b66cfd240af5850&units=metric
         </td>
     </tr>
 </table>
