@@ -29,7 +29,7 @@ Het is dus de bedoeling dat we via jQuery en AJAX highscores gaan sturen naar ee
 
 *Codevoorbeeld 1: Uitlezen sessie en omzetten naar een JSON string*
 
-``
+```
 // Lees de Array met de highscores uit de $_SESSION in
 $sessionArray = $_SESSION["highScores"];
 
@@ -38,7 +38,7 @@ $jsonString = json_encode($sessionArray);
 
 // Echo de JSON String
 echo $jsonString;
-``
+```
 
 ### 2. Stappenplan: Maken JS Script
 1. Maak zelf een nieuw HTML bestand aan en maak de standaard HTML opzet zoals je deze in de lessen HTML / CSS geleerd hebt
