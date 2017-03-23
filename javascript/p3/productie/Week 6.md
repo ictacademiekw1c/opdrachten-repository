@@ -22,7 +22,7 @@ Het is dus de bedoeling dat we via jQuery en AJAX highscores gaan sturen naar ee
 3. Laat het PHP script de volgende dingen doen:
     - In de *$_SESSION* is in eerste instantie een lege *array* aanwezig 
     - Zodra er GET variabele genaamd "newHighscore" in de URL zit, dient de waarde hiervan weggeschreven te worden in de *array* van de *$_SESSION* (Denk terug aan Hoofdstuk 10 van PHP, periode 2).
-    - Lees de *array* uit naar een nieuwe variabele en sorteer de array, zodat de hoogte score bovenaan staan. Gebruik voor het sorteren de functie *sort()*
+    - Lees de *array* uit naar een nieuwe variabele en sorteer de array, zodat de hoogte score bovenaan staan. Gebruik voor het sorteren de functie *rsort()*
     - Zorg ervoor dat de hierboven gemaakte *array* als *JSON* omgezet wordt en sla dit op in een variabele. Zie codevoorbeeld 1 hieronder
     - Echo deze variabele (json is immers niets meer dan een normale *string*)
 4. Run je script en test deze door enkele highscores alvast toe te voegen!
