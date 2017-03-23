@@ -9,9 +9,9 @@
 **Opdracht**
 
 We willen graag een systeem maken waar we onze highscores (van een nog niet bestaand spel) naartoe kunnen sturen. Deze moeten op een server opgeslagen worden, zodat we deze later weer kunnen opvragen.
-We gaan in dit geval daarom via een PHP script de highscores opslaan in de cookies. Daarna is het de bedoeling dat we de highscores uit het PHP script weer gesorteerd op onze website laten zien.
+We gaan in dit geval daarom via een PHP script de highscores opslaan in de $_SESSION. Daarna is het de bedoeling dat we de highscores uit het PHP script weer gesorteerd op onze website laten zien.
 
-Het is dus de bedoeling dat we via jQuery en AJAX highscores gaan sturen naar een eigen gemaakt PHP script. Dit PHP script slaat de nieuwe highscores op in een cookie. De website moet ook weer via dit PHP script de highscores kunnen uitlezen, om deze te tonen aan de bezoeker!    
+Het is dus de bedoeling dat we via jQuery en AJAX highscores gaan sturen naar een eigen gemaakt PHP script. Dit PHP script slaat de nieuwe highscores op in de $_SESSION. De website moet ook weer via dit PHP script de highscores kunnen uitlezen, om deze te tonen aan de bezoeker!    
 
 ### 1. Stappenplan: Maken PHP script
 
@@ -20,17 +20,24 @@ Het is dus de bedoeling dat we via jQuery en AJAX highscores gaan sturen naar ee
 1. Maak een nieuwe map aan in je huiswerkmap. In deze map zet je zowel je PHP als je HTML / JS / CSS bestanden.
 2. Maak een nieuwe php bestand aan (bedenk zelf een naam)
 3. Laat het PHP script de volgende dingen doen:
-    - In een *cookie* is in eerste instantie een lege *array* aanwezig 
-    - Zodra er GET variabele genaamd "newHighscore" in de URL zit, dient de waarde hiervan weggeschreven te worden in de *array* van de *cookie* (Denk terug aan Hoofdstuk 10 van PHP, periode 2).
-    - Lees de *array* uit naar een nieuwe variabele en sorteer de array, zodat de hoogte score bovenaan staan. Gebruik hiervoor de functie *sort()*
-    - Zorg ervoor dat de hierboven gemaakte *array* als *JSON* geencode wordt en sla dit op in een variabele. Zie codevoorbeeld 1 hieronder
+    - In de *$_SESSION* is in eerste instantie een lege *array* aanwezig 
+    - Zodra er GET variabele genaamd "newHighscore" in de URL zit, dient de waarde hiervan weggeschreven te worden in de *array* van de *$_SESSION* (Denk terug aan Hoofdstuk 10 van PHP, periode 2).
+    - Lees de *array* uit naar een nieuwe variabele en sorteer de array, zodat de hoogte score bovenaan staan. Gebruik voor het sorteren de functie *sort()*
+    - Zorg ervoor dat de hierboven gemaakte *array* als *JSON* omgezet wordt en sla dit op in een variabele. Zie codevoorbeeld 1 hieronder
     - Echo deze variabele (json is immers niets meer dan een normale *string*)
 4. Run je script en test deze door enkele highscores alvast toe te voegen!
 
-*Codevoorbeeld 1: Omzetten van een variabele naar JSON string*
+*Codevoorbeeld 1: Uitlezen sessie en omzetten naar een JSON string*
 
-``PHP
-$jsonString = json_encode($cookieArray);
+``
+// Lees de Array met de highscores uit de $_SESSION in
+$sessionArray = $_SESSION["highScores"];
+
+// Verander de Array naar een JSON string
+$jsonString = json_encode($sessionArray);
+
+// Echo de JSON String
+echo $jsonString;
 ``
 
 ### 2. Stappenplan: Maken JS Script
@@ -69,5 +76,5 @@ $jsonString = json_encode($cookieArray);
 **PHP**
 1. Het PHP script echo't valide een JSON string
 2. Het PHP script kan via de GET paramater "newHighscore" nieuwe highscores ontvangen
-3. Het PHP script slaat deze highscores in een cookie op
+3. Het PHP script slaat deze highscores in een sessie op
 
