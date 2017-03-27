@@ -1,6 +1,6 @@
 #### [kleurcode]rgba(194,67, 74,1)
 
-#  Hoofdstuk 18 Objecten en Classes
+#  Hoofdstuk 18 Database connectie
 
-## 18.1 Introductie objecten en classes in __codecademy__
+## 18.1 
 
