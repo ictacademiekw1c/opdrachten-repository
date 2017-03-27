@@ -27,3 +27,15 @@ Uit deze lijst van arrays behandelen we de volgende functies:
 - str_split()
 - explode()
 
+##17.2 Voorbeeld array
+~~~php
+$fruit = array(
+     'appel' => 'lekker'
+    ,'peer' => 'sappig'
+    ,'sinaasappel' => 'zuur'
+    ,'kiwi' => 'gezond'
+    ,'banaan' => 'zoet'
+    ,'meloen' => 'heerlijk'
+    ,'kersen' => 'zalig'
+);
+~~~
