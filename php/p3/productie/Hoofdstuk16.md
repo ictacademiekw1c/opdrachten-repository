@@ -1,8 +1,6 @@
 #### [kleurcode]rgba(204,67,54,1)
 
 #  Hoofdstuk 16 - Toepassingsopdracht: Black Jack 
-Tussendoortje:
-[Meervoudige intelligentietest](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/Productie/02.%20Opdrachten/Meervoudige_intelligentie_-_vragenlijst_leeg.xlsx)
 
 ## 16.1 Black Jack
 
@@ -103,7 +101,7 @@ In de klas zal de docent de werkende startcode demonstreren.
 
 ### 16.2.5 Opdracht 160 week 13-17 maart
 
-Programmeer minimaal 1 onderdeel, die je zelf kiest, uit het activiteiten diagram in ###16.2.4, die in de startcode (###16.2.4) ontbreekt.
+Programmeer minimaal 1 onderdeel, die je zelf kiest, uit het activiteiten diagram in 16.2.3, die in de startcode (###16.2.4) ontbreekt.
 
 **Beoordelingscriteria**
 - Je hebt alle bestaande code van commentaar voorzien, zodat je aantoont dat je de code begrijpt
@@ -114,7 +112,7 @@ Programmeer minimaal 1 onderdeel, die je zelf kiest, uit het activiteiten diagra
 
 ### 16.2.6 Opdracht 161 week 20-24 maart
 
-Programmeer minimaal 2 onderdelen uit het activiteiten diagram in ###16.2.4
+Programmeer minimaal 2 onderdelen uit het activiteiten diagram in 16.2.3
 
 **Beoordelingscriteria**
 - Je eigen code bevat beschrijvende commentaar
@@ -125,7 +123,7 @@ Programmeer minimaal 2 onderdelen uit het activiteiten diagram in ###16.2.4
 
 ### 16.2.7 Bonusopdracht 162 week 13-24 maart
 
-Programmeer blackjack zodanig dat alle onderdelen uit het activity diagram (###16.2.4) zijn geprogrammeerd.
+Programmeer blackjack zodanig dat alle onderdelen uit het activity diagram (16.2.3) zijn geprogrammeerd.
 
 **Beoordelingscriteria**
 - Je bent uitgegaan van de startcode of je hebt hebt je eigen black jack versie gemaakt
