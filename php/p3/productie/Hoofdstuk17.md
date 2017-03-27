@@ -11,7 +11,7 @@ We leren:
 - Bouw je een array-schudder (shuffle)
 - Maak je van een zin een array met woorden
 
-Een volledige lijst met array functies vindt je [hier](http://php.net/manual/en/ref.array.php).
+Een volledige lijst met array functies vind je [hier](http://php.net/manual/en/ref.array.php).
 
 Uit deze lijst van arrays behandelen we de volgende functies:
 
