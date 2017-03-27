@@ -135,4 +135,4 @@ Programmeer blackjack zodanig dat alle onderdelen uit het activity diagram (###1
 - Oplevering uiterlijk 27 maart (via commits en pushes)
 
 **Opleveringen**
-Blackjack moet in de week van 27 maart persoonlijk worden nagekeken bij de docent. 
+Blackjack wordt in de week van 27 maart persoonlijk nagekeken door de docent. 
