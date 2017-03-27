@@ -63,11 +63,11 @@ Met css styling (background-position) kun je 1 specifieke afbeelding tonen:
                 background-image: url('cards.png');
             }
 
-            .schoppen {
+            .twee {
                 background-position-x: -79px;
             }
 
-            .twee {
+            .schoppen {
                 background-position-y: -369px;
             }
 ~~~
