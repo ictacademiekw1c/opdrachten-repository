@@ -40,17 +40,21 @@ $jsonString = json_encode($sessionArray);
 echo $jsonString;
 ```
 
-### 2. Stappenplan: Maken JS Script
+### 2.1 Stappenplan: Opzetten website
 1. Maak zelf een nieuw HTML bestand aan en maak de standaard HTML opzet zoals je deze in de lessen HTML / CSS geleerd hebt
 2. Koppel hier de jQuery library aan
 3. Koppel hier een leeg .js bestand aan
 4. Maak de website (ongeveer) zoals hieronder in visueel voorbeeld 1 te zien is
+
+### 2.2 Versturen van een nieuwe highscore
 5. Zorg ervoor dat bij het klikken op de "Versturen!" knop de volgende dingen gebeuren
     - Lees de waarde van het input element uit (Zie reader 1)
     - Maak een AJAX request naar je zojuist gemaakte PHP script
     - Voeg in de URL van dit AJAX request de GET parameter "newHighscore" toe en vergeet niet de waarde van het inut veld als waarde van deze GET parameter mee te geven 
     - Laat een melding zien zodra het AJAX request gelukt is
     - Laat een error zien zodra het AJAX request mislukt is (Zie reader 4 hiervoor)
+	
+### 2.3 Ophalen van de huidige highscores 
 6. Zorg ervoor dat bij het klikken op de "Updaten" button de volgende dingen gebeuren
     - Maak een AJAX request naar het eerder gemaakte PHP script
     - Vang de uitkomst op in een variabele
