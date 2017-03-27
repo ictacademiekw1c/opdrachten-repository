@@ -10,11 +10,9 @@
 
 ## 5.3 Opdracht 6
 
-Situatie: Je bent een IT bedrijf begonnen en je gaat je in een nieuw kantoorpand vestigen. Bij de software die je gaat ontwikkelen wil je de kosten van van de bedrijfsmiddelen doorrekenen in de uiteindelijke prijs.
+Situatie: Je bent een IT bedrijf begonnen en je gaat je in een nieuw kantoorpand vestigen. Bij de software die je gaat ontwikkelen wil je de kosten van de bedrijfsmiddelen, die je nodig hebt om de software te ontwikkelen, doorrekenen in de uiteindelijke prijs.
 
 - Welke spullen (bedrijfsmiddelen) heb je nodig?
 - Bepaal de prijs
 - Bepaal de vermoedelijke levensduur
 - Bereken de afschrijvingskosten per jaar per bedrijfsmiddel
-
-
