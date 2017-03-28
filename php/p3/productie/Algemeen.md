@@ -16,8 +16,11 @@ Opdrachten worden opgeleverd op github....
 * Huiswerk & voortgangsdocument
 Het huiswerk wordt iedere les klassikaal getoond. Houdt er rekening mee dat je minimaal 1 opdracht per week opgegeven krijgt.
 
-### 0.1.1 Opleverdata
+### 0.1.1 Huiswerk en opleverdata
 De uiterste opleverdatums per opdracht worden in de klas gecommuniceerd. Zet de opdrachten met opleverdatums in je OUTLOOK Agenda.
+
+![huiswerkoverzicht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/huiswerkp3.png?raw=true)
+
 
 ### 0.1.2 Opleveren opdrachten
 
