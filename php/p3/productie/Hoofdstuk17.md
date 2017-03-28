@@ -39,3 +39,18 @@ $fruit = array(
     ,'kersen' => 'zalig'
 );
 ~~~
+
+##17.3 Lesopdracht
+
+### 17.3.1 Lesopdracht 1
+
+Zoek op php.net op wat de php-functies array_flip(), array_search() en array_key_exists() doen.
+Als je de documentatie leest voor een bepaalde functie, let dan op de volgende punten:
+- Snap je de uitleg van de werking van de functie?
+- Welke parameters kun je doorgeven?
+- Welke parameters zijn verplicht/optioneel?
+- Welke datatypes hebben de verschillende parameters?
+- Heeft de functie een return waarde en zoja? Welk datatype is dat dan?
+- Zijn er verder bijzonderheden?
+
+Beantwoordt bovenstaande vragen voor elk van deze functies.
