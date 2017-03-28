@@ -18,7 +18,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | Opdrachten Week 4 (340) | 14 maart | 15 maart  |
 | Opdrachten Week 5 (350)| 21 maart | 22 maart |
 | Opdrachten Week 6 (360) | 4 april | 5 april |
-| Opdrachten Week 7 (Oefentoets) | 30 maart | 30 maart |
+| Opdrachten Week 7 (Oefentoets) | 31 maart 23:59 | 31 maart 23:59 |
 
 <br> 
 
