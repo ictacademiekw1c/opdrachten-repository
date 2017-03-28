@@ -16,13 +16,14 @@ Opdrachten worden opgeleverd op github....
 * Huiswerk & voortgangsdocument
 Het huiswerk wordt iedere les klassikaal getoond. Houdt er rekening mee dat je minimaal 1 opdracht per week opgegeven krijgt.
 
-### 0.1.1 Huiswerk en opleverdata
+## 0.2 Huiswerk
+
+### 0.2.1 Huiswerk en opleverdata
 De uiterste opleverdatums per opdracht worden in de klas gecommuniceerd. Zet de opdrachten met opleverdatums in je OUTLOOK Agenda.
 
 ![huiswerkoverzicht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/huiswerkp3.png?raw=true)
 
-
-### 0.1.2 Opleveren opdrachten
+### 0.2.2 Opleveren opdrachten
 
 De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
@@ -50,5 +51,10 @@ Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering 
 
 Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
 
+## 0.3 Toets PHP
 
+De PHP toets is in de __week van 10 april__ en gaat over hoofdstuk 13 t/m hoofdstuk 17.
+De herkansingstoets PHP is in de __week van 17 april__.
+
+Bij beide toetsen telt het huiswerkwerkcijfer voor 33,33% mee.
 
