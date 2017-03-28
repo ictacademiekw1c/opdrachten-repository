@@ -43,7 +43,7 @@ Als laatste echo'd ons PHP script een JSON String. Hieronder zie je een voorbeel
     - Zorg ervoor dat de hierboven gemaakte *array* als *JSON* omgezet wordt en sla dit op in een variabele. Zie codevoorbeeld 1 hieronder
     - Echo deze variabele (*JSON* is immers niets meer dan een normale *string*)
 4. Run je script en test deze door enkele highscores alvast toe te voegen!
-5. Check of je perongeluk geen HTML mee echo'd
+5. Check of je perongeluk geen HTML mee echo'd!
 6. Check of de uitvoer van je PHP script er ongeveer uitziet zoals de afbeelding hier vlak boven
 
 *Codevoorbeeld 1: Uitlezen sessie en omzetten naar een JSON string*
@@ -59,26 +59,25 @@ $jsonString = json_encode($sessionArray);
 echo $jsonString;
 ```
 
-### 2.1 Stappenplan: Opzetten website
-1. Maak zelf een nieuw HTML bestand aan en maak de standaard HTML opzet zoals je deze in de lessen HTML / CSS geleerd hebt
-2. Koppel hier de jQuery library aan
-3. Koppel hier een leeg .js bestand aan
-4. Maak de website (ongeveer) zoals hieronder in visueel voorbeeld 1 te zien is
 
-### 2.2 Versturen van een nieuwe highscore
-5. Zorg ervoor dat bij het klikken op de "Versturen!" knop de volgende dingen gebeuren
+### 2.1 JS: Versturen van een nieuwe highscore
+1. Het PHP script is nu klaar als het goed is, we gaan verder met de Javascript.
+2. Check of de jquery library en Script.js gekoppeld zijn aan het HTML bestand
+3. Zorg ervoor dat bij het klikken op de "Versturen!" knop de volgende dingen gebeuren
     - Lees de waarde van het input element uit (Zie reader 1)
     - Maak een AJAX request naar je zojuist gemaakte PHP script
     - Voeg in de URL van dit AJAX request de GET parameter "newHighscore" toe en vergeet niet de waarde van het inut veld als waarde van deze GET parameter mee te geven 
     - Laat een melding zien zodra het AJAX request gelukt is
     - Laat een error zien zodra het AJAX request mislukt is (Zie reader 4 hiervoor)
+4. Verstuur een highscore via AJAX en check via de Network tab in je Inspector of deze ook daadwerkelijk opgeslagen wordt in je PHP script	
 	
-### 2.3 Ophalen van de huidige highscores 
+### 2.2 JS: Ophalen van de huidige highscores 
 6. Zorg ervoor dat bij het klikken op de "Updaten" button de volgende dingen gebeuren
     - Maak een AJAX request naar het eerder gemaakte PHP script
     - Vang de uitkomst op in een variabele
     - Bepaal (bv via de *debugger*) of je het resultaat moet omzetten via *parseJSON()* (Zie reader)
-    - Toon de highscores als listitems in een UL
+    - Toon de highscores als listitems in de UL  (Tip: Gebruik *for*, *while* of $.each() loops )
+7. Run je script in de browser en check of de highscores in de list tevoorschijn komen
 7. Klaar? Bekijk de beoordelingscriteria of je niets vergeten bent
 
 **Extra  opdracht: (Hiermee krijg je alsnog één punt voor een eerder gemiste huiswerkopdracht!)**
@@ -94,7 +93,8 @@ echo $jsonString;
 1. De Update en de versturen buttons maken gebruik van 2 verschillende AJAX requests
 2. De website moet een nieuwe highscore kunnen opsturen
 3. Je krijgt een melding zodra het AJAX request om een highscore te posten is geslaagd (of juist niet)
-3. Na het opsturen van een highscore, moet deze via het drukken op de "Update" button zichtbaar worden
+4. Na het opsturen van een highscore, moet deze via het drukken op de "Update" button zichtbaar worden
+5. De highscores worden getoond als LI items
 
 **PHP**
 1. Het PHP script echo't valide een JSON string
