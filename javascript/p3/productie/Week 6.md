@@ -31,6 +31,8 @@ We gaan in de $_SESSION['highscores'] een *array* opslaan die de highscores beva
 Een nieuwe highscore komt binnen via $_GET['newHighscore'] en wordt via *array_push()* weggeschreven in deze $_SESSION['highscores'].
 
 Als laatste echo'd ons PHP script een JSON String. Hieronder zie je een voorbeeld hoe dit de uitvoer van dit PHP bestand in de browser er ongeveer uit moet zien:
+
+*Visuele weergave van de uitvoer van het PHP script*
 <img style="width: 80%" src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/360-2.png">
 
 
