@@ -56,5 +56,5 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 De PHP toets is in de __week van 10 april__ en gaat over hoofdstuk 13 t/m hoofdstuk 17.
 De herkansingstoets PHP is in de __week van 17 april__.
 
-Bij beide toetsen telt het huiswerkwerkcijfer voor 33,33% mee.
+Bij beide toetsen telt het huiswerkcijfer mee voor het eindcijfer.
 
