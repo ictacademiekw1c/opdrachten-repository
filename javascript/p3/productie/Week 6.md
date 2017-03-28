@@ -13,19 +13,38 @@ We gaan in dit geval daarom via een PHP script de highscores opslaan in de $_SES
 
 Het is dus de bedoeling dat we via jQuery en AJAX highscores gaan sturen naar een eigen gemaakt PHP script. Dit PHP script slaat de nieuwe highscores op in de $_SESSION. De website moet ook weer via dit PHP script de highscores kunnen uitlezen, om deze te tonen aan de bezoeker!    
 
+1. Download de <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Huiswerkopdrachten/Opdracht%20360.zip" target="_new">template</a>
+2. Pak deze uit in je huiswerkmap
+3. Open de gehele directory in je editor
+4. Run index.html in je browser
+5. We starten nu met het maken van het PHP script. Zie "1. Stappenplan: Maken PHP script"
+
+
 ### 1. Stappenplan: Maken PHP script
 
 > Kom je er niet uit met het PHP script? Blijf niet hang, maar vraag deze dan op bij de docent JS. Je krijgt dan wel maar één punt voor de huiswerkopdracht.
 
-1. Maak een nieuwe map aan in je huiswerkmap. In deze map zet je zowel je PHP als je HTML / JS / CSS bestanden.
-2. Maak een nieuwe php bestand aan (bedenk zelf een naam)
-3. Laat het PHP script de volgende dingen doen:
-    - In de *$_SESSION* is in eerste instantie een lege *array* aanwezig 
+
+**Omschrijving**
+
+We gaan in de $_SESSION['highscores'] een *array* opslaan die de highscores bevat.
+Een nieuwe highscore komt binnen via $_GET['newHighscore'] en wordt via *array_push()* weggeschreven in deze $_SESSION['highscores'].
+
+Als laatste echo'd ons PHP script een JSON String. Hieronder zie je een voorbeeld hoe dit de uitvoer van dit PHP bestand in de browser er ongeveer uit moet zien:
+<img style="width: 80%" src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p3/productie/Afbeeldingen/360-2.png">
+
+
+**Stappenplan**
+1. Laat het PHP script de volgende dingen doen:
+    - Start de sessie
+    - Check of $_SESSION['highscores'] *isset()*. Als dat niet is, maak deze aan en vul deze met een lege *array*
     - Zodra er GET variabele genaamd "newHighscore" in de URL zit, dient de waarde hiervan weggeschreven te worden in de *array* van de *$_SESSION* (Denk terug aan Hoofdstuk 10 van PHP, periode 2).
     - Lees de *array* uit naar een nieuwe variabele en sorteer de array, zodat de hoogte score bovenaan staan. Gebruik voor het sorteren de functie *rsort()*
     - Zorg ervoor dat de hierboven gemaakte *array* als *JSON* omgezet wordt en sla dit op in een variabele. Zie codevoorbeeld 1 hieronder
-    - Echo deze variabele (json is immers niets meer dan een normale *string*)
+    - Echo deze variabele (*JSON* is immers niets meer dan een normale *string*)
 4. Run je script en test deze door enkele highscores alvast toe te voegen!
+5. Check of je perongeluk geen HTML mee echo'd
+6. Check of de uitvoer van je PHP script er ongeveer uitziet zoals de afbeelding hier vlak boven
 
 *Codevoorbeeld 1: Uitlezen sessie en omzetten naar een JSON string*
 
