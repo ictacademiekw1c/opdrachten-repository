@@ -54,3 +54,24 @@ Als je de documentatie leest voor een bepaalde functie, let dan op de volgende p
 - Zijn er verder bijzonderheden?
 
 Beantwoordt bovenstaande vragen voor elk van deze functies.
+
+## 17.4 Opdracht 170
+
+### Omschrijving opdracht 170
+
+Maak een opdracht170.php in de map hoofdstuk17. Zet hierin de array die hierboven in 17.2 staat.
+Programmeer een formulier waarin je een fruitsoort kan invullen en waarbij na verzending van het formulier de fruitsoort laat zien met de eigenschap die erbij hoort uit de fruitarray.
+
+### Visuele weergave 170
+
+Er zijn 2 situaties mogelijk:
+Het fruit bestaat en dan zie je:
+![Visuele weergave](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/opdracht170a.png?raw=true)
+
+Het fruit bestaat niet en dan zie je:
+![Visuele weergave](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/opdracht170b.png?raw=true)
+
+
+### Beoordelingscriteria 170
+- Maak gebruik van de functies array_flip(), array_search() en/of array_key_exists()
+
