@@ -65,12 +65,11 @@ Programmeer een formulier waarin je een fruitsoort kan invullen en waarbij na ve
 ### Visuele weergave 170
 
 Er zijn 2 situaties mogelijk:
-Het fruit bestaat en dan zie je:
+Het fruit bestaat (banaan is ingevuld) en dan zie je:
 ![Visuele weergave](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/opdracht170a.png?raw=true)
 
-Het fruit bestaat niet en dan zie je:
+Het fruit bestaat niet (avocado is ingevuld) en dan zie je:
 ![Visuele weergave](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/opdracht170b.png?raw=true)
-
 
 ### Beoordelingscriteria 170
 - Maak gebruik van de functies array_flip(), array_search() en/of array_key_exists()
