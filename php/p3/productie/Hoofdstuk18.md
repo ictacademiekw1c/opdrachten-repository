@@ -12,13 +12,14 @@ $aMenu = array( 'Nieuws' => 'http://nu.nl',
             'Zoeken' => 'zoeken.php' );
 ~~~
 
-Programmeer een functie die als je deze op de volgende manier aanroept een menu print met 
-de volgende visuele weergave:
+>Programmeer een functie die als je deze op de volgende manier aanroept:
 
 ~~~php
 //Nieuws krijgt in het menu een andere achtergrondkleur
 printMenu('Nieuws');
 ~~~
+
+>een menu print met de volgende visuele weergave:
 
 ### Visuele weergave oefenen 1 
 
