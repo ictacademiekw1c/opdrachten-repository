@@ -20,8 +20,13 @@ de volgende visuele weergave:
 printMenu('Nieuws');
 ~~~
 
+### Visuele weergave oefenen 1 
+
 ![Visuele weergave](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/oefenen1.png?raw=true)
 
+### beoordelingscriteria oefenen 1
+- Elke menuoptie linkt naar de corresponderende webpagina.
+- De menuoptie die wordt meegestuurd krijgt een andere achtergrondkleur.
 
 ## 18.2 Oefentoetsopdracht 2
 
