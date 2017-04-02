@@ -31,9 +31,49 @@ printMenu('Nieuws');
 
 ## 18.2 Oefentoetsopdracht 2
 
+Ga uit van de volgende 2 arrays:
+~~~php
+ $aGente = array( 'jan'=> 'm',
+                 'alice'=> 'v', 
+                 'veronica'=> 'v', 
+                 'herman'=> 'm',                
+                 'maria'=> 'v', 
+                 'angelica' => 'v' , 
+                 'pieter' => 'm' ,
+                 'abdel' => 'm');  
+
+    $aLeeftijd = array(
+            'jan'=> 66, 
+            'alice'=> 21, 
+            'veronica'=> 45, 
+            'herman'=> 22,               
+            'maria'=> 62, 
+            'angelica' => 23, 
+            'pieter' => 46,
+            'abdel' => 22);
+~~~
+
+Programmeer een php script waarin je bepaalt:
+- De gemiddelde leeftijd van de mannen
+- De gemiddelde leeftijd van de vrouwen
+
+Programmeer vervolgens een foreach lus, waarin je van elke man de vrouw zoekt waarvan het leeftijdsverschil niet meer is dan 5 jaar (ouder of jonger).
 
 ## 18.3 Oefentoetsopdracht 3
 
+We starten met de variabele $zin
+~~~php
+$zin = "Rond de wedstrijd Ajax-Feyenoord zijn zondag in Rotterdam achttien relschoppers opgepakt. Volgens de politie zijn ze aangehouden voor zaken als belediging, bedreiging, vernieling en het gooien van vuurwerk. Ajax won in de Arena met 2-1.";
+~~~
+
+Om te kunnen tellen hoeveel keer het woord __de__ voorkomt in de zin gaan we deze zin omzetten naar een array.
+We kunnen dit doen met de array functies str_split() of explode(); Onderzoek dit door de documentatie op php.net
+goed te lezen van beide functies en daarna de juiste functie te kiezen en vervolgens de code te programmeren, die nodig is om te bepalen hoe vaak het woord __de__ voorkomt in de bovenstaande zin.
 
 ## 18.4 Oefentoetsopdracht 4
 
+~~~php
+ //todo
+ //Opdrachtje met formulier en sessies
+ //
+ ~~~
