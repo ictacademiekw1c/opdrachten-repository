@@ -72,8 +72,38 @@ goed te lezen van beide functies en daarna de juiste functie te kiezen en vervol
 
 ## 18.4 Oefentoets opdracht 4
 
-~~~php
- //todo
- //Opdrachtje met formulier en sessies
- //
- ~~~
+Start met formulier als in opdracht 130. Noem dit script oefenopdracht4.php
+~~~html
+ <form method='get' action='oefenopdracht4.php'>
+         <label>Naam: </label><input name='naam' type='text' value=''>
+         <label>Klas: </label><input name='klas' type='text' value=''>
+         <label>Nummer: </label><input name='leerlingnummer' type='text' value=''>
+         <label>Vak: </label><select name='vak'>
+             <option value='PHP'>PHP</option>
+             <option value='javascript'>Javascript</option>
+             <option value='ASP'>ASP</option>
+             <option value='SQL'>SQL</option>
+         </select>
+         <label>Cijfer: </label><input name='cijfer' type='number' value='5'>
+         <input type='submit' value='verzend' name='verzend'>
+         </form>
+~~~
+
+De uiteindelijke weergave moet weer zijn als in opdracht 140.
+
+<table border="1">
+<caption><b>Rapport van leerling Abu Saebu met nummer 99900398 klas IO1B4</b></caption>
+<tr><th>Vak</th><th>Cijfer</th></tr>
+<tr><td>PHP</td><td>7</td></tr>
+<tr><td>ASP</td><td>9</td></tr>
+<tr><td>Javascript</td><td>5</td></tr>
+<tr><td>Database</td><td>7</td></tr>
+<tr><td>Gemiddelde</td><td>7</td></tr>
+<tr><th>Resultaat</th><th>Je bent over</th></tr>
+</table>
+
+Maar de uitwerking zal aan de volgende eisen moeten voldoen:
+- Maak gebruik van de sessievariabele $_SESSION['vakcijfer'] die nu een associatieve array is met key-waarde het vak en value-waarde het cijfer ervoor.
+- Zorg ervoor dat je slechts 1x een vak kan invullen, door dat met een array functie uit hoofdstuk 17 te controleren.
+- Bereken het gemidddelde ook met een array functie.
+- Je print het resultaat 'Je blijft zitten' als je gemiddelde lager is dan 5,5 anders print je het resultaat 'Je bent over'
