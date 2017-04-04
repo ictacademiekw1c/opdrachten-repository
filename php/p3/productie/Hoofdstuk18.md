@@ -89,7 +89,8 @@ Start met formulier als in opdracht 130. Noem dit script oefenopdracht4.php
          </form>
 ~~~
 
-De uiteindelijke weergave moet weer zijn als in opdracht 140.
+__Visuele weergave__<br>
+De uiteindelijke weergave moet weer zijn zoals in opdracht 140, maar dan met het resultaat in de laatste regel toegevoegd.
 
 <table border="1">
 <caption><b>Rapport van leerling Abu Saebu met nummer 99900398 klas IO1B4</b></caption>
@@ -102,6 +103,7 @@ De uiteindelijke weergave moet weer zijn als in opdracht 140.
 <tr><th>Resultaat</th><th>Je bent over</th></tr>
 </table>
 
+__Beoordelingscriteria__<br>
 Maar de uitwerking zal aan de volgende eisen moeten voldoen:
 - Maak gebruik van de sessievariabele $_SESSION['vakcijfer'] die nu een associatieve array is met key-waarde het vak en value-waarde het cijfer ervoor.
 - Zorg ervoor dat je slechts 1x een vak kan invullen, door dat met een array functie uit hoofdstuk 17 te controleren.
