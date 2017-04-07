@@ -17,4 +17,4 @@ Situatie: Je bent een IT bedrijf begonnen en je gaat je in een nieuw kantoorpand
 - Bepaal de vermoedelijke levensduur
 - Bereken de afschrijvingskosten per jaar per bedrijfsmiddel
 
-{review id=bed06}
+{review bedP3O6}
