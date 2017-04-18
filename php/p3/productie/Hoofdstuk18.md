@@ -110,7 +110,7 @@ Maar de uitwerking zal aan de volgende eisen moeten voldoen:
 - Bereken het gemidddelde ook met een array functie.
 - Je print het resultaat 'Je blijft zitten' als je gemiddelde lager is dan 5,5 anders print je het resultaat 'Je bent over'
 
-## 18.5 Uitwerking toetsopdracht 1
+## 18.5 Toetsopdracht 1
 
 Je kreeg de volgende code:
 ~~~php
