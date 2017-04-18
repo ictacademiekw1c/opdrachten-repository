@@ -109,3 +109,63 @@ Maar de uitwerking zal aan de volgende eisen moeten voldoen:
 - Zorg ervoor dat je slechts 1x een vak kan invullen, door dat met een array functie uit hoofdstuk 17 te controleren.
 - Bereken het gemidddelde ook met een array functie.
 - Je print het resultaat 'Je blijft zitten' als je gemiddelde lager is dan 5,5 anders print je het resultaat 'Je bent over'
+
+## 18.5 Uitwerking toetsopdracht 1
+
+Je kreeg de volgende code:
+~~~php
+$aGente = array( 'jan'=> 'm',
+                 'alice'=> 'v', 
+                 'veronica'=> 'v', 
+                 'herman'=> 'm',                
+                 'maria'=> 'v', 
+                 'angelica' => 'v' , 
+                 'pieter' => 'm' ,
+                 'abdel' => 'm');  
+
+    $aLeeftijd = array(
+            'jan'=> 66, 
+            'alice'=> 17, 
+            'veronica'=> 45, 
+            'herman'=> 17,               
+            'maria'=> 62, 
+            'angelica' => 22 , 
+            'pieter' => 45,
+            'abdel' => 22);
+
+/* zoek de perfecte match zoekMatch() op basis van leeftijd en geslacht
+@param1 de leeftijd van de perfecte match
+@param2 het gezochte geslacht
+@return de naam van de perfecte match
+*/
+function zoekMatch ($zoekLeeftijd, $zoekGeslacht ) {
+    global $aLeeftijd, $aGente;
+
+    foreach ($aLeeftijd as $naam => $leeftijd) {  
+        if ($leeftijd == $zoekLeeftijd && $zoekGeslacht == $aGente[$naam]) {   
+            return $naam;
+        }
+    }
+    return 'geen match';
+}
+
+$man = 'jan';
+echo "De perfecte match voor $man met leeftijd ".$aLeeftijd[$man]." is ".zoekMatch($aLeeftijd[$man],'v');
+~~~
+De perfecte match wordt voor jan nu niet gevonden, omdat de functie een vrouw zoekt met precies dezelfde leeftijd als jan. Wat moet je veranderen aan de functie zodanig dat het leeftijdsverschil maximaal 5 jaar mag zijn om toch een perfecte match te vinden ? jan zal dan maria als perfecte match gaan vinden. 
+
+### 18.5.1 De uitwerking
+
+Het enige wat moet worden aangepast is de if statement in de functie zoekMatch(). Nu kijkt de functie of er iemand is die precies dezelfde leeftijd heeft.
+In plaats daarvan moet er een ondergrens: $zoekleeftijd - 5 en een bovengrens worden ingesteld: $zoekleeftijd + 5
+
+~~~php
+    //de grenzen waarbinnen een partner voldoet
+    $minL = $zoekLeeftijd - 5;
+    $maxL = $zoekLeeftijd + 5;
+
+    //en de aangepaste if-statement
+    if ($leeftijd >= $minL && $leeftijd <= $maxL && $zoekGeslacht == $aGente[$naam])
+    
+~~~
+
