@@ -224,10 +224,10 @@ while ($tel < count($aLijst2)) {
 // Nu bevat $totaal het totaal van beide arrays
 //Het gemiddelde is dan
 
-$gem = $totaal / ((count($lijst1) + count($aLijst2));
+$gem = $totaal / (count($lijst1) + count($aLijst2));
 
 //printen
-echo $gem
+echo $gem;
 ~~~
 
 
