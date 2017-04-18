@@ -169,3 +169,65 @@ In plaats daarvan moet er een ondergrens: $zoekleeftijd - 5 en een bovengrens wo
     
 ~~~
 
+## 18.5 Toetsopdracht 2
+
+Kopieer de volgende code naar een php script met naam lijst.php.
+
+__lijst.php__
+~~~php
+session_start();
+$aLijst = array(1,22,55,66,99, 234,9);
+$_SESSION['getallen'] = $aLijst;
+~~~
+
+__gemiddelde.php__
+Voer dit script uit. In de browser zul je slechts een pagina zien zonder inhoud ( witte pagina), maar de array is nu wel in een sessie gezet.
+Programmeer een tweede script (gemiddelde.php) die deze getallen uit de sessie haalt, deze combineert met de array 
+ 
+~~~php 
+$aLijst2 = array(1,2,3,4,5,6,7,8,9,10);
+~~~
+
+En het gemiddelde bepaalt van de getallen uit deze 2 arrays.
+
+Dus de uitvoer van je script zou moeten zijn:
+
+Het gemiddelde van de sessiegetallen(aLijst) en aLijst2 is: 31.823529411765
+
+### 18.5.1 Uitwerking Toetsopdracht 2
+
+In __gemiddelde.php__
+~~~php
+//Haal je de eerste lijst uit de sessie
+//sessie starten!!!
+//Het is fout als je een include gebruikt ipv een sessie
+
+session_start();
+//if isset om te voorkomen dat je een foutmelding krijgt
+if (isset($_SESSION['getallen'])) {
+    $lijst1 = $_SESSION['getallen'];
+}
+$totaal = 0;
+$tel = 0;
+while ($tel < count($lijst1)) {
+    $totaal = $totaal + $lijst1[$tel];
+    $tel++;
+}
+
+//Nu het totaal van de tweede lijst
+$aLijst2 = array(1,2,3,4,5,6,7,8,9,10);
+$tel = 0;
+while ($tel < count($aLijst2)) {
+    $totaal = $totaal + $aLijst2[$tel];
+    $tel++;
+}
+// Nu bevat $totaal het totaal van beide arrays
+//Het gemiddelde is dan
+
+$gem = $totaal / ((count($lijst1) + count($aLijst2));
+
+//printen
+echo $gem
+~~~
+
+
