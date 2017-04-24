@@ -4,9 +4,6 @@
 Het doel van deze studieroute is studenten te leren programmeren in Javascript. Middels Javascript kunnen reguliere HTML pagina's (webpage) uitgebreid worden met functionaliteiten (zoals animaties, effecten en andere functionaliteiten, etc) die eigenlijk niet in de reguliere HTML / CSS standaarden inbegrepen zijn.
 Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicatieontwikkeling inhoudt. 
 
-## Voorkennis
-Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
-
 ## Opleverdata
 Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
@@ -27,6 +24,10 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 ## Opleveren opdrachten
 1. Je dient al je huisopdrachten in de Javascript map van je N@tschool portfolio te plaatsen
 2. Daarna laat je de opdracht uit je N@tschool aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
+
+
+## Voorkennis
+Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 
 
 ## Editor
