@@ -12,29 +12,27 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1E4** &nbsp; &nbsp;  | &nbsp; Deadline **IO1B4** + **IO1C4** + **IO1D4** &nbsp;|
 |--------------------  |--------------- | --------- |
-| Opdrachten Week 1 (310) | 14 februari | 15 februari |
-| Opdrachten Week 2 (320 + 321)| 21 februari | 22 februari |
-| Opdrachten Week 3 (330) | 7 maart | 8 maart |
-| Opdrachten Week 4 (340) | 14 maart | 15 maart  |
-| Opdrachten Week 5 (350)| 21 maart | 22 maart |
-| Opdrachten Week 6 (360) | 4 april | 5 april |
-| Opdrachten Week 7 (Oefentoets) | 31 maart 23:59 | 31 maart 23:59 |
+| Opdrachten Week 1 |  | |
+| Opdrachten Week 2 |  | |
+| Opdrachten Week 3 |  | |
+| Opdrachten Week 4 |  | |
+| Opdrachten Week 5 |  | |
+| Opdrachten Week 6 |  | |
+| Opdrachten Week 7 |  | |
 
 <br> 
 
 **Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op** 
 
-## Editor
-We gebruiken voor het vak Javascript de editor genaamd `"WebMatrix"`. 
-Deze gratis editor is gemaakt door Microsoft en is relatief simpel in gebruik, kan veel en worden ook tijdens andere lessen gebruikt.
-Klik op onderstaande afbeelding om WebMatrix te downloaden.
-*Het is de bedoeling dat alle leerlingen vanaf week 1 WebMatrix geinstalleerd hebben.*
-
-[<img src="https://raw.githubusercontent.com/ictacademiekw1c/tijdelijke-test-repository/master/Afbeeldingen/download_webmatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
-
 ## Opleveren opdrachten
 1. Je dient al je huisopdrachten in de Javascript map van je N@tschool portfolio te plaatsen
 2. Daarna laat je de opdracht uit je N@tschool aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
+
+
+## Editor
+We gebruiken voor het vak Javascript de editor genaamd `"PHPStorm"`. 
+Deze editor is betaald, maar voor dit vak hebben we met de makers (JetBrains) licenties beschikbaar gekregen. Deze kun je via Abu Saebu krijgen.
+
 
 Per opdracht staat er in deze opdrachtenportaal in rood vermeldt hoe de bestandsnaam moet zijn
 
@@ -80,9 +78,3 @@ Voor opdrachten vanaf hoofdstuk 5 gelden de volgende aanvullende beoordelingscri
  
 *	De code is voorzien van waardevol en voldoende commentaar.
 *	De Javascriptcode is geschreven in een extern JS-bestand `Script.js` genaamd
-
-#### [setSubMenuHeader]Algemene informatie
-
-<input type="checkbox" name="a">Test 1
-<input type="checkbox" name="b">Test 2
-<input type="checkbox" name="a">Test 3
