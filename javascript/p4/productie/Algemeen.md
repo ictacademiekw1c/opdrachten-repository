@@ -9,13 +9,12 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1E4** &nbsp; &nbsp;  | &nbsp; Deadline **IO1B4** + **IO1C4** + **IO1D4** &nbsp;|
 |--------------------  |--------------- | --------- |
-| Opdrachten Week 1 |  | |
-| Opdrachten Week 2 |  | |
-| Opdrachten Week 3 |  | |
-| Opdrachten Week 4 |  | |
-| Opdrachten Week 5 |  | |
-| Opdrachten Week 6 |  | |
-| Opdrachten Week 7 |  | |
+| Opdrachten Hoofdstuk 0 |  | |
+| Opdrachten Hoofdstuk 1 |  | |
+| Opdrachten Hoofdstuk 2 |  | |
+| Opdrachten Hoofdstuk 3 |  | |
+| Opdrachten Hoofdstuk 4|  | |
+| Opdrachten Hoofdstuk 6 |  | |
 
 <br> 
 
