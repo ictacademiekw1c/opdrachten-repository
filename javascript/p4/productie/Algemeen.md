@@ -9,12 +9,13 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1E4** &nbsp; &nbsp;  | &nbsp; Deadline **IO1B4** + **IO1C4** + **IO1D4** &nbsp;|
 |--------------------  |--------------- | --------- |
-| Opdrachten Hoofdstuk 0 |  | |
-| Opdrachten Hoofdstuk 1 |  | |
-| Opdrachten Hoofdstuk 2 |  | |
-| Opdrachten Hoofdstuk 3 |  | |
-| Opdrachten Hoofdstuk 4|  | |
-| Opdrachten Hoofdstuk 6 |  | |
+| Opdrachten H0 (0.1) | 10 mei | 11 mei |
+| Opdrachten H1 () | 17 mei | 18 mei |
+| Opdrachten H2 |  | |
+| Opdrachten H3 |  | |
+| Opdrachten H4 |  | |
+| Opdrachten H5 |  | |
+| Opdrachten H6 |  | |
 
 <br> 
 
