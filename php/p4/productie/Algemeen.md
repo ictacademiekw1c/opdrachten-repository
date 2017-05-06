@@ -9,6 +9,8 @@
 
 Deze studieroute bouwt voort op de eerdere hoofdstukken die in periode 1 t/m 3 zijn behandeld. 
 
+[Opdrachtenportaal PHP Periode 3 ](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie%20PHP%20P3/02.%20Opdrachten/Opdrachtenportaal/index.html)
+
 * Opdrachten
 Opdrachten worden opgeleverd op github....
 
