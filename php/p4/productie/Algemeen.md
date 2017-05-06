@@ -1,4 +1,4 @@
-#### [kleurcode]rgba(244,67,54,1)
+#### [kleurcode]rgba(19, 36, 219, 0.9)
 
 # 0. Inleiding PHP periode 4
 
@@ -7,8 +7,7 @@
 * Indeling
 * De studieroutesite
 
-Deze studieroute bouwt voort op de eerdere hoofdstukken die in periode 1 en periode 2 zijn behandeld. 
-Daarom begint de studieroute ook met hoofdstuk 13.
+Deze studieroute bouwt voort op de eerdere hoofdstukken die in periode 1 t/m 3 zijn behandeld. 
 
 * Opdrachten
 Opdrachten worden opgeleverd op github....
@@ -20,8 +19,6 @@ Het huiswerk wordt iedere les klassikaal getoond. Houdt er rekening mee dat je m
 
 ### 0.2.1 Huiswerk en opleverdata
 De uiterste opleverdatums per opdracht worden in de klas gecommuniceerd. Zet de opdrachten met opleverdatums in je OUTLOOK Agenda.
-
-![huiswerkoverzicht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p3/images/huiswerkp3.png?raw=true)
 
 ### 0.2.2 Opleveren opdrachten
 
