@@ -149,14 +149,11 @@ CREATE TABLE IF NOT EXISTS `joke` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
---
--- Gegevens worden uitgevoerd voor tabel `joke`
---
 
 INSERT INTO `joke` (`id`, `joketext`, `jokeclou`, `jokedate`) VALUES
 (1, 'Een dwerg loopt een bar binnen\r\n– Wat is blauw en ruikt naar rode verf?', 'Blauwe verf!!!', '2017-01-30 13:01:32');
 
-~~~sql
+~~~
 
 ![tabel](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/database.png?raw=true)
 
