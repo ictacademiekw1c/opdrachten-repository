@@ -161,7 +161,7 @@ INSERT INTO `joke` (`id`, `joketext`, `jokeclou`, `jokedate`) VALUES
 
 Hiermee wordt er 1 tabel aangemaakt met de naam joke en wordt er 1 grap toegevoegd, zodat we al tenminste 1 grap uit de database kunnen selecteren met onze php-script.
 
-## 19.7 Leerdoel 7: Een connectie met MySQL ijdb opzetten in een PHP script.
+## 19.7 Leerdoel 4: Een connectie met MySQL ijdb opzetten in een PHP script.
 
 Maak een script connectie.php en zet hierin:
 ~~~php
