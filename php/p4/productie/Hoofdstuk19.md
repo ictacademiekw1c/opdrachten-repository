@@ -36,7 +36,7 @@ maar als je er in je eentje niet uitkomt zul je worden gekoppeld aan een mede-le
 Nadat je workspace is opgestart zie je hetvolgende beeld:<br>
 Open vanuit het menu een nieuwe terminal.<br>
 
-![open c9 workspace](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/terminal.png?raw=true)
+![Nieuwe terminal](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/terminal.png?raw=true)
 
 
 
