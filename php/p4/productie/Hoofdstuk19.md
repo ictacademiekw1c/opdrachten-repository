@@ -186,4 +186,5 @@ echo 'Database connectie is gelukt.';
 __Opdracht__<br>
 - Test dit uit op je lokale machine en wat krijg je nu te zien als je het script connectie.php uitvoert?
 - Commit en push het naar github.com en zet het weer vervolgens op de c9 server met een git pull commando. Wat krijg je nu te zien als je het script uitvoert in de browser?
+- Laat de docent zien dat je uiteindelijk een database connectie hebt kunnen opzetten met de MySQL database.
 
