@@ -10,7 +10,6 @@ Een database programma is een aparte applicatie (service) die losstaat van een w
 In de bovenstaande afbeelding wordt een MySQL database getoond. Tot nu toe hebben jullie kennisgemaakt met een Microsoft SQL database. 
 Een MySQL database heeft veel overeenkomsten met een MS SQL database. Beide databases verstaan dezelfde vraagtaal 'SQL'.
 
-
 ## 19.2 Leerdoelen
 
 1. Het kunnen hosten en testen van je php-script op een webserver (op het portaal c9.io) in de cloud.
@@ -72,7 +71,7 @@ __OPDRACHT__
 Als je nu nieuwe code gaat schrijven in PHPStorm staat het natuurlijk niet automatisch online op de c9 workspace.
 Volg de volgende stappen om dat voor mekaar te krijgen. 
 1. Maak een nieuwe directory aan in PHPStorm met de naam hoofdstuk19
-2. Maak daar een nieuwe php-script aan met de naam opdracht190.php
+2. Maak daar een nieuwe php-script aan met de naam test.php
 3. Zet daar in de volgende test php-code:
 
 ~~~php
@@ -103,7 +102,7 @@ Volg de volgende stappen om dat voor mekaar te krijgen.
 __OPDRACHT__
 <br>
 Volg alle stappen hierboven en test of je nieuwe script nu ook werkt op de c9 server.
-<br>__Let op:__ Om je nieuwe script te kunnen testen moet je je URL ook uitbreiden met de directory en scriptnaam (<basisURL>/hoofdstuk19/opdracht190.php).
+<br>__Let op:__ Om je nieuwe script te kunnen testen moet je je URL ook uitbreiden met de directory en scriptnaam (<basisURL>/hoofdstuk19/test.php).
 
 ## 19.6 Leerdoel 3: Opzetten van een MySQL database op de c9 workspace
 
@@ -151,9 +150,34 @@ CREATE TABLE IF NOT EXISTS `joke` (
 
 INSERT INTO `joke` (`id`, `joketext`, `jokeclou`, `jokedate`) VALUES
 (1, 'Een dwerg loopt een bar binnen\r\n– Wat is blauw en ruikt naar rode verf?', 'Blauwe verf!!!', '2017-01-30 13:01:32');
-
 ~~~
 
 ![tabel](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/database.png?raw=true)
 
+Hiermee wordt er 1 tabel aangemaakt met de naam joke en wordt er 1 grap toegevoegd, zodat we al tenminste 1 grap uit de database kunnen selecteren met onze php-script.
+
+## 19.7 Leerdoel 7: Een connectie met MySQL ijdb opzetten in een PHP script.
+
+Maak een script connectie.php en zet hierin:
+~~~php
+<?php
+// try catch constructie voor opvangen van foutsituaties
+try
+{
+    $pdo = new PDO('mysql:host=localhost;dbname=ijdb','<gebruikersnaam c9>');
+    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    $pdo->exec('SET NAMES "utf8"');
+}
+catch (PDOException $e)
+{
+    echo 'Connectie met database mislukt: ' . $e->getMessage();
+    exit;
+}
+
+echo 'Database connectie is gelukt.';
+?>
+~~~
+
+__Opdracht__<br>
+Test dit uit en wat krijg je nu te zien als je het script connectie.php uitvoert?
 
