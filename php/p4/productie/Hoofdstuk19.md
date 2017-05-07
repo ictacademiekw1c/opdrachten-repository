@@ -14,7 +14,7 @@ Een MySQL database heeft veel overeenkomsten met een MS SQL database. Beide data
 ## 19.2 Leerdoelen
 
 1. Het kunnen hosten en testen van je php-script op een webserver (op het portaal c9.io) in de cloud.
-2. Online kunnen zetten van je php scripts (met commandline git instructies) die je hebt gecommit en gepushed naar www.github.com.
+2. Online kunnen zetten van je nieuwe en gewijzigde php scripts (met commandline git instructies) die je hebt gecommit en gepushed naar www.github.com.
 3. Een MySQL database kunnen opzetten op de c9 webserver, en via PHPMyAdmin een database en een tabel kunnen aanmaken.
 4. In PHP een database connectie kunnen opzetten.
 5. Via php code SQL statements uitvoeren op de MySQL database en de resultaten kunnen opvangen
@@ -27,7 +27,7 @@ Ieder leerdoel zal worden uitgelegd door de leraar. Ieder leerdoel heeft ook min
 Omdat er veel stappen nodig zijn om het uiteindelijke doel te bereiken, wordt er geadviseerd om in koppels te werken. Je mag natuurlijk ook in je eentje werken, 
 maar als je er in je eentje niet uitkomt zul je worden gekoppeld aan een mede-leerling.
 
-## 19.4 Leerdoel 1 hosten en testen van je phpsemester2 code op een c9 server
+## 19.4 Leerdoel 1: Hosten en testen van je phpsemester2 code op een c9 server
 
 1. Ga naar [c9 portaal](http://c9.io) login met je github account en open je c9 workspace.
 
@@ -53,11 +53,53 @@ Waar hierboven wolkanc staat moet je eigen gebruikersnaam zijn op github.com. Da
 
 Is dat gelukt dan heb je je phpsemester2 repository op de c9 server workspace binnengehaald.
 <br>
-![clone](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/terminal.png?raw=true)
+![clone](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/clone.png?raw=true)
 
 Om het te kunnen testen moet je de webserver nog opstarten:
 Klik op run project
 <br>
+
 ![clone](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/run.png?raw=true)
 
 Kopieer de URL naar je browser en dan kun je iedere pagina via de c9 server uittesten.
+
+__OPDRACHT__
+- Volg alle stappen hierboven en laat aan je docent zien dat je phpsemester2 code nu ook werkt op een URL in het c9 domein.
+- Als je met zijn tweeen werkt heb je mekaar geholpen zodat ieder individueel zijn eigen phpsemester2 repository heeft staan op ieders c9 workspace.
+
+## 19.5 Leerdoel 2: Online zetten/updaten van je php code op c9.
+
+Als je nu nieuwe code gaat schrijven in PHPStorm staat het natuurlijk niet automatisch online op de c9 workspace.
+Volg de volgende stappen om dat voor mekaar te krijgen. 
+1. Maak een nieuwe directory aan in PHPStorm met de naam hoofdstuk19
+2. Maak daar een nieuwe php-script aan met de naam opdracht190.php
+3. Zet daar in de volgende test php-code:
+
+~~~php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link type="text/css" rel="stylesheet" href="../css/style.css">
+    <meta charset="utf-8" />
+    <title>Opdrachten overzicht PHP periode 4</title>
+</head>
+<body>
+<header><h1>Test online op c9</h1></header>
+<div id="wrapper">
+    <h2>Hoofdstuk 19</h2>
+    <p>
+        <?php
+            echo "Test php op c9";
+        ?>
+    </p>
+</div>
+</body>
+</html>
+~~~
+
+4. Commit en push deze directory en nieuwe php script.
+5. Ga vervolgens naar je c9 workspace en type daar op een prompt in een terminal window: __git pull__
+
+__OPDRACHT__
+Volg alle stappen hierboven en test of je nieuwe script nu ook werkt op de c9 server.
+
