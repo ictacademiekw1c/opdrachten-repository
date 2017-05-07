@@ -2,6 +2,11 @@
 
 # Hoofdstuk 19 Database connectie op een c9 server.
 
+Professionele websites die gebouwd zijn in PHP en waarbij heel veel gegevens centraal moeten worden opgeslagen maken gebruik van een database.
+Een database service (applicatie) draait vaak op een aparte server,maar soms ook op dezelfde server als de webserver. Een professionele website kan niet zonder een database en ook niet zonder een server-side programmmeertaal als PHP/ASP.
+
+Een webapplicatie kan niet alleen met clientside software (javascript) runnen omdat je altijd serverside software nodig hebt om de database te kunnen raadplegen.
+
 ## 19.1 Database connectie op een c9 webserver met een MySQL database
  
 ![architectuur](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/dbserver.gif?raw=true)
