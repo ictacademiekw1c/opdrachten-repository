@@ -48,5 +48,16 @@ Type achter de $-prompt de git commando:<br>
  wolkanc:~/workspace (master) $ git clone https://github.com/wolkanc/phpsemester2.git
 
 ~~~
-Waar hierboven wolkanc staat moet je eigen gebruikersnaam zijn op github.com. Daarna wordt je gevraagd om je login en wachtwoord in te vullen van de github.com site. 
 
+Waar hierboven wolkanc staat moet je eigen gebruikersnaam zijn op github.com. Daarna wordt je gevraagd om je login en wachtwoord in te vullen van de github.com site. <br>
+
+Is dat gelukt dan heb je je phpsemester2 repository op de c9 server workspace binnengehaald.
+<br>
+![clone](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/terminal.png?raw=true)
+
+Om het te kunnen testen moet je de webserver nog opstarten:
+Klik op run project
+<br>
+![clone](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/run.png?raw=true)
+
+Kopieer de URL naar je browser en dan kun je iedere pagina via de c9 server uittesten.
