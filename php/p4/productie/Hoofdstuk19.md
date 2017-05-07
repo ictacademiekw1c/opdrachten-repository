@@ -103,7 +103,7 @@ Volg de volgende stappen om dat voor mekaar te krijgen.
 __OPDRACHT__
 <br>
 Volg alle stappen hierboven en test of je nieuwe script nu ook werkt op de c9 server.
-Let op: Om je nieuwe script te kunnen testen moet je je URL ook uitbreiden met de directory en scriptnaam (<basisURL>/hoofdstuk19/opdracht190.php).
+<br>__Let op:__ Om je nieuwe script te kunnen testen moet je je URL ook uitbreiden met de directory en scriptnaam (<basisURL>/hoofdstuk19/opdracht190.php).
 
 ## 19.6 Leerdoel 3: Opzetten van een MySQL database op de c9 workspace
 
@@ -130,5 +130,34 @@ Nadat je phpmyadmin hebt geinstalleerd krijg je een link waarmee via phpmyadmin 
 De link ziet er alsvolgt uit: __https://[workspacename]-[username].c9users.io/phpmyadmin__. 
 Login met je Cloud9 gebruikersnaam en een lege wachtwoord.
 
+__Opdracht__
+Log in op je phpmyadmin. Je ziet hetvolgende scherm:<br>
+
+Maak een nieuwe database aan met de naam ijdb (international jokes database).
+
+![database](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/database.png?raw=true)
+
+Kies de database en voer dan de volgende sql-statements uit:
+
+~~~sql
+
+CREATE TABLE IF NOT EXISTS `joke` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `joketext` text NOT NULL,
+  `jokeclou` text NOT NULL,
+  `jokedate` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+--
+-- Gegevens worden uitgevoerd voor tabel `joke`
+--
+
+INSERT INTO `joke` (`id`, `joketext`, `jokeclou`, `jokedate`) VALUES
+(1, 'Een dwerg loopt een bar binnen\r\n– Wat is blauw en ruikt naar rode verf?', 'Blauwe verf!!!', '2017-01-30 13:01:32');
+
+~~~sql
+
+![tabel](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/database.png?raw=true)
 
 
