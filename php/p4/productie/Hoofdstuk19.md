@@ -1,4 +1,4 @@
-#### [kleurcode]rgba(19, 36, 219, 0.9)
+#### [kleurcode]rgba(19, 36, 200, 0.9)
 
 # Hoofdstuk 19 Database connectie op een c9 server.
 
@@ -101,5 +101,34 @@ Volg de volgende stappen om dat voor mekaar te krijgen.
 5. Ga vervolgens naar je c9 workspace en type daar op een prompt in een terminal window: __git pull__
 
 __OPDRACHT__
+<br>
 Volg alle stappen hierboven en test of je nieuwe script nu ook werkt op de c9 server.
+Let op: Om je nieuwe script te kunnen testen moet je je URL ook uitbreiden met de directory en scriptnaam (<basisURL>/hoofdstuk19/opdracht190.php).
+
+## 19.6 Leerdoel 3: Opzetten van een MySQL database op de c9 workspace
+
+De MySQL database staat niet standaard aan op de c9 machine, maar die kunnen we wel eenvoudig installeren en configureren.
+
+Dit zijn de stappen die je moet volgen op de c9 server. Je moet hiervoor weer een aantal commando's uitvoeren achter de prompt in een terminal window.
+
+Installeren van mysql doe je met:
+~~~linux
+mysql-ctl install
+~~~
+
+Vervolgens kun je phpmyadmin installeren met:
+~~~linux
+phpmyadmin-ctl install
+~~~
+
+Opstarten van de database:
+~~~linux
+mysql-ctl start
+~~~
+
+Nadat je phpmyadmin hebt geinstalleerd krijg je een link waarmee via phpmyadmin het beheer kan doen van de MySQL database.
+De link ziet er alsvolgt uit: __https://[workspacename]-[username].c9users.io/phpmyadmin__. 
+Login met je Cloud9 gebruikersnaam en een lege wachtwoord.
+
+
 
