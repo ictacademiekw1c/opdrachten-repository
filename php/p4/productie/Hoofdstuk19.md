@@ -134,7 +134,6 @@ Nadat je phpmyadmin hebt geinstalleerd krijg je een link waarmee via phpmyadmin 
 De link ziet er alsvolgt uit: __https://[workspacename]-[username].c9users.io/phpmyadmin__. 
 Login met je Cloud9 gebruikersnaam en een lege wachtwoord.
 
-__Opdracht__
 Log in op je phpmyadmin. Je ziet hetvolgende scherm:<br>
 
 Maak een nieuwe database aan met de naam ijdb (international jokes database).
@@ -160,6 +159,11 @@ INSERT INTO `joke` (`id`, `joketext`, `jokeclou`, `jokedate`) VALUES
 ![tabel](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/database.png?raw=true)
 
 Hiermee wordt er 1 tabel aangemaakt met de naam joke en wordt er 1 grap toegevoegd, zodat we al tenminste 1 grap uit de database kunnen selecteren met onze php-script.
+
+__Opdracht__
+- Je hebt de database ijdb aangemaakt
+- Je hebt de tabel aangemaakt en je hebt er 1 mop aan toegevoegd
+- Laat dit zien aan de docent
 
 ## 19.7 Leerdoel 4: Een connectie met MySQL ijdb opzetten in een PHP script.
 
