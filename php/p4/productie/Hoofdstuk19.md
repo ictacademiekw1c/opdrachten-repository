@@ -179,5 +179,6 @@ echo 'Database connectie is gelukt.';
 ~~~
 
 __Opdracht__<br>
-Test dit uit en wat krijg je nu te zien als je het script connectie.php uitvoert?
+- Test dit uit op je lokale machine en wat krijg je nu te zien als je het script connectie.php uitvoert?
+- Commit en push het naar github.com en zet het weer vervolgens op de c9 server met een git pull commando. Wat krijg je nu te zien?
 
