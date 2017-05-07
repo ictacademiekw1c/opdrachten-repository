@@ -34,10 +34,19 @@ maar als je er in je eentje niet uitkomt zul je worden gekoppeld aan een mede-le
 ![open c9 workspace](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/c9.png?raw=true)
 
 Nadat je workspace is opgestart zie je hetvolgende beeld:<br>
+
+![Startscherm](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/c9start.png?raw=true)
+
 Open vanuit het menu een nieuwe terminal.<br>
 
 ![Nieuwe terminal](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/terminal.png?raw=true)
 
+Type achter de $-prompt de git commando:<br>
 
+ ~~~linux
 
+ wolkanc:~/workspace (master) $ git clone https://github.com/wolkanc/phpsemester2.git
+
+~~~
+Waar hierboven wolkanc staat moet je eigen gebruikersnaam zijn op github.com. Daarna wordt je gevraagd om je login en wachtwoord in te vullen van de github.com site. 
 
