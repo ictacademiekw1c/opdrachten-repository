@@ -22,7 +22,7 @@ __Uitwerking:__
 
 Ik heb hier 4 arrays voor nodig.
 
-## 6.2 
+## 6.2 De opdracht en strategie
 
 ### Opdracht 
 
