@@ -194,3 +194,5 @@ __Opdracht__<br>
 - Commit en push het naar github.com en zet het weer vervolgens op de c9 server met een git pull commando. Wat krijg je nu te zien als je het script uitvoert in de browser?
 - Laat de docent zien dat je uiteindelijk een database connectie hebt kunnen opzetten met de MySQL database.
 
+## Huiswerkopdracht 190
+- Doe alle bovenstaande opdrachten in de leerdoelen 1 t/m 4 en laat het resultaat zien aan de docent.
