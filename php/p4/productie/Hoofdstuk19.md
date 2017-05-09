@@ -102,7 +102,9 @@ Volg de volgende stappen om dat voor mekaar te krijgen.
 ~~~
 
 4. Commit en push deze directory en nieuwe php script.
-5. Ga vervolgens naar je c9 workspace en type daar op een prompt in een terminal window: __git pull__
+5. Ga vervolgens naar je c9 workspace 
+    - ga eerste naar de phpsemester2 directory met het commando: __cd phpsemester2__
+    - en type daar op een prompt in een terminal window: __git pull__
 
 __OPDRACHT__
 <br>
