@@ -30,7 +30,7 @@ Stel ik heb nu de getallen 1 t/m 1000. Hoeveel verschillende arrays heb ik nu no
 
 ### Stappen
 
-1. Beschrijf in woorden hoe jouw algoritme het probleem gaat oplossen. Schrijf het op en bespreek het met de docent.
+1. Beschrijf met woorden hoe jouw algoritme het probleem gaat oplossen. Schrijf het op en bespreek het met de docent.
 2. Analyseer of je algoritme misschien wel slimmer/sneller/efficienter kan.
 3. Programmeer je code in je favoriete programmeertaal. Toon het resultaat aan je docent. Hoeveel arrays hebben 1000 getallen nodig?
 
