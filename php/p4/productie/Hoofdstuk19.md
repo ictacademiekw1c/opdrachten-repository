@@ -206,7 +206,7 @@ __Opdracht__<br>
 - Je hebt je phpsemester2 repository ververst op c9 met het commando: __git pull__ 
 
 
-## 19.9 Leerdoel 5: Een connectie met MySQL ijdb opzetten in een PHP script.
+## 19.9 Leerdoel 5: SQL statements uitvoeren op de ijdb database in PHP op de c9 server.
 
 ### 19.9.1 Een select statement uitvoeren op de ijdb database.
 
