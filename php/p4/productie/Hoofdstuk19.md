@@ -158,7 +158,7 @@ INSERT INTO `joke` (`id`, `joketext`, `jokeclou`, `jokedate`) VALUES
 (1, 'Een dwerg loopt een bar binnen\r\n– Wat is blauw en ruikt naar rode verf?', 'Blauwe verf!!!', '2017-01-30 13:01:32');
 ~~~
 
-![tabel](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/database.png?raw=true)
+![tabel](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/table.png?raw=true)
 
 Hiermee wordt er 1 tabel aangemaakt met de naam joke en wordt er 1 grap toegevoegd, zodat we al tenminste 1 grap uit de database kunnen selecteren met onze php-script.
 
@@ -169,7 +169,7 @@ __Opdracht__
 
 ## 19.7 Leerdoel 4: Een connectie met MySQL ijdb opzetten in een PHP script.
 
-Maak een script connectie.php en zet hierin:
+Maak een script __connectie.php__ en zet hierin:
 ~~~php
 <?php
 // try catch constructie voor opvangen van foutsituaties
@@ -202,6 +202,51 @@ __Opdracht__<br>
 - Je hebt de database ijdb daarin aangemaakt
 - Je hebt de tabel joke aangemaakt met 1 rij erin
 - Je kan je connectie script uitvoeren vanuit jouw c9 URL
-- Je hebt een git clone gedaan
-- Je hebt git pull gedaan in de phpsemester2 directory 
+- Je hebt je phpsemester2 naar c9 gehaald (eenmaal) met de __git clone__ commando
+- Je hebt je phpsemester2 repository ververst op c9 met het commando: __git pull__ 
 
+
+## 19.9 Leerdoel 5: Een connectie met MySQL ijdb opzetten in een PHP script.
+
+### 19.9.1 Een select statement uitvoeren op de ijdb database.
+
+Om een select statement uit te kunnen voeren moeten we ook de connectie statements van te voren ook uitvoeren.
+Omdat meerdere scripts ook andere sql statements uitvoeren hebben we daar ook dezelfde statements nodig.
+Daarom is het handig 1 connectie.php te gebruiken en die in verschillende scripts met de include commando aan het script toe te voegen.
+
+Maak een nieuw script __opdracht191.php__ en begin met het includen van connectie.php (uit leerdoel 4).
+
+~~~php
+//vervolgens kunnen we een select statement uitvoeren met de volgende code
+include('connectie.php');
+
+try
+{
+	$sql = 'SELECT * FROM joke';
+	$result = $pdo->query($sql);
+}
+catch (PDOException $e)
+{
+	echo 'Er is een probleem met ophalen van grappen: ' . $e->getMessage();
+	exit();
+}
+
+// Uitlezen van een resultaat set en toewijzen aan een associatieve array ( veld => waarde )
+// Elk nieuw element in de array $row is op zich ook weer een associatieve array
+// zolang als er nog rijen zijn wordt de lus herhaald en iedere keer wordt er een associatieve rij aan $row toegevoegd
+while ($row = $result->fetch(PDO::FETCH_ASSOC)) {
+   print_r($row);
+}
+
+~~~
+__Opdracht__
+- Neem bovenstaande code over zoals is beschreven en test het uit op je c9 server.
+
+Je krijgt die ene grap te zien die in de tabel joke al was toegevoegd. De uitvoer is echter niet erg mooi. 
+
+## 19.10 Opdracht 191
+
+1. Pas de code in opdracht191.php aan zodanig dat de volgende visuele weergave wordt getoond:<br>
+![overzicht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/ijdb1.png?raw=true)
+2. Voeg via de phpmyadmin (zie leerdoel 2) nog 2 (echte leuke) grappen toe. 
+3. Laat aan de docent zien dat de uitvoer nog steeds netjes is.
