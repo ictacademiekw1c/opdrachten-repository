@@ -12,11 +12,10 @@
 * Opdrachten
 Opdrachten worden opgeleverd in PHPStorm via het committen en __pushen__ naar github.com
 
-* Huiswerk & voortgang
+* Huiswerkoverzicht
 
 ![huiswerk](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/huiswerk.png?raw=true)
 
-Wordt alleen klassikaal getoond of op verzoek via de mail.
 
 ## 0.2 Huiswerk
 
