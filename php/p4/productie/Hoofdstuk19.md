@@ -208,7 +208,7 @@ __Opdracht__<br>
 
 ## 19.9 Leerdoel 5: SQL statements uitvoeren op de ijdb database in PHP op de c9 server.
 
-### 19.9.1 Een select statement uitvoeren op de ijdb database.
+### 19.9.1 Een select statement uitvoeren op de joke tabel.
 
 Om een select statement uit te kunnen voeren moeten we ook de connectie statements van te voren ook uitvoeren.
 Omdat meerdere scripts ook andere sql statements uitvoeren hebben we daar ook dezelfde statements nodig.
@@ -250,3 +250,42 @@ Je krijgt die ene grap te zien die in de tabel joke al was toegevoegd. De uitvoe
 ![overzicht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/ijdb1.png?raw=true)
 2. Voeg via de phpmyadmin (zie leerdoel 2) nog 2 (echte leuke) grappen toe. 
 3. Laat aan de docent zien dat de uitvoer nog steeds netjes is.
+
+### 19.9.2 Een insert statement uitvoeren op de joke tabel.
+Met de volgende code kun je een nieuwe grap toevoegen in de joke tabel.
+~~~php
+include "connectie.php";
+$joketext = "Een werknemer stonk en een collega vroeg: 'Douche je na de seks ? Ja, zei hij.'";
+$jokeclou = "'Dan moet je misschien eens seks hebben?'";
+try {
+            //insert statement met placeholders voor de waardes
+		    $sql = 'INSERT INTO joke 
+				    (joketext, jokeclou, jokedate) 
+				    VALUES 
+				    (:joketext, :jokeclou, NOW() );';
+			
+		    //het statement wordt toegevoegd aan een pdo statement object
+		    $s = $pdo->prepare($sql);
+		
+		    //koppelen van parameters in de query string met de te inserten waardes
+		    $s->bindValue(':joketext', $joketext, PDO::PARAM_STR);
+		    $s->bindValue(':jokeclou', $jokeclou, PDO::PARAM_STR);
+
+		    //Nu kan de query worden uitgevoerd
+		    $s->execute();
+		    $id = $pdo->lastInsertId();
+		    //De id is nu bekend (auto increment veld)
+            echo "De grap is toegevoegd met id: ".$id; 
+		
+    }
+    catch (PDOException $e)
+    {
+	    die('Fout bij inserten van een rij: ' . $e->getMessage());
+	    exit;
+    }
+~~~
+
+__Lesopdracht__
+Zet bovenstaande code in __insert.php__; initialiseer de variabelen met een nieuwe goeie grap en run het script.
+Bevestig voor jezelf dat de grap is toegevoegd door daarna het script opdracht191.php te runnen, of rechtstreeks met
+phpmyadmin in de tabel joke te kijken.
