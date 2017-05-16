@@ -6,7 +6,7 @@
 
 [Theorie prijselasticiteit](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/01.%20Reader/Elasticiteit.pdf)
 
-[![Youtube video](http://img.youtube.com/vi/JW_ZWqa9ZjM/2.jpg)](https://www.youtube.com/watch?v=JW_ZWqa9ZjM)
+[![Youtube video](http://img.youtube.com/vi/JW_ZWqa9ZjM/1.jpg)](https://www.youtube.com/watch?v=JW_ZWqa9ZjM)
 
 ## 7.2 Huiswerkopdracht 7 
 
