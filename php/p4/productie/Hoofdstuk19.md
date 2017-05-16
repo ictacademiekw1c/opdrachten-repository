@@ -298,6 +298,8 @@ Maak het script formulier.php waarin je 2 velden zet om de joketext en jokeclou 
 Zet er ook een submitbutton die ervoor zorgt dat het formulier wordt verzonden naar het script __insert.php__.
 De form tag heeft de attributen method en action. Zorg ervoor dat deze de juiste waarden hebben.
 
+> [Theorie html form tag](https://www.w3schools.com/html/html_forms.asp)
+
 __Opdrachtstap 2:__<br>
 
 ``Als je nu in het formulier de method get hebt gebruikt, 
