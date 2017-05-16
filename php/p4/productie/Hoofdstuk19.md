@@ -21,8 +21,7 @@ Een MySQL database heeft veel overeenkomsten met een MS SQL database. Beide data
 2. Online kunnen zetten van je nieuwe en gewijzigde php scripts (met commandline git instructies) die je hebt gecommit en gepushed naar www.github.com.
 3. Een MySQL database kunnen opzetten op de c9 webserver, en via PHPMyAdmin een database en een tabel kunnen aanmaken.
 4. In PHP een database connectie kunnen opzetten.
-5. Via php code SQL statements uitvoeren op de MySQL database en de resultaten kunnen opvangen
-6. De resultaten van een SQL-statement op een nette manier in PHP kunnen opvangen.
+5. Via php code SQL statements uitvoeren op de MySQL database en de resultaten kunnen opvangen (associatieve array) en weergeven in een html-pagina.
 
 ## 19.3 Hoe ga je aan de slag?
 
@@ -285,7 +284,30 @@ try {
     }
 ~~~
 
-__Lesopdracht__
+__Lesopdracht__<br>
 Zet bovenstaande code in __insert.php__; initialiseer de variabelen met een nieuwe goeie grap en run het script.
 Bevestig voor jezelf dat de grap is toegevoegd door daarna het script opdracht191.php te runnen, of rechtstreeks met
 phpmyadmin in de tabel joke te kijken.
+
+## 19.11 Opdracht 192 Toevoegen van een grap vanuit een formulier.
+
+Als je gebruikers de mogelijkheid wil bieden om zelf grappen toe te voegen heb je een formulier nodig. 
+
+__Opdrachtstap 1:__<br>
+Maak het script formulier.php waarin je 2 velden zet om de joketext en jokeclou in te vullen.
+Zet er ook een submitbutton die ervoor zorgt dat het formulier wordt verzonden naar het script __insert.php__.
+De form tag heeft de attributen method en action. Zorg ervoor dat deze de juiste waarden hebben.
+
+__Opdrachtstap 2:__<br>
+
+``Als je nu in het formulier de method get hebt gebruikt, 
+<br>dan krijg je waardes binnen in de variabele $_GET.
+Maar als je de method post gebruikt dan krijg je het binnen in de $_POST variabele.``
+
+Pas insert.php nu zodanig aan dat de ingevulde grap in het formulier wordt toegevoegd aan de tabel joke.<br>
+Werkt dit ga dan verder met <br>
+__Opdrachtstap 3:__<br>
+
+Breidt __insert.php__ uit met een stukje validatie. Als 1 van de velden joketext of jokeclou niet is ingevuld,<br>
+mag de grap niet worden ingevoerd. Je moet worden teruggestuurd naar het formulier met de melding dat alle velden verplicht moeten worden ingevuld.
+
