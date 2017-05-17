@@ -11,3 +11,4 @@
 ## 7.2 Huiswerkopdracht 7 
 
 [Huiswerkopdrachten PrijsElasticiteit](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/02.%20Opdrachten/Opdrachten%20prijselasticiteit.pdf)
+[Dezelfde opdracht maar dan als word document](https://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811 VakkenInhoud/[B.05 BED] Bedrijfskunde/Productie/02. Opdrachten/Opgave Prijselasticiteit deel 1.docx )
