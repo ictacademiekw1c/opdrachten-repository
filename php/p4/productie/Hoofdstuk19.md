@@ -313,3 +313,22 @@ __Opdrachtstap 3:__<br>
 Breidt __insert.php__ uit met een stukje validatie. Als 1 van de velden joketext of jokeclou niet is ingevuld,<br>
 mag de grap niet worden ingevoerd. Je moet worden teruggestuurd naar het formulier met de melding dat alle velden verplicht moeten worden ingevuld.
 
+__Opdrachtstap 4__:<br>
+
+Als je wilt voorkomen dat er in de graptekstelden rare tekens, HTML of bijvoorbeeld SQL of javascript bevatten moet je 
+de get- of post- parameters nog filteren op schadelijke of ongewenste invoer. 
+
+Test het zelf eens in je formulier door html tags  en of javascript in een grap in te voeren. 
+Hoe wordt dit in de database opgeslagen en hoe ziet de uitvoer van opdracht191.php er nu uit?
+
+``Je begrijpt nu dat je je invoer echt moet filteren op ongewenste invoer.``
+
+Filteren doe je op de volgende manier: <br>
+~~~php
+$jokeclou = filter_var($_GET['jokeclou'], FILTER_SANITIZE_STRING);
+$joketext = filter_var($_GET['joketext'], FILTER_SANITIZE_STRING);
+~~~
+
+
+
+
