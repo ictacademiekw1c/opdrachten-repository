@@ -313,6 +313,8 @@ __Opdrachtstap 3:__<br>
 Breidt __insert.php__ uit met een stukje validatie. Als 1 van de velden joketext of jokeclou niet is ingevuld,<br>
 mag de grap niet worden ingevoerd. Je moet worden teruggestuurd naar het formulier met de melding dat alle velden verplicht moeten worden ingevuld.
 
+``Maak op de juiste manier gebruik van de isset() en empty() functies.``
+
 __Opdrachtstap 4__:<br>
 
 Als je wilt voorkomen dat er in de graptekstelden rare tekens, HTML of bijvoorbeeld SQL of javascript bevatten moet je 
