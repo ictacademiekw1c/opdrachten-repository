@@ -34,4 +34,8 @@ Stel ik heb nu de getallen 1 t/m 1000. Hoeveel verschillende arrays heb ik nu no
 2. Analyseer of je algoritme misschien wel slimmer/sneller/efficienter kan.
 3. Programmeer je code in je favoriete programmeertaal. Toon het resultaat aan je docent. Hoeveel arrays hebben 1000 getallen nodig?
 
+### (Mogelijke) Uitwerking in een C# console applicatie
 
+[C# uitwerking op github](https://gist.github.com/saebuabu/8a920b24e2857bf91e0dfbec729b1e05)
+
+Graag hoor ik het als je een efficientere algoritme hebt dan wat deze versie laat zien.
