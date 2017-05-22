@@ -73,7 +73,7 @@ SELECT * FROM joke WHERE id = <id van de te wijzigen grap>
  </html>
  
  ~~~
- ### 19.13.3 Vang de submit waarden op en verwerk ze in een update statement
+ ### 19.12.3 Vang de submit waarden op en verwerk ze in een update statement
  
 ~~~php
     $id = $_GET['id'];
@@ -104,7 +104,7 @@ SELECT * FROM joke WHERE id = <id van de te wijzigen grap>
     }
 ~~~
 
-## Opdracht 193 Opstap naar volledig beheer van grappen
+## 19.13 Opdracht 193 Opstap naar volledig beheer van grappen
 
 Pas je opdracht191.php aan zodanig dat de volgende visuele weergave krijgt:<br>
 
