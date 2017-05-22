@@ -103,4 +103,10 @@ SELECT * FROM joke WHERE id = <id van de te wijzigen grap>
 	
     }
 ~~~
+
+## Opdracht 193 Opstap naar volledig beheer van grappen
+
+Pas je opdracht191.php aan zodanig dat de volgende visuele weergave krijgt:<br>
+
+![beheer](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/overzicht.png?raw=true)
   
