@@ -243,14 +243,14 @@ __Opdracht__
 
 Je krijgt die ene grap te zien die in de tabel joke al was toegevoegd. De uitvoer is echter niet erg mooi. 
 
-## 19.10 Opdracht 191 Select statement en uitvoer weergeven in tabel
+### 19.9.2 Opdracht 191 Select statement en uitvoer weergeven in tabel
 
 1. Pas de code in opdracht191.php aan zodanig dat de volgende visuele weergave wordt getoond:<br>
 ![overzicht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/ijdb1.png?raw=true)
 2. Voeg via de phpmyadmin (zie leerdoel 2) nog 2 (echte leuke) grappen toe. 
 3. Laat aan de docent zien dat de uitvoer nog steeds netjes is.
 
-### 19.9.2 Een insert statement uitvoeren op de joke tabel.
+## 19.10 Een insert statement uitvoeren op de joke tabel.
 Met de volgende code kun je een nieuwe grap toevoegen in de joke tabel.
 ~~~php
 include "connectie.php";
@@ -289,7 +289,7 @@ Zet bovenstaande code in __insert.php__; initialiseer de variabelen met een nieu
 Bevestig voor jezelf dat de grap is toegevoegd door daarna het script opdracht191.php te runnen, of rechtstreeks met
 phpmyadmin in de tabel joke te kijken.
 
-## 19.11 Opdracht 192 Toevoegen van een grap vanuit een formulier.
+### 19.10.1 Opdracht 192 Toevoegen van een grap vanuit een formulier.
 
 Als je gebruikers de mogelijkheid wil bieden om zelf grappen toe te voegen heb je een formulier nodig. 
 
