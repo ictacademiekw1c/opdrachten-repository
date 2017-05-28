@@ -11,7 +11,7 @@ wanneer jullie laptops opstarten.
 Het ligt nu voor de hand om ook te kijken of we ook een connectie kunnen leggen met een MSSQL database en tabel, en of we daar ook 
 op dezelfde manier gegevens kunnen selecteren, toevoegen en verwijderen.
 
-## 20.2 __Lesopdracht__ 
+## 20.2 Lesopdracht 
 
 Voordat we een connectie kunnen leggen moeten we natuurlijk ook een ijdb database en een joke tabel aanmaken in deze lokale omgeving.
 Open je SQL Server Management studio en maak hierin een ijdb database aan en een joke tabel met dezelfde velden als de joke tabel op
