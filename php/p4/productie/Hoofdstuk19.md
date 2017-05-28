@@ -250,6 +250,8 @@ Je krijgt die ene grap te zien die in de tabel joke al was toegevoegd. De uitvoe
 2. Voeg via de phpmyadmin (zie leerdoel 2) nog 2 (echte leuke) grappen toe. 
 3. Laat aan de docent zien dat de uitvoer nog steeds netjes is.
 
+---
+
 ## 19.10 Een insert statement uitvoeren op de joke tabel.
 Met de volgende code kun je een nieuwe grap toevoegen in de joke tabel.
 ~~~php
