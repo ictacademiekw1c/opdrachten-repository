@@ -6,7 +6,7 @@
 
 Tot nu toe hebben we onze php-code niet lokaal kunnen testen, omdat we geen lokale MySQL database hebben draaien.
 Voor ASP en het vak database SQL is er echter wel een MSSQL server database geinstalleerd en wordt deze server ook automatisch gestart
-wanneer jullie laptops opstarten.
+wanneer je laptop wordt opgestart.
 
 Het ligt nu voor de hand om ook te kijken of we ook een connectie kunnen leggen met een MSSQL database en tabel, en of we daar ook 
 op dezelfde manier gegevens kunnen selecteren, toevoegen en verwijderen.
