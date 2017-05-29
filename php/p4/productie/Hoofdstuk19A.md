@@ -119,6 +119,6 @@ wijziging door de gebruiker en verzending de grap ook echt met een update statem
 <br>Alle code snippets zijn hierboven al geplaatst. Je hoeft het alleen maar in de goede volgorde en met de juiste if else
 constructie in elkaar te zetten.
 
-<br>__Tip voor de opbouw van je code__:
+<br>__Tip voor de opbouw van je code__:<br>
 ``In update php toon je dus een formulier als alleen de id in de GET parameter zit, 
-maar doe je een update als je alle velden via het formulier binnenkrijgt<br>Als je geen id binnenkrijgt, moet je niks doen..``
+maar doe je een update als je alle velden via het formulier binnenkrijgt. Als je geen id binnenkrijgt, moet je niks doen..``
