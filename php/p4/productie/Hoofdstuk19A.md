@@ -110,3 +110,15 @@ Pas je opdracht191.php aan zodanig dat de volgende visuele weergave krijgt:<br>
 
 ![beheer](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/overzicht.png?raw=true)
   
+  
+## 19.14 Opdracht 194 Wijzigen van een grap
+
+Programmeer nu ook echt je update.php waarin je 1 grap selecteert uit de database, deze in een formulier zet, en na 
+wijziging door de gebruiker en verzending de grap ook echt met een update statement in de database.
+<br>Vergeet nu ook niet de filter_var() functie te gebruiken voor het verwijderen van ongewenste input.
+<br>Alle code snippets zijn hierboven al geplaatst. Je hoeft het alleen maar in de goede volgorde en met de juiste if else
+constructie in elkaar te zetten.
+
+<br>__Tip voor de opbouw van je code__:
+``In update php toon je dus een formulier als alleen de id in de GET parameter zit, 
+maar doe je een update als je alle velden via het formulier binnenkrijgt<br>Als je geen id binnenkrijgt, moet je niks doen..``
