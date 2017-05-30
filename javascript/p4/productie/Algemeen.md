@@ -13,7 +13,9 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | Opdrachten H1 (1.0) | 17 mei | 18 mei |
 | Opdrachten H2 (2.0) | 24 mei | 25 mei |
 | Opdrachten H3 (3.0) | 31 mei | 1 juni |
-| Opdrachten H4 (4.0)| 14 juni | 15 juni |
+| Opdrachten H4 (4.0) | 14 juni | 15 juni |
+
+**Opdracht 4.0 is de eindopdracht van deze periode**
 
 <br> 
 
