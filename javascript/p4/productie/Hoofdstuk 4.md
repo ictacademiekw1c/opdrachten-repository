@@ -3,7 +3,7 @@
 # Hoofdstuk 4
 
 ---
-## Opdracht 4.0
+## Opdracht 4.0 (Eindopdracht)
 ---
 
 ### Download
