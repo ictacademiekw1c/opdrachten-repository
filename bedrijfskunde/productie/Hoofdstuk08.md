@@ -10,7 +10,7 @@
 
 In de studieroute van bedrijfskunde is een inleveropdracht toegevoegd. Daar kun je de volledige uitwerking in een word-document doen.
  
-De opdracht voer je uit in groepsvorm. Slechts één persoon hoeft de opdracht in te leveren, maatr zorg er wel voor dat alle namen van je team erin staan.
+De opdracht voer je uit in groepsvorm (maximaal 4). Slechts één persoon hoeft de opdracht in te leveren, maatr zorg er wel voor dat alle namen van je team erin staan.
 
 De opdracht telt mee in het huiswerkcijfer.
 
@@ -26,7 +26,7 @@ van jullie af te nemen, die volledig op hun/een mondhygiënistenpraktijk is afge
  Wat wordt straks de totale kostprijs voor jullie product en de uiteindelijke verkoopprijs als jullie onderstaande 
  punten moeten meenemen in jullie calculatie?
  
- - 2 programmeurs die minimaal ieder 2000euro/maand nodig hebben om te (over)leven
+ - 2 programmeurs die minimaal ieder 2000 euro/maand nodig hebben om te (over)leven
  - jullie hebben 3 maanden nodig om een eerste productieversie van het gehele systeem op te leveren
  - 1 lease auto om ook andere praktijken af te rijden en jullie systeem te verkopen
  - 1 kantoorruimte met inventaris, ook om (potentiele) klanten te ontvangen
