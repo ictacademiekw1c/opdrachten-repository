@@ -27,14 +27,14 @@ van jullie af te nemen, die volledig op hun/een mondhygiënistenpraktijk is afge
  punten moeten meenemen in jullie calculatie?
  
  - 2 programmeurs die minimaal ieder 2000euro/maand nodig hebben om te (over)leven
- - Jullie hebben 3 maanden nodig om een eerste productieversie van het gehele systeem op te leveren
+ - jullie hebben 3 maanden nodig om een eerste productieversie van het gehele systeem op te leveren
  - 1 lease auto om ook andere praktijken af te rijden en jullie systeem te verkopen
  - 1 kantoorruimte met inventaris, ook om (potentiele) klanten te ontvangen
  - pc's, laptops en andere randapparatuur
- -  gas-licht en water, mobiel/telefoon/internet kosten/abonnenmenten
+ - gas-licht en water, mobiel/telefoon/internet kosten/abonnementen
  - benzinekosten van de auto
  - kosten licenties voor software en hosting bij Azure
- - Jullie hebben minimaal een lening nodig van 30.0000 euro.
- - Neem zeker ook mee dat je meerdere praktijken gaat binnenhalen en dat je verwachte afzet groter is dan 1.
+ - jullie hebben minimaal een lening nodig van 30.0000 euro.
+ - neem zeker ook mee dat je meerdere praktijken gaat binnenhalen en dat je verwachte afzet groter is dan 1.
  
  ``Conclusies?``
