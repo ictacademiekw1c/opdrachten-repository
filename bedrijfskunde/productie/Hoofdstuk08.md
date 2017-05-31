@@ -27,6 +27,7 @@ van jullie af te nemen, die volledig op hun/een mondhygiënistenpraktijk is afge
  punten moeten meenemen in jullie calculatie?
  
  - 2 programmeurs die minimaal ieder 2000euro/maand nodig hebben om te (over)leven
+ - Jullie hebben 3 maanden nodig om een eerste productieversie van het gehele systeem op te leveren
  - 1 lease auto om ook andere praktijken af te rijden en jullie systeem te verkopen
  - 1 kantoorruimte met inventaris, ook om (potentiele) klanten te ontvangen
  - pc's, laptops en andere randapparatuur
