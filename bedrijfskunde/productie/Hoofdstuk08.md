@@ -18,8 +18,8 @@ __Opdrachtomschrijving__:<br>
 
 De casus is als volgt: <br>
 >Jullie zijn 2 net afgestudeerde programmeurs die ook regelmatig naar een mondhygiëniste gaan. Jullie hebben gemerkt dat de 
-automatisering hiervan erg matig is er al minimaal 1 bedrijf is die serieus interesse heeft om een volledig informatiesysteem
-van jullie af te nemen die volledig op hun/een mondhygiënistenpraktijk is afgestemd.
+automatisering hiervan erg matig. Na een aantal gesprekken is er al minimaal 1 bedrijf die serieus interesse heeft om een volledig informatiesysteem
+van jullie af te nemen, die volledig op hun/een mondhygiënistenpraktijk is afgestemd.
 
  Het informatiesysteem bestaat uit een C#/WPF applicatie, maar ook met een website/interface die gehost wordt op Azure.
  
