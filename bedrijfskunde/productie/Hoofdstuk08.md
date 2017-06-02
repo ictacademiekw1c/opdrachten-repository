@@ -34,7 +34,7 @@ van jullie af te nemen, die volledig op hun/een mondhygiënistenpraktijk is afge
  - gas-licht en water, mobiel/telefoon/internet kosten/abonnementen
  - benzinekosten van de auto
  - kosten licenties voor software en hosting bij Azure
- - jullie hebben minimaal een lening nodig van 30.0000 euro.
+ - jullie hebben minimaal een lening nodig van 30.000 euro.
  - neem zeker ook mee dat je meerdere praktijken gaat binnenhalen en dat je verwachte afzet groter is dan 1.
  
  ``Conclusies?``

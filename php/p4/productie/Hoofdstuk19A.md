@@ -122,3 +122,16 @@ constructie in elkaar te zetten.
 <br>__Tip voor de opbouw van je code__:<br>
 ``In update php toon je dus een formulier als alleen de id in de GET parameter zit, 
 maar doe je een update als je alle velden via het formulier binnenkrijgt. Als je geen id binnenkrijgt, moet je niks doen..``
+
+## 19.15 Opdracht 195 Verwijderen van een grap
+
+- Zorg ervoor dat je vanuit opdracht191.php nu ook één grap kan verwijderen.
+
+- Programmeer dus ook een delete.php waarin je je DELETE statement op de tabel joke uitvoert.
+
+- Laat na het succesvol verwijderen weer het overzicht van grappen zien.<br>
+
+Met de volgende regel kun je je pagina meteen laten doorsturen.
+~~~php
+  header('location: opdracht191.php');
+~~~
