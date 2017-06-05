@@ -21,7 +21,7 @@ de c9 server. Voeg ook alvast een goeie grap in via deze beheertool.
 ### 20.2.1 Een Data Source Name (DSN) aanmaken 
 
 Volg de stappen die in de volgende video worden getoond:
-(Uitleg via een screenvideo)[https://mix.office.com/watch/19twfepzm461o]
+[Uitleg via een screenvideo](https://mix.office.com/watch/19twfepzm461o)
 
 ### 20.2.2 De extensie php_pdo_odbc.dll aan php.ini toevoegen
 
