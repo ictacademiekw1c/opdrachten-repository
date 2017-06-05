@@ -29,6 +29,9 @@ In de video wordt een odbc DSN met de naam __phpmssql__ aangemaakt. Deze naam he
 
 ### 20.2.2 De extensie php_pdo_odbc.dll aan php.ini toevoegen
 
+In je settings van PHPStorm kun je vinden waar je php.ini staat.
+![settings](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/php/p4/images/phpsettings.png?raw=true)
+
 Om een odbc koppeling te gebruiken heb je nog de extensie php_pdo_odbc.dll in de configuratieinstellingen van de php-interpreter.
 
 Zoek in je php.ini of de volgende regels erin staan:<br>
