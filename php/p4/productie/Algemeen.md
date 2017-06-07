@@ -51,6 +51,13 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 
 ## 0.3 Toets PHP
 
+- Toets PHP
+
+do/vr 15/16 juni volgens het reguliere rooster.
+
+- Herkansingstoets PHP
+
+do 22 juni vanaf 15:30u (alle klassen). 
 
 Bij beide toetsen telt het huiswerkcijfer mee voor het eindcijfer.
 
