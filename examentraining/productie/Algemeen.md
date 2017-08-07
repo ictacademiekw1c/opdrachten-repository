@@ -24,7 +24,7 @@ Gerichte voorbereiding op het PVB dat start in januari in het komende schooljaar
     - C# windows forms
     - C# OOP concepten
     - C# n-tier
-    - SQL Joins, unions, Stored Procedures
+    - SQL Joins, Unions, Group By
 - _TESTEN_ 
     - Unit testing in C#
     - Blackbox en white box testing 
