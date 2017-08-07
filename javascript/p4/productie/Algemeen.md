@@ -4,37 +4,36 @@
 Het doel van deze studieroute is studenten te leren programmeren in Javascript. Middels Javascript kunnen reguliere HTML pagina's (webpage) uitgebreid worden met functionaliteiten (zoals animaties, effecten en andere functionaliteiten, etc) die eigenlijk niet in de reguliere HTML / CSS standaarden inbegrepen zijn.
 Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicatieontwikkeling inhoudt. 
 
-## Voorkennis
-Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
-
 ## Opleverdata
 Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1E4** &nbsp; &nbsp;  | &nbsp; Deadline **IO1B4** + **IO1C4** + **IO1D4** &nbsp;|
 |--------------------  |--------------- | --------- |
-| Opdrachten Week 1 (310) | 14 februari | 15 februari |
-| Opdrachten Week 2 (320 + 321)| 21 februari | 22 februari |
-| Opdrachten Week 3 (330) | 7 maart | 8 maart |
-| Opdrachten Week 4 (340) | 14 maart | 15 maart  |
-| Opdrachten Week 5 (350)| 21 maart | 22 maart |
-| Opdrachten Week 6 (360) | 4 april | 5 april |
-| Opdrachten Week 7 (Oefentoets) | 31 maart 23:59 | 31 maart 23:59 |
+| Opdrachten H0 (0.1) | 10 mei | 11 mei |
+| Opdrachten H1 (1.0) | 17 mei | 18 mei |
+| Opdrachten H2 (2.0) | 24 mei | 25 mei |
+| Opdrachten H3 (3.0) | 31 mei | 1 juni |
+| Opdrachten H4 (4.0) | 14 juni | 15 juni |
+
+**Opdracht 4.0 is de eindopdracht van deze periode**
 
 <br> 
 
 **Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op** 
 
-## Editor
-We gebruiken voor het vak Javascript de editor genaamd `"WebMatrix"`. 
-Deze gratis editor is gemaakt door Microsoft en is relatief simpel in gebruik, kan veel en worden ook tijdens andere lessen gebruikt.
-Klik op onderstaande afbeelding om WebMatrix te downloaden.
-*Het is de bedoeling dat alle leerlingen vanaf week 1 WebMatrix geinstalleerd hebben.*
-
-[<img src="https://raw.githubusercontent.com/ictacademiekw1c/tijdelijke-test-repository/master/Afbeeldingen/download_webmatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
-
 ## Opleveren opdrachten
 1. Je dient al je huisopdrachten in de Javascript map van je N@tschool portfolio te plaatsen
 2. Daarna laat je de opdracht uit je N@tschool aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
+
+
+## Voorkennis
+Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
+
+
+## Editor
+We gebruiken voor het vak Javascript de editor genaamd `"PHPStorm"`. 
+Deze editor is betaald, maar voor dit vak hebben we met de makers (JetBrains) licenties beschikbaar gekregen. Deze kun je via Abu Saebu krijgen.
+
 
 Per opdracht staat er in deze opdrachtenportaal in rood vermeldt hoe de bestandsnaam moet zijn
 
@@ -80,9 +79,3 @@ Voor opdrachten vanaf hoofdstuk 5 gelden de volgende aanvullende beoordelingscri
  
 *	De code is voorzien van waardevol en voldoende commentaar.
 *	De Javascriptcode is geschreven in een extern JS-bestand `Script.js` genaamd
-
-#### [setSubMenuHeader]Algemene informatie
-
-<input type="checkbox" name="a">Test 1
-<input type="checkbox" name="b">Test 2
-<input type="checkbox" name="a">Test 3

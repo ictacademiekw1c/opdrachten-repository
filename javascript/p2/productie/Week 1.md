@@ -6,6 +6,8 @@
 
 >> **Tip:** Je kunt de presentaties de we gegeven hebben via N@tschool terug kijken. Klik op het mapje "Presentaties" en daarna het weeknummer.
 
+![Voorbeeld](https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/javascript/p2/productie/Afbeeldingen/Opdracht250.png)
+
 **Opdracht:**
 
 In deze opdracht gaan we boodschappenlijst tool maken. We gaan de gebruiker 5 items laten opgeven (ons boodschappenlijstje is voor deze opdracht maar 5 items groot), die worden in ons boodschappenlijstje geplaatst (middels een *array*).
