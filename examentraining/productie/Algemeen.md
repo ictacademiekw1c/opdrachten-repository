@@ -30,5 +30,6 @@ Gerichte voorbereiding op het PVB dat start in januari in het komende schooljaar
     - Blackbox en white box testing 
         - Uitvoeren en rapporteren c.q. documenteren van een applicatie test
 - _OPLEVEREN, BEHEREN en ONDERHOUDEN_ Kerntaak 3,4 onderdelen...
+    - Distributieset C# applicatie
     - Digitaal archief: het creeren van digitale van rapportages m.b.v. Crystal Reports in Visual Studio
     - Beschrijven van werkprocessen (procedures) met behulp van flowcharts.
