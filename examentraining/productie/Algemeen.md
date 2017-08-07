@@ -1,17 +1,37 @@
 # Examenstof 2017-2017
 
-## Examenonderdelen
+## 1. Algemeen
 
 Onderstaande specifieke examenvaardigheden worden in periode 9 en 10 behandeld. 
+De verschillende onderdelen worden door verschillende docenten gegeven. 
 
-- Hoe maak je een goeie planning
+## 2. Doel
 
-- Beschrijven van werkprocessen (procedures) met behulp van flowcharts.
-- Uitvoeren en rapporteren c.q. documenteren van een applicatie test  .
-- Digitaal archief: het creeren van digitale van rapportages m.b.v. Crystal Reports in Visual Studio
-- Kostenberekening en het fenomeen prijselasticiteit.
-- Een tweetal C# windows forms opdrachten (Game en database koppeling).
+Gerichte voorbereiding op het PVB dat start in januari in het komende schooljaar.
 
-- Blackbox en white box testing en hoe zet je een unit test op.
+## 3. Te trainen onderdelen
 
-- Kerntaak 4 onderdelen...
+- _ALGEMENE VAARDIGHEDEN_
+    - Business model
+    - Hoe maak je een planning
+    - Kosteninschatting
+    - Samenwerken, rapporteren en evalueren en reflecteren
+      
+- _ANALSEREN en ONTWERPEN_
+    - UML schema technieken: USE CASE, Activiteiten diagram, klasse diagram, Bachmann diagram
+    - Database ontwerp 1:1, 1:n, n:m
+
+- _PROGRAMMEREN_ 
+    - C# windows forms
+    - C# OOP concepten
+    - C# n-tier
+    - SQL Joins, unions, Stored Procedures
+
+- _TESTEN_ 
+    - Unit testing in C#
+    - Blackbox en white box testing 
+        - Uitvoeren en rapporteren c.q. documenteren van een applicatie test  .
+
+- _OPLEVEREN, BEHEREN en ONDERHOUDEN_ Kerntaak 3,4 onderdelen...
+    - Digitaal archief: het creeren van digitale van rapportages m.b.v. Crystal Reports in Visual Studio
+    - Beschrijven van werkprocessen (procedures) met behulp van flowcharts.
