@@ -15,23 +15,19 @@ Gerichte voorbereiding op het PVB dat start in januari in het komende schooljaar
     - Business model
     - Hoe maak je een planning
     - Kosteninschatting
-    - Samenwerken, rapporteren en evalueren en reflecteren
-      
+    - Samenwerken, rapporteren en evalueren en reflecteren 
 - _ANALSEREN en ONTWERPEN_
     - UML schema technieken: USE CASE, Activiteiten diagram, klasse diagram, Bachmann diagram
     - Database ontwerp 1:1, 1:n, n:m
-
 - _PROGRAMMEREN_ 
     - C# windows forms
     - C# OOP concepten
     - C# n-tier
     - SQL Joins, unions, Stored Procedures
-
 - _TESTEN_ 
     - Unit testing in C#
     - Blackbox en white box testing 
-        - Uitvoeren en rapporteren c.q. documenteren van een applicatie test  .
-
+        - Uitvoeren en rapporteren c.q. documenteren van een applicatie test
 - _OPLEVEREN, BEHEREN en ONDERHOUDEN_ Kerntaak 3,4 onderdelen...
     - Digitaal archief: het creeren van digitale van rapportages m.b.v. Crystal Reports in Visual Studio
     - Beschrijven van werkprocessen (procedures) met behulp van flowcharts.
