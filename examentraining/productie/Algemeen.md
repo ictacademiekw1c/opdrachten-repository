@@ -17,6 +17,7 @@ Gerichte voorbereiding op het PVB dat start in januari in het komende schooljaar
     - Kosteninschatting
     - Samenwerken, rapporteren en evalueren en reflecteren 
 - _ANALSEREN en ONTWERPEN_
+    - COGNiam
     - UML schema technieken: USE CASE, Activiteiten diagram, klasse diagram, Bachmann diagram
     - Database ontwerp 1:1, 1:n, n:m
 - _PROGRAMMEREN_ 
