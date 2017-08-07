@@ -12,10 +12,10 @@ Gerichte voorbereiding op het PVB dat start in januari in het komende schooljaar
 ## 3. Te trainen onderdelen
 
 - _ALGEMENE VAARDIGHEDEN_
-    - Business model
-    - Hoe maak je een planning
-    - Kosteninschatting
-    - Samenwerken, rapporteren en evalueren en reflecteren 
+    - Business model (canvas)
+    - Hoe maak je/ga je om met een planning
+    - Kosteninschatting(, offreren en factureren)
+    - Samenwerken, rapporteren, evalueren en reflecteren 
 - _ANALSEREN en ONTWERPEN_
     - COGNiam
     - UML schema technieken: USE CASE, Activiteiten diagram, klasse diagram, Bachmann diagram
