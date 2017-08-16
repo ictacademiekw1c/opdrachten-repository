@@ -5,10 +5,10 @@
 Onderstaande specifieke examenvaardigheden worden in periode 9 en 10 behandeld. 
 De verschillende onderdelen worden door verschillende docenten gegeven. 
 
-Tijdens het maken het examen heb je geen toegang tot het Internet. Wel mag je een persoonlijk aantekenschrift (handgeschreven)
+Tijdens het maken van het examen heb je geen toegang tot het Internet. Wel mag je een persoonlijk aantekenschrift (handgeschreven)
 erbij houden. 
 
-Maak tijdens periode 9 en 10 aantekeningen van de examentrainingen en maak erin samenvattingen van belangrijke theorie.
+Schaf een aantekenschrift aan em maak erin tijdens periode 9 en 10 aantekeningen van de examentrainingen en samenvattingen van belangrijke theorie.
 
 ## 2. Doel
 
