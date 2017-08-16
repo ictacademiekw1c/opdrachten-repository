@@ -1,6 +1,6 @@
 # Procedures (examen KT3-4)
 
-## Naslag procedures
+## Naslag procedures of visuele beschrijving van een werkproces d.m.v. een flowchart 
 
 [Waarom procedures en hoe maak je een goede procedure](http://elo.kw1c.nl//CMS/Studie/811 ICT-Academie/811v Vakinhoudelijke MBO  AO/1.19 Digitaal archief/95311 AO/Semester 5 [Periode 9 en 10]/Het maken van een procedure.docx)
 
