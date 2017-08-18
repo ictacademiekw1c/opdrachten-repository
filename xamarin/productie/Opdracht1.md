@@ -25,6 +25,14 @@ Onder de workloads moeten de volgende onderdelen zijn aangevinkt:
 
 ### 1.2 Android SDK Manager (VS2017)
 
+Je hebt in de Android SDK alle software voor de versie lollipop (of hoger) bijgewerkt en geinstalleerd.
+
+![Android SDK](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/androidsdk.jpg?raw=true)
+
+Je hebt in de Android SDK onder de folder tools alle software geinstallleerd.
+
+Je hebt in de Android SDK onder de folder extras: Android Support Repository en Google USB Driver geinstalleerd.
+
 ### 1.3 NuGet packetmanager (VS2017)
 
 Je hebt in de NuGet packetmanager in visual studio Xamarin.Forms geinstalleerd/geupdate.
@@ -51,13 +59,6 @@ Als tweede alternatief voor een android player kun je ook [genymotion](https://w
 
 Natuurlijk kun je je Android App ook installeren en testen op je eigen android telefoon.
 
-Je hebt in de Android SDK alle software voor de versie lollipop bijgewerkt en geinstalleerd.
-
-![Android SDK](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/androidsdk.jpg?raw=true)
-
-Je hebt in de Android SDK onder de folder tools alle software geinstallleerd.
-
-Je hebt in de Android SDK onder de folder extras: Android Support Repository en Google USB Driver geinstalleerd.
 
 #### 1.4.2 Device
 
