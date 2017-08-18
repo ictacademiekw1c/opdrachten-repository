@@ -1,4 +1,4 @@
-# Android App met Xamarin.Forms in Visual Studio
+# Onwikkelen van Android Apps met Xamarin.Forms in Visual Studio
 
 ## Algemeen
 

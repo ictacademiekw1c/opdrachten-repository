@@ -6,9 +6,22 @@
 
 Een recent boekwerk over [Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) is hier gratis te downloaden. 
 
-## Voorbereiding
+## Voorbereiding en minimale requirements 
 
-Je hebt alle software geinstalleerd (Visual Studio 2015, Android SDK, Xamarin, Visual Studio Android Player). Zie [video](https://developer.xamarin.com/videos/?v=Installing_Xamarin_on_Windows).
+Je laptop draait op Windows 10 en je hebt Visual Studio 2017 Enterprise geinstalleerd.
+De enterprise versie kun je downloaden vanaf Microsoft Imagine voorheen Dreamspark, waarbij alle leerlingen een account hebben.
+
+Als je Visual Studio 2017 installeert moet je alle opties aanvinken volgens de volgende afbeelding:
+
+Ook als je Visual Studio 2017 al hebt geinstalleerd kun je via de VS Installer programma controleren of je alle onderdelen die je nodig wel hebt geinstalleerd.
+
+Onder de workloads moeten de volgende onderdelen zijn aangevinkt:
+![Installer screendump 1](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/installer1.png?raw=true)
+
+![Installer screendump 2](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/installer2.png?raw=true)
+
+
+Zie ook deze installatie [video](https://developer.xamarin.com/videos/?v=Installing_Xamarin_on_Windows).
 
 Je hebt [hyper-V](https://msdn.microsoft.com/nl-nl/virtualization/hyperv_on_windows/quick_start/walkthrough_install) in windows 10 aangezet.
 
