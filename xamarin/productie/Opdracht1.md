@@ -1,12 +1,15 @@
 # Opdracht 1
 
-## Hello world Xamarin forms
+## 0. Opdrachtomschrijving
 
-## Naslag Xamarin.Forms
+- Installatie en configuratie
+- Hello World App
 
-Een recent boekwerk over [Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) is hier gratis te downloaden. 
+De opdracht bestaat uit bovenstaande 2 onderdelen. 
 
-## Voorbereiding en minimale requirements 
+## 1. Installatie en configuratie van software onderdelen 
+
+### 1.1 Installatie Visual Studio 2017 Enterprise
 
 Je laptop draait op Windows 10 en je hebt Visual Studio 2017 Enterprise geinstalleerd.
 De enterprise versie kun je downloaden vanaf Microsoft Imagine voorheen Dreamspark, waarbij alle leerlingen een account hebben.
@@ -20,10 +23,23 @@ Onder de workloads moeten de volgende onderdelen zijn aangevinkt:
 
 ![Installer screendump 2](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/installer2.png?raw=true)
 
+### 1.2 Android SDK Manager (VS2017)
 
-Zie ook deze installatie [video](https://developer.xamarin.com/videos/?v=Installing_Xamarin_on_Windows).
+### 1.3 NuGet packetmanager (VS2017)
+
+Je hebt in de NuGet packetmanager in visual studio Xamarin.Forms geinstalleerd/geupdate.
+
+![NuGet package Xamarin.Forms](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/xamforms.jpg?raw=true)
+
+### 1.4 Testen van de App: Android Emulator of Android Device
+ 
+#### 1.4.1 Emulator
+
+__Virtualisatie__
 
 Je hebt [hyper-V](https://msdn.microsoft.com/nl-nl/virtualization/hyperv_on_windows/quick_start/walkthrough_install) in windows 10 aangezet.
+
+Zie ook deze installatie [video](https://developer.xamarin.com/videos/?v=Installing_Xamarin_on_Windows).
 
 Je hebt in Visual Studio [Android Player](https://www.visualstudio.com/en-us/features/msft-android-emulator-vs.aspx) een (mobiele) device aangemaakt die minimaal de Android versie Lollipop (welk versienummer en/of API level is dat ?) heeft.
 
@@ -43,19 +59,17 @@ Je hebt in de Android SDK onder de folder tools alle software geinstallleerd.
 
 Je hebt in de Android SDK onder de folder extras: Android Support Repository en Google USB Driver geinstalleerd.
 
-Je hebt in de NuGet packetmanager in visual studio Xamarin.Forms geinstalleerd/geupdate.
+#### 1.4.2 Device
 
-![NuGet package Xamarin.Forms](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/xamforms.jpg?raw=true)
-
-## Opdrachtomschrijving
+## 2 Opdrachtomschrijving tweede onderdeeel
 
 Bouw je hello world Android App volgens onderstaande visuele weergave
  
-## Visuele weergave
+### 2.1 Visuele weergave
 
 ![Hello world opdracht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/helloworld.jpg?raw=true)
 
-## Beoordelingscriteria
+### 2.2 Beoordelingscriteria
 
 - Je App draait foutloos op een Lollipop emulator device of op je eigen android device
 - Je hebt een nieuwe (cross-platform) project gestart, Blank App, Xamarin.Forms (Portable)
