@@ -13,11 +13,13 @@ __Examenstof__:
 
 - Composities en generalisaties
 
-
 __Geen examenstof:__
 - Abstracts, Interfaces, Structs
 - Stereotypen
 - Packages
+- Meervoudige overerving
+- Aggregaties
+- Dependencies
 
 ## 2. Naming conventions
 
