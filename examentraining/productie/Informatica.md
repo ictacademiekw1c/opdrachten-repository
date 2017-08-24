@@ -3,14 +3,16 @@
 ## 1. OOP concepten
 
 __Examenstof__:
-- Klasses en overerving
+- Klassen en overerving
 - Properties en attributen (getters en setters)
 - Zichtbaarheid (public, protected en private)
 - Overloading
 - Constructoren en destructoren
 
-??
-- static klasses, methoden en attributen
+- Static klassen, methoden en attributen
+
+- Composities en generalisaties
+
 
 __Geen examenstof:__
 - Abstracts, Interfaces, Structs
