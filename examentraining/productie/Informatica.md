@@ -52,5 +52,11 @@ __Niet behandelen:__
 
 ## 3. n-tier concept software architectuur
 
+- Business laag
+
+- Interactie laag
+
+- Data laag
+
 
 
