@@ -48,7 +48,7 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 
 Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
 *	De opdracht is op tijd ingeleverd op N@tschool in het portfolio.
-*	De opdracht wordt ingeleverd als een rar-bestand.
+*	De opdracht wordt ingeleverd zoals in de opdracht vermeld staat.
 
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
 

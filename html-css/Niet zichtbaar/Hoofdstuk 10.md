@@ -1,4 +1,4 @@
-#### [kleurcode]rgba(205,220,57,1)
+#### [kleurcode]rgba(67,160,71,1)
 
 # Hoofdstuk 10
 

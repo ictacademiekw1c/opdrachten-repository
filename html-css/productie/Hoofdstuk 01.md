@@ -34,10 +34,10 @@
 *   Inrichten werkomgeving
 
 ### Benodigde bestanden
-*   [WebMatrix.exe](http://go.microsoft.com/fwlink/?LinkID=286266)
+*   [Brackets.exe](http://brackets.io/)
 
 ### Help
-*   <a href="http://forums.iis.net/1166.aspx?language=nl-NL" target="_blank">Forum WebMatrix</a>
+*   <a href="https://github.com/adobe/brackets/wiki/Troubleshooting" target="_blank">Brackets support</a>
 
 ---
 ## Opdracht 1.3
