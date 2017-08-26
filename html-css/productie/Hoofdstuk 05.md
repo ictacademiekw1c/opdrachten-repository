@@ -70,11 +70,10 @@
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Opdracht%205.3.pdf" target="_blank">Download opdracht 5.3</a>
 
 ### Onderwerpen
-*   Contrast
+*   Huisstijlen
 
 ### Benodigde bestanden
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources/Opdracht%205.3%20-%20Huisstijl%20DCDB.pdf" target="_blank">Opdracht 5.3 - Huisstijl DCDB.pdf</a>
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources/Opdracht%205.3%20-%20Teksten%20website%20DCDB.pdf" target="_blank">Opdracht 5.3 - Teksten website DCDB.pdf</a>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources/Opdracht%205.3.rar" target="_blank">Opdracht 5.3.rar</a>
 
 ### Help
 *   Er zijn geen hulplinks voor deze opdracht beschikbaar.
