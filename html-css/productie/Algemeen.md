@@ -14,7 +14,7 @@ Er zijn veel verschillende editors beschikbaar. Meestal wordt een onderscheid ge
 Voorbeelden van dit soort editors voor het maken van websites zijn: Adobe Dreamweaver, of Microsoft Expression Web. Bij de lessen mag je **geen** gebruik maken van zo'n WYSIWYG-editor. Tijdens deze lessen gaan we gebruik maken van de editor Brackets.
 Klik op onderstaande afbeelding om het programma te downloaden.
 
-[<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Algemeen/Brackets.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
+[<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Algemeen/Brackets.png">](http://brackets.io/)
 
 ## Opleveren opdrachten
 Het huiswerk wordt iedere les op het bord geschreven. Neem dit over in je agenda! De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
