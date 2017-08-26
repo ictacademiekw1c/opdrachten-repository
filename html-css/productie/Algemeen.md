@@ -11,13 +11,13 @@ Voor de lessen HTML & CSS heb je speciale software nodig, namelijk een [editor](
 
 Er zijn veel verschillende editors beschikbaar. Meestal wordt een onderscheid gemaakt tussen tekst- en zogenaamde WYSIWYG- (What You See Is What You Get) editors. Deze laatste editors zijn uitgebreide programma's waarbij je websites door middel van slepen en klikken opbouwt. De onderliggende code wordt dan automatisch door de software gegenereerd.
 
-Voorbeelden van dit soort editors voor het maken van websites zijn: Adobe Dreamweaver, of Microsoft Expression Web (nieuw). Bij de lessen mag je **geen** gebruik maken van zo'n WYSIWYG-editor. Tijdens deze lessen gaan we gebruik maken van de editor WebMatrix.
+Voorbeelden van dit soort editors voor het maken van websites zijn: Adobe Dreamweaver, of Microsoft Expression Web. Bij de lessen mag je **geen** gebruik maken van zo'n WYSIWYG-editor. Tijdens deze lessen gaan we gebruik maken van de editor Brackets.
 Klik op onderstaande afbeelding om het programma te downloaden.
 
-[<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Algemeen/WebMatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
+[<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Algemeen/Brackets.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
 
 ## Opleveren opdrachten
-In het voortgangssheet op N@tschool kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
+Het huiswerk wordt iedere les op het bord geschreven. Neem dit over in je agenda! De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
 <table><thead>
 <tr>
@@ -60,13 +60,6 @@ Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscri
 *   Het element meta bevat minimaal de attributen description, keywords en charset.
 *   ID's en classes worden benoemd volgens de camelCase methode. Starten met een kleine letter met het eventuele woord dat daar op volgt startend met een hoofdletter.
 *   Lege elementen worden <strong>niet</strong> afgesloten met een "/"-teken.
-
-## Portfolio website
-Aan het einde van periode 1 en 2, ga je aan de slag met maken van een portfoliowebsite.
-
-Hierin komen de onderwerpen die in de afgelopen periode behandeld zijn samen. In het portfolio ga je laten zien wie je bent en wat je kunt. 
-
-Hierdoor wordt het een uitstekend hulpmiddel om in te zetten tijdens je sollicitatie voor een stage die je in het eerste half jaar van leerjaar 2 gaat lopen. De portfoliowebsite telt mee in de berekening van het eindcijfer voor het vak HTML & CSS. 
 
 ## Periodecijfer
 
