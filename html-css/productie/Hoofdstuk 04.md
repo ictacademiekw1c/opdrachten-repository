@@ -74,10 +74,10 @@
 *   Id
 *   Class
 *   Span
+*   Meerdere stylesheets
 
 ### Benodigde bestanden
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Opdracht%204.3.rar" target="_blank">Opdracht 4.3.rar</a>
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Opdracht%204.3%20-%20Evaluatierapport%20W3schools.docx" target="_blank">Opdracht 4.3 - Evaluatierapport W3schools.docx</a>
+*   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
 *   CSS selectoren
@@ -99,7 +99,7 @@
 *   Span
 
 ### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Opdracht%204.4.rar" target="_blank">Opdracht 4.4.rar</a>
 
 ### Help
 *   CSS selectoren
