@@ -10,14 +10,46 @@
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Opdracht%208.1.pdf" target="_blank">Download opdracht 8.1</a>
 
 ### Onderwerpen
-*   Sitemap
+*   Geordende lijsten
+*   Ongeordende lijsten
 
 ### Benodigde bestanden
 *   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   Sitemap
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Resources/sitemap.png">
+*   <a href="http://www.w3schools.com/tags/tag_ul.asp" target="_blank">Ongeordende lijst</a>
+```HTML
+    <!-- Opsomming van de 3 componenten op een website -->
+    <ul>
+        <li>
+            HTML
+        </li>
+        <li>
+            CSS
+        </li>
+        <li>
+            Javascript
+        </li>
+    </ul>
+```
+*   <a href="http://www.w3schools.com/tags/tag_ol.asp" target="_blank">Geordende lijst</a>
+```HTML
+    <!-- Opsomming van de 3 stappen -->
+    <ul>
+        <li>
+            Klik op "File".
+        </li>
+        <li>
+            Klik op "Save As".
+        </li>
+        <li>
+            Vul de bestandnaam in.
+        </li>
+        <li>
+            Klik op "Opslaan".
+        </li>
+    </ul>
+```
 
 ---
 ## Opdracht 8.2
@@ -27,24 +59,36 @@
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Opdracht%208.2.pdf" target="_blank">Download opdracht 8.2</a>
 
 ### Onderwerpen
-*   Linken naar andere sites
-*   Links openen in een nieuw tabblad
-*   Links vormgeven
+*   Geneste lijsten
+*   Stijlen voor opsommingstekens
 
 ### Benodigde bestanden
 *   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   <a href="http://www.w3schools.com/tags/tag_a.asp" target="_blank">Algemene informatie over links</a>
-```html
-    <!-- Link openen in hetzelfde venster -->
-    <a href="http://www.google.nl">Google</a>
-
-    <!-- Link openen in een nieuw tabblad -->
-    <a href="http://www.google.nl" target="_blank">Google</a>
+*   Geneste lijst
+```HTML
+    <ul>
+        <li>    
+            Koffie
+        </li>
+        <li>
+            Thee
+            <ul>
+                <li>
+                    Zwarte thee
+                </li>
+                <li>
+                    Groene thee
+                </li>
+            </ul>
+        <li>
+            Water
+        </li>
+    </ul>
 ```
-*   <a href="http://www.w3schools.com/TAGS/att_a_target.asp" target="_blank">Links openen in een nieuw tabblad</a>
-*   <a href="http://www.w3schools.com/css/css_pseudo_classes.asp" target="_blank">Links vormgeven d.m.v. Pseudo-classes</a>
+*   Stijlen voor opsommingstekens
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%207/Resources/Liststyletype.png">
 
 ---
 ## Opdracht 8.3
@@ -54,33 +98,17 @@
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Opdracht%208.3.pdf" target="_blank">Download opdracht 8.3</a>
 
 ### Onderwerpen
-*   Mappenstructuur
-*   Relatieve URL's
+*   Afbeeldingen als opsommingstekens
+*   Positie opsommingstekens
+*   Verkorte schrijfwijze bij lijsten
 
 ### Benodigde bestanden
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Resources/Opdracht%208.3.rar" target="_blank">Opdracht 8.3.rar</a>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Resources/Pok%C3%A9mon.rar" target="_blank">Pokémon GIF-bestanden</a>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Resources/PocketMonk.otf" target="_blank">Pokémon lettertype</a>
 
 ### Help
-*   Mappenstructuur en relatieve URL's
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Resources/mappenstructuur.png">
-
----
-## Opdracht 8.4
----
-
-### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Opdracht%208.4.pdf" target="_blank">Download opdracht 8.4</a>
-
-### Onderwerpen
-*   Links openen in een nieuw tabblad
-*   Relatieve URL's
-*   Ankers
-*   Links vormgeven
-*   Inline / blok wijzigen
-
-### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
-
-### Help
-*   <a href="http://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_a_href_anchor" target="_blank">Ankers</a>
+*   <a href="http://www.w3schools.com/cssref/css3_pr_font-face_rule.asp" target="_blank">@Font-face</a>
+*   <a href="http://www.w3schools.com/cssref/pr_list-style-image.asp" target="_blank">Afbeelding als opsommingsteken</a>
+*   <a href="http://www.w3schools.com/cssref/pr_list-style-position.asp" target="_blank">Positie opsommingstekens</a>
+*   <a href="http://www.w3schools.com/cssref/pr_list-style.asp" target="_blank">Verkorte schrijfwijze bij lijsten</a>
 
