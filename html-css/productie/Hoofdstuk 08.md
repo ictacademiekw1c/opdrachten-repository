@@ -88,7 +88,7 @@
     </ul>
 ```
 *   Stijlen voor opsommingstekens
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%207/Resources/Liststyletype.png">
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Resources/Liststyletype.png">
 
 ---
 ## Opdracht 8.3
