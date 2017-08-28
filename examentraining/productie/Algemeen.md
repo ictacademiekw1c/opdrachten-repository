@@ -25,6 +25,8 @@ Gerichte voorbereiding op het PVB dat start in januari in het komende schooljaar
     - COGNiam
     - UML schema technieken: USE CASE, Activiteiten diagram, klasse diagram, Bachmann diagram
     - Database ontwerp 1:1, 1:n, n:m
+        - Bachmann diagrammen en data dictionary
+ 
 - _PROGRAMMEREN_ 
     - C# windows forms
     - C# OOP concepten

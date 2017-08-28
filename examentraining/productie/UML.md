@@ -22,8 +22,6 @@ Zie ook het hoofdstuk Informatica m.b.t. naming conventions
     - Navigeerbaarheid
         - 1 richting als de ene klasse kennis heeft van de andere
 
-    
-
 ``Modelleer een associatie tussen klassen als tenminste een van de klassen kennis over de andere klassen vasthoudt.``
 
 ``Beschrijf namen van associaties in gebruikerstaal``
@@ -32,9 +30,5 @@ Zie ook het hoofdstuk Informatica m.b.t. naming conventions
 
 ``Modelleer een compositie als een klasse onderdeel is van een andere klasse, en nooit als onderdeel van een andere klasse mag gelden``
 
-
-## Bachmann diagrammen
-
+//TODO blz 360 en verder uit het boek van Hoogendoorn          
 Regels voor het omzetten van een klasse diagram naar een database diagram (=Bachman diagram)
-
-//TODO blz 360 en verder uit het boek van Hoogendoorn
