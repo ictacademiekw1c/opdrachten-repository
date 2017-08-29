@@ -2,12 +2,13 @@
 
 ## 1 Business Model Generatie 
 
-referentie: Business Model Generatie door Alexander Osterwalder & Yves Pigneur
+Referentie: Business Model Generatie door Alexander Osterwalder & Yves Pigneur, 2009
 
 ### 1.1 Algemeen
 
 - Onderwerp is gericht op een methodiek om te bepalen of een bepaald bedrijfsidee commercieel levensvatbaar is.
 - Modernere manier om een bedrijfsmodel te ontwerpen
+- (Bijna) alle bedrijven hebben tegenwoordig een grote en belangrijke IT component
 
 Nut:
 - Starten van een nieuw innovatief ICT bedrijf
