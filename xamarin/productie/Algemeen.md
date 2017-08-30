@@ -35,6 +35,11 @@ __Stappenplan__
 
 1. Op de site van microsoft maak je een visual studio team services account aan.
 
+Maak in het dashboard een project/team aan.
+
+![Dashboard](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/dashboardmts.png?raw=true)
+
+
 De volgende stappen zijn in Visual Studio:
 
 2. ...volgt 
