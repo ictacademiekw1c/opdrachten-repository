@@ -42,5 +42,5 @@ Maak in het dashboard een project/team aan..
 
 De volgende stappen zijn in Visual Studio:
 
-2. ...volgt 
+![Connecten](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/connectmts.png?raw=true)
 
