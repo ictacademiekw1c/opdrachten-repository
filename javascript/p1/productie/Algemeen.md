@@ -26,13 +26,20 @@ Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academi
 
 
 ## Editor
-Bij het vak Javascript maken we gebruik van de editor genaamd "Brackets". Deze is gratis te downloaden.
-Om deze te installeren dien je opdracht 1.0 uit te voeren.
+Voor de lessen Javascript heb je speciale software nodig, namelijk een [editor](http://en.wikipedia.org/wiki/List_of_HTML_editors). Een editor is een programma waarin je de code voor de website schrijft.
 
-Per opdracht staat er in deze opdrachtenportaal in rood vermeldt hoe de bestandsnaam moet zijn
+Er zijn veel verschillende editors beschikbaar. Meestal wordt een onderscheid gemaakt tussen tekst- en zogenaamde WYSIWYG- (What You See Is What You Get) editors. Deze laatste editors zijn uitgebreide programma's waarbij je websites door middel van slepen en klikken opbouwt. De onderliggende code wordt dan automatisch door de software gegenereerd.
+
+Voorbeelden van dit soort editors voor het maken van websites zijn: Adobe Dreamweaver, of Microsoft Expression Web. Bij de lessen mag je **geen** gebruik maken van zo'n WYSIWYG-editor. Tijdens deze lessen gaan we gebruik maken van de editor Brackets.
+Klik op onderstaande afbeelding om het programma te downloaden.
+
+[<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Algemeen/Brackets.png">](http://brackets.io/)
+
+## Opleveren opdrachten
+Het huiswerk wordt iedere les op het bord geschreven. Neem dit over in je agenda! De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
 **Voorbeeld:**
-``Opleveren: Plaats het Word document met de naam `Opdracht201.docx` in de map 'Hoofdstuk 2' van je Javascript portfoliomap``
+``Opleveren: Plaats het Word document met de naam `Opdracht 2.2.docx` in de map 'Hoofdstuk 2' van je Javascript portfoliomap``
 
 De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
