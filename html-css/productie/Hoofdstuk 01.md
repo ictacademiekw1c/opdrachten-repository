@@ -16,7 +16,7 @@
 *   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+*   Er zijn geen hulplinks beschikaar.
 ---
 ## Opdracht 1.2
 ---
