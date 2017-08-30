@@ -22,7 +22,7 @@
 
 
 
-
+<br>
 ---
 ## Opdracht 1.2
 ---
@@ -40,7 +40,7 @@
 - Vraag de docent
 
 
-
+<br>
 ---
 ## Opdracht 1.3
 ---
@@ -58,7 +58,7 @@
 ### Help
 - Vraag de docent
 
-
+<br>
 ---
 ## Opdracht 1.4
 ---
