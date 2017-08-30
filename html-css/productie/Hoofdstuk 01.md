@@ -10,18 +10,13 @@
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.1.pdf" target="_blank">Download opdracht 1.1</a>
 
 ### Onderwerpen
-*   Hoe websites gemaakt worden 
-*   Functie van HTML en CSS 
-*   Hoe het web werkt
+*   Inrichten portfolio op N@tschool
 
 ### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
+*   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
 
 ### Help
-*   Hoe het web werkt
-<iframe width="420" height="315" src="https://www.youtube.com/embed/cafVVwi1yEI" frameborder="0" allowfullscreen></iframe>
-*   <a href="http://www.w3.org/standards/webdesign/htmlcss" target="_blank">Functie van HTML en CSS</a>
-
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
 ---
 ## Opdracht 1.2
 ---
@@ -47,10 +42,14 @@
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.3.pdf" target="_blank">Download opdracht 1.3</a>
 
 ### Onderwerpen
-*   Inrichten portfolio op N@tschool
+*   Hoe websites gemaakt worden 
+*   Functie van HTML en CSS 
+*   Hoe het web werkt
 
 ### Benodigde bestanden
-*   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
+*   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+*   Hoe het web werkt
+<iframe width="420" height="315" src="https://www.youtube.com/embed/cafVVwi1yEI" frameborder="0" allowfullscreen></iframe>
+*   <a href="http://www.w3.org/standards/webdesign/htmlcss" target="_blank">Functie van HTML en CSS</a>
