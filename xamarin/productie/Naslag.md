@@ -1,6 +1,6 @@
-## Naslag Xamarin, Xamarin.Forms
+# Naslag Xamarin, Xamarin.Forms
 
-Belangrijke links:
+## Belangrijke links:
 
 - [Belangrijkste bron voor Xamarin: developer.xamarin.com](https://developer.xamarin.com/) 
 
@@ -12,3 +12,8 @@ Belangrijke links:
 
 - [EdX cursus Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info)
 
+## Voorkomende problemen en oplossingen/suggesties
+
+Foutmelding - ``Xamarin “Aapt.exe” exited with code -1073741819``
+Suggesties:
+- [Heeft te maken met Android SDK build tools v24](https://stackoverflow.com/a/38054142/4567430)
