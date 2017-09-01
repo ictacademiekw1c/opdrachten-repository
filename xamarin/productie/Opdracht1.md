@@ -70,6 +70,24 @@ Bouw je hello world Android App volgens onderstaande visuele weergave
 
 ![Hello world opdracht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/helloworld.jpg?raw=true)
 
+### 2.2 Stappen
+
+- Maak een nieuwe solution vanuit het team explorer venster, waarin de focus staat op je eigen visual studio team services pagina. 
+Klik hier op New Solution.
+
+![New Solution](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/newsolution.png?raw=true)
+
+In het geopende venster:
+- Klik op Cross-Platform en Cross Plaform App(Xamarin)
+- Geef een goede naam voor de App
+
+![New Project](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/newproject.png?raw=true)
+
+- Vervolgens kies de opties volgens de volgende afbeelding:
+
+![App Options](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/appoptions.png?raw=true)
+ 
+
 ### 2.2 Beoordelingscriteria
 
 - Je App draait foutloos op een Lollipop emulator device of op je eigen android device
