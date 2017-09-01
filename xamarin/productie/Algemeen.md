@@ -44,3 +44,4 @@ De volgende stappen zijn in Visual Studio:
 
 ![Connecten](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/connectmts.png?raw=true)
 
+...
