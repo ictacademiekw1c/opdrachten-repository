@@ -12,6 +12,9 @@
 
 - [EdX cursus Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info)
 
+- [Visual Studio Android emulator](https://www.visualstudio.com/vs/msft-android-emulator/)
+ 
+ 
 ## Voorkomende problemen en oplossingen/suggesties
 
 Foutmelding - ``Xamarin “Aapt.exe” exited with code -1073741819``

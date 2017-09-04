@@ -87,6 +87,14 @@ In het geopende venster:
 
 ![App Options](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/appoptions.png?raw=true)
  
+- Start de Visual Studio Emulator
+
+![Visual Studio Emulator](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/vsemulator.png?raw=true)
+
+- Zodra de emulator is opgestart, start dan de debug volgens de afbeelding:
+
+![Start debug proces](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/startdebug.png?raw=true)
+
 
 ### 2.2 Beoordelingscriteria
 
