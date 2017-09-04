@@ -62,13 +62,39 @@ Natuurlijk kun je je Android App ook installeren en testen op je eigen android t
 
 #### 1.4.2 Device
 
-## 2 Opdrachtomschrijving tweede onderdeeel
+## 2 Opdrachtomschrijving tweede onderdeel
 
 Bouw je hello world Android App volgens onderstaande visuele weergave
  
 ### 2.1 Visuele weergave
 
 ![Hello world opdracht](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/helloworld.jpg?raw=true)
+
+### 2.2 Stappen
+
+- Maak een nieuwe solution vanuit het team explorer venster, waarin de focus staat op je eigen visual studio team services pagina. 
+Klik hier op New Solution.
+
+![New Solution](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/newsolution.png?raw=true)
+
+In het geopende venster:
+- Klik op Cross-Platform en Cross Plaform App(Xamarin)
+- Geef een goede naam voor de App
+
+![New Project](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/newproject.png?raw=true)
+
+- Vervolgens kies de opties volgens de volgende afbeelding:
+
+![App Options](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/appoptions.png?raw=true)
+ 
+- Start de Visual Studio Emulator
+
+![Visual Studio Emulator](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/vsemulator.png?raw=true)
+
+- Zodra de emulator is opgestart, start dan de debug volgens de afbeelding:
+
+![Start debug proces](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/startdebug.png?raw=true)
+
 
 ### 2.2 Beoordelingscriteria
 
