@@ -62,7 +62,7 @@ Natuurlijk kun je je Android App ook installeren en testen op je eigen android t
 
 #### 1.4.2 Device
 
-## 2 Opdrachtomschrijving tweede onderdeeel
+## 2 Opdrachtomschrijving tweede onderdeel
 
 Bouw je hello world Android App volgens onderstaande visuele weergave
  
