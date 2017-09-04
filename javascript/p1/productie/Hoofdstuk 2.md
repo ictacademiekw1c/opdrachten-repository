@@ -1,35 +1,16 @@
-#### [kleurcode]rgba(244,67,54, 1)
+#### [kleurcode]rgba(233,30,99, 1)
 
-# Hoofdstuk 1
-
----
-## Opdracht 1.1
----
-
-### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.1.pdf" target="_blank">Download opdracht 1.1</a>
-
-### Onderwerpen
-* Installeren werkomgeving
-* Inrichten werkomgeving
-
-### Benodigde bestanden
-- Geen
-
-### Help
-- <a target="_blank" href="http://www.brackets.io">www.brackets.io</a> 
-- Vraag de docent
-
+# Hoofdstuk 2
 
 ---
-## Opdracht 1.2
+## Opdracht 2.1
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.2.pdf" target="_blank">Download opdracht 1.2</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.1.pdf" target="_blank">Download opdracht 2.1</a>
 
 ### Onderwerpen
-* Inrichten portfolio N@tschool
+- Scripting
 
 ### Benodigde bestanden
 - Geen
@@ -39,37 +20,18 @@
 
 
 ---
-## Opdracht 1.3
----
-
-
-
-### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.3.pdf" target="_blank">Download opdracht 1.3</a>
-
-### Onderwerpen
-* Hoe maakt Javascript websites interactief?
-* Voorbeelden Javascript
-
-### Benodigde bestanden
-- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%201/Bijlage%20opdracht%201.3.docx" target="_blank">Bijlage opdracht 1.3</a>
-
-### Help
-- Vraag de docent
-
-
----
-## Opdracht 1.4
+## Opdracht 2.2
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.4.pdf" target="_blank">Download opdracht 1.4</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%202.2.pdf" target="_blank">Download opdracht 2.2</a>
 
 ### Onderwerpen
-* Combinatie JS, CSS en HTML
+* Scripting
+* Flowcharts
 
 ### Benodigde bestanden
-- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%201/Bijlage%20opdracht%201.4.docx" target="_blank">Bijlage opdracht 1.4</a>
+- Geen
 
 ### Help
 - Vraag de docent
