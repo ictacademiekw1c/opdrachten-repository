@@ -7,9 +7,12 @@
 
 De opdracht bestaat uit bovenstaande 2 onderdelen. 
 
-## 0. Zet in je visual studio team services pagina de volgende sprint (sprint 1)
+### 0.1 Zet in je visual studio team services pagina de volgende sprint (sprint 1)
 
+Deze sprint heeft als einddatum 1 week later dan het moment dat de opdracht in de klas is uitgelegd.
 ![Sprint 1](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/sprint1.png?raw=true)
+
+Zet in je teams services pagina 
 
 ## 1. Installatie en configuratie van software onderdelen 
 
