@@ -7,6 +7,10 @@
 
 De opdracht bestaat uit bovenstaande 2 onderdelen. 
 
+## 0. Zet in je visual studio team services pagina de volgende sprint (sprint 1)
+
+![Sprint 1](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/sprint1.png?raw=true)
+
 ## 1. Installatie en configuratie van software onderdelen 
 
 ### 1.1 Installatie Visual Studio 2017 Enterprise
