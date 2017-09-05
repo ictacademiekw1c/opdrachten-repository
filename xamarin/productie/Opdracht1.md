@@ -102,10 +102,10 @@ In het geopende venster:
 
 ![Start debug proces](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/startdebug.png?raw=true)
 
-
 ### 2.2 Beoordelingscriteria
 
-- Je App draait foutloos op een Lollipop emulator device of op je eigen android device
-- Je hebt een nieuwe (cross-platform) project gestart, Blank App, Xamarin.Forms (Portable)
+- Je App draait foutloos op een device of op je eigen android device. (Android versie maakt nog even niet uit)
+- Je hebt een nieuwe (cross-platform) project gestart, Blank App, Xamarin.Forms (Shared)
 - Je hebt de tekst en kleur aangepast volgens de visuele weergave
-
+- Je hebt alle taken in je team services pagina op done gezet
+- Je hebt op je team services pagina a.saebu@kw1c.nl toegevoegd als teammember
