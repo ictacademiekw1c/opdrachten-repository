@@ -107,6 +107,6 @@ In het geopende venster:
 - Je App draait foutloos op een device of op je eigen android device. (Android versie maakt nog even niet uit)
 - Je hebt een nieuwe (cross-platform) project gestart, Blank App, Xamarin.Forms (Shared)
 - Je hebt de tekst en kleur aangepast volgens de visuele weergave
-- Je hebt alle taken in je team services pagina op done gezet
+- Alle backlogitems zijn in deze sprint gezet en je hebt alle taken in je team services pagina op done gezet
 - Je hebt op je team services pagina a.saebu@kw1c.nl toegevoegd als teammember
 - Je code is bijgewerkt op je team services pagina (door de changes te committen en vervolgens door een sync operatie en push).
