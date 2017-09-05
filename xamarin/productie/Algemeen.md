@@ -39,6 +39,9 @@ Maak in het dashboard een project/team aan..
 
 ![Dashboard](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/dashboardmts.png?raw=true)
 
+En maak daar een nieuw project aan met de naam Xamarin of Android Apps:
+
+![Nieuw project](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/tsproject.png?raw=true)
 
 De volgende stappen zijn in Visual Studio:
 
