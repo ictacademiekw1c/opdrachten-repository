@@ -6,11 +6,8 @@
 
 1. Doe de cursus op EdX [Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info) en volg de modules 0 t/m 3.
 
-2. En bestudeer de volgende slides over [Xamarin.Forms slideshow](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/xamarinforms/parts/slides.pdf)
+![EdX cursus](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/edxcursus.png?raw=true)
 
-3. [Documentatie over welke verschillende pages](https://developer.xamarin.com/guides/xamarin-forms/controls/pages/) je kunt bouwen met Xamarin.Forms.
-
-4. [Hoe plaats ik een button op een pagina](https://developer.xamarin.com/guides/xamarin-forms/controls/views/)
 
 ## Opdrachtomschrijving
 
