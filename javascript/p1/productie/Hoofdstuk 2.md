@@ -34,4 +34,5 @@
 - Geen
 
 ### Help
+- <a href="https://nl.wikipedia.org/wiki/Stroomdiagram" target="_blank">Flowcharts</a>
 - Vraag de docent
