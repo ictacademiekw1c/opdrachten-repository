@@ -20,10 +20,10 @@
 *   Module header
 ```html
 <!--
-    Opdracht:       opdrachtnaam
-    Auteur:         naam van de maker
-    Aanmaakdatum:   startdatum + tijd
-    Bestandsnaam:   bestandsnaam
+    Opdracht:       Opdrachtnaam
+    Auteur:         Naam van de maker
+    Aanmaakdatum:   Startdatum + tijd
+    Bestandsnaam:   Bestandsnaam
 -->
 ```
 *   <a href="http://www.w3schools.com/html/html_comments.asp" target="_blank">Commentaar </a> 
