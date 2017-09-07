@@ -20,7 +20,8 @@
  
 - [Hoe plaats ik een button op een pagina](https://developer.xamarin.com/guides/xamarin-forms/controls/views/)
 
- 
+- [Github repository met voorbeeld Apps](https://github.com/xamarin/xamarin-forms-book-samples)
+
 ## Voorkomende problemen en oplossingen/suggesties
 
 Foutmelding - ``Xamarin “Aapt.exe” exited with code -1073741819``
