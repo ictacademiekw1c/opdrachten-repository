@@ -34,6 +34,6 @@
 ### Help
 *   <a href="http://www.lingscars.com" target="_blank">Lingscars</a>
 *   Introductie usability
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Qg80qTfzgU" frameborder="0" allowfullscreen></iframe>
-*   Usability of fruit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RAxAXH6atfc" frameborder="0" allowfullscreen></iframe>
+*   Usability of fruit
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Qg80qTfzgU" frameborder="0" allowfullscreen></iframe>
