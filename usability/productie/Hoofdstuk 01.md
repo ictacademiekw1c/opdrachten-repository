@@ -17,6 +17,7 @@
 
 ### Help
 *   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+
 ---
 ## Opdracht 1.2
 ---
