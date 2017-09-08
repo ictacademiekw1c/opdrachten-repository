@@ -7,7 +7,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.1.pdf" target="_blank">Download opdracht 1.1</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20Usa%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.1.pdf" target="_blank">Download opdracht 1.1</a>
 
 ### Onderwerpen
 *   Inrichten portfolio op N@tschool
@@ -22,34 +22,17 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.2.pdf" target="_blank">Download opdracht 1.2</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20Usa%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.2.pdf" target="_blank">Download opdracht 1.2</a>
 
 ### Onderwerpen
-*   Installeren van werkomgeving
-*   Inrichten werkomgeving
+*   Kennismaking met usability
 
 ### Benodigde bestanden
-*   [Brackets.exe](http://brackets.io/)
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20Usa%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Bijlage%20opdracht%201.2.rar" target="_blank">Bijlage opdracht 1.2.rar</a>
 
 ### Help
-*   <a href="https://github.com/adobe/brackets/wiki/Troubleshooting" target="_blank">Brackets support</a>
-
----
-## Opdracht 1.3
----
-
-### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.3.pdf" target="_blank">Download opdracht 1.3</a>
-
-### Onderwerpen
-*   Hoe websites gemaakt worden 
-*   Functie van HTML en CSS 
-*   Hoe het web werkt
-
-### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
-
-### Help
-*   Hoe het web werkt
-<iframe width="420" height="315" src="https://www.youtube.com/embed/cafVVwi1yEI" frameborder="0" allowfullscreen></iframe>
-*   <a href="http://www.w3.org/standards/webdesign/htmlcss" target="_blank">Functie van HTML en CSS</a>
+*   <a href="http://www.lingscars.com" target="_blank">Lingscars</a>
+*   Introductie usability
+    <iframe width="420" height="315" src="https://youtu.be/RAxAXH6atfc" frameborder="0" allowfullscreen></iframe>
+*   Usability of fruit
+*   <iframe width="420" height="315" src="https://youtu.be/3Qg80qTfzgU" frameborder="0" allowfullscreen></iframe>
