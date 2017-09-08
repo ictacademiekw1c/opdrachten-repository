@@ -25,7 +25,7 @@
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20Usa%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.2.pdf" target="_blank">Download opdracht 1.2</a>
 
 ### Onderwerpen
-*   Kennismaking met usability
+*   Introductie usability
 
 ### Benodigde bestanden
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20Usa%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Bijlage%20opdracht%201.2.rar" target="_blank">Bijlage opdracht 1.2.rar</a>
@@ -33,6 +33,6 @@
 ### Help
 *   <a href="http://www.lingscars.com" target="_blank">Lingscars</a>
 *   Introductie usability
-    <iframe width="420" height="315" src="https://youtu.be/RAxAXH6atfc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Qg80qTfzgU" frameborder="0" allowfullscreen></iframe>
 *   Usability of fruit
-*   <iframe width="420" height="315" src="https://youtu.be/3Qg80qTfzgU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAxAXH6atfc" frameborder="0" allowfullscreen></iframe>
