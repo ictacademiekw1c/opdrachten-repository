@@ -128,20 +128,12 @@
 *   <a href="http://www.w3schools.com/tags/tag_sup.asp" target="_blank">Superscript</a> 
 ```html
     <p>
-        2
-        <sup>
-            2
-        </sup>
-        =4.
+        2<sup>2</sup>=4.
     </p>
 ```
 *   <a href="http://www.w3schools.com/tags/tag_sub.asp" target="_blank">Subscript</a> 
 ```html
     <p>
-        De scheikundige benaming voor water is H
-        <sub>
-            2
-        </sub>
-        O.
+        De scheikundige benaming voor water is H<sub>2</sub>O.
     </p>
 ```
