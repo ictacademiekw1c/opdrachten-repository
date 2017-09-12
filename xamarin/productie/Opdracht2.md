@@ -4,7 +4,7 @@
 
 ## Voorbereiding
 
-1. Doe de cursus op EdX [Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info) en volg de modules 0 t/m 3.
+1. Doe de cursus op EdX [Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info) en volg de modules 1 t/m 3.
 
 ![EdX cursus](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/edxcursus.png?raw=true)
 
