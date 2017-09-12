@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\xamarin",
+    "\\xamarin\\productie"
   ],
-  "SelectedNode": "\\xamarin",
+  "SelectedNode": "\\xamarin\\productie\\Opdracht2.md",
   "PreviewInSolutionExplorer": false
 }

@@ -8,6 +8,10 @@
 
 ![EdX cursus](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/edxcursus.png?raw=true)
 
+## Sprint 2
+
+![Sprint 2](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/sprint2.png?raw=true)
+
 
 ## Opdrachtomschrijving
 
