@@ -1,4 +1,4 @@
-# Algemene informatie
+# ARDUINOOOOO YEAH
 
 ## Doelstelling
 Het doel van deze studieroute is studenten te leren programmeren in Javascript. Middels Javascript kunnen reguliere HTML pagina's (webpage) uitgebreid worden met functionaliteiten (zoals animaties, effecten en andere functionaliteiten, etc) die eigenlijk niet in de reguliere HTML / CSS standaarden inbegrepen zijn.
