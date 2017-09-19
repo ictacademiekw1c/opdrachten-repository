@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\xamarin",
+    "\\arduino\\productie",
+    "\\bedrijfskunde",
+    "\\html-css",
+    "\\html-css\\productie",
+    "\\javascript\\p1",
+    "\\javascript\\p1\\productie",
+    "\\SQL",
     "\\xamarin\\productie"
   ],
-  "SelectedNode": "\\xamarin\\productie\\Opdracht2.md",
+  "SelectedNode": "\\html-css\\productie\\Hoofdstuk 04.md",
   "PreviewInSolutionExplorer": false
 }
