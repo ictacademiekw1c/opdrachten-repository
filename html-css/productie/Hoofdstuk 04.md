@@ -110,4 +110,14 @@
 ## Opdracht 4.5
 ---
 
-### Deze opdracht wordt later toegevoegd.
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Opdracht%204.5.pdf" target="_blank">Download opdracht 4.5</a>
+
+### Onderwerpen
+*   CSS selectoren
+
+### Benodigde bestanden
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Opdracht%204.5.rar" target="_blank">Opdracht 4.5.rar</a>
+
+### Help
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
