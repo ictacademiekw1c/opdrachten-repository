@@ -7,6 +7,15 @@ Volg de walkthrough en bouw de phoneword app zoals is beschreven.
 
 ![Phoneword App](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/phoneword.png?raw=true)
 
+## Leerdoelen
+- Anatomie van een Xamarin.FORMS App zonder xaml
+- Eerste voorbeelden van views/user controls
+- DependencyService om Android specifieke acties te implementeren
+
+## Phoneword geschiedenis
+[Phoneword geschiedenis op wikipedia](https://en.wikipedia.org/wiki/Telephone_keypad)
+
+
 ## Beoordelingscriteria
 1. Je kunt de programmastructuur van de App uitleggen
 2. Je hebt een eigen icon gebruikt voor de App
@@ -14,5 +23,9 @@ Volg de walkthrough en bouw de phoneword app zoals is beschreven.
    > Implementeer:
    - telefoonnummer moet precies uit 10 tekens bestaan
    - telefoonnummer moet met een 0 beginnen
+   - Sta alleen letters, cijfers en het - toe
+   - Geef duidelijke terugkoppeling als de invoer niet juist is 
 
 4. De App moet toestemming hebben om te kunnen bellen en heb je de toestemming toegevoegd aan de AndroidManifest.xml
+5. Plaats elk vertaalde phoneword in een listview onderin het scherm. Zorg ervoor dat er unieke waardes worden getoond in de listview.
+6. 
