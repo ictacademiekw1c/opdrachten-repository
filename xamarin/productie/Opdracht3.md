@@ -17,6 +17,12 @@ Volg de [EdX HandsOn Exercises Module 3 Walkthrough](https://courses.edx.org/cou
 ## Phoneword geschiedenis
 [Phoneword geschiedenis op wikipedia](https://en.wikipedia.org/wiki/Telephone_keypad)
 
+
+## Android specifieke code PhoneDialer.Droid.cs
+
+Onderstaande klasse heb je nodig in je Droid project om de App ook echt in een Android te kunnen laten bellen.
+[PhoneDialer.Droid.cs](https://gist.github.com/saebuabu/6321aa71487811f20c5ac29b9640d7e3)
+
 ## Beoordelingscriteria
 1. Je kunt de programmastructuur van de App uitleggen; zet commentaar bij programmacode en leg uit in eigen woorden wat de verschillende classes en methoden doen.
 2. Je hebt een eigen icon gebruikt voor de App.
