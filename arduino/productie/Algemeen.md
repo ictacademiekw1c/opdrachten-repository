@@ -5,7 +5,7 @@
 ## Doelstelling
 Het doel van deze studieroute is studenten te leren programmeren in een embedded processor omgeving. Middels [Arduino systemen](https://www.arduino.cc/) kunnen we omgevings sensoren en actoren uitlezen en besturen met een C-achtig programmeertaal voor de [ATMEL ATmega328P](http://www.atmel.com/images/Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf).
 
-In het tweede deel van de Arduino leerlijn wordt de Arduino gekoppeld aan een laptop via de seriele interface van de Arduino en de laptop. Op de Arduino wordt geprogrammeerd in Arduino C, op de laptop wordt de applicatie ontwikkeld in Windows Forms. 
+In het tweede deel van de Arduino leerlijn wordt de Arduino gekoppeld aan een laptop via de seriele interface van de Arduino en de laptop. Op de Arduino wordt geprogrammeerd in [Arduino C](https://www.arduino.cc/en/Reference/HomePage), op de laptop wordt de applicatie ontwikkeld in Windows Forms. 
 
 Het kennismaken met communicatie protocollen zoals RS232, Bluetooth en het parallel naar seriele omzetting van strings, integers en bytes vormen de uitdagingen in deze leerlijn.
 
