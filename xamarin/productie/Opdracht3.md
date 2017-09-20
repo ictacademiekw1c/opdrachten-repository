@@ -9,15 +9,13 @@ Volg de [EdX HandsOn Exercises Module 3 Walkthrough](https://courses.edx.org/cou
 
 ![Phoneword App](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/phoneword.png?raw=true)
 
-
 ## Leerdoelen
 - Anatomie van een Xamarin.FORMS App zonder xaml
-- Eerste voorbeelden van views/user controls
-- DependencyService om Android specifieke acties te implementeren
+- Layout en views/user controls 
+- Platsporm specifieke code schrijven met een DependencyService 
 
 ## Phoneword geschiedenis
 [Phoneword geschiedenis op wikipedia](https://en.wikipedia.org/wiki/Telephone_keypad)
-
 
 ## Beoordelingscriteria
 1. Je kunt de programmastructuur van de App uitleggen; zet commentaar bij programmacode en leg uit in eigen woorden wat de verschillende classes en methoden doen.
