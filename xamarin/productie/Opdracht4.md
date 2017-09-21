@@ -1,4 +1,4 @@
-# Opdracht 4.1 Views
+# Opdracht 4.1 Layout en Views 
 
 ## Voorbereiding en naslag views
 
@@ -6,11 +6,16 @@
 
 ## Opdrachtomschrijving
 
-> Voeg aan Opdracht 2 zelf een aantal controls toe aan verschillende pagina's. Probeer iedere control aan te passen aan je eigen wensen (kleur, grootte, positie, achtergrondkleur, etc).
+Zie onderstaande screendumps van bekende Apps. Bouw 1 van de 2 schermen na door gebruik te maken van de juiste layouts en controls.
+Experimenteer met control attributen om de juiste weergave te krijgen. Het resultaat hoeft niet pixelperfect te zijn en identieke content te hebben, maar heeft wel dezelfde indeling en bij benadering dezelfde groottes.
 
-## Opdracht custom controls
 
-Later .... Skip voor nu.
+![Scherm 1](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/scherm1.png?raw=true)
+ 
+
+![Scherm 2](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/scherm2.png?raw=true)
+ 
+
 
 # Opdracht 4.2 Code vs Xaml
 
