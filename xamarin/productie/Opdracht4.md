@@ -12,7 +12,7 @@ Experimenteer met control attributen om de juiste weergave te krijgen. Het resul
 - Screendumpt AIRBNB (Zwarte bovenrand hoort niet bij het scherm)
 ![Scherm 1](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/scherm1.png?raw=true)
  
-- Screendumpt INSTAGRAM (Zwarte bovenrand hoort niet bij het scherm)
+- Screendumpt INSTAGRAM (Licht grijze bovenrand hoort niet bij het scherm)
 ![Scherm 2](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/scherm2.png?raw=true)
  
 
