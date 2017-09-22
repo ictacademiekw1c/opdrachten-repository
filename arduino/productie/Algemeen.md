@@ -27,3 +27,6 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 <br> 
 
 **Let op: Je dient de opdrachten uiterlijk op de laatste les van die week te laten zien. Let hier dus op** 
+
+
+**22-9-2017**
