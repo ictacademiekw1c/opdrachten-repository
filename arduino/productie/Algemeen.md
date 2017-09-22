@@ -12,7 +12,7 @@ Het kennismaken met communicatie protocollen zoals RS232, Bluetooth en het paral
 ## Opleverdata
 Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
-|Opdracht              | Deadline **IO1A4**   | Deadline **IO1B4** |Deadline **IO1E4**  |
+| Opdracht             | Deadline **IO3A4**   | Deadline **IO3B4** |Deadline **IO3E4**  |
 |--------------------  |--------------------- | ------------------ | ------------------ |
 | Arduino C, C#        | 06 september         | 08 september       | 05 september       |
 | LOOP                 | 13 september         | 15 september       | 12 september       |
