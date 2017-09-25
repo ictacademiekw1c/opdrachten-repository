@@ -126,4 +126,14 @@
 ## Opdracht 4.6
 ---
 
-### Deze opdracht wordt binnenkort toegevoegd
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Opdracht%204.6.pdf" target="_blank">Download opdracht 4.6</a>
+
+### Onderwerpen
+*   CSS selectoren
+
+### Benodigde bestanden
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Opdracht%204.6.rar" target="_blank">Opdracht 4.6.rar</a>
+
+### Help
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
