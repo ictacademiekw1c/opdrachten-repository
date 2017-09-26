@@ -14,6 +14,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | Opdrachten 2.1, 2.2, 2.3 | 19 september | 19 september |12 september |
 | Opdrachten 3.1, 3.2, 3.3 | 26 september | 25 september | 19 september |
 | Opdrachten 4.1, 4.2 | 3 oktober | 1 oktober | 26 september |
+| Opdrachten 5.1, 5.2, 5.2 | 10 oktober | 8 oktober |  3 oktober |
 
 
 <br> 
