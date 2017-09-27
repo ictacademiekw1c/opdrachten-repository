@@ -40,8 +40,8 @@ Experimenteer met control attributen om de juiste weergave te krijgen. Het resul
 
 
 ## Beoordelingscriteria
-- Bouw je sprint 4 allereerst op je visual studio team services pagina. Je kan iig 2 backlog items aanmaken: 1. omzetten van iedere pagina naar een xaml versie <br>
-2) Nabouwen van de AIRBNB of INSTAGRAM pagina  
+- Bouw je sprint 4 allereerst op je visual studio team services pagina. Je kan 3 backlog items aanmaken: 1. Bestuderen van de theorie/naslagwerk 2.Omzetten van iedere pagina naar een xaml versie <br>
+3) Nabouwen van de AIRBNB of INSTAGRAM pagina. Iedere backlog item heeft natuurlijk taken. Bepaal zelf de taken en maak er minimaal 2 per backlog item.  
 - Iedere pagina wordt vanuit een xaml pagina geladen.
 - De layout van de nagebouwde pagina hoeft niet pixel-perfect te zijn en identieke content te hebben, maar heeft wel dezelfde indeling en bij benadering dezelfde groottes.
 - Alle content in de pagina's is statisch, dus je hoeft geen binding te gebruiken.
