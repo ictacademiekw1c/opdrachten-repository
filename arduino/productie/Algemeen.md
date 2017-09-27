@@ -17,16 +17,16 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | Arduino C, C#        | 06 september         | 08 september       | 05 september       |
 | LOOP                 | 13 september         | 15 september       | 12 september       |
 | LED                  | 13 september         | 15 september       | 12 september       |
-| BLINK                | 20 september         | 22 september       | 19 september       |
+| BLINK                | 27 september         | 29 september       | 26 september       |
 | BLINKARRAY           | 27 september         | 29 oktober         | 26 september       |
 | LOOPLICHT            | 04 oktober           | 06 oktober         | 03 oktober         |
 | TERUGKOPPEL KNOP     | 11 oktober           | 13 oktober         | 10 oktober         |
-| TEMPERATUUR          | 18 oktober           | 20 oktober         | 17 oktober         |
-| THERMOSTAAT          | 01 november          | 03 november        | 31 oktober         |
+| TEMPERATUUR          | 25 oktober           | 27 oktober         | 24 oktober         |
+| THERMOSTAAT          | 04 november          | 06 november        | 03 november        |
 								
 <br> 
 
 **Let op: Je dient de opdrachten uiterlijk op de laatste les van die week te laten zien. Let hier dus op** 
 
 
-**22-9-2017**
+**27-9-2017**
