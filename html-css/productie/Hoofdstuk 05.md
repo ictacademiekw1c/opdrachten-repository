@@ -3,20 +3,6 @@
 # Hoofdstuk 5
 
 ---
-## Kleurenpuzzel
----
-
-### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Kleurenkiezer%20puzzel.xlsx" target="_blank">Download kleurenpuzzel</a>
-
-### Onderwerpen
-*   Kleur begrijpen
-*   Kleuraanduidingen
-
-### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
-
----
 ## Opdracht 5.1
 ---
 
@@ -74,6 +60,20 @@
 
 ### Benodigde bestanden
 *   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+
+---
+## Kleurenpuzzel
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%205/Kleurenkiezer%20puzzel.xlsx" target="_blank">Download kleurenpuzzel</a>
+
+### Onderwerpen
+*   Kleur begrijpen
+*   Kleuraanduidingen
 
 ### Help
 *   Er zijn geen hulplinks voor deze opdracht beschikbaar.
