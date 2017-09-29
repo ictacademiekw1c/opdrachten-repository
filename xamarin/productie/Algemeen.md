@@ -20,8 +20,8 @@ __Wat is visual studio team services.__
 
 __Waarom gaan we werken met visual studio team services.__
 
-Zoals het filmpje laat zien zit in visual team services alles wat je nodig als ontwikkelaar om goed en efficient met elkaar samen te werken in een IT project.
-We gaan team services gebruiken omdat het is geintegreerd met Visual Studio.
+Zoals het filmpje laat zien zit in visual team services alles wat je nodig hebt als ontwikkelaar om goed en efficient met elkaar samen te werken in een IT project.
+We gaan team services gebruiken omdat het is geïntegreerd met Visual Studio.
 Verder kun je elke opdracht in een git-repository zetten en er professioneel versiebeheer gebruiken.
 Ook de SCRUM/AGILE werkwijze wordt gefaciliteerd in de team services portaal. Alle opdrachten kunnen jullie op die manier plannen en iedere week in een sprint gaan vastleggen.
 

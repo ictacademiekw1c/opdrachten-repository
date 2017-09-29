@@ -35,5 +35,5 @@ Onderstaande klasse heb je nodig in je Droid project om de App ook echt in een A
    - Geef duidelijke terugkoppeling als de invoer niet juist is 
 
 4. De App moet toestemming hebben om te kunnen bellen en heb je de toestemming toegevoegd aan de AndroidManifest.xml
-5. Plaats elk vertaalde phoneword in een listview onderin het scherm. Zorg ervoor dat er unieke waardes worden getoond in de listview.
+5. Plaats elk vertaalde phoneword in een __listview__ onderin het scherm. Zorg ervoor dat er __unieke waardes__ worden getoond in de listview.
 6. Je hebt een sprint 3 gemaakt in je VS team services met als backlogitems Module 3 en Module 4 van de edx workshop en het bouwen van de Phoneword App als apart backlog item. Verdeel het bouwen van de phoneword App in subonderdelen die ongeveer even groot/moeilijk zijn zodat je je werk beter kan inplannen.
