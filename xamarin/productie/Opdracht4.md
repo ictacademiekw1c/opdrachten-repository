@@ -23,6 +23,8 @@ Bestudeer de volgende hoofdstukken uit de reader van Xamarin.Forms:
 
 [Voorbeeld MasterDetailPage in Xaml](https://gist.github.com/saebuabu/b17b9516c8718cf930506172cac70b11)
 
+[Alternatieve opzet MasterDetailPage in Xaml](https://gist.github.com/saebuabu/db34623129588559bbb0a6ed7e3c9c96)
+
 ## Opdrachtomschrijving
 
 Maak opdracht 2 opnieuw maar nu puur met Xaml pagina's.
