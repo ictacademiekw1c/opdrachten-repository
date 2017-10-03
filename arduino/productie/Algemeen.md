@@ -18,8 +18,8 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | LOOP                 | 13 september         | 15 september       | 12 september       |
 | LED                  | 13 september         | 15 september       | 12 september       |
 | BLINK                | 27 september         | 29 september       | 26 september       |
-| BLINKARRAY           | 27 september         | 29 oktober         | 26 september       |
-| LOOPLICHT            | 04 oktober           | 06 oktober         | 03 oktober         |
+| BLINKARRAY           | 27 september         | 29 september       | 03 oktober         |
+| LOOPLICHT            | 04 oktober           | 06 oktober         | 10 oktober         |
 | TERUGKOPPEL KNOP     | 11 oktober           | 13 oktober         | 10 oktober         |
 | TEMPERATUUR          | 25 oktober           | 27 oktober         | 24 oktober         |
 | THERMOSTAAT          | 04 november          | 06 november        | 03 november        |
