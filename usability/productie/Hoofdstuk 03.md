@@ -65,6 +65,7 @@ Let op: dit is slechts een deel van de criteria die voor dit onderdeel gelden!
 
 ### Benodigde bestanden
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20Usa%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%203/Resources/Bijlage%20opdracht%203.2.rar" target="_blank">Bijlage opdracht 3.2.rar</a>
+*   Download de bijbehorende software voor kleurenblindheid: http://colororacle.org/
 
 ### Help
 *   Zie checklist bovenaan de webpagina.
