@@ -64,7 +64,6 @@
         - toUpperCase()
         - toLowerCase()
         - charAt()
-        - toUpperCase()
         - indexOf()
         - subString()
         - replace()
