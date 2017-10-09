@@ -54,7 +54,15 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%205/Opdracht%205.3.pdf" target="_blank">Download opdracht 5.3</a>
+
+Opgelet: Iedere klas heeft een andere opdracht. Let dus goed op dat je de juiste opdracht download
+
+- <b>IO1A4:</b> Nog niet beschikbaar
+- <b>IO1B4: </b> Nog niet beschikbaar
+- <b>IO1C4: </b><a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%205/Opdracht%205.3.pdf" target="_blank">Download opdracht 5.3</a>
+- <b>IO1D4:</b> Nog niet beschikbaar
+- <b>IO1E4:</b> Nog niet beschikbaar
+
 
 ### Onderwerpen
 - String Object
