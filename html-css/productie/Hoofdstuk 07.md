@@ -21,7 +21,7 @@
 *   <a href="https://www.w3schools.com/html/html_images.asp" target="_blank">Afbeeldingen toevoegen</a>
 
 ---
-## Opdracht 7.3
+## Opdracht 7.2
 ---
 
 ### Download
