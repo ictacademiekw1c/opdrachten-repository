@@ -111,4 +111,3 @@
 *   <a href="http://www.w3schools.com/cssref/pr_list-style-image.asp" target="_blank">Afbeelding als opsommingsteken</a>
 *   <a href="http://www.w3schools.com/cssref/pr_list-style-position.asp" target="_blank">Positie opsommingstekens</a>
 *   <a href="http://www.w3schools.com/cssref/pr_list-style.asp" target="_blank">Verkorte schrijfwijze bij lijsten</a>
-
