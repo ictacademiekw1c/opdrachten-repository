@@ -239,13 +239,10 @@ namespace Databinding.Pages
 }
 
 ~~~
+
 ## 5.3 Opdracht 5
 
-Hierboven is alle code gegeven van de feedback App. Bouw deze App in een eigen project.
+Download hier de opdracht met de titel [feedback App](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/25187%20%20%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Feedback%20App.pdf)
 
 ### Beoordelingscriteria
-1. Je toont een werkende App op je eigen device of emulator
-2. In de code wordt commentaar gezet bij iedere method, class en attribuut
-3. Ipv verjaardag zoals hierboven wordt getoond moet de label geboortedatum zijn.
-4. Ipv locaties zoals hierboven moet het een lijst tonen van vakken.
-5. Als extra veld moet je een extra tekstvak kunnen invullen om je waardering toe te lichten.
+
