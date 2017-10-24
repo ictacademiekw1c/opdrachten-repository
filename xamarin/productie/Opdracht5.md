@@ -245,5 +245,12 @@ namespace Databinding.Pages
 Download hier de opdracht met de titel 
 [feedback App](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.29%20INFi]%20Informatica%20instructie/25187%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Feedback%20App.pdf)
 
+[Extra theoretische fundering vanuit de developer's site van Xamarin](https://developer.xamarin.com/guides/xamarin-forms/xaml/xaml-basics/data_binding_basics/)
+
 ### Beoordelingscriteria
+
+- Opbouw sprint 5 in je team services pagina met meerdere backlog items en minimaal 1 taak per backlog item
+- Werking van App volgens de specs van bovenstaande pdf  
+- Je maakt gebruik van binding in je XAML pagina's in je App
+- De gegevens ingevuld/gekozen het startformulier komen overeen met de resultaatpagina. 
 
