@@ -242,7 +242,7 @@ namespace Databinding.Pages
 
 ## 5.3 Opdracht 5
 
-Download hier de opdracht met de titel [feedback App](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/25187%20%20%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Feedback%20App.pdf)
+Download hier de opdracht met de titel [feedback App](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.29%20INFi]%20Informatica%20instructie/25187%20 %20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Feedback%20App.pdf)
 
 ### Beoordelingscriteria
 
