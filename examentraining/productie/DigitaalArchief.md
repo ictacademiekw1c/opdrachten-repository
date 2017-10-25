@@ -20,8 +20,16 @@ Crystal reports kan als extensie worden toegevoegd aan Visual Studio.
 
 ## Downloaden van Crystal Reports
 
-[Downloaden van Crystal Repots vanaf de SAP site](http://go.sap.com/netherlands/product/analytics/crystal-visual-studio.html)
+[Downloaden van Crystal Reports vanaf de SAP site](http://go.sap.com/netherlands/product/analytics/crystal-visual-studio.html)
 
+[Rechtstreekse URL Download](http://www.crystalreports.com/crvs/confirm/)
+
+![Download screen dump](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/examentraining/images/crystalreports1.png?raw=true)
+
+
+[Aantal belangrijke opmerkingen voor de installatie in visual studio 2017](https://wiki.scn.sap.com/wiki/display/BOBJ/Crystal+Reports%2C+Developer+for+Visual+Studio+Downloads)
+
+- Installeer CR via de .exe file niet via de .msi
 
 ## Materiaal - Naslag/Opdrachten
 
