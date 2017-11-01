@@ -10,8 +10,6 @@ De opdracht is dat een feedbackItem uit opdracht 5 wordt opgeslagen in een lokal
 
 [uitleg implementatie SQLite](https://developer.xamarin.com/guides/xamarin-forms/working-with/databases/#PCL_Android) 
 
-[Voorbeeld App met SQLite op github](https://github.com/xamarin/xamarin-forms-samples/tree/master/Todo/SharedProject/Todo)
-
 ## Stappenplan
 
 ### 1. Installeer SQLite.Net PCL (zoek op sqlite-net-pcl van Freddy Krueger) library in zowel de Android als de Portable project van je App
@@ -190,3 +188,9 @@ namespace <jouwnamespace>
 FeedbackItems = new ObservableCollection<FeedbackItem>(App.Db.GetItems());
 
 ~~~
+
+### 9. Class Diagram van de applicatie
+
+![Class Diagram](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/Sqlite.png?raw=true)
+
+
