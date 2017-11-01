@@ -15,7 +15,7 @@ De opdracht is dat een feedbackItem uit opdracht 5 wordt opgeslagen in een lokal
 ## Stappenplan
 
 ### 1. Installeer SQLite.Net PCL (zoek op sqlite-net-pcl van Freddy Krueger) library in zowel de Android als de Portable project van je App
-### 2. Maak een interface class aan in de Portable project die de sql interactie gaat implementeren
+### 2. Maak een interface class aan in de Portable project als overerf template voor de werkelijke implementatie
 
 ~~~c#
 using SQLite;
