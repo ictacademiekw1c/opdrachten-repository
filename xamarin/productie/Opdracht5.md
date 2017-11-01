@@ -254,3 +254,7 @@ Download hier de opdracht met de titel
 - Je maakt gebruik van binding in je XAML pagina's in je App
 - De gegevens ingevuld/gekozen het startformulier komen overeen met de resultaatpagina. 
 
+## 5.4 Theorie over MVVM (Model-View-ViewModel)
+
+[![Youtube video](http://img.youtube.com/vi/k77dqVVWgB8/0.jpg)](https://www.youtube.com/watch?v=k77dqVVWgB8)
+

@@ -206,6 +206,6 @@ Met de knop Nieuwe Feedback kun je nieuwe feedback toevoegen in het scherm dat j
 
 - Je sprint is volledig toegevoegd aan je team services pagina
 - De volledige code is gepushed naar je team services pagina
-- De code is opgebouwd als de bovenstaande klasse diagram
+- De code is eventueel opgebouwd als visueel weergegeven in de bovenstaande klasse diagram
 
 
