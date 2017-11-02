@@ -208,7 +208,7 @@ namespace Databinding.Pages
 			ViewModel.Feedback.Locatie = locatie.Items[locatie.SelectedIndex];
 
             //Resultaatscherm wordt geopend met de feedback data
-			Navigation.PushAsync(new ResultPage(ViewModel.Feedback));
+			Navigation.PushModalAsync(new ResultPage(ViewModel.Feedback));
 		}
 	};
 }
