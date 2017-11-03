@@ -7,7 +7,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%208/Opdracht%208.1.pdf" target="_blank">Download opdracht 8.1</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%209/Opdracht%209.X%20-%20Doolhof.pdf" target="_blank">Download opdracht 9.X - Doolhof</a>
 
 ### Onderwerpen
 *   Links
