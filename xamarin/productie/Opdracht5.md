@@ -208,7 +208,7 @@ namespace Databinding.Pages
 			ViewModel.Feedback.Locatie = locatie.Items[locatie.SelectedIndex];
 
             //Resultaatscherm wordt geopend met de feedback data
-			Navigation.PushAsync(new ResultPage(ViewModel.Feedback));
+			Navigation.PushModalAsync(new ResultPage(ViewModel.Feedback));
 		}
 	};
 }
@@ -242,7 +242,19 @@ namespace Databinding.Pages
 
 ## 5.3 Opdracht 5
 
-Download hier de opdracht met de titel [feedback App](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/25187%20%20%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Feedback%20App.pdf)
+Download hier de opdracht met de titel 
+[feedback App](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.29%20INFi]%20Informatica%20instructie/25187%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Feedback%20App.pdf)
+
+[Extra theoretische fundering vanuit de developer's site van Xamarin](https://developer.xamarin.com/guides/xamarin-forms/xaml/xaml-basics/data_binding_basics/)
 
 ### Beoordelingscriteria
+
+- Opbouw sprint 5 in je team services pagina met meerdere backlog items en minimaal 1 taak per backlog item
+- Werking van App volgens de specs van bovenstaande pdf  
+- Je maakt gebruik van binding in je XAML pagina's in je App
+- De gegevens ingevuld/gekozen het startformulier komen overeen met de resultaatpagina. 
+
+## 5.4 Theorie over MVVM (Model-View-ViewModel)
+
+[![Youtube video](http://img.youtube.com/vi/k77dqVVWgB8/0.jpg)](https://www.youtube.com/watch?v=k77dqVVWgB8)
 

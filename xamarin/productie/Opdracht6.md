@@ -10,12 +10,10 @@ De opdracht is dat een feedbackItem uit opdracht 5 wordt opgeslagen in een lokal
 
 [uitleg implementatie SQLite](https://developer.xamarin.com/guides/xamarin-forms/working-with/databases/#PCL_Android) 
 
-[Voorbeeld App met SQLite op github](https://github.com/xamarin/xamarin-forms-samples/tree/master/Todo/SharedProject/Todo)
-
 ## Stappenplan
 
-### 1. Installeer SQLite.Net PCL library in zowel de Android als de Portable project van je App
-### 2. Maak een interface class aan in de Portable project die de sql interactie gaat implementeren
+### 1. Installeer SQLite.Net PCL (zoek op sqlite-net-pcl van Freddy Krueger) library in zowel de Android als de Portable project van je App
+### 2. Maak een interface class aan in de Portable project als overerf template voor de werkelijke implementatie
 
 ~~~c#
 using SQLite;
@@ -190,3 +188,24 @@ namespace <jouwnamespace>
 FeedbackItems = new ObservableCollection<FeedbackItem>(App.Db.GetItems());
 
 ~~~
+
+### 9. Class Diagram van de applicatie
+
+![Class Diagram](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/Sqlite.png?raw=true)
+
+### 10. Opdracht 6 en Sprint 6 (Eindsprint)
+
+Pas je Feedback App zodanig aan dat elke ingevoerde feedback wordt opgeslagen in een sqlite database en dat de App start
+met een listview van alle toegevoegde feedbackitems op de volgende manier:
+
+![Listview](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/listview.png?raw=true)
+
+Met de knop Nieuwe Feedback kun je nieuwe feedback toevoegen in het scherm dat je in opdracht 5 reeds had gemaakt.
+
+### 11. Beoordelingscriteria
+
+- Je sprint is volledig toegevoegd aan je team services pagina
+- De volledige code is gepushed naar je team services pagina
+- De code is eventueel opgebouwd als visueel weergegeven in de bovenstaande klasse diagram
+
+
