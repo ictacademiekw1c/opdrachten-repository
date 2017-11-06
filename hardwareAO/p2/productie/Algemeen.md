@@ -7,20 +7,22 @@ Dit is de basis kennis en componenten die in het vervolg van de opleiding gebrui
 ## Opleverdata
 Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
-|Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** |
+|Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** |
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
-| Opdrachten 1 |   |   |   |   |   |
-| Opdrachten 2 |   |   |   |   |   |
-| Opdrachten 3 |   |   |   |   |   |
-| Opdrachten 4 |   |   |   |   |   |
-| Opdrachten 5 |   |   |   |   |   |
-| Opdrachten 6 |   |   |   |   |   |
-| Opdrachten 7 |   |   |   |   |   |
-| Opdrachten 8 |   |   |   |   |   |
-| Opdrachten 9 |   |   |   |   |   |
-| Opdrachten 10 |   |   |   |   |   |
-| Opdrachten 11 |   |   |   |   |   |
-| Opdrachten 12 |   |   |   |   |   |
+| Opdracht A  | 12 november | 12 november | 12 november | 12 november | 12 november |
+| Opdracht B  | 19 november | 19 november | 19 november | 19 november | 19 november |
+| Opdracht 1  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 2  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 3  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 4  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 5  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 6  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 7  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 8  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 9  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 10 | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 11 | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 12 | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
 
 
 <br> 
@@ -28,8 +30,8 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 **Let op: Je dient de opdrachten vóór de eerste les van de volgende week te laten zien. Let hier dus op** 
 
 ## Opleveren opdrachten
-1. Je dient al je huisopdrachten in de HardwareAO map van je N@tschool portfolio te plaatsen
-2. Daarna laat je de opdracht uit je N@tschool aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
+1. Je dient al je huiswerkopdrachten in de HardwareAO map van je ELO portfolio te plaatsen
+2. Daarna laat je de opdracht uit je ELO aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
 
 
 ## Voorkennis
@@ -37,7 +39,7 @@ Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academi
 
 
 ## Editor
-Voor de lessen HardwareAO heb je geen speciale software nodig.
+Voor de lessen HardwareAO heb je naast Microsoft Word geen speciale software nodig.
 
 
 ## Opleveren opdrachten
@@ -76,12 +78,12 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 ## Algemene beoordelingscriteria
 
 Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
-*	De opdracht is op tijd ingeleverd op N@tschool in het portfolio.
-*	De opdracht wordt ingeleverd als een rar-bestand.
-*	Het verslag is voorzien van onderstaande intro (module header). 
+*	De opdracht is op tijd ingeleverd op ELO in het portfolio.
+*	De opdracht wordt ingeleverd als een pdf-bestand.
+*	Het verslag heeft heeft een duidelijke intro. (module header) 
 *	Het verslag is overzichtelijk opgebouwd door de structuur en het voorgeschreven template te gebruiken.
  
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
  
-*	De experimenten die uitegevoerd zijn vastgelegd in een verslag volgens template.
+*	De experimenten die uitgevoerd zijn vastgelegd in een verslag volgens het betreffende Opdracht template.
 *   
