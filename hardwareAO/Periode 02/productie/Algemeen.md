@@ -9,8 +9,8 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** |
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
-| Opdracht A  | 12 november | 12 november | 12 november | 12 november | 12 november |
-| Opdracht B  | 19 november | 19 november | 19 november | 19 november | 19 november |
+| Opdracht A  | 15 november | 13 november | xx november | xx november | xx november |
+| Opdracht B  | 22 november | 20 november | xx november | xx november | xx november |
 | Opdracht 1  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
 | Opdracht 2  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
 | Opdracht 3  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
