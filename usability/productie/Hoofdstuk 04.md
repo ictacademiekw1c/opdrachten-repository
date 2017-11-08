@@ -38,9 +38,6 @@ Google kan afbeeldingen of Flash-buttons niet/slecht lezen en beoordelen, dus te
 30: Gebruik je logische namen voor de links op je website?
 Gebruik geen ‘Klik hier’ maar maak bijvoorbeeld de woorden ‘Over ons’ of  ‘Contactpagina’ klikbaar.
 
-
-
-
 31: Zijn de links op je website zo kort en specifiek mogelijk?
 Ga ervan uit dat jouw bezoeker haast heeft. Een gemiddelde bezoeker geeft jouw website in eerste instantie niet meer dan een paar seconden om hem te overtuigen. Gebruik dus korte, bondige, duidelijke links en beperk de leestijd waar het kan.
 
