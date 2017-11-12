@@ -9,7 +9,7 @@
 We gaan in deze opdracht een soort rekenmachine bouwen die kan optellen, aftrekken, vermenigvuldigen en delen. De berekeningen worden door middel van *functions* uitgevoerd.
 Omdat functions voor jullie nogal een nieuw iets is, gaan we de opdrachten steeds iets moeilijker maken.
 
-1. Vraag eerst aan de gebruiker om 2 getallen op te geven. Sla deze getallen op. Je hoeft geen controles op de invoer uit te voeren.
+1. Download de template en plaats deze in de map "Hoofdstuk 7/Lesopdrachten/Lesopdracht 1".
 
 ### Deel 1 (functie zonder parameter)
 1. Maak een functie genaamd *count()*. Laat de functie de volgende dingen doen: 
@@ -44,6 +44,8 @@ In de vorige lesopdracht hebben we via functies een simpele rekenmachine gemaakt
 Het doel van deze opdracht is om een functie te schrijven die een getal vraagt aan een gebruiker, deze via de bekende manieren controlleert (isNan(), parseInt()). Dit doen we specifiek in een functie, zodat we deze functionaliteiten zoveel kunnen hergebruiken als dat we willen!
 We gaan dus een functie schrijven die de gebruiker om een getal gaat vragen, hier allerlei acties over uitvoeren en uiteindelijk zal de functie een geldig getal *returnen*.
 Ook gaan we wat commentaar toevoegen aan de code!
+
+1. Download de template en plaats deze in de map "Hoofdstuk 7/Lesopdrachten/Lesopdracht 2".
 
 1. Maak een functie genaamd *getUserInput()* aan. Laat deze functie de volgende dingen doen:
 	- Vraag via *prompt()* een getal op aan de gebruiker en sla deze op als een variabele
