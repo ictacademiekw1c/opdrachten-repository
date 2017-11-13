@@ -60,4 +60,5 @@
 - <a href="hhttps://www.w3schools.com/js/js_functions.asp" target="_blank">Functions</a>
 - <a href="https://www.w3schools.com/jsref/prop_html_innerhtml.asp" target="_blank">getElementById() & .innerHTML</a>
 - <a href="https://www.w3schools.com/js/js_if_else.asp" target="_blank">If / Else</a>
+- <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank">while loop</a>
 ---
