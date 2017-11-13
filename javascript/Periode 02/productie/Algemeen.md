@@ -5,13 +5,12 @@ Het doel van deze studieroute is studenten te leren programmeren in Javascript. 
 Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicatieontwikkeling inhoudt. 
 
 ## Opleverdata
-Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
+Hieronder zie de deadlines van inleveren van je opdrachten. 
 
-|Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1B4** + **IO1D4** + **IO1E4** | &nbsp; &nbsp; Deadline **IO1C4** &nbsp; |
+|Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1B4** + **IO1D4** + **IO1E4** |  &nbsp; &nbsp;  Deadline **IO1C4** &nbsp; |
 |--------------------  |--------------- | --------- |
-| Opdracht 7.1, 7.2| Zo 19 november |  |
+| Opdracht 7.1, 7.2| Zo 19 november |   |
 | Opdracht 7.3| Zo 26 november |  |
-
 
 <br> 
 
