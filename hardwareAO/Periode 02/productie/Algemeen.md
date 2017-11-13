@@ -11,18 +11,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
 | Opdracht A  | 15 november | 13 november | xx november | xx november | xx november |
 | Opdracht B  | 22 november | 20 november | xx november | xx november | xx november |
-| Opdracht 1  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 2  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 3  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 4  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 5  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 6  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 7  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 8  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 9  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 10 | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 11 | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-| Opdracht 12 | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
+| Opdracht 1, <br> Opdracht 2,<br> Opdracht 3,<br> Opdracht 4,<br> Opdracht 5,<br> Opdracht 6,<br> Opdracht 7,<br> Opdracht 8,<br> Opdracht 9,<br> Opdracht 10,<br> Opdracht 11,<br> Opdracht 12  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
 
 
 <br> 

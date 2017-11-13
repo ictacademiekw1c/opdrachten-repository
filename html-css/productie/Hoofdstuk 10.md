@@ -46,6 +46,8 @@
 ## Opdracht 10.3
 ---
 
+** Klassen van Dhr. Gijsbrechts hoeven deze opdracht niet te maken. Diegenen krijgen een andere opdracht tijdens de les! **
+
 ### Download
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2010/Opdracht%2010.3.pdf" target="_blank">Download opdracht 10.3</a>
 
@@ -72,7 +74,7 @@
 *   Pseudoclasses bij tabellen
 
 ### Benodigde bestanden
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2010/Opdracht%2010.4.rar" target="_blank">Opdracht 10.4.rar</a>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2010/Resources/Opdracht%2010.4.rar" target="_blank">Opdracht 10.4.rar</a>
 
 ### Help
 *   <a href="http://www.w3schools.com/cssref/tryit.asp?filename=trycss3_nth-child_odd_even" target="_blank">Even en oneven elementen opmaken</a>
