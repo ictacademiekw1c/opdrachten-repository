@@ -4,13 +4,28 @@
 Het doel van deze studieroute is studenten te leren programmeren in Javascript. Middels Javascript kunnen reguliere HTML pagina's (webpage) uitgebreid worden met functionaliteiten (zoals animaties, effecten en andere functionaliteiten, etc) die eigenlijk niet in de reguliere HTML / CSS standaarden inbegrepen zijn.
 Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicatieontwikkeling inhoudt. 
 
+## Voorkennis
+Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
+
+## Editor
+We gebruiken voor het vak Javascript de editor genaamd `"WebMatrix"`. 
+Deze gratis editor is gemaakt door Microsoft en is relatief simpel in gebruik, kan veel en worden ook tijdens andere lessen gebruikt.
+Klik op onderstaande afbeelding om WebMatrix te downloaden.
+*Het is de bedoeling dat alle leerlingen vanaf week 1 WebMatrix geinstalleerd hebben.*
+
+[<img src="https://raw.githubusercontent.com/ictacademiekw1c/tijdelijke-test-repository/master/Afbeeldingen/download_webmatrix.png">](http://go.microsoft.com/fwlink/?LinkID=286266)
+
 ## Opleverdata
 Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
-|Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** &nbsp; &nbsp;  | &nbsp; Deadline **IO1D4** + **IO1E4** &nbsp;|
+|Opdracht              | Deadline **IO1A4** + **IO1B4**  &nbsp;  | Deadline **IO1C4** + **IO1D4** + **IO1E4** &nbsp;|
 |--------------------  |--------------- | --------- |
-| | | |
-
+| Opdrachten Week 1 | 30 november    | 2 december |
+| Opdrachten Week 2 | 30 november    | 2 december |
+| Opdrachten Week 3 | 14 december | 9 december |
+| Opdrachten Week 4 | 21 december | 16 december |
+| Opdrachten Week 5 | 11 januari | 13 januari |
+| Opdrachten Week 6 | 11 januari | 13 januari |
 
 <br> 
 
@@ -20,26 +35,10 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 1. Je dient al je huisopdrachten in de Javascript map van je N@tschool portfolio te plaatsen
 2. Daarna laat je de opdracht uit je N@tschool aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
 
-
-## Voorkennis
-Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
-
-
-## Editor
-Voor de lessen Javascript heb je speciale software nodig, namelijk een [editor](http://en.wikipedia.org/wiki/List_of_HTML_editors). Een editor is een programma waarin je de code voor de website schrijft.
-
-Er zijn veel verschillende editors beschikbaar. Meestal wordt een onderscheid gemaakt tussen tekst- en zogenaamde WYSIWYG- (What You See Is What You Get) editors. Deze laatste editors zijn uitgebreide programma's waarbij je websites door middel van slepen en klikken opbouwt. De onderliggende code wordt dan automatisch door de software gegenereerd.
-
-Voorbeelden van dit soort editors voor het maken van websites zijn: Adobe Dreamweaver, of Microsoft Expression Web. Bij de lessen mag je **geen** gebruik maken van zo'n WYSIWYG-editor. Tijdens deze lessen gaan we gebruik maken van de editor Brackets.
-Klik op onderstaande afbeelding om het programma te downloaden.
-
-[<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Algemeen/Brackets.png">](http://brackets.io/)
-
-## Opleveren opdrachten
-Het huiswerk wordt iedere les op het bord geschreven. Neem dit over in je agenda! De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
+Per opdracht staat er in deze opdrachtenportaal in rood vermeldt hoe de bestandsnaam moet zijn
 
 **Voorbeeld:**
-``Opleveren: Plaats het Word document met de naam `Opdracht 2.2.docx` in de map 'Hoofdstuk 2' van je Javascript portfoliomap``
+``Opleveren: Plaats het Word document met de naam `Opdracht201.docx` in de map 'Hoofdstuk 2' van je Javascript portfoliomap``
 
 De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
@@ -76,7 +75,9 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 *	De code is voorzien van onderstaande intro (module header). 
 *	De code is overzichtelijk opgebouwd door onder andere gebruik te maken van tabs en enters.
  
-Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
+Voor opdrachten vanaf hoofdstuk 5 gelden de volgende aanvullende beoordelingscriteria:
  
 *	De code is voorzien van waardevol en voldoende commentaar.
 *	De Javascriptcode is geschreven in een extern JS-bestand `Script.js` genaamd
+
+#### [setSubMenuHeader]Algemene informatie
