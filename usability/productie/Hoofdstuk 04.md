@@ -78,4 +78,14 @@ Let op: dit is slechts een deel van de criteria die voor dit onderdeel gelden!
 ## Opdracht 4.2
 ---
 
-### Deze opdracht wordt binnenkort toegevoegd.
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%204/Opdracht%204.1.pdf" target="_blank">Download opdracht 4.2</a>
+
+### Onderwerpen
+*   Ontwerpen en bouwen van een header inclusief menubalk
+
+### Benodigde bestanden
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%204/Resources/Bijlage%20opdracht%204.2.docx" target="_blank">Bijlage opdracht 4.2.rar</a>
+
+### Help
+*   Zie checklist bovenaan de webpagina.
