@@ -50,7 +50,7 @@ bijvoorbeeld: SelectForActivityRule
 __Niet behandelen:__
 - Stereotypen
 
-## 3. n-tier concept software architectuur
+## 3. 3-tier concept software architectuur
 
 - Business laag
 
