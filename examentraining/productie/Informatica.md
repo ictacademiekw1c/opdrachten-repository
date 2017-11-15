@@ -52,9 +52,9 @@ __Niet behandelen:__
 
 ## 3. 3-tier concept software architectuur
 
-- Business laag
+- Presentatie laag
 
-- Interactie laag
+- Logische laag
 
 - Data laag
 
