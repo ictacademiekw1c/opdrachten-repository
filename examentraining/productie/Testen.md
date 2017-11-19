@@ -2,6 +2,24 @@
 
 ## 1. Black en Whitebox testing
 
+### 1.1 Black Box testing
+
+![Black Box Testing](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/examentraining/images/blackboxtesting.png?raw=true)
+
+    #### 1.1.1 Acceptatietest
+
+    - Wat is een acceptatietest?
+
+    - Hoe stel je een acceptatietestplan op?
+
+    - Uitvoeren en rapporteren van een acceptatietestplan
+        - verbeterpunten (Change Request) n.a.v. een acceptatietest
+ 
+
+### 1.2 White Box testing
+
+![White Box Testing](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/examentraining/images/whiteboxtesting.png?raw=true)
+
 ## 2. Geautomatiseerd testen
 
 ## 2.1 Unittesten in C#
