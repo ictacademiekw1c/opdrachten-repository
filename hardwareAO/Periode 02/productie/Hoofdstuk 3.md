@@ -14,17 +14,42 @@ In dit hoofdstuk worden de volgende componenten behandeld:
 
 ### Download
 
-[Algemene informaatie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_algemeen.pdf)
+[Algemene informatie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_algemeen.pdf) 
+over alle componenten die je gebruikt bij de praktijkproeven.
+
+Zoals:
+- breadboard
+- jumpwires
+- batterij
+- schakelaars
+- weerstanden
+- led
+- transistoren
+- condensatoren
+
+## Weerstanden
 
 ### Onderwerpen
 
-**Weerstanden**
 * Het herkenen van verschillende soort weerstanden.
 * Bekend zijn met de tekensymbolen van een weerstand, potmeter, LDR en thermistor
 * De waarde van een weerstand kunnen berekenen aan de hand van de kleurcode.
 * Begrijpen dat de waarde van de weerstanden in een reeks bepaald is door de tolerantie waarmee de weerstanden gemaakt zijn.
 
-**Led en diode**
+### Presentaties
+- [Weerstanden en kleurcodes](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa02.Presentatie.Weerstanden.pdf)
+
+### Help
+- [MAKE presents: The Resistor](https://www.youtube.com/watch?v=VPVoY1QROMg) - Youtube
+- [Kleurcodering van weerstanden](https://www.weerstandcalculator.nl/)
+- [Weerstand waarden en toleranties](http://www.logwell.com/tech/components/resistor_values.html)
+
+- Vraag de docent.
+
+## Led en diode
+
+### Onderwerpen
+
 * Stroom kan maar van 1 kant door de led/diode.
 * Bekend zijn met de tekensymbolen van een diode en een led.
 * Spanningsval over de diode 0,7V is en onafhankelijk is van de stroom. (silicium: 0,7V, germanium: 0,3 V)
@@ -33,19 +58,9 @@ In dit hoofdstuk worden de volgende componenten behandeld:
 * De grote van de spanningsval over een led is afhankelijk van de kleur die de led uitstraalt.
 
 ### Presentaties
-- [Weerstanden en kleurcodes](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa02.Presentatie.Weerstanden.pdf)
 - [LED en diodes](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa03.Presentatie.Led.pdf)
-- Transistors
-- Condensator
 
 ### Help
-
-**weerstanden**
-- [MAKE presents: The Resistor](https://www.youtube.com/watch?v=VPVoY1QROMg) - Youtube
-- [Kleurcodering van weerstanden](https://www.weerstandcalculator.nl/)
-- [Weerstand waarden en toleranties](http://www.logwell.com/tech/components/resistor_values.html)
-
-**led en diode**
 - [Wat is een halfgeleider?](https://www.youtube.com/watch?v=gUmDVe6C-BU) - Youtube
 - [Wiki Led](https://nl.wikipedia.org/wiki/Led)
 - [Hoe werkt een diode?](https://www.youtube.com/watch?v=Coy-WRCfems) - Youtube
