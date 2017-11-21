@@ -10,7 +10,8 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1B4** + **IO1D4** + **IO1E4** |  &nbsp; &nbsp;  Deadline **IO1C4** &nbsp; |
 |--------------------  |--------------- | --------- |
 | Opdracht 7.1, 7.2| Zo 19 november | wo 22 november  |
-| Opdracht 7.3| Zo 26 november | 29 november |
+| Opdracht 7.3| Zo 26 november | wo 29 november |
+| Opdracht 7.4 | Zo 3 december | wo 6 december |
 
 <br> 
 
