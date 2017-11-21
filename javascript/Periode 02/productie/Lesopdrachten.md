@@ -41,19 +41,20 @@ Omdat functions voor jullie nogal een nieuw iets is, gaan we de opdrachten steed
 **Opdracht**
 
 In de vorige lesopdracht hebben we via functies een simpele rekenmachine gemaakt. Deze keer gaan we via een functie de gebruiker om een getal vragen, deze controleren en daarna via *return* een variabele vullen.
-Het doel van deze opdracht is om een functie te schrijven die een getal vraagt aan een gebruiker, deze via de bekende manieren controlleert (isNan(), parseInt()). Dit doen we specifiek in een functie, zodat we deze functionaliteiten zoveel kunnen hergebruiken als dat we willen!
-We gaan dus een functie schrijven die de gebruiker om een getal gaat vragen, hier allerlei acties over uitvoeren en uiteindelijk zal de functie een geldig getal *returnen*.
+
+Het doel van deze opdracht is om een functie te schrijven die een invoer vraagt aan een gebruiker. Daarna deze invoer via *parseInt()* omzet naar een number en daarna gaat bepalen of deze invoer geldig is.
+
 Ook gaan we wat commentaar toevoegen aan de code!
 
 1. Download de template en plaats deze in de map "Hoofdstuk 7/Lesopdrachten/Lesopdracht 2".
 
 1. Maak een functie genaamd *getUserInput()* aan. Laat deze functie de volgende dingen doen:
-	- Vraag via *prompt()* een getal op aan de gebruiker en sla deze op als een variabele
+	- Vraag via *prompt()* een getal op aan de gebruiker en sla deze op als een variabele genaamd invoer.
 	- Zet deze variabele om naar een Number via *parseInt()* uit over het getal. Lees <a href="https://www.w3schools.com/jsref/jsref_parseint.asp" target="_blank">hier</a> wat *parseInt()* doet.
-	- Check of het getal geldig is via *isNan()*. Lees <a href="https://www.w3schools.com/jsref/jsref_isnan.asp" target="_blank">hier</a> wat *isNan()* doet.
+	- Gebruik een If/Else statement in samenwerking met *isNan()* om te controleren of de variabele invoer een geldig getal is. Lees <a href="https://www.w3schools.com/jsref/jsref_isnan.asp" target="_blank">hier</a> wat *isNan()* doet.
 		- Als het getal niet geldig, geef een meldig en *return* het de waarde 0
 		- Als het getal wel geldig is, *return* het getal vanuit de functie
-2. Laat de functie 5 keer uitgevoerd worden. Vang dus ook 5 keer het resultaat van de functie op in een variabele. Hieronder zie je een voorbeeld voor 1 keer aanroepen van de functie.
+2. Voer de functie 5 keer uit (die onderstaande code voor één voorbeeld).
 ```javascript
 	// Voer 1 keer de getUserInput() uit.
 	var getal1 = getUserInput();

@@ -60,5 +60,32 @@
 - <a href="hhttps://www.w3schools.com/js/js_functions.asp" target="_blank">Functions</a>
 - <a href="https://www.w3schools.com/jsref/prop_html_innerhtml.asp" target="_blank">getElementById() & .innerHTML</a>
 - <a href="https://www.w3schools.com/js/js_if_else.asp" target="_blank">If / Else</a>
-- <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank">while loop</a>
+- <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank">Extra opdracht: while loop</a>
 ---
+
+
+---
+## Opdracht 7.4
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Opdracht%207.4.pdf" target="_blank">Download opdracht 7.4</a>
+
+### Onderwerpen
+- Functions
+- Functions met parameters
+- If / Else Statements
+- document.getElementById()
+- .innerHTML
+- .style.backgroundColor
+
+### Benodigde bestanden
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Opdracht%207.4.zip" target="_blank">Download template</a>
+
+### Help
+- <a href="hhttps://www.w3schools.com/js/js_functions.asp" target="_blank">Functions</a>
+- <a href="https://www.w3schools.com/jsref/prop_html_innerhtml.asp" target="_blank">getElementById() & .innerHTML</a>
+- <a href="https://www.w3schools.com/js/js_if_else.asp" target="_blank">If / Else</a>
+
+---
+
