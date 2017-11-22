@@ -61,7 +61,7 @@
 - <a href="https://www.w3schools.com/jsref/prop_html_innerhtml.asp" target="_blank">getElementById() & .innerHTML</a>
 - <a href="https://www.w3schools.com/js/js_if_else.asp" target="_blank">If / Else</a>
 - <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank">Extra opdracht: while loop</a>
----
+
 
 
 ---
@@ -90,3 +90,28 @@
 
 ---
 
+
+---
+## Opdracht 7.5
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Opdracht%207.5.pdf" target="_blank">Download opdracht 7.5</a>
+
+### Onderwerpen
+
+- document.getElementById()
+- .innerHTML
+- .style.backgroundColor
+- .style.color
+- .style.border
+
+### Benodigde bestanden
+- Geen
+
+### Help
+- Instructie Hoofdstuk 7, Les 3 (Zie studieroute -> Instructie)
+- <a href="https://www.w3schools.com/jsref/prop_html_innerhtml.asp" target="_blank">getElementById() & .innerHTML</a>
+- <a href="https://www.w3schools.com/jsref/prop_style_backgroundcolor.asp" target="_blank">.style.backgroundColor</a>
+
+---
