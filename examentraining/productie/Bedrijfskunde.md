@@ -1,10 +1,15 @@
 # Bedrijfskunde examenonderdelen
 
-## 1 Business Model Generatie 
+
+## 1 IKP
+
+[Volledige theorie ](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/01.%20Reader/Theorie%20Integrale%20kostprijsberekening%20+%20Afschrijven%20Compleet.pdf)
+
+## 2 Business Model Generatie (Dit jaar niet)
 
 Referentie: Business Model Generatie door Alexander Osterwalder & Yves Pigneur, 2009
 
-### 1.1 Algemeen
+### 2.1 Algemeen
 
 - Onderwerp is gericht op een methodiek om te bepalen of een bepaald bedrijfsidee commercieel levensvatbaar is.
 - Modernere manier om een bedrijfsmodel te ontwerpen
@@ -16,38 +21,35 @@ Nut:
 - Basiskennis bedrijfskunde voor een ICT'er
 - Examen: zinvol kunnen invullen van het BMC (Business Model Canvas) m.b.t. gegeven bedrijfssituatie
 
-### 1.2 De 9 Bouwstenen van het Business Model Canvas
+### De 9 Bouwstenen van het Business Model Canvas
 
-#### 1.2.1 Klantsegmenten
+####  Klantsegmenten
 
-#### 1.2.2 Waardepropositie
+####  Waardepropositie
 
-#### 1.2.3 Kanalen
+####  Kanalen
 
-#### 1.2.4 Klantrelaties
+####  Klantrelaties
 
-#### 1.2.5 Inkomstenstromen
+####  Inkomstenstromen
 
-#### 1.2.6 Key Resources
+####  Key Resources
 
-#### 1.2.7 Kernactiviteiten
+####  Kernactiviteiten
 
-#### 1.2.8 Key Partners
+####  Key Partners
 
-#### 1.2.9 Kostenstructuur
+####  Kostenstructuur
 
 Zie ook integrale kostprijsberekening (IKP)
 
-### 1.3 Voorbeeld invulling BMC voor Apple Ipod/ITunes 
+### 2.3 Voorbeeld invulling BMC voor Apple Ipod/ITunes 
 
 ... Wordt uitgelegd in de klas.
 
-### 1.4 Groepsopdracht Business Model Canvas
+### 2.4 Groepsopdracht Business Model Canvas
 
 ... Wordt uitgelegd in de klas.
 
-## 2 IKP
-
-[Herhaling van IKP Integrale kostprijsberekening](httpsd:elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811v Vakinhoudelijke MBO  AO/1.19 Digitaal archief/95311 AO/Semester 5 [Periode 9 en 10]/Theorie Integrale kostprijsberekening + Afschrijven Compleet.docx)
 
 
