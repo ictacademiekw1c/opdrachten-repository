@@ -5,6 +5,15 @@
 
 [Volledige theorie ](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/01.%20Reader/Theorie%20Integrale%20kostprijsberekening%20+%20Afschrijven%20Compleet.pdf)
 
+[Website mkb over IKP formule](http://www.mkbadviesenondersteuning.nl/integrale-kostprijs-formule/)
+
+Voorbeeld opdracht op youtube 
+https://www.youtube.com/watch?v=PWSoprTPxDU
+
+Theorie nogmaals (alleen commerciele kostprijs is relevant)
+https://www.youtube.com/watch?v=XGn-LL2tQf4
+
+
 ## 2 Business Model Generatie (Dit jaar niet)
 
 Referentie: Business Model Generatie door Alexander Osterwalder & Yves Pigneur, 2009
