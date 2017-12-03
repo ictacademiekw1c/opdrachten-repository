@@ -17,7 +17,7 @@
 Geautomatiseerde testen worden aangemaakt en uitgevoerd in de ontwikkel- en uitbreidingsfase van het systeem. 
 Deze testen worden uitgevoerd door het ontwikkelteam zelf op het moment van integratietesten.
 
-    ## 2.1 Unittesten in C#
+### 2.1 Unittesten in C#
 
 Deze manier van testen testen van iedere klasse alle methodes op gewenste en ongewenste invoer de gewenste uitvoer.
 
@@ -25,9 +25,10 @@ Deze manier van testen testen van iedere klasse alle methodes op gewenste en ong
 
 [Unit test in C#](https://docs.microsoft.com/nl-nl/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code#BKMK_Prepare_the_walkthrough)
 
-### OefenOpdrachten
+### 2.2 OefenOpdrachten
 
-### Assert Tests
+__Assert Tests__
+
 - Assert.AreEqual
 - Assert.IsTrue
 - Assert.AreNotEqual
@@ -38,9 +39,9 @@ Deze manier van testen testen van iedere klasse alle methodes op gewenste en ong
 - inconclusive()
 - fails()
 
-## 3.1 Acceptatietest
+## 3 Acceptatietest
 
-    - Wat is een acceptatietest?
+### 3.1 Wat is een acceptatietest?
 
 Een acceptatietest wordt meestal uitgevoerd door een speciale testgroep die de uiteindelijke gebruikers representeren.
 De testers zijn aldus echte eindgebruikers en de test wordt ook uitgevoerd met echte productiegegevens, weliswaar in een
@@ -77,7 +78,7 @@ __Eenvoud__
 Aantrekkelijkheid. 
 Vergelijk de vormgeving van de website van de ene krant eens met die van een andere. De presentaties komen overeen met die van de echte kranten en appelleren aan de beoogde doelgroepen. Of vergelijk het uiterlijk van de ene auto met dat van een andere. Beide auto's hebben een specifieke doelgroep voor ogen. Een goede interface roept positieve gevoelens op bij de doelgroep.
 
-  - Hoe stel je een acceptatietestplan op?
+### 3.2 Hoe stel je een acceptatietestplan op?
 
         - Een acceptatietestplan test op bovenstaande onderdelen
         - Een acceptatieplan test op de gewenste functionaliteiten.
@@ -85,7 +86,7 @@ Vergelijk de vormgeving van de website van de ene krant eens met die van een and
 De gewenste functionaliteiten worden beschreven in het functioneel ontwerp (Use Case en activity diagrammen).
 Het acceptatietestplan bevat aldus alle activiteiten die ook in de Use Case en/of activity diagrammen zijn beschreven.
 
-  - Uitvoeren en rapporteren van een acceptatietestplan
+### 3.3 Uitvoeren en rapporteren van een acceptatietestplan
         - verbeterpunten (Change Request) n.a.v. een acceptatietest
         - Alle tests die op bovenstaande onderdelen een 'onvoldoende' scoren moet als change request worden aangemerkt (en moeten dus worden aangepast door de leverancier).
  
