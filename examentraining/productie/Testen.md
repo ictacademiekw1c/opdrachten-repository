@@ -1,12 +1,44 @@
 # Testen
 
+(Zie ook het materiaal van leerjaar 2 de Studieroute Onderhoud & Beheer, het onderdeel testen)
+
 ## 1. Black en Whitebox testing
 
 ### 1.1 Black Box testing
 
 ![Black Box Testing](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/examentraining/images/blackboxtesting.png?raw=true)
 
-#### 1.1.1 Acceptatietest
+### 1.2 White Box testing
+
+![White Box Testing](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/examentraining/images/whiteboxtesting.png?raw=true)
+
+## 2. Geautomatiseerd testen
+
+Geautomatiseerde testen worden aangemaakt en uitgevoerd in de ontwikkel- en uitbreidingsfase van het systeem. 
+Deze testen worden uitgevoerd door het ontwikkelteam zelf op het moment van integratietesten.
+
+    ## 2.1 Unittesten in C#
+
+Deze manier van testen testen van iedere klasse alle methodes op gewenste en ongewenste invoer de gewenste uitvoer.
+
+-   __Walkthrough__ 
+
+[Unit test in C#](https://docs.microsoft.com/nl-nl/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code#BKMK_Prepare_the_walkthrough)
+
+### OefenOpdrachten
+
+### Assert Tests
+- Assert.AreEqual
+- Assert.IsTrue
+- Assert.AreNotEqual
+- Assert.IsNotNull
+- Assert.IsNull
+- Assert.Isfalse
+- Assert.AreSame
+- inconclusive()
+- fails()
+
+## 3.1 Acceptatietest
 
     - Wat is een acceptatietest?
 
@@ -57,34 +89,3 @@ Het acceptatietestplan bevat aldus alle activiteiten die ook in de Use Case en/o
         - verbeterpunten (Change Request) n.a.v. een acceptatietest
         - Alle tests die op bovenstaande onderdelen een 'onvoldoende' scoren moet als change request worden aangemerkt (en moeten dus worden aangepast door de leverancier).
  
-
-### 1.2 White Box testing
-
-![White Box Testing](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/examentraining/images/whiteboxtesting.png?raw=true)
-
-## 2. Geautomatiseerd testen
-
-Geautomatiseerde testen worden aangemaakt en uitgevoerd in de ontwikkel- en uitbreidingsfase van het systeem. 
-Deze testen worden uitgevoerd door het ontwikkelteam zelf op het moment van integratietesten.
-
-## 2.1 Unittesten in C#
-
-Deze manier van testen testen van iedere klasse alle methodes op gewenste en ongewenste invoer de gewenste uitvoer.
-
--   __Walkthrough__ 
-
-[Unit test in C#](https://docs.microsoft.com/nl-nl/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code#BKMK_Prepare_the_walkthrough)
-
-### OefenOpdrachten
-
-### Assert Tests
-- Assert.AreEqual
-- Assert.IsTrue
-- Assert.AreNotEqual
-- Assert.IsNotNull
-- Assert.IsNull
-- Assert.Isfalse
-- Assert.AreSame
-- inconclusive()
-- fails()
-
