@@ -8,7 +8,7 @@ De verschillende onderdelen worden door verschillende docenten gegeven.
 Tijdens het maken van het examen heb je geen toegang tot het Internet. Wel mag je een persoonlijk aantekenschrift (handgeschreven)
 erbij houden. 
 
-Schaf een aantekenschrift aan em maak erin tijdens periode 9 en 10 aantekeningen van de examentrainingen en samenvattingen van belangrijke theorie.
+Schaf een aantekenschrift aan en maak tijdens periode 9 en 10 aantekeningen en samenvattingen van de examentrainingen van belangrijke theorie.
 
 ## 2. Doel
 
@@ -19,7 +19,7 @@ Gerichte voorbereiding op het PVB dat start in januari in het komende schooljaar
 - _ALGEMENE VAARDIGHEDEN_
     - Business model (canvas)
     - Hoe maak je/ga je om met een planning
-    - Kosteninschatting(, offreren en factureren)
+    - Kostenschatting(, offreren en factureren)
     - Samenwerken, rapporteren, evalueren en reflecteren 
 - _ANALSEREN en ONTWERPEN_
     - COGNiam
