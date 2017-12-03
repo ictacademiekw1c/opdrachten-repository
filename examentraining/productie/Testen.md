@@ -39,7 +39,7 @@ __Assert Tests__
 - inconclusive()
 - fails()
 
-## 3 Acceptatietest
+## 3. Acceptatietest
 
 ### 3.1 Wat is een acceptatietest?
 
