@@ -66,7 +66,7 @@
 ### LET OP: Je moet bij deze opdracht semantische HTML5-elementen gebruiken, dus GEEN DIV-elementen!
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2013/Opdracht%2013.4.pdf" target="_blank">Download opdracht 13.5</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2013/Opdracht%2013.4.pdf" target="_blank">Download opdracht 13.4</a>
 
 ### Onderwerpen
 *   Positioneren van elementen
