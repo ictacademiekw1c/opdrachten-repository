@@ -79,4 +79,5 @@
 ### Help
 *   <a href="http://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">HTML semantische elementen voor lay-outs</a>
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2013/Resources/lay-out.png" alt="HTML lay-out">
+Binnen oudere versies van HTML zouden hier alleen div-elementen gebruikt worden.
 ---
