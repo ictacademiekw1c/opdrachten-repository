@@ -5,6 +5,9 @@
 ---
 ## Checklist usability (hoofdstuk 5)
 ---
+
+### Startpagina
+
 37: Vertelt de homepage je bezoeker direct en duidelijk wat voor website dit is, en wat hij er mee kan?
 “Wat is dit, wat kan ik hier en hoe kun jij mij helpen?” zijn de eerste vragen van je bezoeker. Beantwoord ze zo snel, bondig en helder als je kunt!
 
@@ -29,6 +32,14 @@ Wanneer het bijvoorbeeld je belangrijkste doel is om ervoor te zorgen dat je bez
 44: Is er een telefoonnummer en eventueel (bezoek) adres op je homepage te lezen?
 Een ‘fysiek’ adres en (nog beter) je telefoonnummer wekken vertrouwen bij je bezoeker, dus plaats deze gegevens als het gepast is. Wil je nog meer vertrouwen wekken bij je bezoeker? Zet dan je persoonlijke foto (of een foto van je team) op de voorpagina. Onthoud had het internet niet daadwerkelijk bestaat als ‘fysieke wereld’! Het zijn ééntjes en nulletjes, code en plaatjes. Het plaatsen van ‘fysieke’ dingen waaruit blijkt dat er een ‘echte persoon’, of een ‘echt bedrijf’ achter de site zit, wekt een hoop vertrouwen op bij sceptische bezoekers.
 
+### Contactpagina
+
+45: Heb je een contactformulier op je website met minder dan 4 invul-velden?
+Meer dan de naam, het e-mailadres en het ‘bericht’ heb je waarschijnlijk niet nodig van je bezoeker. Des te meer informatie je van je bezoeker vraagt, des te achterdochtiger hij wordt. Voorkom dat je bezoeker denkt: “waarom moet jij mijn telefoonnummer, leeftijd en de naam van mijn moeder weten? Ik wil je gewoon even een vraag stellen“!
+
+46: Wanneer je wilt dat je bezoeker iets doet, vertel je hem dan exact wat hij moet doen, en hoe hij dat moet doen?
+‘Naam:’ is wat anders dan ‘Vul hier je voornaam in’. Wees hierin wat hulpvaardig en menselijk. Je praat tegen een persoon, niet tegen een robot.
+
 Let op: dit is slechts een deel van de criteria die voor dit onderdeel gelden!
 
 ---
@@ -51,4 +62,14 @@ Let op: dit is slechts een deel van de criteria die voor dit onderdeel gelden!
 ## Opdracht 5.2
 ---
 
-### Deze opdracht wordt binnenkort toegevoegd.
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%205/Opdracht%205.2.pdf" target="_blank">Download opdracht 5.2</a>
+
+### Onderwerpen
+*   Contactpagina's
+
+### Benodigde bestanden
+*   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+*   Zie checklist bovenaan de webpagina.
