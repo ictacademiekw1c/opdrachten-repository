@@ -12,7 +12,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 7.1, 7.2| Zo 19 november | wo 22 november  |
 | Opdracht 7.3| Zo 26 november | wo 29 november |
 | Opdracht 7.4, 7.5 | Zo 10 december | Wo 13 december |
-| Opdracht 8.1, 8.2, 8.3 | Zo 17 december | Wo 20 december |
+| Opdracht 8.1, 8.2 | Zo 17 december | Wo 20 december |
 
 <br> 
 
