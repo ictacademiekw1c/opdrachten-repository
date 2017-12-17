@@ -74,7 +74,7 @@
 *   zwevende elementen
 
 ### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
+*   <a href="http://www.eventcentreaquabest.nl/wp-content/uploads/2016/11/event2.jpg" target="_blank">Achtergrondafbeelding</a>
 
 ### Help
 *   <a href="http://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">HTML semantische elementen voor lay-outs</a>
