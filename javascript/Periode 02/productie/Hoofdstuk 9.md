@@ -23,6 +23,7 @@
 - <a href="https://www.w3schools.com/js/js_arrays.asp" target="_blank">Arrays</a>
 - <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank">while loop</a>
 - <a href="https://www.w3schools.com/js/js_loop_for.asp" target="_blank">for loop</a>
+<<<<<<< HEAD
 
 ---
 ## Opdracht 9.2
@@ -43,3 +44,5 @@
 ### Help
 - <a href="https://www.w3schools.com/js/js_arrays.asp" target="_blank">Arrays</a>
 - <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank">while loop</a>
+=======
+>>>>>>> 5c51441c31808e3a11988e2908c2ed1e7a402c56
