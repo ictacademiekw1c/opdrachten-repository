@@ -26,7 +26,8 @@ Let op: dit is slechts een deel van de criteria die voor dit onderdeel gelden!
 ### Help
 *   Zie checklist bovenaan de webpagina.
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%206/Resources/Voorbeeld%20schets%20en%20wireframe.vsdx" target="_blank">Voorbeeld schets en wireframe</a>
-
+*   Demo van het spel waarvoor je de website bouwt
+<iframe width="100%" src="https://www.youtube.com/embed/6NRSF896fNQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 ---
 ## Opdracht 6.2
 ---
