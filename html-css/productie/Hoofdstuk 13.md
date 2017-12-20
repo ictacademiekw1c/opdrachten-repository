@@ -15,7 +15,7 @@
 *   Positioneren van elementen
 
 ### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
+*   Je hebt voor deze opdracht geen bestanden nodig. 
 
 ### Help
 *   <a href="http://www.w3schools.com/cssref/pr_class_position.asp" target="_blank">Positioneren</a>
