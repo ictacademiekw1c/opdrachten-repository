@@ -75,7 +75,7 @@ Zoals:
 
 ### Onderwerpen
 **Bipolaire transistor**
-* Een transistor heeft 2 functies:
+* Een bipolaire transistor heeft 2 functies:
   * Een transistor versterkt stroom
   * Een transistor schakelt een grote stroom met een kleine **stuurstroom** door de basis
 * Type transistoren. (NPN en PNP) 
@@ -83,8 +83,10 @@ Zoals:
 * De 3 aansluitingen op een transistor heten basis, emitter en collector.
 
 **MOSFET**
-* Een MOSFET transistor laat stroom door met een **stuurspanning** op de gate
-* De Gatestroom is verwaarloosbaar klein, de Drainstroom is erg groot
+* Een MOSFET transistor heeft 2 functies:
+  * Een MOSFET transistor versterkt stroom
+  * Een MOSFET transistor schakelt een grote stroom met een kleine **stuurspanning** op de gate
+  * De Gatestroom is verwaarloosbaar klein, de Drainstroom is erg groot
 * Type MOSFET transistoren. (N-kanaal en P-kanaal) 
 * Tekensymbolen van een n-kanaal en een p-kanaal transitor
 * De 3 aansluitingen op een transistor heten basis, emitter en collector.
@@ -99,6 +101,37 @@ Zoals:
 - [Transistors, How do they work ?](https://www.youtube.com/watch?v=7ukDKVHnac4) - Youtube
 
 ------
+
+## Condensator
+
+### Onderwerpen
+* Een condensator slaat elektrische lading op.
+* Er is een kortstondige ladingsstroom.
+* De ladingsstroom is afhankelijk van:
+  * Het oppervlak van de platen;
+  * De onderlinge afstand van de platen;
+  * Het materiaal tussen de platen; (dielektricum)
+  * Zie [animatie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa05.Presentatie.Condensator.capacitor-lab_nl.jar)
+* Elektrisch gedrag bij:
+  * Gelijkspanning: de condensator geleid niet;
+  * Wisselspanning: door de laadstromen lijkt een condensator te geleiden. De weerstand is afhankelijk van de freqentie van de wisselspanning.
+
+**Keramische condensator**
+* Tekensymbool van een keramische condensator;
+* Bouw van een keramische condensator.
+
+**Elektrolytische condensator**
+* Tekensymbool van een elektrolytische condensator;
+* Bouw van een elektrolytische condensator.
+
+### Presentaties
+- [Condensator](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa05.Presentatie.Condensator.pdf)
+
+### Help
+- [Capacitors and Capacitance: Capacitor physics and circuit operation](https://www.youtube.com/watch?v=f_MZNsEqyQw) - Youtube
+- [Condensator Lab](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa05.Presentatie.Condensator.capacitor-lab_nl.jar) - PhET Interactive Simulations
+
+-------
 
 ## Opdrachten
 ---
