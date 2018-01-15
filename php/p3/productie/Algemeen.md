@@ -2,7 +2,7 @@
 
 ## Doelstelling
 Het doel van deze studieroute is studenten te leren programmeren in de server side scripting programmeertaal PHP. 
-Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicatieontwikkeling inhoudt. 
+
 
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
@@ -23,8 +23,9 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 ## Opleveren opdrachten
 
 1. Je dient al je huisopdrachten in de Github repository die je hebt aangemaakt te pushen. 
-2. Daarna laat je de opdracht uit je N@tschool aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
+2. Daarna laat je de opdracht aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren en het ook afgetekend te krijgen zodat het kan meetellen voor je huiswerkpunt**
 
+``Voor de datum van opleveren wordt er gekeken naar de commit datums van een opdracht op github.com``
 
 ## Voorkennis
 Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
@@ -38,10 +39,6 @@ PHPStorm
 ## Opleveren opdrachten
 Het huiswerk wordt iedere les op het bord geschreven. Neem dit over in je agenda! De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
-**Voorbeeld:**
-``Opleveren:``
-
-De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
 <table><thead>
 <tr>
