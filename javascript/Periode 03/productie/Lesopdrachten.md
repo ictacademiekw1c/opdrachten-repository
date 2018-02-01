@@ -1,48 +1,24 @@
-## Lesopdracht 1 Formulieren
+##Lesopdracht 1 (Events)
 
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Lesopdrachten/Lesopdracht%201.zip" target="_blank">Download het template bestand</a>
-
-**Opdracht**
-
-1. Pak het bovenstaande template bestand uit en open deze in webmatrix
-2. Lees op de opdrachten in Script.js
-3. Zodra je klaar bent, laat dit zien aan de docent!
-
-**Naslagwerk**
-- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/Reader%201%20-%20Attributen%20&%20Properties.pdf" target="_blank">Reader 1 - Attributen & Properties</a>
-- <a href="http://www.w3schools.com/jquery/html_prop.asp" target="_blank">pop() functie</a>
-- <a href="http://www.w3schools.com/jquery/event_keyup.asp" target="_blank">keyup() event</a>
-
-`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
-
----
-## Lesopdracht 2 Formulieren
-
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Lesopdrachten/Lesopdracht%202.zip" target="_blank">Download het template bestand</a>
+``Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
 
 **Opdracht**
 
-1. Pak het bovenstaande template bestand uit en open deze in webmatrix
-2. Lees de opdrachten in Script.js
-3. Zodra je klaar bent, laat dit zien aan de docent!
+We gaan enkele HTML events gebruiken om op verschillende manieren meldingen (*alert()*'s) te laten zien. We gaan dit doen door in de HTML een &lt;H1&gt; element aan te maken en hierop enkele events aan te koppelen
+
+1.  Maak in je HTML een nieuw &lt;H1&gt; element aan. Natuurlijk zorg je voor een zelf verzonnen titel in dit &lt;H1&gt; element!
+
+2.  Zorg ervoor dat er een *alert()* naar de gebruiker gaat (bedenk zelf leuke teksten) bij de volgende events op dit element:
+
+    -   onclick
+
+    -   onmouseenter
+
+    -   oncontextmenu
+
+Tip: Bekijk de voorbeelden van de events ([*Klik hier*](https://www.w3schools.com/tags/ref_eventattributes.asp)) om allerlei voorbeelden te bekijken
 
 **Naslagwerk**
-- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/Reader%201%20-%20Attributen%20&%20Properties.pdf" target="_blank">Reader 1 - Attributen & Properties</a>
-- <a href="http://www.w3schools.com/jquery/event_change.asp" target="_blank">change() event</a>
-- <a href="http://www.w3schools.com/jquery/event_keyup.asp" target="_blank">keyup() event</a>
 
-`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
-
----
-## Lesopdracht 3
-
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Lesopdrachten/Lesopdracht%203%20-%20AJAX.zip" target="_blank">Download het template bestand</a>
-
-** Opdracht**
-
-1. Pak het bovenstaande template bestand uit en open deze in je editor (PHPStorm oid)
-2. Zorg ervoor dat na het klikken op de update button de volgende dingen gebeuren
-    - Er gaat een AJAX request naar de URL "php/temperatur.php"
-    - De string die terug komt wordt geparsed naar een Object via *$.parseJSON()*
-    - De temperaturen van de 4 steden uit de AJAX request worden getoond in de &gt;table&lt;
-3. Klaar!
+-   <a href="https://www.w3schools.com/js/js_events.asp" target="_blank">HTML Events (Events in de HTML plaatsen)</a>
+-   <a href="https://www.w3schools.com/tags/ref_eventattributes.asp" target="_blank">Heel veel voorbeelden van events</a>
