@@ -13,7 +13,6 @@
 *   Installeren van SQL Server 2017.
 *   Conifgureren van SQL Server 2017.
 
-
 ### Benodigde bestanden
 *   De installatiebestanden worden in de eerste les SQL en ASP uitgedeeld op USB-stick.
 
