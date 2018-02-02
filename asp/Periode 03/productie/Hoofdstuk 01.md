@@ -7,30 +7,49 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk01/Opdracht%201.1.pdf" target="_blank">Download opdracht 1.1</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.1.pdf" target="_blank">Download opdracht 1.1</a>
 
 ### Onderwerpen
-*   Installeren van SQL Server 2017.
-*   Conifgureren van SQL Server 2017.
+*   Inrichten portfolio op N@tschool
 
 ### Benodigde bestanden
-*   De installatiebestanden worden in de eerste les SQL en ASP uitgedeeld op USB-stick.
+*   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
 
 ### Help
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk01/Resources/InrichtenWerkomgeving.pdf" target="_blank">Download InrichtenWerkomgeving.pdf</a>
-
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
 ---
 ## Opdracht 1.2
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk01/Opdracht%201.2.pdf" target="_blank">Download opdracht 1.2</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.2.pdf" target="_blank">Download opdracht 1.2</a>
 
 ### Onderwerpen
-*   Inrichten ELO
+*   Installeren van werkomgeving
+*   Inrichten werkomgeving
+
+### Benodigde bestanden
+*   [Brackets.exe](http://brackets.io/)
+
+### Help
+*   <a href="https://github.com/adobe/brackets/wiki/Troubleshooting" target="_blank">Brackets support</a>
+
+---
+## Opdracht 1.3
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.3.pdf" target="_blank">Download opdracht 1.3</a>
+
+### Onderwerpen
+*   Hoe websites gemaakt worden 
+*   Functie van HTML en CSS 
+*   Hoe het web werkt
 
 ### Benodigde bestanden
 *   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+*   Hoe het web werkt
+<iframe width="420" height="315" src="https://www.youtube.com/embed/cafVVwi1yEI" frameborder="0" allowfullscreen></iframe>
+*   <a href="http://www.w3.org/standards/webdesign/htmlcss" target="_blank">Functie van HTML en CSS</a>
