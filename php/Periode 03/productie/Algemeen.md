@@ -5,20 +5,19 @@ Het doel van deze studieroute is studenten te leren programmeren in de server si
 
 
 ## Opleverdata
-Hieronder zie de deadlines van inleveren van je opdrachten. 
+Hieronder zie je de deadlines van inleveren van je opdrachten. 
 
-|Opdracht              | &nbsp; &nbsp; Deadline **IO1?4** |  &nbsp; &nbsp;  Deadline **IO1?4** &nbsp; |
+|Opdracht              | &nbsp; &nbsp; Deadline **IO1A4**| &nbsp; &nbsp; Deadline **IO1B4**| &nbsp; &nbsp; Deadline **IO1C4**| &nbsp; &nbsp; Deadline **IO1D4** |  &nbsp; &nbsp;  Deadline **IO1E4** &nbsp; |
 |--------------------  |--------------- | --------- |
-| Opdracht | Zo  |   |
-| Opdracht | Zo  |  |
-| Opdracht  | Zo  |  |
-| Opdracht  | Zo  |  |
-| Opdracht  | Zo  |   |
-
+| Opdracht 1.1|11 feb|11 feb|11 feb|11 feb|11 feb|  
+| Opdracht 1.2|11 feb|11 feb|11 feb|11 feb|11 feb| 
+| Opdracht  |  |  |
+| Opdracht  |  |  |
+| Opdracht  |  |  |
 
 <br> 
 
-**Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op** 
+**Let op: Je dient de opdrachten voor de laatste les van die week te laten zien. Let hier dus op** 
 
 ## Opleveren opdrachten
 
@@ -28,12 +27,16 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 ``Voor de datum van opleveren wordt er gekeken naar de commit datums van een opdracht op github.com``
 
 ## Voorkennis
-Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
+Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. 
+De voorkennis die je nodig hebt voor deze studieroute is behandeld in het eerste semester in de studieroute HTML & CSS. 
+Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. 
+Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. 
+Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 
 
 ## Editor
 
-PHPStorm
+PhpStorm
 
 
 ## Opleveren opdrachten
@@ -70,3 +73,4 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 *	De opdracht is op tijd ingeleverd (gepusht) op Github.
 *	De code is overzichtelijk opgebouwd door onder andere gebruik te maken van tabs en enters.
 *	De code is voorzien van waardevol en voldoende commentaar.
+*   Elke bestand bevat een header waarin de naam van de auteur, naam van het bestand en de naam van het script is opgenomen.
