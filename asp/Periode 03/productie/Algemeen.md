@@ -68,5 +68,3 @@ Gedurende deze periode behaal je in totaal 2 cijfers.
 * Cijfer B: Toets
 
 Periodecijfer = (Cijfer A + (cijfer B * 3)) / 4
-
-#### [setSubMenuHeader]
