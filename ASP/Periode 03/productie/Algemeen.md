@@ -1,20 +1,15 @@
 # Algemene informatie
 
 ## Doelstelling
-
+In periode 1 en 2 heb je kennis gemaakt met het ontwikkelen van zogeheten statische websites. In periode 3 en 4 gaan we over tot het maken van dynamische websites, oftewel een website waarbij de HTML/CSS code gegenereerd wordt door de server. Ook het koppelen van een database komt hierbij aan bod. Daarnaast maak je kennis met Visual Studio en C#, iets waar je in leerjaar 2 nog veel meer over gaat leren. De basis hiervan leer je nu alvast in leerjaar 1. 
 
 ## Voorkennis
-Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen HTML & CSS. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
+Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. We gaan er bij dit vak vanuit dat je de kennis bezit van semester 1 als het gaat om de vakken HTML/CSS en Javascript. Deze studieroute is opgesteld om gebruikt te worden bij de lessen ASP.NET. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en verschillende externe bronnen. Tevens wordt in de lessen aanvullende uitleg gegeven door de docent. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 
 ## Editor
-Voor de lessen HTML & CSS heb je speciale software nodig, namelijk een [editor](http://en.wikipedia.org/wiki/List_of_HTML_editors). Een editor is een programma waarin je de code voor de website schrijft.
+Voor de lessen ASP.NET heb je speciale software nodig, Visual Studio 2017 Enterprise. Dit programma zal samen met SQL Server 2017 Express in de eerste week geïnstalleerd worden.
 
-Er zijn veel verschillende editors beschikbaar. Meestal wordt een onderscheid gemaakt tussen tekst- en zogenaamde WYSIWYG- (What You See Is What You Get) editors. Deze laatste editors zijn uitgebreide programma's waarbij je websites door middel van slepen en klikken opbouwt. De onderliggende code wordt dan automatisch door de software gegenereerd.
-
-Voorbeelden van dit soort editors voor het maken van websites zijn: Adobe Dreamweaver, of Microsoft Expression Web. Bij de lessen mag je **geen** gebruik maken van zo'n WYSIWYG-editor. Tijdens deze lessen gaan we gebruik maken van de editor Brackets.
-Klik op onderstaande afbeelding om het programma te downloaden.
-
-[<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Algemeen/Brackets.png">](http://brackets.io/)
+[<img src="http://english.windowsgeek.lk/wp-content/uploads/2017/02/image1.jpg">]
 
 ## Opleveren opdrachten
 Het huiswerk wordt iedere les op het bord geschreven. Neem dit over in je agenda! De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
@@ -39,7 +34,6 @@ Het huiswerk wordt iedere les op het bord geschreven. Neem dit over in je agenda
 </tr>
 </tbody></table>
 
-
 Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering waardoor het eindcijfer lager uit zal vallen.
 
 Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
@@ -52,14 +46,11 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
 
-*	Ieder bestand is voorzien van een module header.
-*	De programmacode is voorzien van waardevol en voldoende commentaar.
-*	De programmacode is overzichtelijk opgebouwd door onder andere gebruik te maken van tabs en enters.
-*	De CSS-code is geschreven in een extern CSS-bestand.
-*   Het element head bevat minstens het element meta en title.
-*   Het element meta bevat minimaal de attributen description, keywords en charset.
-*   ID's en classes worden benoemd volgens de camelCase methode. Starten met een kleine letter met het eventuele woord dat daar op volgt startend met een hoofdletter.
-*   Lege elementen worden <strong>niet</strong> afgesloten met een "/"-teken.
+Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
+
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/Programmeerafspraken%20ASP.pdf" target="_blank">Codeerafspraken ASP.pdf</a>
+
+Let op: dit document is nog in ontwikkeling en kan op bepaalde onderdelen nog worden aangepast!
 
 ## Periodecijfer
 
