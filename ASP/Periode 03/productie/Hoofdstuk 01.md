@@ -13,6 +13,7 @@
 *   Installeren werkomgeving semester 2
 
 ### Benodigde bestanden
+*   De installatiebestanden worden in de eerste les SQL en ASP uitgedeeld op USB-stick.
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/InstallatieWerkomgeving.pdf" target="_blank">InstallatieWerkomgeving.pdf</a>
 
 ### Help
