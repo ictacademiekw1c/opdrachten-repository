@@ -69,4 +69,4 @@ Gedurende deze periode behaal je in totaal 2 cijfers.
 
 Periodecijfer = (Cijfer A + (cijfer B * 3)) / 4
 
-#### [setSubMenuHeader]Testingsss
+#### [setSubMenuHeader]Algemene informatie
