@@ -7,9 +7,9 @@ In periode 1 en 2 heb je kennis gemaakt met het ontwikkelen van zogeheten statis
 Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. We gaan er bij dit vak vanuit dat je de kennis bezit van semester 1 als het gaat om de vakken HTML/CSS en Javascript. Deze studieroute is opgesteld om gebruikt te worden bij de lessen ASP.NET. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en verschillende externe bronnen. Tevens wordt in de lessen aanvullende uitleg gegeven door de docent. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 
 ## Editor
-Voor de lessen ASP.NET heb je speciale software nodig, Visual Studio 2017 Enterprise. Dit programma zal samen met SQL Server 2017 Express in de eerste week geïnstalleerd worden.
+Voor de lessen ASP.NET heb je speciale software nodig, Visual Studio 2017 Enterprise. Dit programma zal samen met SQL Server 2017 Express in de eerste week geinstalleerd worden.
 
-[<img src="http://english.windowsgeek.lk/wp-content/uploads/2017/02/image1.jpg">]
+<img src="http://english.windowsgeek.lk/wp-content/uploads/2017/02/image1.jpg" width="60%">
 
 ## Opleveren opdrachten
 Het huiswerk wordt iedere les op het bord geschreven. Neem dit over in je agenda! De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
@@ -44,9 +44,7 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 *	De opdracht is op tijd ingeleverd op N@tschool in het portfolio.
 *	De opdracht wordt ingeleverd zoals in de opdracht vermeld staat.
 
-Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
-
-Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
+Voor opdrachten vanaf hoofdstuk 2 gelden de volgende aanvullende beoordelingscriteria:
 
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/Programmeerafspraken%20ASP.pdf" target="_blank">Codeerafspraken ASP.pdf</a>
 
