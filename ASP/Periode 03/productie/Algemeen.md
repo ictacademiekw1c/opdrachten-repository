@@ -46,7 +46,7 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 
 Voor opdrachten vanaf hoofdstuk 2 gelden de volgende aanvullende beoordelingscriteria:
 
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/Programmeerafspraken%20ASP.pdf" target="_blank">Codeerafspraken ASP.pdf</a>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/Programmeerafspraken%20ASP.pdf" target="_blank">Programmeerafspraken ASP.pdf</a>
 
 Let op: dit document is nog in ontwikkeling en kan op bepaalde onderdelen nog worden aangepast!
 
