@@ -58,4 +58,4 @@ Gedurende deze periode behaal je in totaal 2 cijfers.
 * Cijfer A: Huiswerkopdrachten (25% van periodecijfer)
 * Cijfer B: Toets (75% van periodecijfer)
 
-#### [setSubMenuHeader]Testingsss
+#### [setSubMenuHeader]
