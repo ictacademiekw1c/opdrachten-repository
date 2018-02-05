@@ -14,3 +14,13 @@ Voer de opdracht uit die in de reader over bedrijf en organisatie gaat.<br>
 [Reader over bedrijf en organisatie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijf%20-%20Organisatie.docx)
 
 
+## 1.3.1 Opleveropdracht Hoofdstuk 1
+
+__Opdrachten__
+
+-   Teken een organogram van het bedrijf waar je stage hebt gelopen.
+-	Zoek 5 vacatures voor applicatieontwikkelaars met een MBO-diploma.
+-	Wat is het aanvangssalaris, eindsalaris van een MBO-er Applicatieontwikkeling.
+-	Wat is het aanvangssalaris, eindsalaris van een HBO-er Software Ontwikkelaar.
+
+Zet alle antwoorden in een word-document en lever het op via de inleveropdracht in de studieroute.
