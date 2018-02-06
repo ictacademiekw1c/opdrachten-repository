@@ -35,6 +35,7 @@
 
 ### Help
 *   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+*	Let op: De video over het aanmaken van een solution zal binnenkort worden toegevoegd!
 
 ---
 ## Opdracht 1.3

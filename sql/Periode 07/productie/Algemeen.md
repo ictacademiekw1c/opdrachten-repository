@@ -1,17 +1,17 @@
 # Algemene informatie
 
 ## Doelstelling
-Tijdens deze lessen wordt je geleerd om te gaan met databases en SQL. Je gaat in periode 3 kennismaken met databases en SQL, zodat je een eenvoudige database kunt bouwen met meerdere tabellen. Deze tabellen worden met elkaar verbonden met zogeheten relaties. Daarnaast leer je ook hoe je gegevens kunt selecteren, verwijderen en toevoegen. 
+In leerjaar 1 heb je kennis gemaakt met SQL en databases. In periode 7 gaan we verder waar we gebleven waren en gaan we ons verder verdiepen en verbreden in de DML-commando's. In periode 7 zal veel kennis uit het eerste leerjaar herhaald worden, dus zorg ervoor dat je de kennis uit het eerste leerjaar weer opgehaald hebt voordat je met de opdrachten begint.
 
 ## Voorkennis
-Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Databases en SQL. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
+Deze studieroute is bedoeld voor 2e-jaars leerlingen niveau 4 van de ICT-Academie. Al hetgeen wat in leerjaar 1 is aangeboden zal je weer moeten kunnen reproduceren.. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Databases en SQL. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 
 ## Editor
 Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
 
 <img src="https://msdnshared.blob.core.windows.net/media/2017/08/SQL-2017.png">
 
-De software wordt in de eerste les uitgereikt via een USB-stick. De installatiehandleiding vind je bij opdracht 1.1.
+De software heb je als het goed is nog op je systeem staan. Heb je de software niet meer op je systeem staan, dan vraag je je docent om hulp.
 
 ## Opleveren opdrachten
 In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
@@ -58,4 +58,4 @@ Gedurende deze periode behaal je in totaal 2 cijfers.
 * Cijfer A: Huiswerkopdrachten (25% van periodecijfer)
 * Cijfer B: Toets (75% van periodecijfer)
 
-#### [setSubMenuHeader]Testingsss
+#### [setSubMenuHeader]
