@@ -14,6 +14,8 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 7.4, 7.5 | Zo 10 december | Wo 13 december |
 | Opdracht 8.1, 8.2 | Zo 17 december | di 19 december |
 | Opdracht 9.1, 9.2 | Zo 24 december | di 9 januari  |
+| Eindopdracht Deel 1 | Do 18 januari | n.v.t |
+| Eindopdracht Deel 2 | n.v.t | n.v.t | 
 
 
 <br> 
