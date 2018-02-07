@@ -98,4 +98,7 @@ Tip: Bekijk de voorbeelden van de events ([*Klik hier*](https://www.w3schools.co
 5. Bedenk zelf de code om het H2 element te laden uitfaden!
 6. Bedenk zelf de code om ook het element met de "paragraaf1" class uit te faden
 7. Bedenk zelf de code om ook het element met het ID "bericht1" uit te faden
+8. bedenk zelf de code om ook het SPAN element binnen de H1 uit te faden
+**Extra**
+9. Bedenk zelf de code om daarna alle elementen binnen de BODY weer in te faden
 
