@@ -52,7 +52,6 @@
 
 ### Benodigde bestanden
 *   Je hebt voor deze opdracht de database <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Hoofdstuk%20herhaling/resources/H3_hearthstone.sql" target="_blank">hearthstone_flat</a> nodig.
-*	De queries werk je uit in het bestand <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Hoofdstuk%20herhaling/resources/H3_opdrachten.sql" target="_blank">H3_opdrachten.sql</a>.
 
 ### Help
 *   <a href="https://www.w3schools.com/sql/sql_select.asp" target="_blank">Selecteren van gegevens</a>
