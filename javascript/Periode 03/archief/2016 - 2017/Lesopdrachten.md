@@ -42,7 +42,7 @@
 
 1. Pak het bovenstaande template bestand uit en open deze in je editor (PHPStorm oid)
 2. Zorg ervoor dat na het klikken op de update button de volgende dingen gebeuren
-    - Er gaat een AJAX request naar de URL "php/temperatur.php"
+    - Er gaat een AJAX request naar de URL "php/temperatuur.php"
     - De string die terug komt wordt geparsed naar een Object via *$.parseJSON()*
     - De temperaturen van de 4 steden uit de AJAX request worden getoond in de &gt;table&lt;
 3. Klaar!

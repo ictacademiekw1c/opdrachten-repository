@@ -46,3 +46,56 @@ Tip: Bekijk de voorbeelden van de events ([*Klik hier*](https://www.w3schools.co
 
 -   <a href="https://www.w3schools.com/js/js_events.asp" target="_blank">HTML Events (Events in de HTML plaatsen)</a>
 -   <a href="https://www.w3schools.com/tags/ref_eventattributes.asp" target="_blank">Heel veel voorbeelden van events</a>
+
+---
+## Lesopdracht 3 (jQuery toevoegen aan je website)
+
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
+
+**Opdracht**
+
+1. Maak een nieuwe HTML bestand aan
+2. Maak hier een &lt;H1&gt; element aan met een zelfverzonnen tekst en geef deze een ID attribuut met de waarde "zelfverzonnenTekst"
+2. Koppel hier (zoals in de presentatie te zien is) de jQuery library aan
+3. Koppel hier een extern JS bestand (Script.js) aan zoals je altijd doet
+4. Voer onderstaande code binnen dit event uit:
+```
+	// Fade het element met ID "zelfverzonnenTekst" uit
+	$("#zelfverzonnenTekst").fadeOut();
+```
+5. Bedenk zelf hoe dit &lt;H1&gt; element daarna weer ingefade kan worden.
+
+---
+## Lesopdracht 4 (Selectoren)
+
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
+
+**Opdracht**
+
+1. Maak een nieuw HTML bestand aan
+2. Koppel hier zoals in de vorige lessen de jQuery library aan
+3. Koppel hier een extern JS bestand aan. Vergeet niet ```$(document)ready(  function() {  });``` toe te voegen aan je extern JS bestand
+4. Voeg de volgende HTML code toe aan de &lt;body&gt;
+```HTML
+    <body>
+        <h1>
+			Dit is een H1 tag
+		</h1>
+        <h2>
+			Dit is een H2 tag
+		</h2>
+        <p class="paragraaf1">
+			Dit is een paragraaf met een class genaamd "paragraaf1". Dit is een paragraaf met een class genaamd "paragraaf1"
+			<span>Dit is een span binnen de paragraag</span>
+		</p>
+        <h3 id="bericht1">
+			Dit is een H3 met ID 'bericht1'
+		</h3>
+    </body>
+```
+4. Laat het H1 element uitfaden via onderstaande jQuery code:
+```	$("h1").fadeOut();```
+5. Bedenk zelf de code om het H2 element te laden uitfaden!
+6. Bedenk zelf de code om ook het element met de "paragraaf1" class uit te faden
+7. Bedenk zelf de code om ook het element met het ID "bericht1" uit te faden
+
