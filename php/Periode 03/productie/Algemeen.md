@@ -10,7 +10,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4**| &nbsp; &nbsp; Deadline **IO1B4**| &nbsp; &nbsp; Deadline **IO1C4**| &nbsp; &nbsp; Deadline **IO1D4** |  &nbsp; &nbsp;  Deadline **IO1E4** &nbsp; |
 |--------------------  |--------------- | --------- |
 | Opdracht 1.1|11 feb|11 feb|11 feb|11 feb|11 feb|  
-| Opdracht  |  |  |
+| Opdracht 2.1, 2.2 | 25 febr  | 25 febr  | 25 febr |
 | Opdracht  |  |  |
 | Opdracht  |  |  |
 
