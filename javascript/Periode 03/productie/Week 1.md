@@ -44,5 +44,5 @@
 - Geen
 
 ### Help
-- <a href="https://www.w3schools.com/js/js_events.asp" target="_blank">Events</a>" target="_blank">Events</a>
+- <a href="https://www.w3schools.com/js/js_events.asp" target="_blank">Events</a>
 - <a href="https://www.w3schools.com/js/js_functions.asp" target="_blank">Functions</a>
