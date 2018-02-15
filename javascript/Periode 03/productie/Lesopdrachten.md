@@ -58,7 +58,7 @@ Tip: Bekijk de voorbeelden van de events ([*Klik hier*](https://www.w3schools.co
 2. Maak hier een &lt;H1&gt; element aan met een zelfverzonnen tekst en geef deze een ID attribuut met de waarde "zelfverzonnenTekst"
 2. Koppel hier (zoals in de presentatie te zien is) de jQuery library aan
 3. Koppel hier een extern JS bestand (Script.js) aan zoals je altijd doet
-4. Voer onderstaande code binnen dit event uit:
+4. Voer onderstaande code uit:
 ```
 	// Fade het element met ID "zelfverzonnenTekst" uit
 	$("#zelfverzonnenTekst").fadeOut();
