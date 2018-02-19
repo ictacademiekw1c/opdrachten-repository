@@ -8,8 +8,10 @@ In je examen zal je volgend getoetst worden op basis van het vastgestelde Kwalif
 
 In dit document zie je in de inhoudsopgave een overzicht van de onderdelen die gexamineerd gaan worden.
 
-![Inhoudsopgave KD](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/onderhoudenbeheer/images/o25187.png?raw=true)
+![Inhoudsopgave KD](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/onderhoudbeheer/images/o25187.png?raw=true)
 
 
 ## 0.2 Opdracht 1
+
+
 
