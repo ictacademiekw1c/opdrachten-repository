@@ -12,6 +12,12 @@
 ### Benodigde bestanden
 - Geen
 
+### Help
+- <a href="https://www.w3schools.com/jquery/jquery_get_started.asp" target="_blank">get started with jQuery</a>
+- <a href="https://www.w3schools.com/jquery/jquery_selectors.asp" target="_blank">jQuery selectors</a>
+- <a href="https://www.w3schools.com/jquery/jquery_ref_effects.asp" target="_blank">jQuery effects</a>
+- <a href="https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_win_settimeout1" target="_blank">Settimeout voorbeeld</a>
+
 ---
 ## Opdracht 12.2
 ---
