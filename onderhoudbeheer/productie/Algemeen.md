@@ -9,14 +9,20 @@ Deze site bevat:
 ## 0.2 Leerdoelen Onderhoud en Beheer
 
 Voor een applicatieontwikkelaar valt onder 'beheer en behoud' alle voorkomende werkzaamheden die zich voordoen na de oplevering van een applicatie. Bij het gebruik van een applicatie kunnen bijvoorbeeld problemen ontdekt worden die nog niet eerder zijn opgetreden. Ook kan het zijn dat de applicatie niet meer voldoet omdat de werkomstandigheden of de werkprocessen die de applicatie ondersteunt zijn veranderd. Redenen voor behoud en beheer kunnen zijn:
- - Optreden van bugs
- - Uitbreiding functionaliteit
- - Verandering van werkprocessen
- - Security upgrades
- - Re-style/-design
- - Verandering informatiebehoefte
 
 ## 0.3 Onderwerpenlijst
+
+ - Afspraken rondom product en onderhoud (SLA)
+ - Versie beheer (Git/Github/Teamservices)
+ - Optreden van bugs (aanmaken van tickets - incidentbeheer)
+ - Uitbreiding en wijzigingen van functionaliteiten (change requests)
+ - Verandering van werkprocessen (procedures)
+ - Verandering informatiebehoefte (reverse engineering)
+ - acceptatietest
+ - implementatietraject, implementatietest
+ - geautomatiseerde testtechniek (unit testing)
+ - andere testonderwerpen
+ - waterval vs. scrum/agile IT projecten
 
 
 ## 0.4 Opdrachten
