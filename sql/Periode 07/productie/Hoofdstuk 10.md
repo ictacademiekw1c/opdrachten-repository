@@ -37,4 +37,7 @@
 ### Help
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Hoofdstuk%2010/resources/102_schema.png">
 *   <a href="https://www.w3schools.com/sql/sql_in.asp" target="_blank">IN en Subquery</a>
+*   <a href="https://www.w3schools.com/sql/sql_alias.asp" target="_blank">AS (alias)</a>
+
+
 
