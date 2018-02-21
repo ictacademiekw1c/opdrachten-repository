@@ -16,9 +16,8 @@
 ### Benodigde bestanden
 *   De installatiebestanden worden in de eerste les SQL en ASP uitgedeeld op USB-stick.
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/InstallatieWerkomgeving.pdf" target="_blank">InstallatieWerkomgeving.pdf</a>
-
 ### Help
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk01/Resources/InrichtenWerkomgeving.pdf" target="_blank">Download InrichtenWerkomgeving.pdf</a>
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
 
 ---
 ## Opdracht 1.2
