@@ -2,12 +2,18 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+*.vs/
 /.vs/VSWorkspaceState.json
 /.vs/slnx.sqlite
-*.vs/
+
 .idea/
 
-
+###### werkt dit wel???
+## D:/Owncloud/Documents/KW1C/Source/Repos/opdrachten-repository/.vs/opdrachten-repository/v15/.suo
+**/*.suo
+######
 *.suo
 *.user
 *.userosscache
@@ -28,8 +34,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 
-# Visual Studio 2015/2017 cache/options directory
-.vs/
+
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
