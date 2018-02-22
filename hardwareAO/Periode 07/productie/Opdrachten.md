@@ -66,3 +66,7 @@ Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr3_Arduino_Hoofdstuk5-OfEnfunctie.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_05_Of__En_functie.ino)
 
+**Hoofdstuk 6 Of/En functie**
+* [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr3_Arduino_Hoofdstuk6-AnalogInSerialOut.pdf)
+* [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_06_AnalogInSerialOut.ino)
+
