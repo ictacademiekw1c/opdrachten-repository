@@ -13,7 +13,16 @@ Wat betekent CRM? Het is een afkorting die staat voor Customer Relationship Mana
 - Wat kun je met HRM software<br>
 HRM software ondersteunt HRM processen in de breedste zin. Personeelsinformatie- en salarissystemen kennen al een lange historie als basisadministratie voor HRM. Daarnaast bestaan er veel toepassingen voor de meer strategische kant van HRM, zoals voor talentmanagement, assessment, recruitment, arbeidsmarktcommunicatie, etc. 
 
-## 3.3 Les - (Oplever-)Opdracht 4 Softwaresystemen
+## 3.3 Opdracht 3 Softwaresystemen
 
-Zoek ook de wat andere typen softwaresystemen zijn en hoe deze bepaalde bedrijfsprocessen ondersteunen.
-(MRP, SRM, CAD, WMS, ERP, POS). Lever het op via de opleveropdracht Hoofdstuk3 in N@tschool.
+Doe verder onderzoek naar de verschillende soorten softwaresystemen.
+<br>Beantwoord daarbij per afkorting de volgende vragen:
+- Waar staat de afkorting voor?
+- Welke afdelingen hebben deze software nodig?
+- Welke bedrijfsprocessen ondersteunen ze? Noem er minimaal 1 per softwaresysteem.
+- Noem een naam en leverancier van een software systeem
+
+De volgende softwaresystemen moet je onderzoeken:<br>
+``CRM, HRM, MRP, SRM, CAD, WMS, ERP, en POS.`` 
+
+Lever het op via de opleveropdracht Hoofdstuk3 in N@tschool.
