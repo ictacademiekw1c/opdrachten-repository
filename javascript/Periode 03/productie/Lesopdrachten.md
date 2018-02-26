@@ -121,7 +121,8 @@ Doorloop de opdrachten die horen bij de kopjes
 -	CDD Pseudo Elements 
 
 op deze site: <a href="https://www.w3schools.com/css/exercise.asp" target="_blank">w3schools</a> 
-Naslagwerk
+
+**Naslagwerk**
 •	Alle selectoren zijn terug te vinden op W3Schools: <a href="http://www.w3schools.com/jquery/jquery_ref_selectors.asp">w3 schools</a>
 
 
