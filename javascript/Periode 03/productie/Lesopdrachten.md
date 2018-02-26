@@ -102,3 +102,26 @@ Tip: Bekijk de voorbeelden van de events ([*Klik hier*](https://www.w3schools.co
 **Extra**
 9. Bedenk zelf de code om daarna alle elementen binnen de BODY weer in te faden
 
+
+---
+## Lesopdracht 5 (CSS Selectoren)
+
+`` Klaar? Toon de uitwerking aan de docent, daarna mag je verder werken aan je huiswerk.``
+
+Bij deze lesopdracht heb je twee opties. Je hoeft dus niet allebei de opdrachten te maken, maar je mag kiezen welke van de twee je uitvoert. 
+
+**Keuze 1:**
+Doorloop de 32 levels van CSS Diner op https://flukeout.github.io/ 
+
+
+**Keuze 2:** 
+Doorloop de opdrachten die horen bij de kopjes 
+-	CSS Combinators
+-	CSS Pleudo-classen
+-	CDD Pseudo Elements 
+
+op deze site: <a href="https://www.w3schools.com/css/exercise.asp" target="_blank">w3schools</a> 
+Naslagwerk
+•	Alle selectoren zijn terug te vinden op W3Schools: <a href="http://www.w3schools.com/jquery/jquery_ref_selectors.asp">w3 schools</a>
+
+
