@@ -16,6 +16,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 8.1/9.1 Elfstedentocht of BreukdeelMachine | 28 feb | 2 mrt | 2 mrt |
 | Opdracht 10.1 Enkelvoudige array | 2 mrt | 9 mrt | 9 mrt |
 | Opdracht 11.1 10 Munten | 5 mrt | 9 mrt | 9 mrt |
+||||
 
 
 __Opleveren voor of op de deadline levert 2 punten op na goedkeuring door docent__<br><br>
