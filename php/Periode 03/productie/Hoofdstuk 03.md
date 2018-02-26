@@ -23,18 +23,20 @@
 ## Opdracht 3.2
 
 ### Download
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdracht3.2.pdf" target="_blank">Download opdracht 3.2</a>
 
-Opdracht 3.2 komt zsm
 
 ### Onderwerpen
-- include
-- require
+- Variabelen
+- If / else
+- Logical operators
 
 ### Benodigde bestanden
+- Geen
 
 ### Help
-
-- [Uitleg include en require](https://www.w3schools.com/php/php_includes.asp)
+- <a href="http://php.net/manual/en/control-structures.elseif.php" target="_blank">If / else if / else </a>
+- <a href="http://php.net/manual/en/language.operators.logical.php" target="_blank">Logical operators</a>
 
 ---
 
