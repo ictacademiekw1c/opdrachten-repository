@@ -8,7 +8,7 @@
 
 [![Bedrijf, organisatie onderneming](http://img.youtube.com/vi/33fjBhQHcn4/0.jpg)](http://www.youtube.com/watch?v=33fjBhQHcn4)
 
-## 1.3 Huiswerkopdracht 1 reader 
+## 1.3 Inleveropdracht 1
 
 __Opdrachten__
 
