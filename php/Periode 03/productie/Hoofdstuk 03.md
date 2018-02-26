@@ -1,8 +1,43 @@
 #### [kleurcode]rgba(156,39,176,1)
 
 # Hoofdstuk 3
+---
+## Opdracht 3.1
+
+### Download
+
+[Opdracht3.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdracht3.1.pdf)
+
+### Onderwerpen
+- Datatypes
+- String concat
+
+### Benodigde bestanden
+
+### Help
+
+- <a href="https://www.w3schools.com/php/showphp.asp?filename=demo_syntax_case2" target="_blank">String concat via .</a>
 
 ---
+
+## Opdracht 3.2
+
+### Download
+
+Opdracht 3.2 komt zsm
+
+### Onderwerpen
+- include
+- require
+
+### Benodigde bestanden
+
+### Help
+
+- [Uitleg include en require](https://www.w3schools.com/php/php_includes.asp)
+
+---
+
 ## Opdracht 3.3
 
 ### Download
@@ -12,7 +47,6 @@
 ### Onderwerpen
 - include
 - require
-
 
 ### Benodigde bestanden
 
