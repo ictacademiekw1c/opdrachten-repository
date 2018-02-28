@@ -7,8 +7,10 @@ Het doel van deze studieroute is studenten te leren programmeren in een embedded
 Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO2A4** | &nbsp; &nbsp; Deadline **IO2B4** | &nbsp; &nbsp; Deadline **IO2C4** |
-|--------------------  |--------------- | --------- | --------- | --------- | --------- |
-| Opdracht 1, <br> Opdracht 2,<br> Opdracht 3,<br> Opdracht 4,<br> Opdracht 5,<br> Opdracht 6,<br> Opdracht 7,<br> Opdracht 8,<br> Opdracht 9,<br> Opdracht 10,<br> Opdracht 11,<br> Opdracht 12,<br> Opdracht 13,<br> Opdracht 14,<br> Opdracht 15,<br> Opdracht 16  | 29 maart  | 29 maart  | 29 maart  |
+|--------------------  |--------------- | --------- | --------- |
+| Opdracht 1, <br>Opdracht 2,<br>Opdracht 3,<br>Opdracht 4,<br>Opdracht 5,<br>Opdracht 6,<br>Opdracht 7,<br>Opdracht 8,<br>Opdracht 9,<br>Opdracht 10,<br>Opdracht 11,<br>Opdracht 12,<br>Opdracht 13,<br>Opdracht 14,<br>Opdracht 15,<br>Opdracht 16  | 29 maart  | 29 maart  | 29 maart  |
+
+
 
 
 <br> 
@@ -31,7 +33,7 @@ Voor de lessen HardwareAO heb je een IDE voor Arduino nodig. Hier zijn drie moge
 * Visual Studio plugin van [Micro Visual](http://www.visualmicro.com/).
   * Installeren vanuit Visual Studio: Tools -> Extensions and updates -> Search "Arduino IDE for Visual Studio" -> install
   * Directe download: [Visual Studio plugin](https://marketplace.visualstudio.com/items?itemName=VisualMicro.ArduinoIDEforVisualStudio) - Visual Micro
-  Geen licentie vrije pluggin maar je kunt de evaluatieversie vrij gebruiken.
+  Geen licentie vrije plugin maar je kunt de evaluatieversie vrij gebruiken.
 
 ## Opleveren opdrachten
 De praktikum opdrachten worden ingeleverd in de Elektronische LeerOmgeving van de ICT academie en in de les beoordeeld met een waardering van 0, 1 of 2.
@@ -70,11 +72,10 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 
 Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
 *	De opdracht is op tijd ingeleverd op ELO in het portfolio.
-*	De opdracht wordt ingeleverd als een pdf-bestand.
-*	Het verslag heeft heeft een duidelijke intro. (module header) 
-*	Het verslag is overzichtelijk opgebouwd door de structuur en het voorgeschreven template te gebruiken.
- 
+		De opdracht wordt ingeleverd als een pdf-bestand.
+		Het verslag heeft heeft een duidelijke intro. (module header) 
+		Het verslag is overzichtelijk opgebouwd door de structuur en het voorgeschreven template te gebruiken.
+
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
- 
+
 *	De experimenten die uitgevoerd zijn vastgelegd in een verslag volgens het betreffende Opdracht template.
-*   
