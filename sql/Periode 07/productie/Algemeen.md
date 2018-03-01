@@ -6,6 +6,18 @@ In leerjaar 1 heb je kennis gemaakt met SQL en databases. In periode 7 gaan we v
 ## Voorkennis
 Deze studieroute is bedoeld voor 2e-jaars leerlingen niveau 4 van de ICT-Academie. Al hetgeen wat in leerjaar 1 is aangeboden zal je weer moeten kunnen reproduceren.. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Databases en SQL. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 
+## Opleverdata
+Hieronder zie de deadlines van inleveren van je opdrachten. 
+
+|Opdracht              | &nbsp; &nbsp; Deadline IO2A4, IO2B4, IO2C4  |
+|--------------------  |--------------- |
+| Opdracht H.1, H.2, H.3 |  Vrijdag 28 februari |
+| Opdracht 10.1, 10.2 | Vrijdag 2 maart |
+| Opdracht 11.1, 11.2, 11.3 | Vrijdag 16 maart |
+<br> 
+
+**Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
+
 ## Editor
 Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
 
