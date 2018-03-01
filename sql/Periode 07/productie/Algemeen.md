@@ -9,9 +9,9 @@ Deze studieroute is bedoeld voor 2e-jaars leerlingen niveau 4 van de ICT-Academi
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
 
-|Opdracht              | &nbsp; &nbsp; Deadline IO2A4, IO2B4, IO2C4  |
+|Opdracht              | &nbsp; &nbsp; Deadline IO2A4, IO2B4, IO2C4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
-| Opdracht H.1, H.2, H.3 |  Vrijdag 28 februari |
+| Opdracht H.1, H.2, H.3 |  Vrijdag 23 februari |
 | Opdracht 10.1, 10.2 | Vrijdag 2 maart |
 | Opdracht 11.1, 11.2, 11.3 | Vrijdag 16 maart |
 <br> 
