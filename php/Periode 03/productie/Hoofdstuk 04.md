@@ -18,8 +18,8 @@ n.v.t.
 
 ### Help
 
-- [php date() functie](http://php.net/manual/en/function.date.php)
-- [if/else constructie](https://www.w3schools.com/php/php_if_else.asp) 
+- [php date() functie](http://php.net/manual/en/function.date.php){:target="_blank"}
+- [if/else constructie](https://www.w3schools.com/php/php_if_else.asp){:target="_blank"}
 
 ---
 
