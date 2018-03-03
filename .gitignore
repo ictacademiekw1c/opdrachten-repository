@@ -10,10 +10,7 @@
 .vs
 .idea/
 
-###### werkt dit wel???
-## D:/Owncloud/Documents/KW1C/Source/Repos/opdrachten-repository/.vs/opdrachten-repository/v15/.suo
 **/*.suo
-######
 *.suo
 *.user
 *.userosscache
