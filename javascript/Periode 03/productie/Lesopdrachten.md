@@ -124,5 +124,58 @@ op deze site: <a href="https://www.w3schools.com/css/exercise.asp" target="_blan
 
 **Naslagwerk**
 •	Alle selectoren zijn terug te vinden op W3Schools: <a href="http://www.w3schools.com/jquery/jquery_ref_selectors.asp">w3 schools</a>
+---
+
+## Lesopdracht 6 (jQuery events)
+
+**Opdracht**
+1. Maak een nieuw HTML bestand aan
+2. Voeg de volgende HTML toe aan de &lt;body&gt;:
+```html
+	<button id="button1">Klik mij!</button>
+	<hr>
+	<p id="paragraph1">Ga met je muis over mij heen!</p>
+	<hr>
+	<form id="form1" action="http://www.kw1c.nl" method="get">
+		<input type="text" id="inputText1">
+		<input type="submit" value="Verstuur!">
+	</form>
+```
+3. Koppel hier zoals in de vorige lessen de jQuery library aan
+4. Koppel hier een extern JS bestand aan
+5. Voeg in dit extern js bestand de bekende document.ready() code toe (zie presentaties Week 4 Les1, Sheet 7)
+6. Zorg ervoor dat er per event op de onderstaande elementen een *alert()* getoond gaat worden met daarin de gegeven tekst:
+<table>
+<tr>
+<th>Element ID</th>
+<th>Event</th>
+<th>Tekst van de *alert()*</th> 
+</tr>
+<tr>
+<td>#button1</td>
+<td>.click</td>
+<td>"Dankje voor het klikkken!"</td>
+</tr>
+<tr>
+<td>#paragraph1</td>
+<td>.hover</td>
+<td>"Je hebt mij gehoverd. Netjes, netjes"</td>
+</tr>
+<tr>
+<td>#form1</td>
+<td>.submit</td>
+<td>"Dankje voor het invullen!</td>
+</tr>
+<tr>
+<td>#inputText1</td>
+<td>.keyup</td>
+<td>"Hallo, hier spreekt je toetsenbord"</td>
+</tr>
+</table>
+
+**Naslagwerk**
+- <a href="http://www.w3schools.com/jquery/jquery_events.asp" target="_blank">jQuery Events</a>
 
 
+**Extra opdracht**
+Probeer uit te vinden hoe je bij het *submit()* event van het formuliertje kunt voorkomen dat de bezoeker doorgestuurd wordt naar www.kw1c.nl!. Tip: Lees <a href="https://api.jquery.com/submit/" target="_blank">api.jquery.com/submit</a>
