@@ -26,3 +26,24 @@ De volgende softwaresystemen moet je onderzoeken:<br>
 ``CRM, HRM, MRP, SRM, CAD, WMS, ERP, en POS.`` 
 
 Lever het op via de opleveropdracht Hoofdstuk3 in N@tschool.
+
+## 3.4 Bedrijfsprocessen en UML Use diagrammen
+
+Bedrijfsprocessen kunnen worden beschreven als Use case diagrammen en zijn zijn zodoende ook vaak onderdeel van een functioneel ontwerp.
+
+In een globale Use Case diagram is het de bedoeling dat de volgende onderdelen in het diagram aanwezig moeten zijn:
+
+- Welke verschillende rollen/gebruikers zijn aanwezig/spelen een rol?
+- Met welke andere systemen/bedrijfsprocessen heeft met dit bedrijfsproces een uitwisseling van informatie?
+- Welke informatie uitwisseling vindt er plaats met de gebruikers en het bedrijfsproces/systeem? 
+
+Een CRM pakket zou op de volgende manier in een Use Case kunnen worden beschreven:
+
+[CRM Use Case diagram](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/04.%20Aanvullend/CRM1.pdf)
+
+## 3.5 Opdracht UML Use diagram
+
+Maak in Visio (Categorie > Software & Database > UML Use Case diagram) een Use Case diagram voor een bioscoop systeem.
+Beantwoord dezelfde vragen als hierboven en visualiseer dat vervolgens in een Use Case diagram.
+
+In de volgende les worden de Use Case diagrammen bekeken en beoordeeld. 
