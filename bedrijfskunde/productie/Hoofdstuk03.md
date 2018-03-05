@@ -43,7 +43,7 @@ In een globale Use Case diagram wordt het systeem gezien als 1 bedrijfsproces me
 
 [CRM Use Case diagram](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/04.%20Aanvullend/CRM1.pdf)
 
-## 3.5 Opdracht UML Use diagram
+## 3.5 Opdracht UML Use Case diagram
 
 Maak in Visio (Categorie > Software & Database > UML Use Case diagram) een Use Case diagram voor een bioscoop systeem.
 Beantwoord dezelfde vragen als hierboven en visualiseer dat vervolgens in een Use Case diagram.
