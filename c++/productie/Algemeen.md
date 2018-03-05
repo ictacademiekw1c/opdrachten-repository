@@ -14,9 +14,11 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 6.1 Leerlinggegevens| 26 feb | 23 feb | 23 feb |
 | Opdracht 7.1 Toetsgegevens | 26 feb | 2 mrt | 2 mrt |
 | Opdracht 8.1/9.1 Elfstedentocht of BreukdeelMachine | 28 feb | 2 mrt | 2 mrt |
-| Opdracht 10.1 Enkelvoudige array | 2 mrt | 9 mrt | 9 mrt |
-| Opdracht 11.1 10 Munten | 5 mrt | -- | -- |
+| Opdracht 10.1 Enkelvoudige array | 9 mrt | 9 mrt | 9 mrt |
+| Opdracht 11.1 10 Munten/Boter, Kaas Eieren | 9 mrt | -- | -- |
 | Opdracht 12.1 Waterschapsverkiezingen | -- | 9 mrt | 9 mrt |
+| Opdracht 14.1 NYCM | 16 mrt |  |  |
+| Opdracht 15.1 Leerlinggegevens | 16 mrt |  |  |
 | | | | |
 | Toets C++ | 4 apr | 4 apr | 4 apr |
 
