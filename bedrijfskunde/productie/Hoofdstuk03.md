@@ -34,10 +34,12 @@ Bedrijfsprocessen kunnen worden beschreven als Use case diagrammen en zijn zijn 
 In een globale Use Case diagram is het de bedoeling dat de volgende onderdelen in het diagram aanwezig moeten zijn:
 
 - Welke verschillende rollen/gebruikers zijn aanwezig/spelen een rol?
-- Met welke andere systemen/bedrijfsprocessen heeft met dit bedrijfsproces een uitwisseling van informatie?
-- Welke informatie uitwisseling vindt er plaats met de gebruikers en het bedrijfsproces/systeem? 
+- Met welke andere systemen/bedrijfsprocessen heeft met het CRM bedrijfsproces een uitwisseling van informatie?
+- Welke informatie uitwisseling vindt er plaats met de gebruikers en het CRM systeem? 
 
 Een CRM pakket zou op de volgende manier in een Use Case kunnen worden beschreven:
+
+In een globale Use Case diagram wordt het systeem gezien als 1 bedrijfsproces met verschillende gebruikers/systemen eromheen.
 
 [CRM Use Case diagram](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/04.%20Aanvullend/CRM1.pdf)
 
@@ -46,4 +48,6 @@ Een CRM pakket zou op de volgende manier in een Use Case kunnen worden beschreve
 Maak in Visio (Categorie > Software & Database > UML Use Case diagram) een Use Case diagram voor een bioscoop systeem.
 Beantwoord dezelfde vragen als hierboven en visualiseer dat vervolgens in een Use Case diagram.
 
+Lever de opdracht in via de inleveropdracht UML Use Case bisoscoop systeem.
+<br>
 In de volgende les worden de Use Case diagrammen bekeken en beoordeeld. 
