@@ -65,3 +65,27 @@ n.v.t.
 - [php while loop](https://www.w3schools.com/php/php_looping.asp){:target="_blank"}
 
 ---
+
+
+## Opdracht 4.4
+
+### Download
+
+[Opdracht4.4](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdracht%204.4.pdf){:target="_blank"}
+
+### Onderwerpen
+- include
+- while loop
+- numerieke arrays
+- associatieve arrays
+- foreach loop
+
+### Benodigde bestanden
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/screenshot_hema.pdf" target="_blank">screenshot_hema.pdf</a>
+
+### Help
+- [numeric array](https://www.w3schools.in/php/arrays/#numeric_array){:target="_blank"}
+- [associative array](https://www.w3schools.in/php/arrays/#associative_array){:target="_blank"}
+- [associative array](https://www.w3schools.in/php/arrays/#associative_array){:target="_blank"}
+- [foreach loop](https://www.w3schools.com/php/showphp.asp?filename=demo_loop_foreach){:target="_blank"}
+---
