@@ -48,6 +48,6 @@ In een globale Use Case diagram wordt het systeem gezien als 1 bedrijfsproces me
 Maak in Visio (Categorie > Software & Database > UML Use Case diagram) een Use Case diagram voor een bioscoop systeem.
 Beantwoord dezelfde vragen als hierboven en visualiseer dat vervolgens in een Use Case diagram.
 
-Lever de opdracht in via de inleveropdracht UML Use Case bisoscoop systeem.
+Lever de opdracht in via de inleveropdracht UML Use Case bioscoop systeem.
 <br>
 In de volgende les worden de Use Case diagrammen bekeken en beoordeeld. 
