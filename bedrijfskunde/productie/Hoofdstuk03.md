@@ -41,7 +41,9 @@ Een CRM pakket zou op de volgende manier in een Use Case kunnen worden beschreve
 
 In een globale Use Case diagram wordt het systeem gezien als 1 bedrijfsproces met verschillende gebruikers/systemen eromheen.
 
-[CRM Use Case diagram](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/04.%20Aanvullend/CRM1.pdf)
+
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/04.%20Aanvullend/CRM1.pdf" target="_new">CRM Use Case diagram</a>
+
 
 ## 3.5 Opdracht UML Use Case diagram
 
