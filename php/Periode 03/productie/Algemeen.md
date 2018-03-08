@@ -12,7 +12,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 1.1|11 feb| zo 11 feb| zo 11 feb| zo 11 feb| zo 11 feb|  
 | Opdracht 2.1, 2.2 | zo 25 febr  | zo 25 febr  | zo 25 febr | zo 25 feb | zo 25 febr |
 | Opdracht 3.1, 3.2, 3.3 | Zo 4 mrt | Zo 4 mrt  | Zo 4 mrt | Zo 4 mrt | Zo 4 mrt |
-| Opdracht 4.1, 4.2, 4.3, 4.4 | Zo 11 mrt  | Zo 11 mrt | Zo 11 mrt | Zo 11 mrt | Zo 11 mrt |
+| Opdracht 4.1, 4.2, 4.3, 4.4 | Zo 11 mrt  | Zo 11 mrt | Zo 11 mrt | (Alleen 4.1 & 4.2)  Zo 11 mrt | Zo 11 mrt |
 
 <br> 
 
