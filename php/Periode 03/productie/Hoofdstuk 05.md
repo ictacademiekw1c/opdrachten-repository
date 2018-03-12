@@ -6,7 +6,7 @@
 
 ### Download
 
-[Opdracht 5.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.22%20PHP]%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Archief/2016%20-%202017/Productie%20PHP%20P3/02.%20Opdrachten/opdracht%205.1.pdf)
+[Opdracht 5.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdracht%205.1.pdf)
 
 ### Onderwerpen
 - HTML Formulieren
@@ -27,7 +27,7 @@ n.v.t.
 
 ### Download
 
-[Opdracht5.2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdracht%205.2.pdf)
+[Opdracht 5.2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdracht%205.2.pdf)
 
 ### Onderwerpen
 - HTML Formulieren
