@@ -1,11 +1,13 @@
 #HOOFDSTUK 10#
 In hoofdstuk 10 wordt het volgende onderwerp uitgewerkt in de opdracht:
 - Gebruik van een array om de data van het kennisgrammatica diagram in op te slaan.
+
+
 ##ARRAYS##
 Een array is een zogeheten datastructuur waarin je veel waarden van hetzelfde type kunt opbergen. "Veel" betekend dat het aantal elementen in de array kunnen varieren van enkel tot vele tienduizenden.
 Je moet echter al bij de declaratie aangeven hoeveel elementen er zijn. 
 
-###DECLARATIE###
+###Declaratie###
 een voorbeeld van een declaratie van een C-array die a heet en waarin vijf int-waarden kunnen worden opgeborgen ziet er zo uit:
 
 ``` C++
@@ -28,7 +30,7 @@ De array bestaat uit 5 elementen. Om de elementen van een array van elkaar te ku
 
 Met behulp van de naam van de array en de index krijgt elk element zijn eigen naam. In dit voorbeeld *a[0], a[1], a[2], a[3], a[4],*. De vierkante haken die je in deze notatie gebruikt heten de subscript-operator of index-operator.
 
-###INITIALISATIE###
+###Initialisatie###
 ``` C++
 // Initialisatie
 int a[5] = { 12, 23, 34, 45, 56 } ;
@@ -36,7 +38,7 @@ int a[5] = { 12, 23, 34, 45, 56 } ;
 int a[] = { 12, 23, 34, 45, 56 } ;
 ```
 
-###TOEKENNEN###
+###Toekennen###
 ``` C++
 // Toekennen
 int b;

@@ -18,7 +18,7 @@ struct type_naam
 } object_namen;
 ```
 
-###DECLARATIE###
+###Declaratie###
 een voorbeeld van een declaratie van een C-struct die product heet en waarin een *int* en *double* waarden kunnen worden opgeborgen ziet er zo uit:
 
 ``` C++
@@ -44,7 +44,7 @@ schematisch ziet deze *struct* er in het geheugen van de computer uit als in de 
 ```
 De *struct* bestaat uit 2 *members*. Iedere *member* is van een ander *datatype*. Om de *members* van een *struct* van elkaar te kunnen onderscheiden hebben ze een eigen unieke naam. 
 
-###TOEKENNEN###
+###Toekennen###
 Met behulp van de naam van de *struct* en de naam van de *member* kun je de elementen individueel uitlezen en schrijven. In dit voorbeeld apple.gewicht, appel.prijs. De punt tussen de *struct*-naam en de *member*- naam heet de *punt*-operator.
 
 ``` C++
@@ -87,10 +87,10 @@ artikel2 = artikel1;
 
 Na de toekenning hebben de *members* van artikel2 precies dezelfde waarden als de *members* van artikel1
 
-###STRUCTURE ALS ARGUMENT VAN EEN FUNCTIES###
+###Structure als argument van een functies###
 Net als andere variabelen kan een *struct* een *argument* zijn van een functie. en net als bij andere variabelen kan zo'n *argument* op drie manieren voorkomen, namelijk als 
 - value-argument
-- reference;
+- [reference](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/04.%20Aanvullend/Reference-argument_AanDeSlagMetC++_2002.pdf);
 - pointer;
 
 
