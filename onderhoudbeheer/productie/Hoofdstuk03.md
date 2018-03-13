@@ -14,7 +14,7 @@ Het watervalmodel bestaat uit de volgende fasen:
     - Model-Based Application Development (MAD)
     - Normaliseren tot de Boyce Codd Normaal Vorm (BCNV)
     
-- Functioneel ontwerp <br>Er wordt duidelijker uitgewerkt wat er tijdens de eerste fase naar boven is gekomen. In deze fase worden de wensen van de klant op papier gezet en wordt al gedacht aan de vorm van het programma. In deze fase wordt vastgelegd wat het op te leveren systeem moet doen.
+- Functioneel ontwerp <br> In deze fase worden de wensen en eisen van de klant op papier gezet. In deze fase wordt vastgelegd wat het op te leveren systeem moet doen. Het resultaat van de analyse wordt in het functioneel ontwerp beschreven.
 - Technisch ontwerp<br> Aan de hand van het functioneel ontwerp kan er een werkelijk programma uitgedacht worden. In deze fase wordt vastgelegd hoe de in het basisontwerp vastgelegde functionaliteit gerealiseerd gaat worden. Nu vindt ook een onderverdeling plaats in technische eenheden zoals programma's, modules en functies.
 - Bouw. <br>Hier wordt de broncode van de programma's geschreven.
 - Testen. <br>Er wordt gecontroleerd of de software goed volgens de ontwerpen is gebouwd. Ook kunnen er in deze fase fouten boven water komen die al in eerdere stadia gemaakt zijn.
