@@ -1,5 +1,42 @@
 # Hoofdstuk 3 Waterval versus Scrum/Agile
 
+Er kan op verschillende manieren een IT project worden uitgevoerd. In de loop van de jaren zijn er verschillende ontwikkelmethodieken daarvoor ontwikkeld.
+De waterval methodiek is een methodiek die jarenlang door heel IT bedrijven is gehanteerd als de manier hoe je een IT project moet aanpakken.
+ 
+
 ## 3.1 Waterval
+
+Het watervalmodel bestaat uit de volgende fasen:
+- Analyse. <br>Er wordt onderzoek gedaan naar wat het doel is van de software. Hierin worden interviews gedaan met alle betrokkenen en alle toekomstige gebruikers van het systeem. Ook wordt de informatiebehoefte bepaald met behulp van een informatie analyse methode.
+ <br> 
+    - CogNiam
+    - Informatieanalyse volgens het ER-Model
+    - Model-Based Application Development (MAD)
+    - Normaliseren tot de Boyce Codd Normaal Vorm (BCNV)
+    
+- Functioneel ontwerp <br>Er wordt duidelijker uitgewerkt wat er tijdens de eerste fase naar boven is gekomen. In deze fase worden de wensen van de klant op papier gezet en wordt al gedacht aan de vorm van het programma. In deze fase wordt vastgelegd wat het op te leveren systeem moet doen.
+- Technisch ontwerp<br> Aan de hand van het functioneel ontwerp kan er een werkelijk programma uitgedacht worden. In deze fase wordt vastgelegd hoe de in het basisontwerp vastgelegde functionaliteit gerealiseerd gaat worden. Nu vindt ook een onderverdeling plaats in technische eenheden zoals programma's, modules en functies.
+- Bouw. <br>Hier wordt de broncode van de programma's geschreven.
+- Testen. <br>Er wordt gecontroleerd of de software goed volgens de ontwerpen is gebouwd. Ook kunnen er in deze fase fouten boven water komen die al in eerdere stadia gemaakt zijn.
+- Implementatie.<br> Het systeem is klaar en getest. Toch zal het nog in het bedrijf in gebruik genomen moeten worden. Dat wordt gedaan in deze fase.
+- Beheer en onderhoud. <br>Om er voor te zorgen dat het systeem het blijft doen zal er onderhoud verricht moeten worden.
+
+Het watervalmodel bestaat uit verschillende fasen. Iedere fase heeft een eigen niveau dat tevens de volgorde bepaalt. Het hoogste niveau wordt als eerste uitgevoerd en vervolgens de lagere fasen. Dit is gelijk aan de natuurlijke werking van een waterval en vandaar ook de naam. Hierboven is goed te zien dat de verschillende fasen van boven naar beneden lopen.
+
+### 3.1.1 Lesopdrachten
+
+Na de introductie door de docent werk je aan de volgende opdrachten (in groepsvorm met maximaal 3 leerlingen). 
+
+  1. Vergelijk de waterval methode met jullie kwalificatiedossier. Noteer de verschillen en overeenkomsten
+  2. Er zijn meerdere methodieken die gebaseerd zijn op de watervalmethodiek. Zoek er minimaal 2 op.
+  3. Welke technieken/vaardigheden heb je totnutoe geleerd of heb je ervaring om elke fase uit te voeren (op school en stage)?
+  4. Zoek op internet een afbeelding die de waterval methodiek visueel weergeeft. Teken de afbeelding na. Klopt de gevonden afbeelding met de opsomming hierboven?
+  5. Zoek op internet wat de mogelijke voordelen en nadelen zijn van de watervalmethodiek.
+
+Zet de antwoorden op papier en noteer ook de namen van de leerlingen van je groepje. 
+
+Jullie krijgen 25 minuten de tijd.
+
+De antwoorden worden aan het eind van dezelfde les klassikaal behandeld en levert 2 huispunten op indien je voldoende inspanning hebt verricht om de opdrachten uit te voeren.
 
 ## 3.2 Scrum/Agile
