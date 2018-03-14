@@ -49,36 +49,48 @@ Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 
 **Dit bestand moet je gebruiken voor je verslaglegging!**
 
-### Download###
+### Downloads###
 **Hoofdstuk 2 - LED**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk02-LED.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_02_Led.ino)
+
+------
 
 **Hoofdstuk 3 - Meer Leds**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk03-MeerLeds.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_03_MeerLeds.ino)
 
+------
+
 **Hoofdstuk 4 - Knop**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk04-Knop.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_04_Knop.ino)
+
+------
 
 **Hoofdstuk 5 - Of/En functie**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk05-OfEnfunctie.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_05_Of__En_functie.ino)
 
+------
+
 **Hoofdstuk 6 - Analoog in serieel uit**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk06-AnalogInSerialOut.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_06_AnalogInSerialOut.ino)
 
+------
+
 **Hoofdstuk 7 - Analoog in digitaal uit**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk07-AnalogInDigitalOut.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_07_AnalogInDigitallOut.ino)
+
+------
 
 **Hoofdstuk 8 - Tone Keyboard**
 
@@ -86,31 +98,61 @@ Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_08_toneKeyboard.ino)
 * [Arduino Code Pitch.h](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/pitches.h)
 
+------
+
 **Hoofdstuk 9 - Servo met pot**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk09-ServometPot.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_09_Servo_met_pot.ino)
+
+------
 
 **Hoofdstuk 10 - Servo met knoppen**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk10-ServoKnop.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_10_Servo_met_knoppen.ino)
 
+------
+
 **Hoofdstuk 11 - Motor met TIP120 transistor**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk11-MotorTIP120.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_11_Motor_met_TIP120_transistor.ino)
+
+------
 
 **Hoofdstuk 12 - Digital In Analog Out**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk12-DigitalInAnalogOut.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_12_DigitalInAnalogOut.ino)
 
+------
+
 **Hoofdstuk 13 - Analog in Analog out**
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk13-AnalogInAnalogOut.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_13_AnalogInAnalogOut.ino)
 
+------
+
+**Hoofdstuk 14 - Analog in Analog out**
+
+- [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk14-TempLCD.pdf)
+- [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_14_Temp_op_LCD.ino)
+
+------
+
+**Hoofdstuk 15 - Analog in Analog out**
+
+- [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk15-Stappenmotor.pdf)
+- [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_15_Stappenmotor.ino)
+
+------
+
+**Hoofdstuk 16 - Analog in Analog out**
+
+- [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk16-Parkeersensor%20-%20Sonar.pdf)
+- [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_16_HC_SR04_parkeersensor.ino)
 
 
 
