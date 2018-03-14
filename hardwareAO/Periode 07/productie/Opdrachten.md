@@ -96,7 +96,7 @@ Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 
 * [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk08-ToneKeyboard.pdf)
 * [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_08_toneKeyboard.ino)
-* [Arduino Code Pitch.h](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/pitches.h)
+* [Arduino Code - pitch.h](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/pitches.h)
 
 ------
 
@@ -135,21 +135,21 @@ Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 
 ------
 
-**Hoofdstuk 14 - Analog in Analog out**
+**Hoofdstuk 14 - Temperatuur LCD**
 
 - [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk14-TempLCD.pdf)
 - [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_14_Temp_op_LCD.ino)
 
 ------
 
-**Hoofdstuk 15 - Analog in Analog out**
+**Hoofdstuk 15 - Stappenmotor**
 
 - [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk15-Stappenmotor.pdf)
 - [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_15_Stappenmotor.ino)
 
 ------
 
-**Hoofdstuk 16 - Analog in Analog out**
+**Hoofdstuk 16 - Parkeersensor - Sonar**
 
 - [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_Arduino_Hoofdstuk16-Parkeersensor%20-%20Sonar.pdf)
 - [Arduino Code](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/03.%20Scripts/_16_HC_SR04_parkeersensor.ino)
