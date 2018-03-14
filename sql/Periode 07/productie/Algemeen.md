@@ -14,6 +14,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht H.1, H.2, H.3 |  Vrijdag 23 februari |
 | Opdracht 10.1, 10.2 | Vrijdag 2 maart |
 | Opdracht 11.1, 11.2, 11.3 | Vrijdag 16 maart |
+| Opdracht 12.1, 12.2 | Vrijdag 23 maart |
 <br> 
 
 **Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
