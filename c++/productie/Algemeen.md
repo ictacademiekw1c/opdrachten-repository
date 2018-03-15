@@ -17,10 +17,10 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 10.1 Enkelvoudige array | 9 mrt | 9 mrt | 9 mrt |
 | Opdracht 11.1 10 Munten/Boter, Kaas Eieren | 9 mrt | -- | -- |
 | Opdracht 12.1 Waterschapsverkiezingen | -- | 9 mrt | 9 mrt |
-| Opdracht 14.1 NYCM | 16 mrt | 16 mrt | 16 mrt |
-| Opdracht 15.1 Leerlinggegevens | 16 mrt | 16 mrt | 16 mrt |
-| Opdracht 16.1 Leerlinggegevens (if else} | 23 mrt | 16 mrt | 16 mrt |
-| Opdracht 17.1 Leerlinggegevens (for loop) | 23 mrt  | 16 mrt | 16 mrt |
+| Opdracht 14.1 NYCM Registratie struct, parameter by reference (&)| 16 mrt | 16 mrt | 16 mrt |
+| Opdracht 15.1 Leerlinggegevens, overerving (geneste struct) | 16 mrt | 16 mrt | 16 mrt |
+| Opdracht 16.1 Leerlinggegevens, Leerling array (zoek op nr.) | 23 mrt | 16 mrt | 16 mrt |
+| Opdracht 17.1 Leerlinggegevens, Leerling array (zoek op gebdatum) | 23 mrt  | 16 mrt | 16 mrt |
 | Opdracht 18.1 NYCM (OOP) | 23 mrt | 23 mrt | 23 mrt |
 | Opdracht 19.1 Leerlinggegevens (OOP) | 23 mrt | 23 mrt | 23 mrt |
 | Opdracht 20.1_Waterschapsverkiezingen (OOP) | -- | 23 mrt | 23 mrt |
