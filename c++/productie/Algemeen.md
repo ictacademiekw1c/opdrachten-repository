@@ -21,9 +21,9 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 15.1 Leerlinggegevens | 16 mrt | 16 mrt | 16 mrt |
 | Opdracht 16.1 Leerlinggegevens (if else} |  | 16 mrt | 16 mrt |
 | Opdracht 17.1 Leerlinggegevens (for loop) |  | 16 mrt | 16 mrt |
-| Opdracht 18.1 NYCM (OOP) | | | |
-| Opdracht 19.1 Leerlinggegevens (OOP) | | | |
-| Opdracht 20.1_Waterschapsverkiezingen (OOP) | | | |
+| Opdracht 18.1 NYCM (OOP) | | 23 mrt | 23 mrt |
+| Opdracht 19.1 Leerlinggegevens (OOP) | | 23 mrt | 23 mrt |
+| Opdracht 20.1_Waterschapsverkiezingen (OOP) | | 23 mrt | 23 mrt |
 | | | | |
 | Toets C++ | 4 apr | 4 apr | 4 apr |
 
