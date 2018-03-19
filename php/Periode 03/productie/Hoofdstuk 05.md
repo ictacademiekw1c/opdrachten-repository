@@ -67,3 +67,30 @@ n.v.t.
 - <a href="https://www.w3schools.com/php/php_forms.asp" target="_blank">Post parameters</a>
 - <a href="http://php.net/manual/en/function.strpos.php" target="_blank">strpos() functie</a>
 - <a href="https://www.w3schools.com/php/php_form_url_email.asp" target="_blank">Validatie email</a>
+- <a href="https://www.w3schools.com/php/func_filter_var.asp" target="_blank">Validatie email met filter_var()</a>
+
+## Opdracht 5.4
+
+### Download
+
+[Opdracht 5.4](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdracht%205.4.pdf)
+
+### Onderwerpen
+- HTML Formulieren
+- $_POST parameters
+- validatie
+- feedback/terugkoppeling
+- validatie en formulier in 1 script
+- header() functie
+
+### Benodigde bestanden
+
+n.v.t.
+
+
+### Help
+
+- <a href="https://www.w3schools.com/php/php_forms.asp" target="_blank">Post parameters</a>
+- <a href="http://php.net/manual/en/function.strpos.php" target="_blank">strpos() functie</a>
+- <a href="https://www.w3schools.com/php/php_form_url_email.asp" target="_blank">Validatie email</a>
+- <a href="https://www.w3schools.com/php/func_http_header.asp" target="_blank">location header</a>
