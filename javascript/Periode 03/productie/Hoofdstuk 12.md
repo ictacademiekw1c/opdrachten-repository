@@ -127,3 +127,52 @@
 
 ### Help
 - <a href="https://www.w3schools.com/jquery/jquery_callback.asp" target="_blank">Callback functions</a>
+
+---
+## Opdracht 12.8
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdracht%2012.8.pdf" target="_blank">Download opdracht 12.8</a>
+
+### Onderwerpen
+- each()
+- .addClass()
+- .removeClass()
+- .hasClass()
+- .remove()
+- .text()
+- this
+
+### Benodigde bestanden
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Template%2012.8.rar" target="blank">Download template</a>
+
+### Help
+- <a href="https://www.w3schools.com/jquery/misc_each.asp" target="_blank">each()</a>
+- <a href="https://www.w3schools.com/jquery/html_addclass.asp" target="_blank">.addClass()</a>
+- <a href="https://www.w3schools.com/jquery/html_hasclass.asp" target="_blank">.hasClass()</a>
+- <a href="https://www.w3schools.com/jquery/jquery_dom_remove.asp" target="_blank">.remove()</a>
+- <a href="https://www.w3schools.com/jquery/html_text.asp" target="_blank">.text()</a>
+- <a href="https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_click" target="_blank">this</a>
+
+
+---
+## Opdracht 12.9
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdracht%2012.9.pdf" target="_blank">Download opdracht 12.9</a>
+
+### Onderwerpen
+- each()
+- .remove()
+- .text()
+- this
+
+### Benodigde bestanden
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Template%2012.9.rar" target="blank">Download template</a>
+
+### Help
+- <a href="https://www.w3schools.com/jquery/misc_each.asp" target="_blank">each()</a>
+- <a href="https://www.w3schools.com/jquery/html_text.asp" target="_blank">.text()</a>
+- <a href="https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_click" target="_blank">this</a>
