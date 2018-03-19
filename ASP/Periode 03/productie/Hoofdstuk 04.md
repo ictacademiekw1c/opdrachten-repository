@@ -17,6 +17,7 @@
 
 ### Help
 *   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/if-else" target="_blank">If-else</a>
+
 ```c#
 // if-else statement  
 if (condition)  
@@ -36,7 +37,9 @@ if (condition)
 }  
 // Next statement in the program. 
 ```
+
 *   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/switch" target="_blank">Switch</a>
+
 ```C#
 int caseSwitch = 1;
       
@@ -53,14 +56,18 @@ switch (caseSwitch)
         break;
 }
 ```
+
 *   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/for" target="_blank">For loop</a>
+
 ```C#
 for (int i = 1; i <= 5; i++)
 {
     Response.Write(i);
 }
 ```
+
 *   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/while" target="_blank">While loop</a>
+
 ```C#
 int n = 1;
 
