@@ -1,4 +1,12 @@
-##INLEIDING##
+#HOOFDSTUK 18#
+
+In hoofdstuk 18 wordt de volgende onderwerpen uitgewerkt in de opdracht:
+
+- Gebruik van klassen om de data  van het kennisgrammatica diagram en de functies die hier toegang tot hebben, in op te slaan;
+- Gebruik van scope operator om de implementatie van methoden buiten de klasse te kunnen plaatsen.
+
+##KLASSEN##
+
 Klassen vormen de basis van object georienteerd programmeren. Elke klasse heeft functies waar ieder object van die klasse gebruik van kan maken. Elk object bevat ook gegevens, de *attributen* van het object en deze attributen zijn, net als de functies, ook in de klasse gedefineerd.
 
 Kort gezegd:
