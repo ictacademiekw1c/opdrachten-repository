@@ -77,6 +77,20 @@ while (n < 6)
     n++;
 }
 ```
+
+*   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/foreach-in" target="_blank">Foreach</a>
+
+```C#
+List<string> animalList = new List<string>();
+animalList.Add("Dog");
+animalList.Add("Cat");
+animalList.Add("Bird");
+
+foreach (string animal in animalList) 
+{
+    Response.Write(animal);
+}
+```
 ---
 ## Opdracht 4.2
 ---
