@@ -28,7 +28,7 @@ De toets vindt, volgens het lesrooster, plaats op de volgende data:
 | IO2A4 | Donderdag 12 april |
 | IO2B4 | Woensdag 11 april |
 | IO2C4 | Woensdag 11 april |
-
+<br> 
 De herkansing vindt plaats in week 10. De exacte datum en tijd volgt later.
 
 ## Editor
