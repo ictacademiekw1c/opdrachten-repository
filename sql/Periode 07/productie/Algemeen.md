@@ -24,9 +24,9 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 ## Toets
 De toets vindt, volgens het lesrooster, plaats op de volgende data:
 <ul>
-<li>IO2A4 --> Donderdag 12 april</li>
-<li>IO2B4 --> Woensdag 11 april</li>
-<li>IO2C4 --> Woensdag 11 april</li>
+<li>IO2A4 &rarr; Donderdag 12 april</li>
+<li>IO2B4 &rarr; Woensdag 11 april</li>
+<li>IO2C4 &rarr; Woensdag 11 april</li>
 </ul>
 De herkansing vindt plaats in week 10. De exacte datum en tijd volgt later.
 
