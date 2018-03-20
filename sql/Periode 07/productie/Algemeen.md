@@ -16,9 +16,20 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 11.1, 11.2, 11.3 | Vrijdag 16 maart |
 | Opdracht 12.1, 12.2 | Vrijdag 23 maart |
 | Opdracht 13.1, 13.2 | Vrijdag 30 maart |
+| Opdracht 14.1, 14.2 | Vrijdag 6 april |
 <br> 
 
 **Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
+
+## Toets
+De toets vindt, volgens het lesrooster, plaats op de volgende data:
+|Klas              | Datum |
+|--------------------  |--------------- |
+| IO2A4 | Donderdag 12 april |
+| IO2B4 | Woensdag 11 april |
+| IO2C4 | Woensdag 11 april |
+
+De herkansing vindt plaats in week 10. De exacte datum en tijd volgt later.
 
 ## Editor
 Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
