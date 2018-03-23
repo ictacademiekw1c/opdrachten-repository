@@ -89,6 +89,7 @@ In een UML klassendiagram wordt het *private* of *public* zijn van een attribuut
 ```
 
 **constructor**
+
 De attributen in de klasse vormen het geheugen van het object. Om deze attributen een beginwaarde te geven bij het aanmaken van het object (*initialiseren*) is het mogelijk om hiervoor de *constructor* te gebruiken.
 
 Een *constructor* is een soort functie die:
@@ -101,6 +102,7 @@ Een *constructor* is een soort functie die:
 Als een klasse geen constructor heeft , maakt de compiler automatisch een *defaultconstructor* aan. Een *defaultconstructor* doet niets anders dan een object construeren. De attributen in het object krijgen *geen* speciale waarde. Er vindt dus geen *initialisatie* van de attributen plaats.
 
 **methoden**
+
 Het is niet voldoende om gegevens op te slaan in een object. Je moet die gegevens ook kunnen wijzigen of er iets mee kunnen doen. Daarom heb je functies nodig. Via de functies zijn alle attributen van de klasse benaderbaar 
 Om het hergebruik van klassen te vergroten is het gebruikelijk  om het *prototype* van de klasse (defenitie) en de *implementatie* van de functies van elkaar te scheiden.
 In functies die in klassen worden gedefnieerd noemen we *methoden*
