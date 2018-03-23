@@ -5,7 +5,7 @@
 In hoofdstuk 21 wordt de volgende onderwerpen uitgewerkt in de opdracht:
 
 - Gebruik van *klassen* om de data  van het kennisgrammatica diagram en de *functies* die hier toegang tot hebben, in op te slaan;
-- Gebruik van ***::** scope operator* om de implementatie van *methoden* buiten de *klasse* te kunnen plaatsen;
+- Gebruik van * **::** scope operator* om de implementatie van *methoden* buiten de *klasse* te kunnen plaatsen;
 - Gebruik van *object*en argumenten om de, in de kennisgrammatica gedefinieerde, data door te geven aan een *methode*.
 
 ### Opdracht
