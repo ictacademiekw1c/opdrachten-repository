@@ -52,7 +52,7 @@ else
 Laat je een stukje programma een bepaald aantal keren uitvoeren.
 Voorbeeld:
 
-``` Arduino C++
+``` ArduinoC++
 for(int i = 0; i < 10; i ++)
 {
 	/*    Voer 10 keer iets uit.    i begint bij 0 en eindigt bij 10  */
@@ -62,6 +62,10 @@ for(int i = 0; i < 10; i ++)
 
 Lijkt wel wat op de for loop. Doe iets zolang aan een bepaalde voorwaarde voldaan wordt. Wordt er niet aan de voorwaarde voldaan dan wordt het blokje overgeslagen.
 Voorbeeld:
-``` Arduino C++
-var = 0;while(var < 200) {   // doe iets 200 keer  var ++;}
+``` ArduinoC++
+var = 0;
+while(var < 200)
+{	// doe iets 200 keer
+	var ++;
+}
 ```

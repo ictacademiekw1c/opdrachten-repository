@@ -14,7 +14,8 @@ Arduino gebruikt een aantal verplichte speciale tekens:
 int a = 5; // de ; wordt gebruikt na elke regel zodat het programma weet
            // dat er een nieuw stukje code komt hierna
 
-void loop(){ // openings accolade.
+void loop()
+{ // openings accolade.
  // dit is een regel commentaar, alleen op één regel kan er iets geschreven worden
  /*
    Met deze tekens kunnen

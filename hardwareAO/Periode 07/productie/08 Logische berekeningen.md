@@ -16,21 +16,21 @@ Logische berekeningen (Boolean operators) zijn vergelijkingen waarbij de uitkoms
 ``` ArduinoC++
 
 // and operator
-c = false && false;  // false
-c = true  && false;  // false
-c = false && true;   // false
-c = true  && true;   // true
+c = false && false;   // false
+c = true  && false;   // false
+c = false && true;    // false
+c = true  && true;    // true
 // or operator
-c = false \|\| false;  // false
-c = true  \|\| false;  // true
-c = false \|\| true;   // true
-c = true  \|\| true;   // true
+c = false \|\| false; // false
+c = true  \|\| false; // true
+c = false \|\| true;  // true
+c = true  \|\| true;  // true
 // not
-c = ! true;          // false
-c = ! false;         // true
+c = ! true;           // false
+c = ! false;          // true
 // xor operator
-c = false ^ false;  // false
-c = true ^ false;  // true
-c = false ^ true;   // true
-c = true ^ true;   // false
+c = false ^ false;    // false
+c = true ^ false;     // true
+c = false ^ true;     // true
+c = true ^ true;      // false
 ```
