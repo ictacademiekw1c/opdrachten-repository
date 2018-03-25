@@ -1,4 +1,4 @@
-###[kleurcode]rgba(77,182,172,1)
+####[kleurcode]rgba(77,182,172,1)
 
 ##Void setup en loop##
 
@@ -7,7 +7,7 @@
 In het blok “Void setup “ staat tussen de accolades {} de informatie. Hier staat wat we allemaal gaan gebruiken. De setup wordt maar één keer ingelezen en vervolgens onthouden.
 
 
-``` Arduino C++
+``` ArduinoC++
 void setup()
 {
   // Tussen de accolades wordt de code één keer uitgevoerd.

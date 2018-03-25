@@ -1,8 +1,8 @@
-[kleurcode]rgba(25,118,210, 1)
+####[kleurcode]rgba(25,118,210,1)
 
-# Algemene informatie
+# Algemene informatie#
 
-## Doelstelling
+## Doelstelling##
 Het doel van deze studieroute is studenten te leren programmeren in een embedded processor omgeving. Middels [Arduino systemen](https://www.arduino.cc/) kunnen we omgevings sensoren en actoren uitlezen en besturen met een C-achtig programmeertaal voor de [ATMEL ATmega328P](http://www.atmel.com/images/Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf).
 
 ## Opleverdata
