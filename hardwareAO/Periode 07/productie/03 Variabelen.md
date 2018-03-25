@@ -14,7 +14,7 @@ Variabelen kan je gebruiken om getallen op te slaan in het geheugen om later wee
 
 5. **char (character)** Slaat een toetsenbordteken op in de ASCII code (bv A=65).
 
-   ```Arduino C++
+   ``` Arduino C++
    // hieronder voorbeelden van de types
 
    int a = 5;
@@ -32,5 +32,3 @@ Variabelen kan je gebruiken om getallen op te slaan in het geheugen om later wee
    char character = 'A';
    char cijfer_als_character = '1';
    ```
-
-   ​

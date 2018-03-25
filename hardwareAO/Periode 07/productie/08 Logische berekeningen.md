@@ -1,4 +1,4 @@
-[kleurcode]rgba(77,182,172,1)
+###[kleurcode]rgba(77,182,172,1)
 
 # Logische berekeningen
 
@@ -13,7 +13,7 @@ Logische berekeningen (Boolean operators) zijn vergelijkingen waarbij de uitkoms
 4. **^** Exclusief of (xor):  if ((x>0 || y>0) && (x!=y))
    Waar als slechts een van de twee waar is.
 
-```Arduino C++
+``` Arduino C++
 
 // and operator
 c = false && false;  // false
