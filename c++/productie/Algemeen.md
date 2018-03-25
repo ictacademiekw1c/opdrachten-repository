@@ -24,7 +24,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 18.1 NYCM (OOP) | 23 mrt | 23 mrt | 23 mrt |
 | Opdracht 19.1 Leerlinggegevens (OOP) | 23 mrt | 23 mrt | 23 mrt |
 | Opdracht 20.1_Waterschapsverkiezingen (OOP) | -- | 23 mrt | 23 mrt |
-| Opdracht 21_Dominos (OOP) | -- | 29 mrt | 29 mrt |
+| Opdracht 21_Dominos (OOP) | 29 mrt | 29 mrt | 29 mrt |
 | | | | |
 | Toets C++ | 4 apr | 4 apr | 4 apr |
 
