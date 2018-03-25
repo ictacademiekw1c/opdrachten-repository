@@ -1,4 +1,4 @@
-[kleurcode]rgba(77,182,172,1)
+###[kleurcode]rgba(77,182,172,1)
 
 ##Void setup en loop##
 
@@ -8,7 +8,9 @@ In het blok “Void setup “ staat tussen de accolades {} de informatie. Hier s
 
 
 ```Arduino C++
-void setup() {
+
+void setup()
+{
   // Tussen de accolades wordt de code één keer uitgevoerd.
   // Dit kan handig zijn om bijvoorbeeld te zeggen waar een led aangesloten is.
 }
@@ -20,7 +22,9 @@ In het blok “Void loop” staat de informatie ook tussen de accolades {}. In d
 
 
 ```Arduino C++
-void loop(){
+
+void loop()
+{
   // Alle code tussen de accolades in de loop worden eeuwig herhaald.
   // Dit kan bijvoorbeeld handig zijn om een lampje te laten knipperen.
 }
