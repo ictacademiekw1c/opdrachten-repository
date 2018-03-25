@@ -1,4 +1,4 @@
-#### [kleurcode]rgba(156,39,176, 1)
+[kleurcode]rgba(81,45,168, 1)
 
 ## Opdrachten
 ---
