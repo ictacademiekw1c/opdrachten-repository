@@ -36,6 +36,4 @@ Stel ik heb nu de getallen 1 t/m 1000. Hoeveel verschillende arrays heb ik nu no
 
 ### (Mogelijke) Uitwerking in een C# console applicatie
 
-[C# uitwerking op github](https://gist.github.com/saebuabu/8a920b24e2857bf91e0dfbec729b1e05)
-
-Graag hoor ik het als je een efficientere algoritme hebt dan wat deze versie laat zien.
+Volgt later...
