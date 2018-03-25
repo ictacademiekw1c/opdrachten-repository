@@ -19,7 +19,7 @@ void setup()
 
 In het blok “Void loop” staat de informatie ook tussen de accolades {}. In deze informatie staat wat we allemaal gaan doen. De “Void loop” wordt niet één keer ingelezen, maar iedere keer herhaald. Binnen het blok “Void loop” kun je kleinere blokjes maken, die staan dan ook weer binnen twee accolades. Het aantal accolades is dus altijd even. Bij het schrijven van een programma kun je natuurlijk wel eens een accolade vergeten. Als je in de sketch naast een accolade gaat staan laat het programma zien waar de tweede staat, dit ter controle.
 
-``` Arduino C++
+``` ArduinoC++
 void loop()
 {
   // Alle code tussen de accolades in de loop worden eeuwig herhaald.

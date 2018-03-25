@@ -1,6 +1,6 @@
-[kleurcode]rgba(77,182,172,1)
+####[kleurcode]rgba(77,182,172,1)
 
-# Speciale Tekens#
+#Speciale Tekens#
 
 Arduino gebruikt een aantal verplichte speciale tekens:
 
@@ -10,7 +10,7 @@ Arduino gebruikt een aantal verplichte speciale tekens:
 3. **// Regel commentaar.** In elke regel kan je // plaatsen. De regel achter de // wordt niet meer gelezen door Arduino. Handig voor uitleg/commentaar. Maar het kan ook gebruikt worden om een programmaregel (tijdelijk) uit te schakelen.
 4. **/\*….*/ Commentaarblok.** Als je uitleg of commentaar over meerdere regels wilt schrijven kan je gebruik maken van de tekens voor commentaar blok. Uitleg over het programma is, zeker voor anderen, heel handig.
 
-``` Arduino C++
+``` ArduinoC++
 int a = 5; // de ; wordt gebruikt na elke regel zodat het programma weet
            // dat er een nieuw stukje code komt hierna
 

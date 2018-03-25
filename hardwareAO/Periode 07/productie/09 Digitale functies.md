@@ -1,6 +1,6 @@
-###[kleurcode]rgba(77,182,172,1)
+####[kleurcode]rgba(77,182,172,1)
 
-# Digitale functies#
+#Digitale functies#
 
 Arduino heeft speciale functies voor de digitale pinnetjes.
 
@@ -9,7 +9,7 @@ Arduino heeft speciale functies voor de digitale pinnetjes.
 Stelt een bepaalde pin in als output of als input.
 Voorbeeld:
 
-``` Arduino C++
+``` ArduinoC++
 pinMode(7, INPUT); // Maakt van pin 7 een input. 
 ```
 ### digitalWrite(pin, value)###
@@ -17,7 +17,7 @@ pinMode(7, INPUT); // Maakt van pin 7 een input.
 Zet een bepaalde pin hoog (HIGH) of laag (LOW).
 Voorbeeld:
 
-``` Arduino C++
+``` ArduinoC++
 digitalWrite(9, HIGH); // Zet pin 9 aan.
 ```
 
@@ -26,7 +26,7 @@ digitalWrite(9, HIGH); // Zet pin 9 aan.
 Leest of een pin hoog of laag staat.
 Voorbeeld:
 
-``` Arduino C++
+``` ArduinoC++
 val = digitalRead(8);
 // Geeft de waarde HIGH (wel
 // spanning) of LOW (geen

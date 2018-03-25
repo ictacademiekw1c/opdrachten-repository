@@ -1,6 +1,6 @@
-[kleurcode]rgba(77,182,172,1)
+####[kleurcode]rgba(77,182,172,1)
 
-# Variabelen
+#Variabelen#
 
 Variabelen kan je gebruiken om getallen op te slaan in het geheugen om later weer te kunnen gebruiken. Er zijn verschillende types variabelen die meer of minder geheugenplek innemen, afhankelijk van het aantal getallen dat ze moeten opslaan.
 
@@ -14,7 +14,7 @@ Variabelen kan je gebruiken om getallen op te slaan in het geheugen om later wee
 
 5. **char (character)** Slaat een toetsenbordteken op in de ASCII code (bv A=65).
 
-   ``` Arduino C++
+   ``` ArduinoC++
    // hieronder voorbeelden van de types
 
    int a = 5;

@@ -1,25 +1,25 @@
-[kleurcode]rgba(77,182,172,1)
+####[kleurcode]rgba(77,182,172,1)
 
-# Besturingsstructuren
+#Besturingsstructuren#
 
-### if (conditie) {….}
+### if (conditie) {….}###
 
 Bij deze opdracht wordt gecontroleerd of de conditie die tussen de haakjes staat waar is. Als dat zo is wordt de actie uitgevoerd die tussen de accolades staat. Zo niet, dan wordt de actie overgeslagen.
 Voorbeeld:
 
-``` Arduino C++
+``` ArduinoC++
 if(val == 1)
 {
 	digitalWrite(LED,HIGH); // als de waarde val 1 is gaat de LED aan
 }
 ```
 
-### if….else
+### if….else###
 
 Hier wordt gekozen tussen twee condities. Als de ene waar is, doe {…..} anders doe {——}
 Voorbeeld:
 
-``` Arduino C++
+``` ArduinoC++
 if(inputPin == HIGH)
 {
 	//voer actie A uit;
@@ -32,7 +32,7 @@ else
 Je kan het nog verder uitbreiden. Let goed op de haakjes en puntkomma’s.
 Voorbeeld:
 
-``` Arduino C++
+``` ArduinoC++
 if(inputPin < 500)
 {
 	//Voer actie A uit;

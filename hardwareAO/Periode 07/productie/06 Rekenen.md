@@ -1,6 +1,6 @@
-### [kleurcode]rgba(77,182,172,1)
+#### [kleurcode]rgba(77,182,172,1)
 
-# Rekenen
+#Rekenen#
 
 Bij het programmeren kan je verschillende waardes ook veranderen door middel van verschillende operaties.
 
@@ -10,7 +10,7 @@ Bij het programmeren kan je verschillende waardes ook veranderen door middel van
 4. **Delen**, delen van twee waardes kan gedaan worden met het behulp van een / teken.
 5. **Moduleren**, moduleren van twee waardes kan gedaan worden met het behulp van een % teken.
 
-```Arduino C++
+```ArduinoC++
 float a = 13;
 float b = 3;
 c = a + b; // Optellen, c = 16

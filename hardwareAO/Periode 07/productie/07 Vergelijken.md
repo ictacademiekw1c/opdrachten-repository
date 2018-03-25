@@ -1,6 +1,6 @@
-### [kleurcode]rgba(77,182,172,1)
+####[kleurcode]rgba(77,182,172,1)
 
-# Vergelijken
+#Vergelijken#
 
 Er kunnen ook verschillende waardes met elkaar vergeleken worden. Dit wordt vaak gedaan in de besturingssystemen die eerder uitgelegd zijn.
 
@@ -11,7 +11,7 @@ Er kunnen ook verschillende waardes met elkaar vergeleken worden. Dit wordt vaak
 5. Is kleiner of gelijk aan met <=
 6. Is groter of gelijk aan met >=
 
-``` Arduino C++
+``` ArduinoC++
 x == y  // x is gelijk aan y
 x != y  // x is niet gelijk aan y
 x <  y  // x is kleiner dan y
