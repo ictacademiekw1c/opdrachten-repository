@@ -1,3 +1,5 @@
+####[kleurcode]rgba(255,192,0,1)
+
 # Algemene informatie
 
 
