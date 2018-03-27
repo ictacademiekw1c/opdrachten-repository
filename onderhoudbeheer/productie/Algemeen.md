@@ -29,6 +29,7 @@ Voor een applicatieontwikkelaar valt onder 'beheer en behoud' alle voorkomende w
 
 Iedere week wordt er een opdracht gepubliceerd, die meetelt met het eindcijfer voor dit vak.
 
-## 0.5 Eindtoets
+## 0.5 Toets periode 3 2018
 
-Kennistoets onderhoud en beheer.
+Voor alle klassen in de week van 10-13 april.
+
