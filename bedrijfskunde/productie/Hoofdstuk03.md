@@ -52,4 +52,6 @@ Beantwoord dezelfde vragen als hierboven en visualiseer dat vervolgens in een Us
 
 Lever de opdracht in via de inleveropdracht UML Use Case bioscoop systeem.
 <br>
-In de volgende les worden de Use Case diagrammen bekeken en beoordeeld. 
+
+Mogelijke uitwerking Use Case voor een bioscoopsysteem:
+![Mogelijke uitwerking Use Case voor een bioscoopsysteem](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/bedrijfskunde/images/usecase.jpg?raw=true)
