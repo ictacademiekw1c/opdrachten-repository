@@ -15,7 +15,8 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 4.1, 4.2, 4.3, 4.4 | Zo 11 mrt  | Zo 11 mrt | Zo 11 mrt | (Alleen 4.1 & 4.2)  Zo 11 mrt | Zo 11 mrt |
 | Opdracht 4.3, 4.4 | nvt  | nvt | nvt | Ma 19 mrt | Zo 11 mrt |
 | Opdracht 5.1, 5.2 | Zo 18 mrt | Zo 18 mrt | Zo 18 mrt | Do 22 mrt | Do 22 mrt |
-| Opdracht 5.3, 5.4 | Zo 25 mrt | Zo 25 mrt | Zo 25 mrt | Ma 26 mrt | Zo 25 mrt |
+| Opdracht 5.3, 5.4 | Za a apr | Za 1 apr | Za 1 apr | Za 1 apr | Za 1 apr |
+| Eindopdracht | Wo 4 apr | Zo 8  apr | Wo 4 apr | Wo 4 apr | Wo 4 apr |
 
 <br> 
 

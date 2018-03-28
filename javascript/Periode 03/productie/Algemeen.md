@@ -13,7 +13,9 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 12.1, 12.2 | Wo 28 febr | Zo 25 febr | Di 27 febr | Zo 25 febr |  Zo 25 febr |
 | Opdracht 12.3 | Wo 7 mrt | Ma 5 mrt | Di 6 mrt | Ma 5 mrt | Ma 5 mrt |
 | Opdracht 12.4, 12.5 | Wo 14 mrt | Ma 12 mrt | Di 13 mrt | Zo 11 mrt | Ma 12 mrt |
-| Opdracht 12.6, 12.7 | Wo 21 mrt | Ma 19 mrt | Di 20 mrt | Zo 18 mrt | Ma 19 mrt | 
+| Opdracht 12.6, 12.7 | Wo 21 mrt | Ma 19 mrt | Di 20 mrt | Zo 18 mrt | Ma 19 mrt |
+| Opdracht 12.8, 12.9 | Vr 30 mrt | Vr 30 mrt | Vr 30 mrt | Vr 30 mrt | Vr 30 mrt |
+| Eindopdracht | Wo 4 apr | Zo 8  apr | Wo 4 apr | Wo 4 apr | Wo 4 apr | 
 <br> 
 
 **Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op** 
