@@ -34,7 +34,7 @@ Iedere week wordt er een opdracht gepubliceerd, die meetelt met het eindcijfer v
 
 ## 0.5 Toets periode 3 2018
 
-Voor alle klassen in de week van 9 april in het regulier geroosterd uur van Onderhoud en beheer. 
+Toetsafname per klas <br>
 
 | &nbsp; &nbsp; **IO2A4**| &nbsp; &nbsp; **IO2B4**| &nbsp; &nbsp; **IO2C4**| 
 |--------------- | --------- | --------|
