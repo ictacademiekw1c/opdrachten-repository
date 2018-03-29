@@ -38,7 +38,7 @@ Toetsafname per klas <br>
 
 | &nbsp; &nbsp; **IO2A4**| &nbsp; &nbsp; **IO2B4**| &nbsp; &nbsp; **IO2C4**| 
 |--------------- | --------- | --------|
-| 10 april 2018 | 10 april 2018 | 10 april 2018 |
+| 13 april 2018 | 10 april 2018 | 10 april 2018 |
 
 Toetsonderdelen:
 - Bedrijf, Organisatie en onderneming (Hoofdstuk 1)
