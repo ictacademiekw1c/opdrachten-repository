@@ -10,6 +10,7 @@ In hoofdstuk 21 wordt de volgende onderwerpen uitgewerkt in de opdracht:
 
 ### Opdracht
 
-
 [Hoofdstuk 21](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/21_Dominos.opdracht.xlsx) - **Domino's**
+
+[Hoofdstuk 21](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/21_Dominos.opdracht2.xlsx) - **Domino's** met waarderegels
 
