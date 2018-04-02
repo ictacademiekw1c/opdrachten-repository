@@ -1,3 +1,5 @@
+#### [kleurcode]rgba(156,39,176, 1)
+
 #HOOFDSTUK 10#
 In hoofdstuk 10 wordt het volgende onderwerp uitgewerkt in de opdracht:
 - Gebruik van een array om de data van het kennisgrammatica diagram in op te slaan.

@@ -1,3 +1,5 @@
+#### [kleurcode]rgba(156,39,176, 1)
+
 #HOOFDSTUK14#
 In hoofdstuk 14 worden de volgende onderwerpen uitgewerkt in de opdracht:
 - Gebruik van *structs* om de data van het kennisgrammatica diagram in op te slaan

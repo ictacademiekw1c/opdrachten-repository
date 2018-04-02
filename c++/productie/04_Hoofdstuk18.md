@@ -1,3 +1,5 @@
+#### [kleurcode]rgba(156,39,176, 1)
+
 #HOOFDSTUK 18#
 
 In hoofdstuk 18 wordt de volgende onderwerpen uitgewerkt in de opdracht:
