@@ -1,4 +1,4 @@
-#### [kleurcode]rgba(156,39,176, 1)
+####[kleurcode]rgba(255,192,0,1)
 
 #HOOFDSTUK 21#
 
