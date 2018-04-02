@@ -1,6 +1,6 @@
 #### [kleurcode]rgba(154,67,234,1)
 
-# 6 Les Opdracht Algoritme/Programmeren
+# 6 Algoritme/Programmeren
 
 ## 6.1 Voorbeeld
  
@@ -33,6 +33,8 @@ Stel ik heb nu de getallen 1 t/m 1000. Hoeveel verschillende arrays heb ik nu no
 1. Beschrijf met woorden hoe jouw algoritme het probleem gaat oplossen. Schrijf het op en bespreek het met de docent.
 2. Analyseer of je algoritme misschien wel slimmer/sneller/efficienter kan.
 3. Programmeer je code in je favoriete programmeertaal. Toon het resultaat aan je docent. Hoeveel arrays hebben 1000 getallen nodig?
+4. Wat is de oplossing als ik nu 10000 getallen heb? Hoeveel als ik 100000 getallen (van 1 tot 100000) heb?
+5. Kan je je algoritme nog verder optimaliseren?  
 
 ### (Mogelijke) Uitwerking in een C# console applicatie
 
