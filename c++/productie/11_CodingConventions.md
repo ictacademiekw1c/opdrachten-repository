@@ -1,4 +1,4 @@
-####[kleurcode]rgba(255,192,0,1)
+####[kleurcode]rgba(239,108,0,1)
 
 ##Coding Conventions##
 •	Gebruik *PascalCasing* voor de namen van klassen en methoden.
@@ -55,7 +55,7 @@ string firstName;
 int lastIndex;
 bool isSaved;
 ```
- 
+
 * Gebruik zelfstandige naamwoorden of zelfstandig naamwoord-zinnen voor de naam van een klasse.
 
 ```C#

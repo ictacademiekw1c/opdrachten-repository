@@ -1,4 +1,4 @@
-####[kleurcode]rgba(255,192,0,1)
+####[kleurcode]rgba(239,108,0,1)
 
 # Algemene informatie
 
@@ -9,10 +9,10 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 
 |&nbsp;Opdracht         | &nbsp; &nbsp; Deadline **IO2A4**| &nbsp; &nbsp; Deadline **IO2B4**| &nbsp; &nbsp; Deadline **IO2C4**|
 |---------------  |--------------- | --------- | -------|
-| Opdracht 22 | ?? | 6 april | 6 april |
-| Opdracht 23 | ?? | 6 april | 6 april |
+| Opdracht 22 | ?? | 6 april | 11 april |
+| Opdracht 23 | ?? | 12 april | 12 april |
 |  |  |  |  |
-| Toets C# | 6 juni | 6 juni | 6 juni |
+| Toets C# | 4 juni | 6 juni | 6 juni |
 
 
 
