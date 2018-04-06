@@ -35,7 +35,7 @@ Voor alle klassen in de week van 10-13 april in het regulier geroosterd uur van 
 
 | &nbsp; &nbsp; **IO2A4**| &nbsp; &nbsp; **IO2B4**| &nbsp; &nbsp; **IO2C4**| 
 |--------------- | --------- | --------|
-| 11 april 2018 | 12 april 2018 | 13 april 2018 |
+| 11 april 2018 | 13 april 2018 | 12 april 2018 |
 
 Toetsonderdelen:
  - Kwalificatiedossier (KD 25187)
