@@ -23,3 +23,5 @@
 </appSettings>
 ```
 * <a href="http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf" target="_blank">Cheatsheet regular expressions</a>
+* <a href="https://regexr.com/" target="_blank">Test regular expressions</a>
+
