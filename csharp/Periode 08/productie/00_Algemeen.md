@@ -1,4 +1,4 @@
-####1212[kleurcode]rgba(239,108,0,1)
+####[kleurcode]rgba(239,108,0,1)
 
 # Algemene informatie #
 
