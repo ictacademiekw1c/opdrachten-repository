@@ -9,9 +9,10 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 
 |&nbsp;Opdracht         | &nbsp; &nbsp; Deadline **IO2A4**| &nbsp; &nbsp; Deadline **IO2B4**| &nbsp; &nbsp; Deadline **IO2C4**|
 |---------------  |--------------- | --------- | -------|
-| Opdracht 22 | 18 april | 6 april | 11 april |
-| Opdracht 23 | 18 april | 12 april | 12 april |
+| Opdracht 22 | 18 april | 12 april | 12 april |
+| Opdracht 22 | 18 april | 12 april | 12 april |
 |  |  |  |  |
+| Herkansing C++ | 18 april | 18 april | 18 april |
 | Toets C# | 4 juni | 6 juni | 6 juni |
 
 
