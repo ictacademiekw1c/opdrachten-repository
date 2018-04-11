@@ -14,6 +14,15 @@
 **NYCM.cs**
 
 ```C#
+/************************** Module Header *******************************\
+Project:		New York City Marathon
+Auteur:			Bart Linsen
+Aanmaakdatum:    3 april 2017 
+Module naam:	 NYCM.cs
+
+Omschrijving:	Hoofdprogramma New York City Marathon
+
+\************************************************************************/
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -82,6 +91,15 @@ namespace NewYorkCityMarathonHfst23
 **Deelnemer.cs**
 
 ```C#
+/************************** Module Header *******************************\
+Project:		New York City Marathon
+Auteur:			Bart Linsen
+Aanmaakdatum:    3 april 2017 
+Module naam:	Deelnemer.cs
+
+Omschrijving:	Definitie klasse Deelnemer
+
+\************************************************************************/
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -142,9 +160,24 @@ namespace NewYorkCityMarathonHfst23
 }
 ```
 
-- TryParse() of try{} catch{} constructies maken het mogelijk om een datatype conversie de doen van string naar int en indien dit niet lukt, netjes af te vangen in je programma en de gebruiker te informeren. 
+- **Int32.TryParse()** of **try{} catch{}** constructies maken het mogelijk om een datatype conversie uit te voeren van string naar int en indien dit niet lukt, netjes af te vangen in je programma en de gebruiker te informeren. 
 
   In het voorbeeld is het try catch voorbeeld uitgewerkt. Let op dat een variabele die je zet in de try tak ook in de catch tak gevuld moet worden. Beide beslistaken moeten de variabele vullen.
+
+  Hier een voorbeeld met *Int32.TryParse()*:
+
+  ```C#
+  Console.Write("Voer zijn chipnummer in: ");
+  gebruikersInput = Console.ReadLine();
+  while (!Int32.TryParse(temp, out chipNummerH201))
+  {
+  	// Ga net zo lang door totdat de ingevoerde string kan worden omgezet naar een int
+      Console.WriteLine("Geen juist chipnummer ingevoerd");
+      temp = Console.ReadLine();
+  }
+  ```
+
+  ​
 
 
 
