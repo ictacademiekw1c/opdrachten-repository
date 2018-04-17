@@ -19,7 +19,7 @@
 * Voeg onderstaande XML-code toe aan je webconfig als je gebruik maakt van de validatie controls:
 ```XML
 <appSettings>
-	<add key="ValidationSettings:UnobtrusiveValidationMode" value="None" />
+    <add key="ValidationSettings:UnobtrusiveValidationMode" value="None">
 </appSettings>
 ```
 * <a href="http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf" target="_blank">Cheatsheet regular expressions</a>
