@@ -9,7 +9,8 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4**| &nbsp; &nbsp; Deadline **IO1B4**| &nbsp; &nbsp; Deadline **IO1C4**| &nbsp; &nbsp; Deadline **IO1D4** |  &nbsp; &nbsp;  Deadline **IO1E4** &nbsp; |
 |--------------------  |--------------- | --------- |
-| Opdracht 6.1| zo | zo | zo| zo| zo |  
+| Opdracht 6.1| zo | zo | zo| zo 22 april| zo 22 april |  
+| Opdracht 6.2| zo | zo | zo| zo| zo 22 april| zo 22 april |  
 
 
 <br> 
