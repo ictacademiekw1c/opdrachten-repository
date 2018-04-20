@@ -1,6 +1,6 @@
-####[kleurcode]rgba(255,192,0,1)
+####[kleurcode]rgba(239,108,0,1)
 
-#Kennisgrammatica - C++#
+#Kennisgrammatica - CSharp#
 
 ##Kennisgrammatica naar OOP Csharp Windows Forms  code#
 
