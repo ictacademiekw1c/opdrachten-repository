@@ -1,3 +1,3 @@
 # Algemeen
 
-``c# materiaal start bij 10_Algemeen._``
+``C# materiaal staat in de studieroute C# - periode 8``
