@@ -19,14 +19,22 @@ Deze site bevat:
 
 ## 0.3 Onderwerpenlijst bedrijfskunde
 
+### Periode 3
 - Wat is een bedrijf (diensten en producten)?
 - Werkprocessen / procedures
 - IT bedrijven, beroepen, vaktermen, onderwerpen
 - Facturering en BTW
 - Bedrijfsprocessen en bedrijfssoftware
 - Licenties en auteursrecht
-- Kosten
+
+### Periode 4
+
+- Kosten, soorten kosten en afschrijvingen
 - Integrale Kostprijs berekening
+- Prijselasticiteit - programmeer opdracht
+
+- ICE model - creativiteit
+- Business Model Canvas
 
 ## 0.4 Opdrachten
 
@@ -59,3 +67,10 @@ Als blijkt dat de samenvatting (deels/geheel) een letterlijke kopie is, wordt de
 Wat is een samenvatting volgens wiki:<br>
 ``Een samenvatting is een verkorte versie van een origineel, bijvoorbeeld een tekst, een film of een gebeurtenis. De bedoeling van zo'n simplificatie is om de hoofdpunten van het veel langere onderwerp uit te lichten. Men krijgt hiermee in een korte tijd de kerngedachten ervan weergegeven.``
 
+## 0.6 Toets periode 4 2018
+
+Toetsafname per klas <br>
+
+| &nbsp; &nbsp; **IO2A4**| &nbsp; &nbsp; **IO2B4**| &nbsp; &nbsp; **IO2C4**| 
+|--------------- | --------- | --------|
+| ? juni 2018 | ? juni 2018 | ? juni 2018 |
