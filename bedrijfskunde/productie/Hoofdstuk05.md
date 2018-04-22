@@ -8,7 +8,7 @@
 
 [Presentatie Kostensoorten](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%20les5_Ed.pptx)
 
-## 5.3 Opdracht 6
+## 5.3 Opdracht Kostensoorten en afschrijvingen
 
 Situatie: Je gaat een eenmans- IT- bedrijf begonnen en je gaat je in een nieuw (gehuurde) kantoorpand vestigen.
 Het kantoor wordt leeg opgeleverd, dus je zal alle inventaris zelf moeten aanschaffen. 
