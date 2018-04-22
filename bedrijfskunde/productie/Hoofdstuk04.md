@@ -25,12 +25,13 @@
 In [crash course on copyright](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Crash%20course%20on%20copyrights.pdf)
 wordt copyright of auteursrecht uitgebreid behandeld. <br>
 Haal uit deze tekst de antwoorden op de volgende vragen:
-  a. Waarom is auteursrecht een betere benaming dan de Engelse term copyright?
-  b. Moet je voor je applicatie je auteursrecht laten registreren? En vanaf wanneer is dit principe ontstaan?
-  c. Waarom is auteursrecht op computer software zo ingewikkeld?
-  d. Wie is de eigenaar van een applicatie met copyright?
-  e. Kan de eigenaar van de copyright worden verwisseld?
-  f. Als je specifieke toestemming geeft aan derden hoe wordt dat genoemd?
-  g. Hoe lang is copyright geldig?   
-  h. Geef een voorbeeld van fair use en wat is portret recht? 
+  
+  -  Waarom is auteursrecht een betere benaming dan de Engelse term copyright?
+  -  Moet je voor je applicatie je auteursrecht laten registreren? En vanaf wanneer is dit principe ontstaan?
+  -  Waarom is auteursrecht op computer software zo ingewikkeld?
+  -  Wie is de eigenaar van een applicatie met copyright?
+  -  Kan de eigenaar van de copyright worden verwisseld?
+  -  Als je specifieke toestemming geeft aan derden hoe wordt dat genoemd?
+  -  Hoe lang is copyright geldig?   
+  -  Geef een voorbeeld van fair use en wat is portret recht? 
 
