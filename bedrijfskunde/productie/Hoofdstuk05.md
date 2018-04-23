@@ -10,7 +10,7 @@
 
 ## 5.3 Opdracht Kostensoorten en afschrijvingen
 
-Situatie: Je gaat een eenmans- IT- bedrijf begonnen en je gaat je in een nieuw (gehuurde) kantoorpand vestigen.
+Situatie: Je gaat een eenmans- IT- bedrijf beginnen en je gaat je in een nieuw (gehuurde) kantoorpand vestigen.
 Het kantoor wordt leeg opgeleverd, dus je zal alle inventaris zelf moeten aanschaffen. 
 
 Bij de software die je gaat ontwikkelen wil je een overzicht van kostensoorten en afschrijvingen van de bedrijfsmiddelen, <br>
@@ -23,7 +23,7 @@ Stap 2:
 - Welke spullen (bedrijfsmiddelen) heb je daarbij nodig? (Probeer compleet te zijn)
 - Welke andere kosten-(posten) heb je? 
 - Bepaal per kostenpost of het [direct](https://nl.wikipedia.org/wiki/Directe_kosten)/[indirect](https://nl.wikipedia.org/wiki/Indirecte_kosten) is.
-- Bepaal per kostenpost of het [vast](https://nl.wikipedia.org/wiki/Constante_kosten)/(variabel)[https://nl.wikipedia.org/wiki/Variabele_kosten] is.
+- Bepaal per kostenpost of het [vast](https://nl.wikipedia.org/wiki/Constante_kosten)/[variabel](https://nl.wikipedia.org/wiki/Variabele_kosten) is.
 
 Stap 3:
 - Wat zijn hiervan de actuele prijzen?
