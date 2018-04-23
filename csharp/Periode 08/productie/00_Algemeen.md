@@ -14,6 +14,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Herkansing C++ | 18 april | 18 april | 18 april |
 | Opdracht 23 Windows Forms | 25 april | 20 april | 20 april |
 | Opdracht 24 Windows Forms NYCM | 27 april | 26 april | 26 april |
+| Opdracht 25 Windows Forms Dominos | -- | 9 mei | 9 mei |
 |  |  |  |  |
 | Toets C# | 4 juni | 6 juni | 6 juni |
 
