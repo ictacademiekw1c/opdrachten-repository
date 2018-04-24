@@ -1,4 +1,4 @@
-####[kleurcode]rgba(25,118,210,1)
+####[kleurcode]rgba(154,39,176,1)
 
 # Algemene informatie#
 
@@ -8,9 +8,9 @@ Het doel van deze studieroute is studenten te leren programmeren in een embedded
 ## Opleverdata##
 Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
-|Opdracht              | &nbsp; &nbsp; Deadline **IO2A4** | &nbsp; &nbsp; Deadline **IO2B4** | &nbsp; &nbsp; Deadline **IO2C4** |
-|--------------------  |--------------- | --------- | --------- |
-| Opdracht 1, <br>Opdracht 2,<br>Opdracht 3,<br>Opdracht 4,<br>Opdracht 5,<br>Opdracht 6,<br>Opdracht 7,<br>Opdracht 8,<br>Opdracht 9,<br>Opdracht 10,<br>Opdracht 11,<br>Opdracht 12,<br>Opdracht 13,<br>Opdracht 14,<br>Opdracht 15,<br>Opdracht 16  | 29 maart  | 29 maart  | 29 maart  |
+|Opdracht              | &nbsp; &nbsp; Deadline **IO2C4** | &nbsp; &nbsp; Deadline **IO2A4** | &nbsp; &nbsp; Deadline **IO2B4** |
+|--------------------  | --------- |--------------- | --------- |
+| Opdracht 1, <br>Opdracht 2,<br>Opdracht 3,<br>Opdracht 4  | 1 juni | 1 juni  | 1 juni |
 
 
 
@@ -78,6 +78,5 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 		Het verslag heeft heeft een duidelijke intro. (module header) 
 		Het verslag is overzichtelijk opgebouwd door de structuur en het voorgeschreven template te gebruiken.
 
-Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
 
 *	De experimenten die uitgevoerd zijn vastgelegd in een verslag volgens het betreffende Opdracht template.
