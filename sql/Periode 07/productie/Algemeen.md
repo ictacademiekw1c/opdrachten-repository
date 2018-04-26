@@ -1,7 +1,9 @@
 # Algemene informatie
 
 ## Doelstelling
-In leerjaar 1 heb je kennis gemaakt met SQL en databases. In periode 7 gaan we verder waar we gebleven waren en gaan we ons verder verdiepen en verbreden in de DML-commando's. In periode 7 zal veel kennis uit het eerste leerjaar herhaald worden, dus zorg ervoor dat je de kennis uit het eerste leerjaar weer opgehaald hebt voordat je met de opdrachten begint.
+In leerjaar 1 heb je kennis gemaakt met SQL en databases. In periode 7 gaan we verder waar we gebleven waren en gaan we ons verder verdiepen en verbreden in de DML-commando's. In periode 7 zal veel kennis uit het eerste leerjaar herhaald worden, dus zorg ervoor dat je de kennis uit het eerste leerjaar weer opgehaald hebt voordat je met de opdrachten begint.<br>
+<br>
+In periode 8 houden we ons minder bezig met de DML-commando's en richten we ons meer op onderwerpen zoals toegangsbeheer, rollen en backups. 
 
 ## Voorkennis
 Deze studieroute is bedoeld voor 2e-jaars leerlingen niveau 4 van de ICT-Academie. Al hetgeen wat in leerjaar 1 is aangeboden zal je weer moeten kunnen reproduceren.. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Databases en SQL. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
