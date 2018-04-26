@@ -17,7 +17,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 12.1, 12.2 | Vrijdag 23 maart |
 | Opdracht 13.1, 13.2 | Vrijdag 30 maart |
 | Opdracht 14.1, 14.2 | Vrijdag 6 april |
-| Opdracht 15.1 | Woensdag 8 mei |
+| Opdracht 15.1, 15.2 | Woensdag 8 mei |
 <br> 
 
 **Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
