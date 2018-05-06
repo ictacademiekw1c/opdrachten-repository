@@ -8,6 +8,11 @@
 
 [Presentatie Kostensoorten](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%20les5_Ed.pptx)
 
+[Wat is afschrijven?](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/afschrijving/wat_is_afschrijven)
+
+[Hoe bereken je de afschrijving?](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/afschrijving/hoe_berekent_u_het_bedrag_van_de_afschrijving)
+
+
 ## 5.3 Opdracht Kostensoorten en afschrijvingen
 
 Situatie: Je gaat een eenmans- IT- bedrijf beginnen en je gaat je in een nieuw (gehuurde) kantoorpand vestigen.
