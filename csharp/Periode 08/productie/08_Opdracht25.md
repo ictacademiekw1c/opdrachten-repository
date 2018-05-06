@@ -8,10 +8,12 @@ In Opdracht 25 wordt de volgende onderwerpen uitgewerkt in de opdracht:
 - Kunnen opzetten van een C# OOP Windows Forms applicatie met meerdere vensters.
 - Kunnen opzetten van een C# OOP structuur volgens een opgegeven kennisgrammatica structuur.
 - Kunnen toepassen van Properties met de '*get*'-accessor en '*set*' - mutator;
-- Doorgeven van data objecten tussen formulieren.
-- Hoofdverzameling implementeren als lijst van dataobjecten.
-- Kunnen toepassen van de controls: label, textbox en button.
-- Kunnen toepassen van de combobox en kunnen linken aan een list.
+- Doorgeven van *data objects* tussen formulieren.
+- Hoofdverzameling implementeren als *List* van *data objects*.
+- Kunnen toepassen van de controls: *label*, *textbox* en *button*.
+- Kunnen toepassen van de *combobox* en kunnen linken aan een *List*.
+- Kunnen toepassen van de *ListView* en kunnen vullen vanuit een *List* van *Objects*
+- Kunnen toepassen van een *contextmenustrip* op een *ListView* control. (Delete ListView item)
 
 
 ### Opdracht
