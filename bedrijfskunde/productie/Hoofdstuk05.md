@@ -39,4 +39,3 @@ Stap 3:
 Tip:
 Werk bovenstaande stappen uit in een excel-sheet.
 
-{review bedP3O6}
