@@ -11,6 +11,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 |--------------------  |--------------- | --------- |
 | Opdracht 6.1| zo 29 apr | zo 29 apr | zo 29 apr | zo 22 april| zo 22 april |  
 | Opdracht 6.2 + 6.3 | zo 29 april | zo 29 april | zo 29 april | 9 mei |  9 mei |  
+| Opdracht 7.1 |  |  |  | 15 mei | 19 mei |  
 
 
 <br> 
