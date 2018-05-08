@@ -37,4 +37,4 @@ __Oplevering__<br>
     - Met een klasse diagram
     - Met een data dictionary
     - Met een scherm ontwerp voor een C# Windows form applicatie
-    - Met een activity diagram voor het wijzigen van een bestaande bug van active naar resolved.
+    - Met een activity diagram voor het wijzigen van een bestaande bug.
