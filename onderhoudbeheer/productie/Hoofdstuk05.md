@@ -40,5 +40,5 @@ Hieronder zijn de voorbeeld vragen die je zou kunnen stellen aan de geinterviewd
    - Geef aan waarop er (beter) getest had moeten worden? 
    
 ``Je hebt een half uur voor deze opdracht en zet beide namen met de rollen (interviewer/geinterviewde) in het document en upload het als inleveropdracht in de studieroute.
-- Ieder persoon levert een verslag op van minimaal 1 A4.``
+Ieder persoon levert een verslag op van minimaal 1 A4.``
 
