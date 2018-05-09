@@ -24,6 +24,17 @@ Welke waarden kan stack rank hebben en wat betekent de waarde?
 Wat houdt het bug triage proces in? 
 - Vraag 9
 Wat is het verschil tussen een bug en een feature? 
+- Vraag 10
+Wat zijn de mogelijke toestandsovergangen (ook richting) en onder welke omstandigheden vinden deze plaats? (Hint: Bug Lif cycle)
+- Vraag 11
+Wie zijn de betrokkenen bij het incidentenbeheer (bugfixing process)?
+
 
 __Oplevering__<br>
-Zet al je antwoorden in een word document en upload het via het inleveropdracht Bugs op.
+- Zet al je antwoorden in een word document en upload het via het inleveropdracht Bugs op.
+- Alternatieve manier van opleveren is:
+  - Maak een technisch ontwerp voor het beheren van bugs
+    - Met een klasse diagram
+    - Met een data dictionary
+    - Met een scherm ontwerp voor een C# Windows form applicatie
+    - Met een activity diagram voor het wijzigen van een bestaande bug.

@@ -52,8 +52,10 @@ Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 ###Downloads###
 **Opdracht 01 - L293D led - motor**
 
-- [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_ArduinoDeel2_april2018.pdf)
-
+- [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_ArduinoDeel2_Opdracht01.pdf)
 
 ------
+**Opdracht 02 - YL-70 led **
+
+- [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_ArduinoDeel2_Opdracht02.pdf)
 
