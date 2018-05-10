@@ -16,3 +16,5 @@ In hoofdstuk 24 wordt de volgende onderwerpen uitgewerkt in de opdracht:
 
 [Opdracht 24](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/24
 _WinFormsNYCM.xlsx) - **Windows Forms New York City Marathon**
+
+![](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/images/NYCM-logo.jpg)
