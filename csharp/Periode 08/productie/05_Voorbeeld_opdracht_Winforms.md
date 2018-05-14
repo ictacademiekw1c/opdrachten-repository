@@ -1,6 +1,6 @@
 ####[kleurcode]rgba(239,108,0,1)
 
-#Kennisgrammatica - CSharp#
+#Uitgewerkte opdracht Windows Forms#
 
 ##Kennisgrammatica naar OOP Csharp Windows Forms  code#
 
@@ -9,7 +9,9 @@ Met een *kennisgrammatica* analyse heb je een *dataontwerp* gemaakt van je appli
 Als je een OOP ontwerp maakt is dit data ontwerp dus rechtstreeks te vertalen naar de *klassen* in je applicatie. Je *kennisgrammatica* diagram beschrijft dus je *klassen* structuur van je applicatie.
 
 In een Windows forms applicatie worden deze klassen gesplitst in het data klas en een presentatie klas. De presentatie klas  wordt geimplementeerd in Windows Forms
-Hoe je vanuit een *kennisgrammatica* diagrammen je *klassen* bouwt en de *relaties* legt naar tussen de presentatie laag en de data laag, is als voorbeeld uitgewerkt in onderstaand excel bestand.  
+Hoe je vanuit een *kennisgrammatica* diagrammen je *klassen* bouwt en de *relaties* legt naar tussen de presentatie laag en de data laag, is als voorbeeld uitgewerkt in onderstaand E
+
+xcel bestand.  
 
 ###Downloads###
 

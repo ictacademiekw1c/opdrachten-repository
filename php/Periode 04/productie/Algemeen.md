@@ -10,8 +10,10 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4**| &nbsp; &nbsp; Deadline **IO1B4**| &nbsp; &nbsp; Deadline **IO1C4**| &nbsp; &nbsp; Deadline **IO1D4** |  &nbsp; &nbsp;  Deadline **IO1E4** &nbsp; |
 |--------------------  |--------------- | --------- |
 | Opdracht 6.1| zo 29 apr | zo 29 apr | zo 29 apr | zo 22 april| zo 22 april |  
-| Opdracht 6.2 + 6.3 | zo 29 april | zo 29 april | zo 29 april | 9 mei |  9 mei |  
-| Opdracht 7.1 |  |  |  | 15 mei | 19 mei |  
+| Opdracht 6.2 + 6.3 | zo 29 april | zo 29 april | zo 29 april | wo 9 mei | wo 9 mei |  
+| Opdracht 7.1 | zo 13 mei | zo 13 mei| zo 13 mei |di 15 mei | za 19 mei |  
+| Opdracht 7.2 | zo 20 mei | zo 20 mei | zo 20 mei | di 22 mei | za 26 mei |  
+| Opdracht 7.3 | zo 27 mei | zo 27 mei  | zo 27 mei | di 29 mei | za 2 juni |  
 
 
 <br> 
