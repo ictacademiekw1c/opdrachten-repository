@@ -2,7 +2,7 @@
 
 #Opdracht 25#
 
-In Opdracht 25 wordt de volgende onderwerpen uitgewerkt in de opdracht:
+In Opdracht 25 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
 
 
 - Kunnen opzetten van een C# OOP Windows Forms applicatie met meerdere vensters.

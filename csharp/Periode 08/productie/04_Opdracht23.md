@@ -2,7 +2,7 @@
 
 #Opdracht 23#
 
-In hoofdstuk 23 wordt de volgende onderwerpen uitgewerkt in de opdracht:
+In hoofdstuk 23 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
 
 
 - Kunnen opzetten van een C# OOP Windows Forms applicatie;

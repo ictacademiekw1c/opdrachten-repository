@@ -28,5 +28,6 @@ Keywords: *** DataSet, DataTable, Rows, Colums, Lists of data objects, List<T>, 
 
 ### Links
 
-- [WinForms ADO.net](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/01.%20Reader/0012_Reader%20C-Sharp%20V7.0%20-%20ADO.NET.pdf)
-- [WinForms werken met datasets](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/01.%20Reader/0013_Reader%20C-Sharp%20V7.0%20-%20Werken%20met%20datasets.pdf)
+- [WinForms ADO.net](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/01.%20Reader/0012_Reader%20C-Sharp%20V7.0%20-%20ADO.NET.pdf) - Reader "Programmeren in C#"
+- [WinForms werken met datasets](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/01.%20Reader/0013_Reader%20C-Sharp%20V7.0%20-%20Werken%20met%20datasets.pdf) - Reader "Programmeren in C#"
+- [WinForms 3- Tier](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/01.%20Reader/0016_Reader%20C-Sharp%20V7.0%20-%20Software%20architectuur.pdf) - Reader "Programmeren in C#"

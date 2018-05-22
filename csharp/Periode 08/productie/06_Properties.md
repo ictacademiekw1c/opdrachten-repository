@@ -7,7 +7,10 @@ Hier een eenvoudig voorbeeld.
 ```C#
 public class Car
 {
+  // Attributes
   private string _brand;
+    
+  // Properties
   public string Brand
   {
     get { return _brand; }
