@@ -50,10 +50,46 @@ catch
 ## Opdracht 8.2
 ---
 
-### Wordt later toegevoegd
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2008/Opdracht%208.2.pdf">Download opdracht 8.2</a>
+
+### Onderwerpen
+*   Connectiestrings
+*   Bibliotheken gebruiken
+*   SqlConnection
+*   SqlCommand
+*   Connectiestring openen en sluiten
+*   ExecuteScalar
+*   ExecuteNonQuery
+*   Try en catch
+
+### Benodigde bestanden
+*   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
 
 ---
 ## Opdracht 8.3
 ---
 
-### Wordt later toegevoegd
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2008/Opdracht%208.3.pdf">Download opdracht 8.3</a>
+
+### Onderwerpen
+*   Connectiestrings
+*   Bibliotheken gebruiken
+*   SqlConnection
+*   SqlCommand
+*   Connectiestring openen en sluiten
+*   ExecuteScalar
+*   ExecuteNonQuery
+*   Try en catch
+
+### Benodigde bestanden
+*   Je hebt voor deze opdracht geen bestanden nodig.
+
+### Help
+
+*   Er zijn geen hulplinks voor deze opdracht beschikbaar.

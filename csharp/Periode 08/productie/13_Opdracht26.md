@@ -1,8 +1,8 @@
 ####[kleurcode]rgba(239,108,0,1)
 
-#Opdracht 26 - NYCM#
+#Opdracht 26 - NYCM - 3 Tier#
 
-In Opdracht 26 wordt de volgende onderwerpen uitgewerkt in de opdracht:
+In Opdracht 26 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
 
 
 - Kunnen opzetten van een C# OOP Windows Forms applicatie met meerdere vensters.

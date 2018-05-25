@@ -2,7 +2,7 @@
 
 #Opdracht 24#
 
-In hoofdstuk 24 wordt de volgende onderwerpen uitgewerkt in de opdracht:
+In hoofdstuk 24 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
 
 
 - Kunnen opzetten van een C# OOP Windows Forms applicatie met meerdere vensters.
