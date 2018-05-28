@@ -28,6 +28,11 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 **Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
 
 ## Toets
+|Klas              | Datum en tijd |
+|--------------------  |--------------- |
+| IO2A4 | Donderdag 14 juni om 9:30 (tijdens rekenen) |
+| IO2B4 | Woensdag 13 juni om 10:45 (tijdens SQL) |
+| IO2C4 | Woensdag 13 juni om 8:30 (tijdens SQL) |
 <ul>
 	<li>IO2A4 &rarr; 14 juni om 9:30 (tijdens rekenen)</li>
 	<li>IO2B4 &rarr; 13 juni om 10:45 (tijdens SQL)</li>
