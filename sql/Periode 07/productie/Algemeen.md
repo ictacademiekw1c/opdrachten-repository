@@ -11,7 +11,7 @@ Deze studieroute is bedoeld voor 2e-jaars leerlingen niveau 4 van de ICT-Academi
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
 
-|Opdracht              | &nbsp; &nbsp; Deadline IO2A4, IO2B4, IO2C4 &nbsp; &nbsp; |
+| &nbsp;Opdracht              | &nbsp; &nbsp; Deadline IO2A4, IO2B4, IO2C4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
 | Opdracht H.1, H.2, H.3 |  Vrijdag 23 februari |
 | Opdracht 10.1, 10.2 | Vrijdag 2 maart |
@@ -29,7 +29,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 ## Toets
 
-|Klas              | Datum en tijd |
+| &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
 | IO2A4 | Donderdag 14 juni om 9:30 (tijdens rekenen) |
 | IO2B4 | Woensdag 13 juni om 10:45 (tijdens SQL) |
@@ -49,7 +49,7 @@ In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet
 <table><thead>
 <tr>
 <th></th>
-<th align="left">Redenatie</th>
+<th align="left"> &nbsp;Redenatie</th>
 </tr>
 </thead><tbody>
 <tr>
