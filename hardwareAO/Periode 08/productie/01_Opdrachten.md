@@ -63,3 +63,8 @@ Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 **Opdracht 03 - Motorshield v2.3 **
 
 - [Beschrijving Motorshield](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-motor-shield-v2-for-arduino.pdf)
+
+Begin bij **pagina 22** voor het installeren van de juiste motor shield bibliotheken
+Begin bij **pagina 30** voor het creeren en gebruiken van een motor object.
+Pas je motor functies aan de nieuwe motor objecten.
+Laat het robot chasis een patroon rijden
