@@ -56,11 +56,11 @@ n.v.t.
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2004/Productie/02.%20Opdrachten/7.4.pdf" target="_blank">Opdracht 7.4</a>
 
 ### Onderwerpen
-•	Database PDO
-•	$pdo->exec()
-•	SQL queries INSERT INTO
-•	$_GET parameters
-•	<FORM>
+- Database PDO
+- $pdo->exec()
+- SQL queries INSERT INTO
+- $_GET parameters
+- <FORM>
 
 
 ### Help
@@ -74,11 +74,11 @@ n.v.t.
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2004/Productie/02.%20Opdrachten/7.5.pdf" target="_blank">Opdracht 7.5</a>
 
 ### Onderwerpen
-•	Database PDO
-•	$pdo->query()
-•	SQL queries SELECT met AND 
-•	$_POST parameters
-•	<FORM>
+- Database PDO
+- $pdo->query()
+- SQL queries SELECT met AND 
+- $_POST parameters
+- <FORM>
 
 ### Help
 - <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.22%20PHP%5D%20PHP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2004/Productie/01.%20Reader/Database%20connectie%20leggen%20MS%20SQL%20server.pdf" target="_blank">Handleiding Stap 4 & Stap 5</a>

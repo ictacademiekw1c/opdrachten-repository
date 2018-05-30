@@ -14,8 +14,8 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 7.1 | zo 13 mei | zo 13 mei| zo 13 mei |di 15 mei | za 19 mei |  
 | Opdracht 7.2 | zo 20 mei | zo 20 mei | zo 20 mei | di 22 mei | za 26 mei |  
 | Opdracht 7.3 | zo 27 mei | zo 27 mei  | zo 27 mei | di 29 mei | za 2 juni |
-| Opdracht 7.4 | zo 3 juni | zo 3 juni  | zo 3 juni |  | za 9 juni |  
-| Opdracht 7.5 | zo 3 juni | zo 3 juni  | zo 3 juni |  | za 9 juni |
+| Opdracht 7.4 | zo 3 juni | zo 3 juni  | zo 3 juni |  di 5 juni |  9 juni |
+| Opdracht 7.5 | zo 3 juni | zo 3 juni  | zo 3 juni |  di 5 juni | 9 juni | 
 
 
 <br> 
