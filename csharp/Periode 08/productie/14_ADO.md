@@ -41,7 +41,7 @@ In Windows applicatie is de App.config het configuratie bestand waar we de conne
 
 ### De connectionStrings Section
 
-Connection strings kunnen worden opgeslagen in key/value paren in de **connectionStrings** subsectie van de**configuration** sectie van het applicatie configuratie bestand. In de connectionStrings secties dkunnen de de commando's  **add**, **clear**, en **remove** worden gebruikt.
+Connection strings kunnen worden opgeslagen in key/value paren in de **connectionStrings** subsectie van de **configuration** sectie van het applicatie configuratie bestand. In de connectionStrings secties dkunnen de de commando's  **add**, **clear**, en **remove** worden gebruikt.
 
 In het volgende configuratie file fragment is een voorbeeld weergegeven van een connection string. De **name** attribute is de unieke naam die je geeft aan de connection string om de connection string tijdens de uitvoering van het programma op te vragen. De **providerName** is naam van de .NET Framework data provider, die is geregistreerd in het machine.config bestand. In 
 
@@ -80,7 +80,7 @@ string connectionString = ConfigurationManager.ConnectionStrings["myConnectionSt
 
 ##    Uitvoeren van een SQL Command
 
-De .NET Framework Data Provider voor SQL Server gebruikt een  [SqlCommand](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand) object, the .NET Framework Data Provider for ODBC includes an [OdbcCommand](https://docs.microsoft.com/en-us/dotnet/api/system.data.odbc.odbccommand) object die een aantal methods tot beschikking heeft om SQL commando's te kunnen uitvoeren. De keuze welk commando geschikt is afhankelijk van het type commando en de gewenste return waarde van de SQL database. 
+De .NET Framework Data Provider voor SQL Server gebruikt een  [SqlCommand](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand) object die een aantal methods tot beschikking heeft om SQL commando's te kunnen uitvoeren. De keuze welk commando geschikt is afhankelijk van het type commando en de gewenste return waarde van de SQL database. 
 
 | Command            | Return Value                                                 |
 | ------------------ | ------------------------------------------------------------ |
@@ -97,7 +97,7 @@ Ieder strongly typed command object ondersteund ook de [CommandType](https://doc
 | `StoredProcedure` | De naam van een stored procedure. Je kunt de  `Parameters` propertie van het command gebruiken om toegang te krijgen tot de input en output parameters en return waarden, ongeacht welk `Execute` method wordt aangeroepen. Wanneer `ExecuteReader` wordt gebruikt zijn de return waarde en de output parameters niet toegankelijk totdat de `DataReader` is gesloten. |
 | `TableDirect`     | De naam van een tabel.                                       |
 
-## Example
+## Voorbeeld
 
  ```c#
 static void GetSalesByCategory(string connectionString, 
@@ -146,7 +146,6 @@ static void GetSalesByCategory(string connectionString,
 ###Downloads###
 
 - 
-- SQL script [Leerlinggegevens](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/03.%20Scripts/Leerlinggegevens.sql) .
 
 ### Links
 
