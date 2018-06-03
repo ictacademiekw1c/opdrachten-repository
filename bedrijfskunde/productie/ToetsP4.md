@@ -4,14 +4,20 @@
 
 Voor alle klassen in de week van 11-15 juni.
 
+
 | &nbsp; &nbsp; **IO2A4**| &nbsp; &nbsp; **IO2B4**| &nbsp; &nbsp; **IO2C4**| 
 |--------------- | --------- | --------|
 | 13 juni 2018 in de reguliere Onderhoud en beheer les| 12 juni 2018 in de les van bedrijfskunde | 12 juni 2018 in de les van bedrijfskunde |
 
 Toetsonderdelen:
-- Bugs/incidentenbeheer
-- Testmethodieken
-- Unit test 
+Hoofdstuk 5 t/m hoofdstuk 8.
+- Kostensoorten
+- Afschrijvingen
+- Prijselasticiteit
+- Integrale kostprijs berekening (formule)
+- Verkoopprijs
+- Hoofdstuk 6 gaat over algoritmes - Er zou op de toets een klein algoritme probleem als opdracht kunnen voorkomen. 
+
 
 Bij de theorietoets mag je geen internet gebruiken (gesloten laptop) en wordt op papier afgenomen.
 De toets zal bestaan uit open en/of meerkeuze vragen.
