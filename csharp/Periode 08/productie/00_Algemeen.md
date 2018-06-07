@@ -20,7 +20,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 28 Windows Forms NYCM SQL Plus Update & Delete | | 1juni | 1juni |
 |  |  |  |  |
 | Toets C# | 4 juni | 6 juni | 6 juni |
-| Herkansing C# |  | 27 juni | 27 juni |
+| Herkansing C# |  |  |  |
 
 
 
