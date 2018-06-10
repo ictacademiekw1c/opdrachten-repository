@@ -2,6 +2,8 @@
 
 Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de applicatie met de bijbehorende database en het bijbehorende document versiebeheer. 
 
+``LET OP: De onderdelen op deze pagina zullen de komende dagen nog worden aangepast``
+
 ## 2.1 B1-K1-W1: Realiseert een product
 
 ### Opdracht A: Maken van de planning
