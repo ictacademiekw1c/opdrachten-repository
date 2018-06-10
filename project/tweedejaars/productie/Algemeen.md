@@ -27,4 +27,12 @@ Een bedrijfssituatie zoals hierin wordt beschreven zal ook volgend jaar de wijze
 Dit project moet je dus zeker niet gaan zien als onbelangrijke opvuller van het tweede jaar, echter is het een eerste voorbereiding op je aanstaande examen en is het voor de docenten een
 eerste meetpunt of je nu al goed op weg bent en de beroepshouding hebt van een junior applicatieontwikkelaar.
 
+## 0.5 De concrete bedrijfssituatie
+
+- De __klant__: De organisatie achter het evenement de [Vestingloop](http://vestingloop.nl) en de hoofdsponsor die ook de kosten van dit IT-project zullen gaan bekostigen is [Brand Loyalty](https://www.brandloyalty-int.com/nl-NL/home/).
+  De project manager die ook werkzaam is bij BrandLoyalty en ook de coordinator is van de Vestingloop. 
+
+- Waar jij werkt als junior programmeur: 'New Kids From The Blockchain' (NKftBC) een __startup bedrijf__ dat gevestigd is in de binnenstad van 's-Hertogenbosch.
+
+
 

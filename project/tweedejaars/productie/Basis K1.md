@@ -17,8 +17,8 @@ __Verzamelen van gegevens__
  
 __Opleveren Programma van Eisen__ 
   
-    - Communiceer het Programma van Eisen en geef een korte toelichting.  
-    - Vraag om goedkeuring aan de contactpersoon. 
+    - Lever het Programma van Eisen op in je portfolio.  
+    - Vraag om goedkeuring van de klant. 
  
 __Resultaat__ 
 
@@ -27,6 +27,8 @@ __Resultaat__
      - Goedkeuring van de klant met betrekking tot de inhoud zodat je verder kan gaan met de volgende stap. 
 
 __Links__
+
+[Verslagen contactmomenten met Vestingloop](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Vestingloop.docx)
 
 [Sjabloon Programma van eisen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20Programma%20van%20Eisen.docx) 
 
