@@ -17,6 +17,8 @@ Iedere leerling zal een Visual Team Service pagina moeten aanmaken en deze moete
 - De planning zal aanwezig moeten zijn in het document 'Project plan', maar ook in je eigen Team Services project 'Vestingloop' in de vorm van 1 sprint en gedetailleerde Backlog-items, die weer onderverdeeld zijn in taken.
 - Per dag zal de leerling verantwoording moeten afleggen op zijn planning en voortgang. 
 
+``Het uiteindelijke projectcijfer zal bij iedere beroepsgericht vak als onderdeel mee gaan tellen.``
+
 ## 0.4 De context 
 
 In dit project wordt een simulatie gedaan van een bedrijfssituatie. In deze bedrijfssituatie ben jij de junior applicatie programmeur en ben jij in dienst van een IT-bedrijf.
