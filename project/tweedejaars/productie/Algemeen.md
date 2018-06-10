@@ -34,5 +34,6 @@ eerste meetpunt of je nu al goed op weg bent en de beroepshouding hebt van een j
 
 - Waar jij werkt als junior programmeur: 'New Kids From The Blockchain' (NKftBC) een __startup bedrijf__ dat gevestigd is in de binnenstad van 's-Hertogenbosch.
 
+- Je vakdocenten zullen in dit project de rol spelen van de klant of de contactpersoon bij de klant en/of je eigen projectmanager binnen het IT bedrijf waar jij werkt. 
 
 
