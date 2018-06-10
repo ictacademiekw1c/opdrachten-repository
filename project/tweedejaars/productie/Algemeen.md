@@ -2,8 +2,8 @@
 
 ## 0.1 Inleiding
 
-Dit project start 18 juni 2018. In ruim 2 weken tijd zal er individueel gewerkt worden aan het project 'Vestingloop'.
-In dit project zullen de examenonderdelen B1-K1 en B2-K2 mmoeten worden uitgevoerd. 
+Dit project start 11 juni 2018. In ruim 2 weken tijd zal er individueel gewerkt worden aan het project 'Vestingloop'.
+In dit project zullen de examenonderdelen B1-K1, B2-K2 en B3-K3 moeten worden uitgevoerd. 
 
 ## 0.2 Voorbereiding
 
@@ -16,5 +16,15 @@ Iedere leerling zal een Visual Team Service pagina moeten aanmaken en deze moete
 - Word documenten en/of andere Office 365 of Visio bestanden zullen in de eigen portfolio moeten worden opgeleverd in de map die gekoppeld is aan de de studieroute waarin dit project portaal is toegevoegd. 
 - De planning zal aanwezig moeten zijn in het document 'Project plan', maar ook in je eigen Team Services project 'Vestingloop' in de vorm van 1 sprint en gedetailleerde Backlog-items, die weer onderverdeeld zijn in taken.
 - Per dag zal de leerling verantwoording moeten afleggen op zijn planning en voortgang. 
+
+## 0.4 De context 
+
+In dit project wordt een simulatie gedaan van een bedrijfssituatie. In deze bedrijfssituatie ben jij de junior applicatie programmeur en ben jij in dienst van een IT-bedrijf.
+Jouw directeur of projectmanager heeft een opdracht gekregen van een bedrijf (de klant) en speel jij een belangrijke rol in de verschillende fases van het IT project.
+De opdrachten worden in de vervolgpagina's uitgelegd en zul je ze allemaal de komende weken moeten uitvoeren.
+
+Een bedrijfssituatie zoals hierin wordt beschreven zal ook volgend jaar de wijze zijn waarop je volgend jaar examen gaat doen.
+Dit project moet je dus zeker niet gaan zien als onbelangrijke opvuller van het tweede jaar, echter is het een eerste voorbereiding op je aanstaande examen en is het voor de docenten een
+eerste meetpunt of je nu al goed op weg bent en de beroepshouding hebt van een junior applicatieontwikkelaar.
 
 
