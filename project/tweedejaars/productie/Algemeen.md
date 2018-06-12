@@ -3,7 +3,9 @@
 ## 0.1 Inleiding
 
 Dit project start 11 juni 2018. In ruim 2 weken tijd zal er individueel gewerkt worden aan het project 'Vestingloop'.
-In dit project zullen de examenonderdelen B1-K1, B2-K2 en B3-K3 moeten worden uitgevoerd. 
+In dit project zullen de examenonderdelen B1-K1, B2-K2 en B3-K3 (zie de pagina's onder "Lessen") moeten worden uitgevoerd. 
+
+``De uiterlijke opleverdatum is woensdag 27 juni; ook alle producten daarvoor moeten voor deze datum opgeleverd zijn (documenten op Natschool en code in de git repository van je Team Services Pagina). Maak voor jezelf een realistische planning en volg deze ook op. Ook je planning en voortgang wordt gemonitord via je Team Services Pagina en beoordeeld.``
 
 ## 0.2 Voorbereiding
 
