@@ -19,9 +19,8 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
 
       a. Maak of genereer een creatiescript van de database. 
       b. Voer het creatiescript op de database uit. 
-      c. Importeer de gegevens uit '...' inhoud van de database in je database. 
-            Deze gegevens staan in een XML-formaat dat in de database geïmporteerd kan worden. 
-      d. Vul de tabellen in de database zo nodig aan met testgegevens ten behoeve van de realisatie.
+      c. Importeer de gegevens in je database. 
+      d. Vul de tabellen in de database zonodig aan met testgegevens ten behoeve van de realisatie.
  
 ### Opdracht C: Realiseren van de applicatie
 

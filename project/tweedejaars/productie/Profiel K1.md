@@ -1,3 +1,5 @@
+//Valt buiten de scope van dit project
+
 # 4. P1-K1: Onderhoudt en beheert een applicatie
 
 
