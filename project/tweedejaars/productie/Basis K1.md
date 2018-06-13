@@ -52,6 +52,12 @@ __Resultaat__
     - Een toelichting op het voorlopige projectplan
     - Het (aangepaste) definitieve projectplan 
 
+    In het projectplan wordt er ook een planning gemaakt die bedoeld is voor de communicatie naar de klant toe.
+    Voor de interne communicatie moet je je 'Work' in je Team Services pagina inrichten als 1 sprint tot de uiteindelijke oplevering.
+    Per product of onderdeel maak je daarvoor een backlog-item aan, die je opdeelt in taken.
+
+    Per dag houd je je taken bij en zet je ze in de status kolom (todo, inprogress, done) overeenkomstig de werkelijke situatie.
+
 __Links__
 
    - [Sjabloon projectplan](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20projectplan.docx).  

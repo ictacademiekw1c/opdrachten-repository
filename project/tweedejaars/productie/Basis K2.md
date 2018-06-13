@@ -11,7 +11,6 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
     1. Ga uit van de opgeleverde documenten 'Vastgesteld functioneel ontwerp' en 'Vastgesteld technisch ontwerp'. 
     2. Maak een planning voor het realiseren en het testen van de applicatie of voor onderdelen ervan. 
         
-
 ### Opdracht B: Realiseren van de database
 
     Zet het databaseontwerp uit het technisch ontwerp om naar een database. 
