@@ -2,7 +2,7 @@
 
 ## 0.1 Inleiding
 
-Dit project start 18 juni 2018. In ruim 2 weken tijd zal er met een speciaal team gewerkt worden aan het project 'IntroApp'.
+Dit project start 11 juni 2018. In ruim 2 weken tijd zal er met een speciaal team gewerkt worden aan het project 'IntroApp'.
 In dit project zullen de examenonderdelen B1-K1, B2-K2 en B3-K3 moeten worden uitgevoerd. 
 
 ## 0.2 Voorbereiding

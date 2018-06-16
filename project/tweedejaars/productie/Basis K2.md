@@ -2,14 +2,16 @@
 
 Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de applicatie met de bijbehorende database en het bijbehorende document versiebeheer. 
 
-``LET OP: De onderdelen op deze pagina zullen de komende dagen nog worden aangepast``
 
 ## 2.1 B1-K1-W1: Realiseert een product
 
-### Opdracht A: Maken van de planning
+### Opdracht A: Maken van je werkplanning in de Microsoft Team Services onder 'Work'
 
     1. Ga uit van de opgeleverde documenten 'Vastgesteld functioneel ontwerp' en 'Vastgesteld technisch ontwerp'. 
-    2. Maak een planning voor het realiseren en het testen van de applicatie of voor onderdelen ervan. 
+    2. Maak een planning voor het realiseren en het testen van de applicatie of voor onderdelen ervan.
+        a. Maak hiervoor de backlog-items Realiseren en testen in sprint 1.
+        b. Verdeel de back-log in verschillende te programmeren/testen taken
+        c. Kijk dagelijks aan het begin van de dag en aan het eind van de dag of je taken naar een andere status kan plaatsen.
         
 ### Opdracht B: Realiseren van de database
 
@@ -37,11 +39,20 @@ __Resultaat__
         - De werkende onderdelen van de applicatie die je gemaakt hebt.
             - De applicatie is gebouwd met de volgende software standaard ideeen:
                 a. OOP (Object oriented Programming)
-                b. 3-TIER
+                b. 3-TIER; scheiding van Data, Business en Presentatielaag 
                 c. Coding conventions volgens bijlage
                 d. Documentatie aan de hand van betekenisvolle commentaar (header commentaar/inwendige commentaar)  
-        - Een aangepast document versiebeheer   
+        - Een aangepast document versiebeheer; je kunt alle wijzingen halen uit je Team Services Pagina / Commits
 
+### Opdracht C (bonus): Maak een Unittest project aan met een test klasse
+
+Onderzoek voor welke klasses en methodes er zinvolle unit tests geschreven kunnen worden.
+Overleg hierover eventueel met je technische projectleider, welke unittests er gewenst zijn.
+
+__Resultaat__
+
+Een unittest project die een aantal klasses en methodes test op gewenst gedrag.
+ 
 __Links__
 
 [Document versiebeheer](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Document%20versiebeheer.docx)
