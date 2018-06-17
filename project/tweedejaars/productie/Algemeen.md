@@ -40,4 +40,36 @@ eerste meetpunt of je nu al goed op weg bent en de beroepshouding hebt van een j
 
 - Je vakdocenten zullen in dit project de rol spelen van de klant of de contactpersoon bij de klant en/of je eigen projectmanager binnen het IT bedrijf waar jij werkt. 
 
+## 0.6 Beoordelingsmatrix project
+
+
+| B1-K1 | Onderdeel| Cijfer/Afteken|Telt mee bij Vak|
+|----------------|-----------|---------------|
+|A. |Programma van Eisen|       |Analyseren|	
+|A1.|Goedkeuring PvE||Analyseren|
+|B. |Projectplan	||Analyseren|
+|B1.|Goedkeuring projectplan||Analyseren|	
+|C. |Functioneel ontwerp||Analyseren|	
+|C1.| Goedkeuring FO||Analyseren|	
+|D. |Technisch ontwerp||Analyseren|	
+|D1.|Goedkeuring TO||Analyseren|	
+|E. |Configuratie overzicht||Analyseren|	
+
+| B1-K2 | Onderdeel| Cijfer/Afteken|Telt mee bij vak|
+|-------|----------|---------------|----|
+|A. |Inrichting TeamServices|| Onderhoud & Beheer|	
+|B. |Database (/documentatie)||	SQL |
+|C. |Applicatie (+/documentatie)||	C# |
+|C1.|(Bonus) Unit Test|| Onderhoud & Beheer |	
+|D. |Testplan||	 Onderhoud & Beheer |
+|E. |Testlog||  Onderhoud & Beheer |	
+|F. |Document versiebeheer|| Onderhoud & Beheer |	
+
+| B1-K2 | Onderdeel| Cijfer/Afteken| Telt mee bij vak|
+|---|----------|--------|-----|
+|A. |Testplan|| Onderhoud & Beheer|	
+|B. |Test Rapport||	 Onderhoud & Beheer|
+|C. |Evaluatie|| Onderhoud & Beheer|
+																		
+
 
