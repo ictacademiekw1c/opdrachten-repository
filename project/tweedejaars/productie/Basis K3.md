@@ -4,7 +4,7 @@
 
 ## 3.1 B1-K3-W1: Optimaliseert het product
 
-### Opdracht 1
+### Opdracht A
 
 Je stelt een acceptatietest op voor één van de functionaliteiten uit de applicatie. Je leidinggevende geeft aan voor welke functionaliteit uit het functioneel ontwerp jij een acceptatietest gaat maken.  
  
@@ -28,7 +28,7 @@ __Resultaat__
 
 ## 3.2 B1-K3-W2: Levert het product op
 
-### Opdracht 2
+### Opdracht B
 
 Laat een eindgebruiker de acceptatietest doen. Jij begeleidt de gebruiker hierbij.
 
@@ -64,9 +64,13 @@ __Links__
 
 [Sjabloon testrapport](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20testrapport.docx)
 
-
 ## 3.3 B1-K3-W3: Evalueert het opgeleverde product
 
-//Deze valt buiten de scope van dit project.
+Je evalueert het product (de applicatie) en het proces (hoe het maken en opleveren van de applicatie is gegaan) m.b.v. het sjabloon hieronder.
+
+__Links__
+
+[Sjabloon evaluatieverslag](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20evaluatieverslag.docx)
+
 
 
