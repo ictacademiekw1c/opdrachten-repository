@@ -65,7 +65,7 @@ eerste meetpunt of je nu al goed op weg bent en de beroepshouding hebt van een j
 |E. |Testlog||  Onderhoud & Beheer |	
 |F. |Document versiebeheer|| Onderhoud & Beheer |	
 
-| B1-K2 | Onderdeel| Cijfer/Afteken| Telt mee bij vak|
+| B1-K3 | Onderdeel| Cijfer/Afteken| Telt mee bij vak|
 |---|----------|--------|-----|
 |A. |Testplan|| Onderhoud & Beheer|	
 |B. |Test Rapport||	 Onderhoud & Beheer|
