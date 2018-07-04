@@ -2,14 +2,17 @@
 
 Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de applicatie met de bijbehorende database en het bijbehorende document versiebeheer. 
 
+
 ## 2.1 B1-K1-W1: Realiseert een product
 
-### Opdracht A: Maken van de planning
+### Opdracht A: Maken van je werkplanning in de Microsoft Team Services onder 'Work'
 
     1. Ga uit van de opgeleverde documenten 'Vastgesteld functioneel ontwerp' en 'Vastgesteld technisch ontwerp'. 
-    2. Maak een planning voor het realiseren en het testen van de applicatie of voor onderdelen ervan. 
+    2. Maak een planning voor het realiseren en het testen van de applicatie of voor onderdelen ervan.
+        a. Maak hiervoor de backlog-items Realiseren en testen in sprint 1.
+        b. Verdeel de back-log in verschillende te programmeren/testen taken
+        c. Kijk dagelijks aan het begin van de dag en aan het eind van de dag of je taken naar een andere status kan plaatsen.
         
-
 ### Opdracht B: Realiseren van de database
 
     Zet het databaseontwerp uit het technisch ontwerp om naar een database. 
@@ -17,9 +20,8 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
 
       a. Maak of genereer een creatiescript van de database. 
       b. Voer het creatiescript op de database uit. 
-      c. Importeer de gegevens uit '...' inhoud van de database in je database. 
-            Deze gegevens staan in een XML-formaat dat in de database geïmporteerd kan worden. 
-      d. Vul de tabellen in de database zo nodig aan met testgegevens ten behoeve van de realisatie.
+      c. Importeer de gegevens in je database. 
+      d. Vul de tabellen in de database zonodig aan met testgegevens ten behoeve van de realisatie.
  
 ### Opdracht C: Realiseren van de applicatie
 
@@ -37,11 +39,20 @@ __Resultaat__
         - De werkende onderdelen van de applicatie die je gemaakt hebt.
             - De applicatie is gebouwd met de volgende software standaard ideeen:
                 a. OOP (Object oriented Programming)
-                b. 3-TIER
+                b. 3-TIER; scheiding van Data, Business en Presentatielaag 
                 c. Coding conventions volgens bijlage
                 d. Documentatie aan de hand van betekenisvolle commentaar (header commentaar/inwendige commentaar)  
-        - Een aangepast document versiebeheer   
+        - Een aangepast document versiebeheer; je kunt alle wijzingen halen uit je Team Services Pagina / Commits
 
+### Opdracht C (bonus): Maak een Unittest project aan met een test klasse
+
+Onderzoek voor welke klasses en methodes er zinvolle unit tests geschreven kunnen worden.
+Overleg hierover eventueel met je technische projectleider, welke unittests er gewenst zijn.
+
+__Resultaat__
+
+Een unittest project die een aantal klasses en methodes test op gewenst gedrag.
+ 
 __Links__
 
 [Document versiebeheer](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Document%20versiebeheer.docx)
@@ -86,7 +97,7 @@ __Links__
 
 [Sjabloon testrapport](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20testrapport.docx)
 
-[Document versiebeheer](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20testrapport.docx)
+[Document versiebeheer](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Document%20versiebeheer.docx)
 
 [Coding conventions](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Coding%20conventions.docx)
  
