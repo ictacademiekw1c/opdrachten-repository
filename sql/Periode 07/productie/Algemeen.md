@@ -13,16 +13,16 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Opdracht              | &nbsp; &nbsp; Deadline IO2A4, IO2B4, IO2C4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
-| Opdracht H.1, H.2, H.3 |  Vrijdag 23 februari |
-| Opdracht 10.1, 10.2 | Vrijdag 2 maart |
-| Opdracht 11.1, 11.2, 11.3 | Vrijdag 16 maart |
-| Opdracht 12.1, 12.2 | Vrijdag 23 maart |
-| Opdracht 13.1, 13.2 | Vrijdag 30 maart |
-| Opdracht 14.1, 14.2 | Vrijdag 6 april |
-| Opdracht 15.1, 15.2, 15.3 | Vrijdag 18 mei |
-| Opdracht 16.1, 16.2 | Vrijdag 25 mei |
-| Opdracht 17.1 | Vrijdag 1 juni |
-| Opdracht 18.1 | Vrijdag 8 juni |
+| Opdracht H.1, H.2, H.3 |  -  |
+| Opdracht 10.1, 10.2 |  -  |
+| Opdracht 11.1, 11.2, 11.3 |  -  |
+| Opdracht 12.1, 12.2 |  -  |
+| Opdracht 13.1, 13.2 |  -  |
+| Opdracht 14.1, 14.2 |  -  |
+| Opdracht 15.1, 15.2, 15.3 |  -  |
+| Opdracht 16.1, 16.2 |  -  |
+| Opdracht 17.1 |  -  |
+| Opdracht 18.1 |  -  |
 <br> 
 
 **Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
@@ -31,9 +31,9 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
-| IO2A4 | Donderdag 14 juni om 9:30 (tijdens rekenen) |
-| IO2B4 | Woensdag 13 juni om 10:45 (tijdens SQL) |
-| IO2C4 | Woensdag 13 juni om 8:30 (tijdens SQL) |
+| IO2A4 |  -  |
+| IO2B4 |  -  |
+| IO2C4 |  -  |
 
 
 ## Editor
