@@ -1,13 +1,52 @@
 # Algemene informatie
 
 ## Doelstelling
-Tijdens deze lessen wordt je geleerd ... 
+Het vak Modelleren heeft tot doel een probleemstelling (opdracht) zodanig uit elkaar te rafelen dat er een eensluidend en overzichtelijke structuur onstaat van de te gebruiken data (en data groepen) alsmede hun onderlingen relaties (bijv. SQL).													
+Tevens geeft dit een vaste structuur voor het afhandelen van de objecten in de programmacode.
+Uit de modellen volgen:
+<ul>
+<li>Het functioneel ontwerp			(Wat)
+	<ul>
+		<li>de functies</li>							
+		<li>de use case-diagrammen</li>
+		<li>activiteitendiagrammen van de functies</li>
+	</ul>
+</li>
+<li>Het technisch ontwerp			(Hoe)</li>				
+	<ul>
+		<li>de data dictionary</li>
+		<li>de bachmandiagrammen</li>		
+		<li>de klassediagrammen</li>	
+		<li>de activiteitendiagrammen van de logica</li>
+	</ul>
+</ul>
+
+De volgende onderdelen zullen tijdens het vak Modelleren aan bod komen:
+* Verwoorden *
+* Klassificeren
+* Kwalificeren
+* Begripsdefinities *
+* Identificeren
+* Sjabloniseren *
+* Diagrammiseren
+* Uniciteitsregel *
+* Deelverzamelingsregel *
+* Gelijkheidsregel *
+* Niet leeg- en optioneelregel
+* Formaatwaarde
+* Waarderegel
+* Modellen *
+* Functies *
+* Use Case *
+* Data Dictionary *
+* Bachmandiagram *
+
 
 ## Voorkennis
-Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Modelleren. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
+Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Modelleren. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 
 ## Software
-Voor de lessen Modelleren ... 
+Voor de lessen Modelleren zal voornamelijk gebruik worden gemaakt van Microsoft Office (voornamelijk Word en Excel) en Microsoft Visio. Deze software is voor studenten gratis te downloaden.
 
 ## Opleveren opdrachten
 In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
@@ -32,16 +71,15 @@ In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet
 </tr>
 </tbody></table>
 
-
 Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering waardoor het eindcijfer lager uit zal vallen.
 
 Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
 
 ## Algemene beoordelingscriteria
 
-Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
+Bij het opleveren van de opdrachten dient het document altijd aan onderstaande beoordelingscriteria te voldoen:
 *	De opdracht is op tijd ingeleverd in de ELO (het portfolio).
-*	De opdracht wordt ingeleverd als een rar-bestand.
+*	De opdracht wordt ingeleverd in het juiste bestandsformaat, dus geen screenshots (tenzij hier om gevraagd wordt).
 
 ## Periodecijfer
 
