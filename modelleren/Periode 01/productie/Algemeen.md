@@ -7,16 +7,16 @@ Uit de modellen volgen:
 <ul>
 <li>Het functioneel ontwerp			(Wat)
 	<ul>
-		<li>de functies</li>							
+		<li>de functies</li>
 		<li>de use case-diagrammen</li>
 		<li>activiteitendiagrammen van de functies</li>
 	</ul>
 </li>
-<li>Het technisch ontwerp			(Hoe)</li>				
+<li>Het technisch ontwerp			(Hoe)</li>
 	<ul>
 		<li>de data dictionary</li>
-		<li>de bachmandiagrammen</li>		
-		<li>de klassediagrammen</li>	
+		<li>de bachmandiagrammen</li>
+		<li>de klassediagrammen</li>
 		<li>de activiteitendiagrammen van de logica</li>
 	</ul>
 </ul>
