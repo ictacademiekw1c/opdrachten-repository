@@ -30,7 +30,7 @@
 *   Inrichten werkomgeving
 
 ### Benodigde bestanden
-*   <a href="http://brackets.io/" target="_blank">Brackets.exe</a>
+*   <a href="http://brackets.io/" target="_blank">Download Brackets</a>
 
 ### Help
 *   <a href="https://github.com/adobe/brackets/wiki/Troubleshooting" target="_blank">Brackets support</a>
