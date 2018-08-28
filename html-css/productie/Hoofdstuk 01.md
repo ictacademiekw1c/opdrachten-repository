@@ -13,10 +13,11 @@
 *   Inrichten portfolio op N@tschool
 
 ### Benodigde bestanden
-*   Er zijn geen benodigde bestanden voor deze opdracht beschikaar.
+*   Er zijn geen benodigde bestanden voor deze opdracht beschikbaar.
 
 ### Help
 *   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+
 ---
 ## Opdracht 1.2
 ---
