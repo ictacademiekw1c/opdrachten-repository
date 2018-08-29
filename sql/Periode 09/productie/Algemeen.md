@@ -2,7 +2,17 @@
 
 ## Doelstelling
 
+Doelstelling van deze studieroute is om de leerling de SQL kennis en vaardigheden die is opgedaan in leerjaar 1 en 2 op examen niveau te krijgen.
+Dit betekent dat alle stof van voorgaande jaren nogmaals de revue gaan passeren en waarbij er ook nog nieuwe onderwerpen worden aangeraakt die tot nu toe 
+nog niet zijn behandeld.
+
+SQL kennis en vaardigheden zijn onmisbaar bij het ontwikkelen van applicaties die op basis zijn van een SQL gebaseerde database, maar ook voor het ontwikkelen van rapportages, die vanuit het bedrijfsleven door het management maar ook voor de dagelijkse werkvloer, voor de werkprocessen onmisbaar zijn.
+
+Als rapportage tool zal gebruik worden gemaakt van Crystal Reports, dat door SAP is ontwikkeld en kan worden toegevoegd aan Visual Studio, en ook aan Visual Studio C# applicaties.
+
 ## Voorkennis
+
+De SQL kennis die is opgedaan in leerjaar 1 en 2.
 
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
@@ -28,6 +38,10 @@ Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
 <img src="https://msdnshared.blob.core.windows.net/media/2017/08/SQL-2017.png">
 
 De software heb je als het goed is nog op je systeem staan. Heb je de software niet meer op je systeem staan, dan vraag je je docent om hulp.
+
+Binnen visual studio heb je de Crystal Reports add-on om Crystal Reports rapportages te kunnen maken.
+
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/sapcrystalreports.png" alt="SAP Crystal Reports">
 
 ## Opleveren opdrachten
 In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
