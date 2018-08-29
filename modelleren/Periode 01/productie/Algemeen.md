@@ -3,16 +3,17 @@
 ## Doelstelling
 Het vak Modelleren heeft tot doel een probleemstelling (opdracht) zodanig uit elkaar te rafelen dat er een eensluidend en overzichtelijke structuur onstaat van de te gebruiken data (en data groepen) alsmede hun onderlingen relaties (bijv. SQL).													
 Tevens geeft dit een vaste structuur voor het afhandelen van de objecten in de programmacode.
+
 Uit de modellen volgen:
 <ul>
-<li>Het functioneel ontwerp			(Wat)
+<li>Het functioneel ontwerp (Wat)
 	<ul>
 		<li>de functies</li>
 		<li>de use case-diagrammen</li>
 		<li>activiteitendiagrammen van de functies</li>
 	</ul>
 </li>
-<li>Het technisch ontwerp			(Hoe)</li>
+<li>Het technisch ontwerp (Hoe)</li>
 	<ul>
 		<li>de data dictionary</li>
 		<li>de bachmandiagrammen</li>
@@ -43,10 +44,10 @@ De volgende onderdelen zullen tijdens het vak Modelleren aan bod komen:
 
 
 ## Voorkennis
-Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Modelleren. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
+Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Modelleren. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te werken.
 
 ## Software
-Voor de lessen Modelleren zal voornamelijk gebruik worden gemaakt van Microsoft Office (voornamelijk Word en Excel) en Microsoft Visio. Deze software is voor studenten gratis te downloaden.
+Voor de lessen Modelleren zal voornamelijk gebruik worden gemaakt van Microsoft Office / Office 365 (voornamelijk Word en Excel) en Microsoft Visio. Deze software is voor studenten gratis te downloaden.
 
 ## Opleveren opdrachten
 In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
