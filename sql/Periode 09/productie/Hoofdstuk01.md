@@ -9,6 +9,6 @@
 
 
 ## Herhalingsopdrachten
-kjkjkjk
+
 
 

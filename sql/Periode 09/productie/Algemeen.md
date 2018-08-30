@@ -43,6 +43,8 @@ Binnen visual studio heb je de Crystal Reports add-on om Crystal Reports rapport
 
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/sapcrystalreports.png" alt="SAP Crystal Reports">
 
+![Crystal Reports](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/sql/images/sapcrystalreports.png?raw=true)
+
 ## Opleveren opdrachten
 In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
