@@ -2,7 +2,17 @@
 
 ## Doelstelling
 
+Doelstelling van deze studieroute is om de leerling de SQL kennis en vaardigheden die is opgedaan in leerjaar 1 en 2 op examen niveau te krijgen.
+Dit betekent dat alle stof van voorgaande jaren nogmaals de revue gaan passeren en waarbij er ook nog nieuwe onderwerpen worden aangeraakt die tot nu toe 
+nog niet zijn behandeld.
+
+SQL kennis en vaardigheden zijn onmisbaar bij het ontwikkelen van applicaties die op basis zijn van een SQL gebaseerde database, maar ook voor het ontwikkelen van rapportages, die vanuit het bedrijfsleven door het management maar ook voor de dagelijkse werkvloer, voor de werkprocessen onmisbaar zijn.
+
+Als rapportage tool zal gebruik worden gemaakt van Crystal Reports, dat door SAP is ontwikkeld en kan worden toegevoegd aan Visual Studio, en ook aan Visual Studio C# applicaties.
+
 ## Voorkennis
+
+De SQL kennis die is opgedaan in leerjaar 1 en 2.
 
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
@@ -28,6 +38,10 @@ Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
 <img src="https://msdnshared.blob.core.windows.net/media/2017/08/SQL-2017.png">
 
 De software heb je als het goed is nog op je systeem staan. Heb je de software niet meer op je systeem staan, dan vraag je je docent om hulp.
+
+Binnen visual studio heb je de Crystal Reports add-on om Crystal Reports rapportages te kunnen maken.
+
+![Crystal Reports](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/sql/images/sapcrystalreports.png?raw=true)
 
 ## Opleveren opdrachten
 In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
@@ -69,9 +83,7 @@ Voor de opdrachten gelden de volgende aanvullende beoordelingscriteria:
 
 ## Periodecijfer
 
-Gedurende deze periode behaal je in totaal 2 cijfers.
-* Cijfer A: Huiswerkopdrachten (25% van periodecijfer)
-* Cijfer B: Toets (75% van periodecijfer)
+Ook dit vak telt mee voor de vaststelling of je wel niet op mag voor het PVB in januari.
 
 ## Hulpmiddelen
 * <a href="https://www.w3schools.com/sql/" target="_blank">SQL op W3Schools</a>
