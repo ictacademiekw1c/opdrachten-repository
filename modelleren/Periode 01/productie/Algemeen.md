@@ -81,6 +81,7 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 Bij het opleveren van de opdrachten dient het document altijd aan onderstaande beoordelingscriteria te voldoen:
 *	De opdracht is op tijd ingeleverd in de ELO (het portfolio).
 *	De opdracht wordt ingeleverd in het juiste bestandsformaat, dus geen screenshots (tenzij hier om gevraagd wordt).
+*	De opdracht voldoet aan de beoordelingscriteria uit het document <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.01%20MOD%5D%20Modelleren/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/01.%20Reader/Beoordelingscriteria%20modelleren.xlsx" target="_blank">Beoordelingscriteria Modelleren</a>
 
 ## Periodecijfer
 
