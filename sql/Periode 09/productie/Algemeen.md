@@ -41,8 +41,6 @@ De software heb je als het goed is nog op je systeem staan. Heb je de software n
 
 Binnen visual studio heb je de Crystal Reports add-on om Crystal Reports rapportages te kunnen maken.
 
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/sapcrystalreports.png" alt="SAP Crystal Reports">
-
 ![Crystal Reports](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/sql/images/sapcrystalreports.png?raw=true)
 
 ## Opleveren opdrachten
@@ -85,9 +83,7 @@ Voor de opdrachten gelden de volgende aanvullende beoordelingscriteria:
 
 ## Periodecijfer
 
-Gedurende deze periode behaal je in totaal 2 cijfers.
-* Cijfer A: Huiswerkopdrachten (25% van periodecijfer)
-* Cijfer B: Toets (75% van periodecijfer)
+Ook dit vak telt mee voor de vaststelling of je wel niet op mag voor het PVB in januari.
 
 ## Hulpmiddelen
 * <a href="https://www.w3schools.com/sql/" target="_blank">SQL op W3Schools</a>
