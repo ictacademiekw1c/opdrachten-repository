@@ -2,13 +2,14 @@
 
 ## Doelstelling
 
-Doelstelling van deze studieroute is om de leerling de SQL kennis en vaardigheden die is opgedaan in leerjaar 1 en 2 op examen niveau te krijgen.
-Dit betekent dat alle stof van voorgaande jaren nogmaals de revue gaan passeren en waarbij er ook nog nieuwe onderwerpen worden aangeraakt die tot nu toe 
-nog niet zijn behandeld.
+Doelstelling van deze studieroute is om de leerling de SQL kennis en vaardigheden die zijn opgedaan in leerjaar 1 en 2 op examen niveau te krijgen.
+Dit betekent dat alle stof van voorgaande jaren nogmaals de revue gaan passeert waarbij er ook nog nieuwe onderwerpen worden aangeraakt die tot nu toe nog niet zijn behandeld.
 
-SQL kennis en vaardigheden zijn onmisbaar bij het ontwikkelen van applicaties die op basis zijn van een SQL gebaseerde database, maar ook voor het ontwikkelen van rapportages, die vanuit het bedrijfsleven door het management maar ook voor de dagelijkse werkvloer, voor de werkprocessen onmisbaar zijn.
+SQL kennis en vaardigheden zijn onmisbaar bij het ontwikkelen van applicaties die op basis zijn van een SQL gebaseerde database, maar ook voor het ontwikkelen van rapportages.
 
-Als rapportage tool zal gebruik worden gemaakt van Crystal Reports, dat door SAP is ontwikkeld en kan worden toegevoegd aan Visual Studio, en ook aan Visual Studio C# applicaties.
+Rapportages zijn vaak bedoeld voor het management zodat zij kunnen overzien of de afdelingen nog goed presteren, maar anderzijds ook vaak voor de dagelijkse werkvloer als input voor de dagelijkse werkprocessen.
+
+Als rapportage tool zal gebruik worden gemaakt van Crystal Reports, dat door SAP is ontwikkeld en kan worden toegevoegd aan Visual Studio, en ook kan worden geintegreerd in  Visual Studio C# applicaties.
 
 ## Voorkennis
 
@@ -39,7 +40,7 @@ Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
 
 De software heb je als het goed is nog op je systeem staan. Heb je de software niet meer op je systeem staan, dan vraag je je docent om hulp.
 
-Binnen visual studio heb je de Crystal Reports add-on om Crystal Reports rapportages te kunnen maken.
+Binnen visual studio heb je de Crystal Reports add-on van SAP nodig om Crystal Reports rapportages te kunnen maken.
 
 ![Crystal Reports](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/sql/images/sapcrystalreports.png?raw=true)
 
@@ -75,15 +76,19 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 
 Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
 *	De opdracht is op tijd ingeleverd in de ELO (het portfolio).
-*	De opdracht wordt ingeleverd als een rar-bestand.
+*	Per opdracht wordt gecommuniceerd hoe opdrachten moeten worden opgeleverd.
 
 Voor de opdrachten gelden de volgende aanvullende beoordelingscriteria:
 
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/04.%20Aanvullend/Codeerafspraken%20SQL.pdf" target="_blank">Codeerafspraken SQL.pdf</a>
 
+*   Opdrachten worden individueel opgeleverd en uitwerkingen moeten door de leerling zelf kunnen worden uitgelegd en verantwoord.
+
 ## Periodecijfer
 
-Ook dit vak telt mee voor de vaststelling of je wel niet op mag voor het PVB in januari.
+In het examenjaar worden geen periodecijfers meer gegeven, maar een negatieve beoordeling kan betekenen dat de leerling voor het PVB op mag gaan.
+
+Ook dit vak telt dus mee voor de vaststelling of je wel niet op mag voor het PVB in januari.
 
 ## Hulpmiddelen
 * <a href="https://www.w3schools.com/sql/" target="_blank">SQL op W3Schools</a>
