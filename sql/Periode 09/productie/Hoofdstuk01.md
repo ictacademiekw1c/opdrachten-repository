@@ -29,4 +29,5 @@ Uit de toets:
 2. Welke film heeft de meeste mannelijke rollen ?
 3. Overzicht van genres en aantal oscarnominaties (gesorteerd van meest naar minst)
 4. Wat is de gemiddelde lengte van een film per genre (van langste naar kortste)?
+5. Welke acteurs hebben in films gespeeld met verschillende talen? Toon de naam van de acteur, de titel van de film en de taal.
 
