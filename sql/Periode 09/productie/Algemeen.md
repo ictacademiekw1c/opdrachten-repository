@@ -18,17 +18,19 @@ De SQL kennis die is opgedaan in leerjaar 1 en 2.
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
 
-| &nbsp;Opdracht              | &nbsp; &nbsp; Deadline IO3A4, IO3B4, IO3C4 &nbsp; &nbsp; |
+| &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4, IO3C4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
+| Opdracht 1 Movies | 7 sep |
+
 <br> 
 
-**Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
+**Let op: Je dient de opdrachten uiterlijk op de deadline op te leveren. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
 
 ## Toets
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
-| IO3A4 |  -  |
+| IO3A4 |    |
 | IO3B4 |  -  |
 | IO3C4 |  -  |
 
