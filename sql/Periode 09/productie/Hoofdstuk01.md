@@ -23,9 +23,10 @@ Uit de toets:
 6.	Toon de film(s) die op 27 oktober is/zijn uitgekomen. Jaar maakt niet uit.
 7.	Toon de achternaam in hoofdletters van de acteurs waarvan de tweede en derde letter 'wa' zijn. Bijvoorbeel 'Swank' wordt getoond als 'SWANK'.
 
-## Huiswerkopdracht
+## Huiswerkopdrachten
 
-Andere vragen:
-
-
+1. Welke film heeft de meeste oscarnominaties met het laagste budget?
+2. Welke film heeft de meeste mannelijke rollen ?
+3. Overzicht van genres en aantal oscarnominaties (gesorteerd van meest naar minst)
+4. Wat is de gemiddelde lengte van een film per genre (van langste naar kortste)?
 
