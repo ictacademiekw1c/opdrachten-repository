@@ -25,7 +25,7 @@ De onderstaande onderdelen worden gebruikt in alle hoofdstukken.:
 
 Bekijk allereerst de Raspberry Pi goed en vergelijk deze met onderstaand plaatje. Ga nog niet de componenten aansluiten.
 
-![https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/overzicht-Raspberry-Pi.jpg]()
+![RPi overzicht](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/overzicht-Raspberry-Pi.jpg)
 
 De SD kaart aansluiting wordt over het algemeen een kaart geplaatst waarom het besturingssysteem voor de RPi staat. Vaak is dit Raspbian (een Linux variant). Het besturingssysteem is nodig om de RPi op te starten.
 
@@ -39,7 +39,7 @@ Beeld en geluid wordt naar de monitor verzonden via een HDMI kabel. Sommige moni
 
 De  GPIO pinnen ga je pas gebruiken in hoofdstuk 5. Hierop kunnen bijvoorbeeld lampjes of sensoren worden aangesloten.  
 
-##1.2 installatie van Raspbian
+##1.3 Installatie van Raspbian
 
 Raspbian is het besturingssysteem speciaal gemaakt voor de Raspberry Pi. Het is een variant van Linux.  Dit is een van de meest succesvolle besturingssystemen., rond de 60% van de servers werkt met Linux. Het is overigens ook mogelijk om een ander besturingssysteem te gebruiken. In hoofdstuk 13 wordt Windows IoT gebruikt.
 
@@ -61,46 +61,40 @@ Het is mogelijk om SD kaarten te kopen waarop Raspbian al aanwezig is[[2\]](#_ft
 
  Op deze pagina kan je verschillende besturingssystemen downloaden. De echte beginner kan de NOOBS versie downloaden. De lezer van dit boek kan ook een beginner zijn, maar omdat we toewerken naar een hoger niveau gaan we direct aan de slag met Raspbian.
 
-![https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Raspbian%20Download%20page.png]()
+![Download Page](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Raspbian%20Download%20page.png)
 
 Kies hier voor Raspbian ( vervolgens kies je
 voor de ‘*Raspbian with deskop*’ versie, niet voor de Lite versie).
 
 **Stap 2)** Waarschijnlijk heb je een .zip file gedownload. Pak deze vervolgens uit (unzip). Dit kan bijvoorbeeld met met 7-zip voor Windows of Unarchiver voor Mac.
 
-**Stap 3)** Het uitgepakte image moet daarna worden neergezet op de USB stick of SD kaart.[[3\]](#_ftn3) Dit kan je doen met het programma Etcher of Win32DiskImager wat je hier downloaden: [Etcher](https://etcher.io/) - Download
-[Win32DiskImager](https://sourceforge.net/projects/win32diskimager/files/Archive/) - Download
+**Stap 3)** Het uitgepakte image moet daarna worden neergezet op de USB stick of SD kaart.[[3\]](#_ftn3) Dit kan je doen met het programma [Etcher](https://etcher.io/) of [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/files/Archive/).
 
 **Stap 4)** Doe je USB stick (of SD kaart) in je computer en start Etchter, Je krijgt dan die scherm:
 
-![img](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Etcher1.jpg)
+![Etcher1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Etcher1.jpg)
 
 **Stap 5)** Vervolgens kies voor je juiste image en de juiste drive en klikt op Flash. Na enige tijd is de SD kaart  of USB stick klaar:
 
-![img](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Etcher2.jpg)
+![Etchter2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Etcher2.jpg)
 
 **Stap 4 en 5** kunnen ook uitgevoerd worden met Win32DiskImager. 
 
-![https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/W32DiskImager.png]()
+![W32DiskImager](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/W32DiskImager.png)
 
-##1.2Opstarten RPi voor de eerste keer.
+##1.4 Opstarten RPi voor de eerste keer.
 
 Je gaat nu alle componenten aan elkaar koppelen. Het inpluggen van de voeding doe je als laatste. 
 
 Afhankelijk van de Raspberry Pi versie gebruik je een SD kaart of USB stick met Raspbian. 
 
 - Raspberry Pi versies 1 en 2 werken uitsluitend met een SD kaart.
-
-
 - Raspberry Pi versie 3B start je allereerst met een SD kaart en vervolgens voer je de acties uit zoals beschreven in toelichting 1 (aan het eind van deze paragraaf). 
-
-
 - Raspberry Pi 3B+ start je direct met een USB stick.
-
 
 Na het opstarten krijg je waarschijnlijk de vraag om een aantal acties te doen (Before you start using it, there are a few things te set up). 
 
-Klik op ‘Next’ en kies vervolgens voor ‘Nederland’ bij country en klik weer op ‘Next” 
+Klik op ‘*Next*’ en kies vervolgens voor ‘*Nederland*’ bij country en klik weer op ‘*Next*‘
 
 Vervolgens mag je het wachtwoord aanpassen. Zolang je geen ‘geheime’ gegevens op de RPi zet dan zou ik dit voorlopig op het standaard wachtwoord ‘raspberry’ houden, zodat je jezelf niet buitensluit omdat je het wachtwoord niet meer weet. 
 
@@ -112,19 +106,19 @@ Een veelvoorkomend probleem is dat standaard een Engels toetsenbord is (de Raspb
 
 1) Klik op het Raspberry ikoontje en kies voor ‘*Preferences*'. Vervolgens klik je op ‘*Mouse and Keyboard Settings*’ (zie afbeelding)
 
-![img](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Desktop%20-%20preferences.jpg) 
+![Desktop Prefences](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Desktop%20-%20preferences.jpg) 
 
 2) Bij het tabblad ‘*Keyboard*’ kies je bij Layout voor ‘*English (US)*’ (als je inderdaad een Amerikaans toetsenbord hebt).
 
-![img](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Desktop%20-%20preferences.keyboard.jpg)
+![Desktop Prefences -keyboard](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Desktop%20-%20preferences.keyboard.jpg)
 
 Na een reboot controleer je of  tekens zoals **@** of  **“**  inderdaad op het scherm verschijnen.
 
 In het volgende hoofdstuk krijg je de basis van Linux uitgelegd..
 
-##Toelichting 1 – Maak RPi versie 3B klaar voor booten met USB**
+##1.5 Maak RPi versie 3B klaar voor booten met USB
 
-Zoals uitgelegd in paragraaf 1.3; de Raspberry Pi versies 3B en 3B+ werken ook met Raspbian op een USB stick. Voor versie 3B is het echter nodig om eerst een keer met een SD kaart op te starten en wat aanpassingen te doen. Deze aanpassingen zijn hieronder beschreven:[[4\]](#_ftn4)
+Zoals uitgelegd in paragraaf 1.3; de Raspberry Pi versies 3B en 3B+ werken ook met Raspbian op een USB stick. Voor versie 3B is het echter nodig om eerst een keer met een SD kaart op te starten en wat aanpassingen te doen. Deze aanpassingen zijn hieronder beschreven: [[4\]](#_ftn4)
 
 **Stap 1)** start de RPi met een SD kaart en ga naar Terminal. Dit doe je door te klikken op het ikoontje linksboven:
 
@@ -143,7 +137,7 @@ hiermee zorg je dat Raspbian helemaal up-to-date is.
 echo program_usb_boot_mode=1 | sudo tee -a /boot/config.txt
 ```
 
-Je voegt hiermee de regel `program_usb_boot_mode=1` toe aan het bestand  /boot/config.txt. Hiermee zorg je er voor dat de Pi ook met USB kan booten.`
+Je voegt hiermee de regel `program_usb_boot_mode=1` toe aan het bestand  '*/boot/config.txt*'. Hiermee zorg je er voor dat de Pi ook met USB kan booten.`
 
 In hoofdstuk 2 krijg je meer uitleg over dit soort Linux opdrachten.
 
@@ -157,10 +151,8 @@ Krijg je als antwoord *17:3020000a* dan werkt het inderdaad. Krijg  je een ander
 
 ------
 
-
-```
 [[1\]](#_ftnref1) [https://www.raspberrypi.org/blog/pi-3-booting-part-i-usb-mass-storage-boot](https://www.raspberrypi.org/blog/pi-3-booting-part-i-usb-mass-storage-boot)
 [[2\]](#_ftnref2) Bijvoorbeeld bij sossolutions.nl
-[[3\]](#_ftnref3) Zie ook: [https://www.raspberrypi.org/documentation/installation/installing-images/README.md](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)4\]](#_ftnref4) bron: [https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/msd.md](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/msd.md)
- 
-```
+[[3\]](#_ftnref3) Zie ook: [https://www.raspberrypi.org/documentation/installation/installing-images/README.md](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
+[[4\]](#_ftnref4) bron: [https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/msd.md](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/msd.md)
+
