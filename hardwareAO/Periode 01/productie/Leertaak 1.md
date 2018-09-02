@@ -3,7 +3,7 @@
 # Leertaak 1
 
 ---
-## Opdracht A
+## Praktijkopdracht 1
 ---
 
 ### Download
