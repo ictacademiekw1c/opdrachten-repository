@@ -1,7 +1,7 @@
 # Algemene informatie
 
 ## Doelstelling
-Voordat je een applicatie kunt gaan maken (realiseren) dien je eerst na te denken hoe de applicatie eruit komt te zien en hoe je het gaat bouwen. Daarom begint een applicatieontwikkelaar bij de ontwerpfase modelleren. Je dient in deze fase de eisen en wensen van de klant om te zetten naar een functioneel- / technisch ontwerp. Bij dit vak leer je hoe je de eisen en wensen van de klant kunt omzetten naar een functioneel- en technisch ontwerp. Bij modelleren doe je dit ook. Echter zit er een wezenlijk verschil tussen twee deze vakken. Hieronder zie je welke onderdelen van het functioneel- en technisch ontwerp je leert maken bij welk vak.
+Voordat je een applicatie kunt gaan maken (realiseren) dien je eerst na te denken hoe de applicatie eruit komt te zien en hoe je het gaat bouwen. Daarom begint een applicatieontwikkelaar bij de ontwerpfase modelleren. Je dient in deze fase de eisen en wensen van de klant om te zetten naar een functioneel- / technisch ontwerp. Bij dit vak leer je hoe je dat moet doen. Bij modelleren doe je dit ook. Echter zit er een wezenlijk verschil tussen twee deze vakken. Hieronder zie je welke onderdelen van het functioneel- en technisch ontwerp je leert maken bij welk vak.
 
 ###Functioneel ontwerp:
 **Usability (beeld):**<br>
