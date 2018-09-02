@@ -137,7 +137,7 @@ hiermee zorg je dat Raspbian helemaal up-to-date is.
 echo program_usb_boot_mode=1 | sudo tee -a /boot/config.txt
 ```
 
-Je voegt hiermee de regel `program_usb_boot_mode=1` toe aan het bestand  '*/boot/config.txt*'. Hiermee zorg je er voor dat de Pi ook met USB kan booten.`
+Je voegt hiermee de regel `program_usb_boot_mode=1` toe aan het bestand  `/boot/config.txt`. Hiermee zorg je er voor dat de Pi ook met USB kan booten.
 
 In hoofdstuk 2 krijg je meer uitleg over dit soort Linux opdrachten.
 
@@ -147,12 +147,15 @@ In hoofdstuk 2 krijg je meer uitleg over dit soort Linux opdrachten.
 vcgencmd otp_dump | grep 17
 ```
 
-Krijg je als antwoord *17:3020000a* dan werkt het inderdaad. Krijg  je een ander antwoord, bekijk dan wat er fout gaat.
+Krijg je als antwoord `17:3020000a` dan werkt het inderdaad. Krijg  je een ander antwoord, bekijk dan wat er fout gaat.
 
 ------
 
 [[1\]](#_ftnref1) [https://www.raspberrypi.org/blog/pi-3-booting-part-i-usb-mass-storage-boot](https://www.raspberrypi.org/blog/pi-3-booting-part-i-usb-mass-storage-boot)
-[[2\]](#_ftnref2) Bijvoorbeeld bij sossolutions.nl
+
+[[2\]](#_ftnref2) Bijvoorbeeld bij [sossolutions.nl](http://www.sossolutions.nl)
+
 [[3\]](#_ftnref3) Zie ook: [https://www.raspberrypi.org/documentation/installation/installing-images/README.md](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
+
 [[4\]](#_ftnref4) bron: [https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/msd.md](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/msd.md)
 
