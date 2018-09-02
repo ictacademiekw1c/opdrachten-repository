@@ -37,19 +37,19 @@
 *	Ontwerpfasen applicatieontwikkelaar
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Resources/Ontwerpcyclus.jpg">
 *   Onderstaande vakken krijg je gedurende de opleiding:
-#### Leerjaar 1
+Leerjaar 1
 <ul>
 	<li>HTML en CSS</li>
 	<li>Javascript</li>
 	<li>Usability</li>
-	<li>Hardware A.O.<li>
+	<li>Hardware A.O.</li>
 	<li>Modelleren</li>
 	<li>PHP</li>
-	<li>ASP.NET<li>
+	<li>ASP.NET</li>
 	<li>SQL</li>
 	<li>Computertekenen</li>
 </ul>
-#### Leerjaar 2
+Leerjaar 2
 <ul>
 	<li>C#</li>
 	<li>C++</li>
@@ -57,7 +57,7 @@
 	<li>Onderhoud en beheer</li>
 	<li>Bedrijfskunde</li>
 </ul>
-#### Leerjaar 3
+Leerjaar 3
 <ul>
 	<li>Bedrijfskundige informatica</li>
 	<li>Informatica</li>
