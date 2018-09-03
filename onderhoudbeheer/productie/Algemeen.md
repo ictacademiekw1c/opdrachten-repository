@@ -36,7 +36,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 |&nbsp;Hoofdstuk | &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4, IO3C4 &nbsp; &nbsp; |
 |----------------|--------------- | -------------------|
-| Testopdracht   | Opdracht 1     | 10 sep |
+| Hoofdstuk 8    | Test Case  | 10 sep |
 
 <br> 
 
