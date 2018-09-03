@@ -40,7 +40,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | [Opdracht Linux - Hoofdstuk 2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/RPiboek%20H2.pdf) | 3 september | 3 september |
 | [Opdracht Python - Hoofdstuk 3](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/RPiboek%20H3.pdf) | 7 september | 7 september |
 | [Opdracht Python Minecraft les 3](https://cyberpi.nl/les-3/#31) | 7 september | 7 september |
-| [Opdracht Python Minecraft les 4](https://cyberpi.nl/les-3/#32) | 7 september | 7 september |
+| [Opdracht Python Minecraft les 4](https://cyberpi.nl/les-4/#40) | 7 september | 7 september |
 | [Opdracht Python GPIO les 7](https://cyberpi.nl/les-7/#70) | 7 september | 7 september |
 | [Opdracht Python GPIO les 8.1](https://cyberpi.nl/les-8/#81) | 7 september | 7 september |
 | Kick off RPi Challenge | 25 september | 25 september |
