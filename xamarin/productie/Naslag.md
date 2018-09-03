@@ -2,6 +2,10 @@
 
 ## Belangrijke links:
 
+__Nieuw__
+
+<a href="https://university.xamarin.com/classes/track/xamarin-forms">Cursus Xamarin.form op de Xamarin University</a>
+
 - [Belangrijkste bron voor Xamarin: developer.xamarin.com](https://developer.xamarin.com/) 
 
 - Een recent boekwerk over [Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) is hier gratis te downloaden. 
