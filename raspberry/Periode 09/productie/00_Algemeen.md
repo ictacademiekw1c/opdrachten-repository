@@ -61,16 +61,20 @@ Het is de bedoeling dat elk team een uitvinding doet die gebruik maakt van de Ra
 
 ##Waar wordt op beoordeeld
 
-**Team passie**
+**Team passie
+
 Hoe blijkt het enthousiasme van het team uit de inzending?
 
-**Eenvoud en duidelijkheid van de beschrijving van de uitvinding**
+**Eenvoud en duidelijkheid van de beschrijving van de uitvinding
+
 De neiging om anderen te enthousiasmeren door te laten zien hoe het team de uitvinding heeft gecreëerd en gebouwd.
 
 **Bijdrage aan het thema**
+
 Kan de uitvinding helpenbij het welbevinden van mensen?
 
-**Commercieel potentieel**
+**Commercieel potentieel
+
 Heeft de uitvinding de mogelijkheid om verder te ontwikkelen op grotere schaal?
 
 ##Wie zijn de organisatoren
