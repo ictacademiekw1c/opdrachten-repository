@@ -1,26 +1,31 @@
 # Algemene informatie
 
 ## Doelstelling
-Het vak Modelleren heeft tot doel een probleemstelling (opdracht) zodanig uit elkaar te rafelen dat er een eensluidend en overzichtelijke structuur onstaat van de te gebruiken data (en data groepen) alsmede hun onderlingen relaties (bijv. SQL).													
-Tevens geeft dit een vaste structuur voor het afhandelen van de objecten in de programmacode.
+Voordat je een applicatie kunt gaan maken (realiseren) dien je eerst na te denken hoe de applicatie eruit komt te zien en hoe de structuur in elkaar zit. Daarom begint een applicatieontwikkelaar bij de ontwerpfase modelleren. Je dient in deze fase de eisen en wensen van de klant om te zetten naar een functioneel- / technisch ontwerp. Bij dit vak leer je hoe je dat moet doen. Bij usability doe je dit ook. Echter zit er een wezenlijk verschil tussen twee deze vakken. Hieronder zie je welke onderdelen van het functioneel- en technisch ontwerp je leert maken bij welk vak. Tevens geeft dit een vaste structuur voor het afhandelen van de objecten in de programmacode.
 
-Uit de modellen volgen:
-<ul>
-<li>Het functioneel ontwerp (Wat)
-	<ul>
-		<li>de functies</li>
-		<li>de use case-diagrammen</li>
-		<li>activiteitendiagrammen van de functies</li>
-	</ul>
-</li>
-<li>Het technisch ontwerp (Hoe)</li>
-	<ul>
-		<li>de data dictionary</li>
-		<li>de bachmandiagrammen</li>
-		<li>de klassediagrammen</li>
-		<li>de activiteitendiagrammen van de logica</li>
-	</ul>
-</ul>
+###Functioneel ontwerp:
+**Usability (beeld):**<br>
+Opmaaktabel<br>
+Sitemap<br>
+Inrichting menu<br>
+Schetsen
+
+**Modelleren:**<br>
+Functies <br>
+Activiteitendiagrammen van de functies<br>
+Use-case diagrammen
+
+###Technisch ontwerp:
+**Usability (beeld):**<br>
+Wireframes
+
+**Modelleren:**<br>
+Datadictionary<br>
+Bachman diagrammen<br>
+Klassediagrammen<br>
+Activiteitendiagramma van de logica
+										
+###Stappen bij Modelleren
 
 De volgende onderdelen zullen tijdens het vak Modelleren aan bod komen:
 * Verwoorden *

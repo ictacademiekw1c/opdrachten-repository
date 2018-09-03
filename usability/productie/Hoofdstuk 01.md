@@ -26,14 +26,40 @@
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20Usa%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Opdracht%201.2.pdf" target="_blank">Download opdracht 1.2</a>
 
 ### Onderwerpen
-*   Introductie usability
+*   Ontwerpfasen van de applicatieontwikkelaar
+*	Kwallificatiedossier
 
 ### Benodigde bestanden
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20Usa%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Resources/Bijlage%20opdracht%201.2.rar" target="_blank">Bijlage opdracht 1.2.rar</a>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Resources/KD_25187_Applicatie-_en_mediaontwikkelaar.pdf" target="_blank">Kwallificatiedossier</a>
 
 ### Help
-*   <a href="http://www.lingscars.com" target="_blank">Lingscars</a>
-*   Introductie usability
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAxAXH6atfc" frameborder="0" allowfullscreen></iframe>
-*   Usability of fruit
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Qg80qTfzgU" frameborder="0" allowfullscreen></iframe>
+*	Ontwerpfasen applicatieontwikkelaar
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Resources/Ontwerpcyclus.jpg">
+*   Onderstaande vakken krijg je gedurende de opleiding:<br>
+Leerjaar 1
+<ul>
+	<li>HTML en CSS</li>
+	<li>Javascript</li>
+	<li>Usability</li>
+	<li>Hardware A.O.</li>
+	<li>Modelleren</li>
+	<li>PHP</li>
+	<li>ASP.NET</li>
+	<li>SQL</li>
+	<li>Computertekenen</li>
+</ul>
+Leerjaar 2
+<ul>
+	<li>C#</li>
+	<li>C++</li>
+	<li>Hardware A.O.</li>
+	<li>Onderhoud en beheer</li>
+	<li>Bedrijfskunde</li>
+</ul>
+Leerjaar 3
+<ul>
+	<li>Bedrijfskundige informatica</li>
+	<li>Informatica</li>
+	<li>Technische informatica</li>
+</ul>

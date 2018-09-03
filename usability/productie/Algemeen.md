@@ -1,8 +1,29 @@
 # Algemene informatie
 
 ## Doelstelling
-Bij HTML en CSS leer je vooral de techniek hoe websites worden gecodeerd / geprogrammeerd. Bij dit vak gaan we echter in op de gebruiksvriendelijkheid van websites. 
+Voordat je een applicatie kunt gaan maken (realiseren) dien je eerst na te denken hoe de applicatie eruit komt te zien en hoe je het gaat bouwen. Daarom begint een applicatieontwikkelaar bij de ontwerpfase modelleren. Je dient in deze fase de eisen en wensen van de klant om te zetten naar een functioneel- / technisch ontwerp. Bij dit vak leer je hoe je dat moet doen. Bij modelleren doe je dit ook. Echter zit er een wezenlijk verschil tussen twee deze vakken. Hieronder zie je welke onderdelen van het functioneel- en technisch ontwerp je leert maken bij welk vak.
 
+###Functioneel ontwerp:
+**Usability (beeld):**<br>
+Opmaaktabel<br>
+Sitemap<br>
+Inrichting menu<br>
+Schetsen
+
+**Modelleren:**<br>
+Functies <br>
+Activiteitendiagrammen van de functies<br>
+Use-case diagrammen
+
+###Technisch ontwerp:
+**Usability (beeld):**<br>
+Wireframes
+
+**Modelleren:**<br>
+Datadictionary<br>
+Bachman diagrammen<br>
+Klassediagrammen<br>
+Activiteitendiagramma van de logica
 ## Voorkennis
 Deze studieroute is bedoeld voor 1e-jaars leerlingen niveau 4 van de ICT-Academie. Er is geen specifieke voorkennis nodig om deze studieroute uit te kunnen voeren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen usability. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 

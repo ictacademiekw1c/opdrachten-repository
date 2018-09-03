@@ -12,7 +12,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | Praktijkopdracht 1 | -- | -- | 4 september | 11 september | 4 september |
 | Praktijkopdracht 2 | -- | -- | 11 september | 18 september | 11 september |
 | Praktijkopdracht 3 | --                               | --                               | 18 september                     | 25 september              | 18 september                     |
-| Praktijkopdracht 4 |  |  |  |  |  |
+| Praktijkopdracht 4 | -- | -- | -- | -- | -- |
 
 <br> 
 
