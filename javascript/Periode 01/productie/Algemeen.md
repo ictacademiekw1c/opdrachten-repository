@@ -9,7 +9,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** &nbsp;|
 |--------------------  |----------- | --------- | --------- | --------- | --------- |
-| Opdrachten 1.1, 1.2 | - | - | - | - | - |
+| Opdrachten 1.1, 1.2, 1.3, 1.4 | - | - | - | - | - |
 
 
 
