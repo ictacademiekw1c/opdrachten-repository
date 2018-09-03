@@ -37,8 +37,12 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 
 |&nbsp;Opdracht         | &nbsp; &nbsp; Deadline **IO2B4**| &nbsp; &nbsp; Deadline **IO2C4**|
 |---------------  | --------- | -------|
-| Opdracht |                        |                                  |
-| Opdracht |                        |                                  |
+| [Opdracht Linux - Hoofdstuk 2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/RPiboek%20H2.pdf) | 3 september | 3 september |
+| [Opdracht Python - Hoofdstuk 3](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/RPiboek%20H3.pdf) | 7 september | 7 september |
+| [Opdracht Python Minecraft les 3](https://cyberpi.nl/les-3/#31) | 7 september | 7 september |
+| [Opdracht Python Minecraft les 4](https://cyberpi.nl/les-4/#40) | 7 september | 7 september |
+| [Opdracht Python GPIO les 7](https://cyberpi.nl/les-7/#70) | 7 september | 7 september |
+| [Opdracht Python GPIO les 8.1](https://cyberpi.nl/les-8/#81) | 7 september | 7 september |
 | Kick off RPi Challenge | 25 september | 25 september |
 | Oplevering Project | 2 november                       | 2 november |
 | Presentatie Project                                          |  |  |
@@ -61,16 +65,20 @@ Het is de bedoeling dat elk team een uitvinding doet die gebruik maakt van de Ra
 
 ##Waar wordt op beoordeeld
 
-**Team passie**
+**Team passie
+
 Hoe blijkt het enthousiasme van het team uit de inzending?
 
-**Eenvoud en duidelijkheid van de beschrijving van de uitvinding**
+**Eenvoud en duidelijkheid van de beschrijving van de uitvinding
+
 De neiging om anderen te enthousiasmeren door te laten zien hoe het team de uitvinding heeft gecreëerd en gebouwd.
 
 **Bijdrage aan het thema**
+
 Kan de uitvinding helpenbij het welbevinden van mensen?
 
-**Commercieel potentieel**
+**Commercieel potentieel
+
 Heeft de uitvinding de mogelijkheid om verder te ontwikkelen op grotere schaal?
 
 ##Wie zijn de organisatoren
