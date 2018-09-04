@@ -80,10 +80,9 @@ Voor opdrachten die je moet maken met HTML/CSS:
 
 ## Periodecijfer
 
-Gedurende deze periode behaal je in totaal 2 cijfers.
-* Cijfer A: Huiswerkopdrachten (50% opdrachten + 50% eindopdracht)
-* Cijfer B: Toets
+Gedurende deze periode behaal je in totaal 2 cijfers. 50% van je cijfer verkrijg je via de huiswerkopdrachten en de andere 50% verkrijg je door je via de eindopdracht.
+
+* Cijfer A: Huiswerkopdrachten
+* Cijfer B: Eindopdracht
 
 Periodecijfer = (Cijfer A + Cijfer B) / 2
-
-#### [setSubMenuHeader]Testingsss
