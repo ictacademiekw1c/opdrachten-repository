@@ -29,5 +29,6 @@ In Opdracht 01 moeten de de volgende onderwerpen uitgewerkt in de opdracht:
 ### Opdracht
 
 [Opdracht 01 - beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/01_WinFormsLaaggeletterdheid.xlsx) - Laaggeletterdheid
+
 [Opdracht 01 SQL script](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/03.%20Scripts/Laaggeletterheid.sql)
 
