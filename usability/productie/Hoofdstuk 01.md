@@ -35,7 +35,7 @@
 
 ### Help
 *	Ontwerpfasen applicatieontwikkelaar
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Resources/Ontwerpcyclus.jpg">
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/02.%20Opdrachten/Hoofdstuk%201/Resources/Ontwerpcyclus.jpg" width="100%">
 *   Onderstaande vakken krijg je gedurende de opleiding:<br>
 Leerjaar 1
 <ul>
