@@ -9,8 +9,8 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** |
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
-| Praktijkopdracht 1 | -- | -- | 4 september | 11 september | 4 september |
-| Praktijkopdracht 2 | -- | -- | 11 september | 18 september | 11 september |
+| [Praktijkopdracht 1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Leertaak%2001%20Introductie%20Praktijk/Introductie%20Praktijk.docx) | -- | -- | 4 september | 11 september | 4 september |
+| [Praktijkopdracht 2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Leertaak%2002%20Schroef%20ESD-veilig/Praktijkopdracht%202.Schroef%20ESD-veilig.docx) | -- | -- | 11 september | 18 september | 11 september |
 | Praktijkopdracht 3 | --                               | --                               | 18 september                     | 25 september              | 18 september                     |
 | Praktijkopdracht 4 | -- | -- | -- | -- | -- |
 
