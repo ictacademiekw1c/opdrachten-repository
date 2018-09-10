@@ -3,9 +3,11 @@
 #Algemene informatie
 
 ##Het thema
-***''Verbeter welzijn - doe een uitvinding!''***, gebruikmakend van de Raspberry Pi.
+<H1>''Verbeter welzijn - doe een uitvinding!''</H1>
 
-(alles wat je kunt verzinnen om gezondheid en welzijn te verbeteren voor gebruikers en bewoners van gebouwen zoals woningen, scholen, kantoren, etc.)
+<h3>gebruikmakend van de Raspberry Pi.</h3>
+
+(alles wat je kunt verzinnen om **gezondheid** en **welzijn** te verbeteren voor **gebruikers** en **bewoners** van **gebouwen** zoals woningen, scholen, kantoren, etc.)
 
 ##Wat is de bedoeling
 Steeds meer mensen die behoefte hebben aan zorg wonen in hun eigen huis. Vaak krijgen ze die zorg (deels) van instanties of van vrienden of familie. Maar vaak zijn ze voor groot deel van de tijd op zichzelf aangewezen. Technologische oplossingen kunnen helpen hun leven in huis beter, veiliger, gezonder of aangenamer te maken. Het is de bedoeling dat elk team op basis van de Raspberry Pi een concrete oplossing bouwt voor dit probleem. Misschien een sensor die de luchtkwaliteit in huis meet? Of een apparaatje dat plantjes water geeft? Of een apparaatje dat contact met een zorgverlener tot stand brengt als er problemen zijn? 
@@ -35,6 +37,8 @@ Hier enkele voorbeelden die hier uitgekomen zijn:
 ##Opleverdata Raspberry Pi Challenge
 Hieronder zie je de deadlines van inleveren van je opdrachten. 
 
+
+
 |&nbsp;Opdracht         | &nbsp; &nbsp; Deadline **IO2B4**| &nbsp; &nbsp; Deadline **IO2C4**|
 |---------------  | --------- | -------|
 | [Opdracht Linux - Hoofdstuk 2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/RPiboek%20H2.pdf) | 3 september | 3 september |
@@ -43,9 +47,14 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | [Opdracht Python Minecraft les 4](https://cyberpi.nl/les-4/#40) | 7 september | 7 september |
 | [Opdracht Python GPIO les 7](https://cyberpi.nl/les-7/#70) | 7 september | 7 september |
 | [Opdracht Python GPIO les 8.1](https://cyberpi.nl/les-8/#81) | 7 september | 7 september |
+| Context (WwW en 5W+H's) | 15 september | 14 september |
+| Vraag (Toekomstdroom, kernvraag, briefing) | 15 september | 14 september |
+| Idee | 15 september | 14 september |
+| Oplossing | 17 september | 17 september |
+| Pitch | 17 september | 17 september |
 | Kick off RPi Challenge | 25 september | 25 september |
 | Oplevering Project | 2 november                       | 2 november |
-| Presentatie Project                                          |  |  |
+| Presentatie Project                                          | 5-9 november | 5-9 november |
 | Sluitingsdatum inzending | 1 maart | 1 maart |
 | Finale | 18 april | 18 april |
 

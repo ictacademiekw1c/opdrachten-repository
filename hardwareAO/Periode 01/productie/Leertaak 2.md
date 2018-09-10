@@ -1,9 +1,9 @@
 #### [kleurcode]rgba(244,67,54, 1)
 
-# Leertaak 1
+# Leertaak 2
 
 ---
-## Praktijkopdracht 1
+## Praktijkopdracht 2
 ---
 
 ### Download
@@ -23,6 +23,7 @@ Niet van toepassing.
 - [9 Awesome Science Tricks Using Static Electricity!](https://www.youtube.com/watch?v=ViZNgU-Yt-Y)
 - [WIKI ESD](https://nl.wikipedia.org/wiki/Elektrostatische_ontlading)
 - [wiki Unified Thread Standard](https://en.wikipedia.org/wiki/Unified_Thread_Standard)
+- [wiki ISO Metric Screw Thread](https://en.wikipedia.org/wiki/ISO_metric_screw_thread)
 - Vraag de docent
 
 ---

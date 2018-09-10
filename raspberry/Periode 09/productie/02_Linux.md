@@ -1,4 +1,4 @@
-####[kleurcode]rgba(233,30,99,1)
+####[kleurcode]rgba(244,67,54,1)
 
 # Linux #
 
