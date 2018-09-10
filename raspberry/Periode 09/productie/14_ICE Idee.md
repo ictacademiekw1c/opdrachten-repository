@@ -44,6 +44,10 @@ Als je  al je ideeen hebt gecategoriseerd, kies je tussen de drie en zes veelbel
 
 ##Opdracht
 
-Genereer van je kernvraag zoveel mogelijk ideeen met behulp van de Brainstorm sessie.
+Maak een document waarin de resultaten zijn opgenomen van de volgende twee onderzoeks methoden.
 
-Kies uit uit alle ideeen met behulp van de iD-box  3 tot 6 ideeen waar je mee verder wil. 
+- de Brainstorm sessie. Om zo veel mogelijk ideeen te genereren
+
+- de iD-box methode om tot een keuze te komen  van 3 tot 6 ideeen waar je als team mee verder wil. 
+
+Het document heeft een titel pagina, bevat een datum, de lijst van de teamleden en de prikkel.
