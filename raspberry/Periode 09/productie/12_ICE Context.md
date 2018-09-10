@@ -14,7 +14,7 @@ iedereen kijkt naar de werkelijkheid met een gekleurde bril. We gebruiken implic
 Het is dus noodzakelijk de context te verkennen om na te gaan of ons beeld van de werkelijkheid klopt.
 
 
-1. **Wat weet ik?**
+**Wat weet ik?**
 
 Breng in kaart wat je weet over het onderwerp van de opdracht. Onderstreep b.v. de belangrijkste woorden, zinsdelen uit de opdracht en/of briefing. De enige informatiebron in deze stap is de informatie die je gehaald hebt uit de opdrachtbeschrijving en/ of uit de briefing door de opdrachtgever.
 
@@ -56,4 +56,9 @@ Om deze stappen te doorlopen moet je in het project twee onderzoeksmethoden gebr
 
 ##Opdracht: 
 
-Gebruik de methoden **WvW** en **5W+H** om zo veel mogelijk informatie te verzamelen over de context van de Prikkel 
+Maak een document met daarin alle mogelijk informatie die je gevonden hebt over de context van de Prikkel.
+
+- Neem alle resultaten op die gevonden hebt met de methode **WvW** 
+- Neem alle resultaten op die gevonden hebt met de methode **5W+H**
+
+Het document heeft een titel pagina, bevat een datum, de lijst van de teamleden en de prikkel

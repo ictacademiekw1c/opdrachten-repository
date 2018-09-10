@@ -55,7 +55,7 @@ Herschrijf de toekomsdroom zodat hij je motiveert en energie geeft.
 
 ##Gebiedsvraag en doelvraag.
 
-Doel van deze stap is om uit te zoeken wat de juiste vraagstelling is .
+Doel van deze stap is om uit te zoeken wat de juiste vraagstelling is . Stel daarbij verschillende soorten vragen
 
 **Gebiedsvragen (Waar?)**
 *Ik zoek naar ideeën op het gebied van ...*.
@@ -69,8 +69,6 @@ Kies uit de lijst met doelvragen een kernvraag waar je mee verder gaat.
 
 Let op dat in je kernvraag niet het antwoord al is geformuleerd.
 Bereik ik met mijn kernvraag mijn toekomstdroom?
-
-
 
 ## Briefing
 
@@ -91,4 +89,9 @@ Vormgeving: Half A4-tje, ongeveer 10 zinnen.
 
 ## Opdracht
 
-Maar een toekomstdroom, stel kernvragen op doormiddel van gebied en doelvragen en maar een briefing.
+- Maak een document met daarin:
+- De toekomstdroom die je als team hebt gekozen,
+- De gevonden kernvragen die je als team hebt achterhaald doormiddel van gebied- en doelvragen 
+- De briefing van de fasen Prikkel, Context en Vraag.
+
+Het document heeft een titel pagina, bevat een datum, de lijst van de teamleden en de prikkel.
