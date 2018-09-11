@@ -10,7 +10,7 @@ In een team kunnen we  negen rollen herkennen:
 
 Om te bepalen welke rol je het beste past kun je onderstaande groepsrollentest maken.
 
-[Link](https://www.123test.nl/groepsrollentest) naar de groepsrollentest
+[Link](https://www.123test.nl/groepsrollentest) naar de groepsrollentest van [123test.nl](https://www.123test.nl)
 
 ------
 

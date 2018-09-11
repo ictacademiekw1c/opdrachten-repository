@@ -22,7 +22,7 @@ Voorbeelden:
 - *Zou het niet mooi zijn als ....* (frustraties oplossen)
 - *Zou het niet verschrikkelijk zijn als ....* (te vermijden toekomst)
 
-Selecteer uit de lijst met toekomstdromen een of twee die je de meeste energie geven met behulp met S3 Sorteren, samenvoegen, selecteren.
+Selecteer uit de lijst met toekomstdromen een of twee die je de meeste energie geven met behulp met S3 sorteren, samenvoegen, selecteren.
 
 Herschrijf de toekomsdroom zodat hij je motiveert en energie geeft.
 
@@ -89,9 +89,13 @@ Vormgeving: Half A4-tje, ongeveer 10 zinnen.
 
 ## Opdracht
 
-- Maak een document met daarin:
+Maak een document met daarin:
+
 - De toekomstdroom die je als team hebt gekozen,
 - De gevonden kernvragen die je als team hebt achterhaald doormiddel van gebied- en doelvragen 
 - De briefing van de fasen Prikkel, Context en Vraag.
 
 Het document heeft een titel pagina, bevat een datum, de lijst van de teamleden en de prikkel.
+
+##Links
+[Video - De Vraag](https://www.youtube.com/watch?v=PAwPPKLmjCk&list=PL2LuvtdBIWMqaTh75GBS8dBdCfk18J10T&index=8)

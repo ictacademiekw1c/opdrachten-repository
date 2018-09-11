@@ -62,3 +62,7 @@ Maak een document met daarin alle mogelijk informatie die je gevonden hebt over 
 - Neem alle resultaten op die gevonden hebt met de methode **5W+H**
 
 Het document heeft een titel pagina, bevat een datum, de lijst van de teamleden en de prikkel
+
+##Links:
+
+[Video - De Context](https://www.youtube.com/watch?v=imfSDwElmA0&list=PL2LuvtdBIWMqaTh75GBS8dBdCfk18J10T&index=7)

@@ -51,3 +51,9 @@ Maak een document waarin de resultaten zijn opgenomen van de volgende twee onder
 - de iD-box methode om tot een keuze te komen  van 3 tot 6 ideeen waar je als team mee verder wil. 
 
 Het document heeft een titel pagina, bevat een datum, de lijst van de teamleden en de prikkel.
+
+
+
+## Links
+
+[Video - Het Idee](https://www.youtube.com/watch?v=SSqBGcIHPdA&index=9&list=PL2LuvtdBIWMqaTh75GBS8dBdCfk18J10T)
