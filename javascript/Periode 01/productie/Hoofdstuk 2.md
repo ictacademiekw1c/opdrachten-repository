@@ -7,7 +7,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/go/eqjfve" target="_blank">Download opdracht 2.1</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.1.pdf" target="_blank">Download opdracht 2.1</a>
 
 ### Onderwerpen
 *   Installeren Visio  
@@ -17,7 +17,7 @@
 - Geen
 
 ### Help
-- <a href="https://elo.kw1c.nl/go/3y67uw" target="_blank">Activiteitendiagramafspraken</a>
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/03.%20Reader/Afspraken%20Activitydiagram.pdf" target="_blank">Activiteitendiagramafspraken</a>
 - Vraag de docent
 
 
@@ -26,7 +26,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/go/56yc2d" target="_blank">Download opdracht 2.2</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.2.pdf" target="_blank">Download opdracht 2.2</a>
 
 ### Onderwerpen
 *   Activiteitendiagram
@@ -35,7 +35,7 @@
 - Geen
 
 ### Help
-- <a href="https://elo.kw1c.nl/go/3y67uw" target="_blank">Activiteitendiagramafspraken</a>
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/03.%20Reader/Afspraken%20Activitydiagram.pdf" target="_blank">Activiteitendiagramafspraken</a>
 - Vraag de docent
 
 ---
@@ -43,7 +43,7 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/go/j6paxe" target="_blank">Download opdracht 2.3</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.3.pdf" target="_blank">Download opdracht 2.3</a>
 
 ### Onderwerpen
 *   Activiteitendiagram
@@ -52,7 +52,7 @@
 - Geen
 
 ### Help
-- <a href="https://elo.kw1c.nl/go/3y67uw" target="_blank">Activiteitendiagramafspraken</a>
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/03.%20Reader/Afspraken%20Activitydiagram.pdf" target="_blank">Activiteitendiagramafspraken</a>
 - Vraag de docent
 
 
@@ -61,14 +61,14 @@
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/go/bvrkkx" target="_blank">Download opdracht 2.4</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.4.pdf" target="_blank">Download opdracht 2.4</a>
 
 ### Onderwerpen
 *   Activiteitendiagram
 
 ### Benodigde bestanden
-- <a href="https://elo.kw1c.nl/go/d58tj7" target="_blank">Projectomschrijving</a>
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%202/Opdracht%202.4.pdf" target="_blank">Projectomschrijving</a>
 
 ### Help
-- <a href="https://elo.kw1c.nl/go/3y67uw" target="_blank">Activiteitendiagramafspraken</a>
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/03.%20Reader/Afspraken%20Activitydiagram.pdf" target="_blank">Activiteitendiagramafspraken</a>
 - Vraag de docent
