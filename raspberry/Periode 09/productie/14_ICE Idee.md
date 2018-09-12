@@ -11,8 +11,9 @@ Nu is de tijd aangebroken om te gaan brainstormen en bedenk je zoveel mogelijk i
 met de klasieke brainstrom sessie ga je zo veel mogelijk ideeën verzamelen (Waaieren)
 
 - Zet je kernvraag bovenaan op een vel. 
-
 - Zoveel mogelijk ideeën eronder of gebruik geeltjes om je vraag idee op te schrijven en op te plakken onder je kernvraag.
+
+![Brainstorm sessie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/BrainstormSessie.jpg)
 
 
 ##de iD-box
@@ -21,6 +22,8 @@ Ideeën oogsten uit de brainstorm sessie (Trechteren)
 
 - Maak op een vel 3 vakken. Zet boven de vakkken NOW, WOW of HOW
 - Categoriseer de ideeën  in het NOW, WOW en HOW vak.
+
+![Now Wow How](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/idBox.NowWowHow.jpg)
 
 De betekenis van NOW, WOW en HOW.
 
