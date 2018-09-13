@@ -46,3 +46,10 @@ Dit wordt voorgedaan in de klas
 
 ## 2.4 Opdracht
 
+Maak een nette rapportage, die voldoet aan de eisen van hierboven, van films uit de movies database met de gegevens:
+Titel, release datum, recensie, lengte, budget in euro's, verdiensten in euro's, oscar nominaties, gewonnen oscars gesorteerd op de release dattum (oplopend) en de filmtitel.
+
+- De rapportage is een Crystal reports Windows Forms applicatie.
+
+__Opleveren__
+Toon de rapportage aan de docent. Je hoeft de code niet op te leveren aan de docent.
