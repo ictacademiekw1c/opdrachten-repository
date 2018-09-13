@@ -11,10 +11,14 @@ Het is belangrijk voldoende tijd en aandacht te besteden aan het ‘verkopen’ 
 
 Geef een presentatie aan de groep met daarin :
 
+- Een introductie
 - Een korte samenvatting van de doorlopen ICE stappen.
-- Beschrijf jou oplossing in een pakkende slogan van drie tot vier woorden.
-- Wie is je doelgroep
-- Wat zijn de argumenten waar jou doelgroep het meest gevoelig voor is.
+- Inleiding, kern, slot.
+- Niet de leraar maar de stakeholder overtuigen
+- SEXI argumenten
+  - State - je kortbondig statement over je oplossing
+  - EXplain - Korte uitleg
+  - Illustratie - een plaatje, tekening of korte tekst die het voordeel krachtig overbrengt.
 
 ## Link
 
