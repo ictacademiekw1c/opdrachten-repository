@@ -20,11 +20,10 @@ Geef een presentatie aan de groep met daarin :
   - EXplain - Korte uitleg
   - Illustratie - een plaatje, tekening of korte tekst die het voordeel krachtig overbrengt
 
-  Powerpoint presentatie Pitch](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/Pitching.pptx)
 
 ## Link
 
-https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/Pitching.pptx
+[Powerpoint - Pitching](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/Pitching.pptx)
 
 
 [Video - De Pitch](https://www.youtube.com/watch?v=xB5jgVlbOQA&index=11&list=PL2LuvtdBIWMqaTh75GBS8dBdCfk18J10T)
