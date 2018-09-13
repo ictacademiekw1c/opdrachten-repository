@@ -1,35 +1,18 @@
 #### [kleurcode]rgba(156,39,176,1)
 
-# Hoofdstuk 2 Onderwerpenlijst
+# Hoofdstuk 2 Rapportages met Crystal Reports
 
-## 2.1 Verschillen Joins/Subqueries/Unions?
+## 2.1 Installatie 
 
-### 2.1.1 Soorten Joins
+De installatie software wordt verspreid via USB stick. Na installatie heb je de mogelijkheid gekregen binnen Visual Studio een rapportage applicatie te bouwen met de Crystal Reports template (Windows Forms of WPF).
 
-### 2.1.2 Unions, EXCEPT en INTERSECT
+## 2.2 Reader Crystal Reports
 
+De reader voor het ontwikkelen van Windows Forms Crystal Reports rapportages kun je hier downloaden. 
 
-### 2.1.3 Subqueries en VIEW
+## 2.3 Movies rapportage via de wizard
 
-## 2.2 GROUP BY in combinatie met HAVING en AGGREGAAT functies
+Dit wordt voorgedaan in de klas
 
-
----
-(## 2.3 ON [DELETE|UPDATE] .... [CASCADE|NULLIFY|RESTRICT] regels)
-
-
-(## 2.4 Database triggers)
----
-
-
-## 2.5 Database administratie
-
-
-### 2.5.1 Backup & Restore
-
-
-### 2.5.2 Toegangsbeheer
-
-
-## 2.6 Rapportages met Crystal reports
+## 2.4 Opdracht
 

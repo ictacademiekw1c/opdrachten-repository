@@ -15,24 +15,37 @@ Als rapportage tool zal gebruik worden gemaakt van Crystal Reports, dat door SAP
 
 De SQL kennis die is opgedaan in leerjaar 1 en 2.
 
+## Onderwerpenlijst periode 9/10 
+
+    - Verschillen Joins/Subqueries/Unions?
+    - Soorten Joins
+    - Unions, EXCEPT en INTERSECT
+
+    - Subqueries en VIEW
+    - GROUP BY in combinatie met HAVING en AGGREGAAT functies
+
+    - Rapportages met Crystal reports
+
+    - Database administratie
+        - Creeren en verwijderen van een database
+        - Backup & Restore
+        - Autorisatie en rollen
+
+    - Extra onderwerpen
+        - ON [DELETE|UPDATE] .... [CASCADE|NULLIFY|RESTRICT] regels
+        - Database triggers
+
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
 
 | &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4, IO3C4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
-| Opdracht 1 Movies | 7 sep |
+| Opdracht 1 Movies    | 7 sep |
+| Opdracht 2 Crystal Reports 1 | 14 sep |
 
 <br> 
 
 **Let op: Je dient de opdrachten uiterlijk op de deadline op te leveren. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
-
-## Toets
-
-| &nbsp;Klas              |  &nbsp;Datum en tijd |
-|--------------------  |--------------- |
-| IO3A4 |    |
-| IO3B4 |  -  |
-| IO3C4 |  -  |
 
 
 ## Editor
@@ -72,12 +85,9 @@ In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet
 
 Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering waardoor het eindcijfer lager uit zal vallen.
 
-Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
-
 ## Algemene beoordelingscriteria
 
 Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
-*	De opdracht is op tijd ingeleverd in de ELO (het portfolio).
 *	Per opdracht wordt gecommuniceerd hoe opdrachten moeten worden opgeleverd.
 
 Voor de opdrachten gelden de volgende aanvullende beoordelingscriteria:
@@ -88,7 +98,7 @@ Voor de opdrachten gelden de volgende aanvullende beoordelingscriteria:
 
 ## Periodecijfer
 
-In het examenjaar worden geen periodecijfers meer gegeven, maar een negatieve beoordeling kan betekenen dat de leerling voor het PVB op mag gaan.
+In het examenjaar worden geen periodecijfers meer gegeven, maar een negatieve beoordeling kan betekenen dat de leerling niet voor het PVB op mag gaan.
 
 Ook dit vak telt dus mee voor de vaststelling of je wel niet op mag voor het PVB in januari.
 
