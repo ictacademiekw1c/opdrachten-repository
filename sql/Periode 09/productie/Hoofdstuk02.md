@@ -21,17 +21,18 @@ __Voorbeelden__
 __Algemene eisen rapportages__
 
 Een rapport dient aan de onderstaande eisen te voldoen:
-    •	Paginanummer + afdrukdatum op elke pagina
-    •	Een duidelijke titel waarvan de inhoud van het rapport af te leiden valt.
-    •	Alle veldinformatie is leesbaar.
 
-    Bij een datum laat je de tijd weg als deze niet belangrijk is.
+        •	Paginanummer + afdrukdatum op elke pagina
+        •	Een duidelijke titel waarvan de inhoud van het rapport af te leiden valt.
+        •	Alle veldinformatie is leesbaar.
 
-    •	Zorg dat de velden ‘hoog’ genoeg zijn. Anders vallen de lussen van de g, j, enz weg.
-    •	Zorg voor een goede paginaindeling.
-    •	Zorg dat er alleen informatie op staat.
+        Bij een datum laat je de tijd weg als deze niet belangrijk is.
 
-Dus geen gegevens waar je niets aan hebt.
+        •	Zorg dat de velden ‘hoog’ genoeg zijn. Anders vallen de lussen van de g, j, enz weg.
+        •	Zorg voor een goede paginaindeling.
+        •	Zorg dat er alleen informatie op staat.
+
+        Dus geen gegevens waar je niets aan hebt.
 
 __Installatie__
 De installatie software wordt verspreid via USB stick. Na installatie heb je de mogelijkheid gekregen binnen Visual Studio een rapportage applicatie te bouwen met de Crystal Reports template (Windows Forms of WPF).
@@ -47,7 +48,8 @@ Dit wordt voorgedaan in de klas
 ## 2.4 Opdracht
 
 Maak een nette rapportage, die voldoet aan de eisen van hierboven, van films uit de movies database met de gegevens:
-Titel, release datum, recensie, lengte, budget in euro's, verdiensten in euro's, oscar nominaties, gewonnen oscars gesorteerd op de release dattum (oplopend) en de filmtitel.
+
+    Titel, release datum, recensie, lengte, budget in euro's, verdiensten in euro's, oscar nominaties, gewonnen oscars gesorteerd op de release dattum (oplopend) en de filmtitel.
 
 - De rapportage is een Crystal reports Windows Forms applicatie.
 
