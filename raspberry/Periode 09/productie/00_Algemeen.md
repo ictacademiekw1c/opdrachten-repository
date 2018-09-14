@@ -47,11 +47,11 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | [Opdracht Python Minecraft les 4](https://cyberpi.nl/les-4/#40) | 7 september | 7 september |
 | [Opdracht Python GPIO les 7](https://cyberpi.nl/les-7/#70) | 7 september | 7 september |
 | [Opdracht Python GPIO les 8.1](https://cyberpi.nl/les-8/#81) | 7 september | 7 september |
-| Context (WwW en 5W+H's) | 15 september | 14 september |
+| Context(WwW en 5W+H's) | 15 september | 14 september |
 | Vraag (Toekomstdroom, kernvraag, briefing) | 15 september | 14 september |
-| Idee | 15 september | 14 september |
-| Oplossing | 17 september | 17 september |
-| Pitch | 17 september | 17 september |
+| Idee (Brainstormsessie, id-Box - Now, Wow, How) | 15 september | 14 september |
+| Oplossing ( P.O.W.E.R, BCM) | 17 september | 17 september |
+| Pitch (Presentatie) | 17 september | 17 september |
 | Kick off RPi Challenge | 25 september | 25 september |
 | Oplevering Project | 2 november                       | 2 november |
 | Presentatie Project                                          | 5-9 november | 5-9 november |

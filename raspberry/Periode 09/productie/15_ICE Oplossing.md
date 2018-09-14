@@ -8,7 +8,7 @@
 
 Een oplossing is een uitgewerkt idee. Deze stap is de weg om je basisidee via prototyping uit te werken tot een oplossing waar je tevreden over bent. Een prototype is een ander woord voor een eerste uitwerking van een idee op weg naar een oplossing. Je kunt op heel veel verschillende manieren een prototype maken. Het meest voor de hand liggende prototype is het verder uitschrijven van je idee. Daarnaast kan het zijn dat je letterlijk een model bouwt, een storyboard maakt, etc. etc.
 
-## Power
+## POWER
 
 ![P.O.W.E.R.](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Images/Oplossing.Power.png)
 
@@ -75,7 +75,7 @@ Bron: Alexander Osterwalder & Yves Peigneur
 
 Maak een document met daarin:
 
-- een P.O.W.E.R. 
+- een POWER analyse 
 - Het ingevulde Business Canvas Model
 
 Het document heeft een titel pagina, bevat een datum, de lijst van de teamleden en de prikkel.
