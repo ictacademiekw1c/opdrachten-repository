@@ -100,6 +100,7 @@ spawnTabbedButton.Clicked += SpawnTabbedButtonClicked;
 
 - Maak voor iedere pagina een aparte class aan geimplementeerd met overerving van (TabbedPage,CarouselPage, MasterDetailPage)
 - Afbeeldingen die in de carousel pagina worden getoond zijn lokaal toegevoegd aan de Resources/Drawable map
+- Er wordt geen gebruik gemaakt van XAML pagina's (alle pagina's worden in c-sharp classes aangemaakt en geinitialiseerd)
 
 
 
