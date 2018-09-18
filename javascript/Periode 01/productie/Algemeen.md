@@ -13,7 +13,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | Opdrachten 2.1, 2.2, | di 18 sept | di 18 sept | zo 16 sept | zo 16 sept | ma 17 sept |
 | Opdrachten 2.3 | nvt | nvt | nvt | zo 16 sept | ma 17 sept |
 | Opdrachten 2.4 | di 18 sept | di 18 sept | nvt | nvt | nvt |
-| Opdrachten 3.1, 3.2, 3.3 | di 25 sept | di 25 sept | zo 23 sept | zo 23 sept | ma 24 sept |
+| Opdrachten 3.1, 3.2, 3.3, 4.1 | di 25 sept | di 25 sept | zo 23 sept | zo 23 sept | ma 24 sept |
 
 
 
