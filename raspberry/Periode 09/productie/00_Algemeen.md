@@ -51,7 +51,11 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Vraag (Toekomstdroom, kernvraag, briefing) | 15 september | 14 september |
 | Idee (Brainstormsessie, id-Box - Now, Wow, How) | 15 september | 14 september |
 | Oplossing ( P.O.W.E.R, BCM) | 17 september | 17 september |
-| Pitch (Presentatie) | 17 september | 17 september |
+| Pitch (Presentatie, Sexi) | 17 september | 17 september |
+| Plan van aanpak |  |  |
+| Analyse |  |  |
+| Functioneel ontwerp |  |  |
+| Technisch ontwerp |  |  |
 | Kick off RPi Challenge | 25 september | 25 september |
 | Oplevering Project | 2 november                       | 2 november |
 | Presentatie Project                                          | 5-9 november | 5-9 november |
