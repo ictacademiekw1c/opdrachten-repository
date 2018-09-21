@@ -14,9 +14,11 @@
 * Introductie praktijkruimte
 * Regels praktijkruimte
 
+-----
 
-### Presentatie
---
+##Opdracht
+
+Inleveren verslag van praktijkopdracht 1
 
 ### Benodigde bestanden
 Niet van toepassing.

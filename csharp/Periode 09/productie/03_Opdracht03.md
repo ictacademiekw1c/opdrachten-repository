@@ -2,15 +2,16 @@
 
 #Opdracht 3 - Controls
 
-Opdracht 3 is een verwerkingsopdracht voor het gebruik van controls. Op een grid panel plaatsen we diverse controls en met onderliggende code wijzigen we de content van een aantal controls doormiddel van Events.
+Opdracht 3 is een verwerkingsopdracht voor het gebruik van controls. Op een grid panel of DockPanle plaatsen we diverse controls en met onderliggende code wijzigen we de content van een aantal controls doormiddel van Events.
 
 ------
 
-In Opdracht 3 moeten de de volgende onderwerpen uitgewerkt in de opdracht:
+In Opdracht 3 moeten de volgende onderwerpen worden uitgewerkt:
 
 
 - Kunnen opzetten van een C# Windows Presentation Foundation applicatie met een venster.
 - Kunnen toepassen van de controls:  *Textbox, Label, Button, RadioButton, Checkbox, Calendar, Listbox,  Menu, MenuItem*
+- Kunnen toepassen van een *MessageBox*
 
 ### Opdrachten
 
