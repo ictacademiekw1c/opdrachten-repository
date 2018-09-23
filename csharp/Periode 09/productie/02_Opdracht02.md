@@ -28,3 +28,6 @@ Maak de volgende grafische panels in WPF en XAML.
 
 **Opdracht 2b:** Composition with large plane yellow black gray and blue 1921 - Monderiaan
 
+## Help
+
+[WPF - Layouts](https://www.tutorialspoint.com/wpf/wpf_layouts.htm)
