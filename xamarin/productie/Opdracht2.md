@@ -4,7 +4,7 @@
 
 ## Voorbereiding
 
-1. Doe de cursus op EdX [Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info) en volg de modules 1 t/m 3.
+1. Doe de cursus op EdX [Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info) en start bij module 3.
 
 ![EdX cursus](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/edxcursus.png?raw=true)
 
@@ -99,6 +99,9 @@ spawnTabbedButton.Clicked += SpawnTabbedButtonClicked;
 ## Beoordelingscriteria
 
 - Maak voor iedere pagina een aparte class aan geimplementeerd met overerving van (TabbedPage,CarouselPage, MasterDetailPage)
+
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/25187%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/pagezonderxaml.png" alt="Toevoegen pagina ( klasse zonder xaml ) aan project">
+
 - Afbeeldingen die in de carousel pagina worden getoond zijn lokaal toegevoegd aan de Resources/Drawable map
 - Er wordt geen gebruik gemaakt van XAML pagina's (alle pagina's worden in c-sharp classes aangemaakt en geinitialiseerd)
 
