@@ -22,6 +22,8 @@ __Hoe maak je een procedure?__
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811v%20Vakinhoudelijke%20MBO%20%20AO/1.19%20Digitaal%20archief/95311%20AO/Semester%205%20%5BPeriode%209%20en%2010%5D/Procedure%20bepaling%20extra%20ondersteuning.pdf">Voorbeeld van een uitwerking van een procedure</a>
 
+
+__Klasseopdrachten__
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811v%20Vakinhoudelijke%20MBO%20%20AO/1.19%20Digitaal%20archief/95311%20AO/Semester%205%20%5BPeriode%209%20en%2010%5D/Opdracht%20procedure.docx" title="oefenen">Oefeningen schrijven procedures?</a>
 
 
