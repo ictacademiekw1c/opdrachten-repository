@@ -58,7 +58,6 @@
 	*	substr()
 	* 	replace()
 
-
 ### Benodigde bestanden
 -	Geen
 
