@@ -2,7 +2,7 @@
 
 #Opdracht 3 - Controls
 
-Opdracht 3 is een verwerkingsopdracht voor het gebruik van controls. Op een grid panel of DockPanle plaatsen we diverse controls en met onderliggende code wijzigen we de content van een aantal controls doormiddel van Events.
+Opdracht 3 is een verwerkingsopdracht voor het gebruik van controls. Op een grid panel of DockPanel plaatsen we diverse controls en met onderliggende code wijzigen we de content van een aantal controls doormiddel van Events.
 
 ------
 
