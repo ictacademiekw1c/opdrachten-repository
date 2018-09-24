@@ -45,7 +45,7 @@ Situatie en context: Onderhoud en beheer van een applicatie (P1-K1).
 
 ## Eenvoudig voorbeeld van een SLA
 
-<a href="">Voorbeeld SLA</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Voorbeeld%20Uittreksel%20SLA.docx">Voorbeeld SLA</a>
 
 Volledige <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Opdracht%20Procedure%20afhandeling%20tickets.docx">procedure voor de ticketafhandeling van een IT support afdeling</a> beschreven in tekst.
 
