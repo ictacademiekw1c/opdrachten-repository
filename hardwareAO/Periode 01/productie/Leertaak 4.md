@@ -8,7 +8,9 @@
 
 ### Download
 
-[Download Praktijkopdracht 4](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Leertaak%2003%20Assembleren%20PC/Praktijkopdracht%203.Assembleren%20PC.docx) - Netwerkkabels.
+[Download  Voorbereiding Praktijkopdracht 4](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Leertaak%2004%20Netwerk%20kabels/Praktijkopdracht%204.Voorbereiding%20Netwerkkabels.pdf) - Voorbereiding Netwerkkabels.
+
+[Download Praktijkopdracht 4](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Leertaak%2004%20Netwerk%20kabels/Praktijkopdracht%204.Netwerkkabels.docx) - Lesinstructies Netwerkkabels.
 
 ### Onderwerpen
 * Geschiedenis
