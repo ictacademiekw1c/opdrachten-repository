@@ -10,7 +10,7 @@ Volg hierbij de reader uit het vorige hoofdstuk
     - Integreer je eerste crystal reports rapportage in een Windows Forms applicatie door het onder een button te zetten (click event).
 ``zie hiervoor paragraaf 2.3 van de reader`` 
 
-    - Maak een tweede rapportage met de volgende informatie: Toon van ALLE films de titel, het genre en het land van herkomst, naam en voornaam regisseur, naam van de studio en genre.
+    - Maak een tweede rapportage met de volgende informatie: Toon van ALLE films de titel, het genre en het land van herkomst, naam en voornaam regisseur, naam van de studio.
 ``zie hiervoor Hoofdstuk 3, rapportage meerdere tabellen``
 
     - Vervang de button door een combobox in je windows forms applicatie en laat als opties beide rapportages zien en laat de rapportage aanmaken als je een van de 2 opties kiest.
@@ -18,7 +18,10 @@ Volg hierbij de reader uit het vorige hoofdstuk
 
 ## 3.1 Huiswerkopdracht
 
-Volgt...
+Maak de factuur rapportage zoals beschreven in hoofdstuk 4 (Rapportage aanmaken zonder wizard) van de reader.
+
+De access database die je hiervoor nodig hebt kun je <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811v%20Vakinhoudelijke%20MBO%20%20AO/1.19%20Digitaal%20archief/95311%20AO/Semester%205%20%5BPeriode%209%20en%2010%5D/Crystal%20Reports/euroreizen.rar">hier</a> downloaden.
+
 
 ## Beoordelingscriteria rapportage
 
