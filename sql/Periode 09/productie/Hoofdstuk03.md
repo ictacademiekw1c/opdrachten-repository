@@ -1,7 +1,9 @@
 #### [kleurcode]rgba(103,58,183,1)
 
 # Hoofdstuk 3 Crystal Reports vervolg
-__Klasseopdrachten__
+
+
+## 3.1 Klasseopdrachten
 
 Volg hierbij de reader uit het vorige hoofdstuk
 
@@ -14,10 +16,11 @@ Volg hierbij de reader uit het vorige hoofdstuk
     - Vervang de button door een combobox in je windows forms applicatie en laat als opties beide rapportages zien en laat de rapportage aanmaken als je een van de 2 opties kiest.
 ``zie hiervoor Hoofdstuk 3.3, het aanroepen van meerdere rapporten``
 
-# 3.1 Huiswerkopdracht
+## 3.1 Huiswerkopdracht
 
 Volgt...
 
+## Beoordelingscriteria rapportage
 
 __Algemene eisen rapportages__
 
