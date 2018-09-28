@@ -2,7 +2,6 @@
 
 # Hoofdstuk 3 Crystal Reports vervolg
 
-
 ## 3.1 Klasseopdrachten
 
 Volg hierbij de reader uit het vorige hoofdstuk
@@ -18,12 +17,17 @@ Volg hierbij de reader uit het vorige hoofdstuk
 
 ## 3.1 Huiswerkopdracht
 
-Maak de factuur rapportage zoals beschreven in hoofdstuk 4 (Rapportage aanmaken zonder wizard) van de reader.
+A. Maak de factuur rapportage zoals beschreven in de reader in hoofdstuk 4 (Rapportage aanmaken zonder wizard).
 
 De access database die je hiervoor nodig hebt kun je <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811v%20Vakinhoudelijke%20MBO%20%20AO/1.19%20Digitaal%20archief/95311%20AO/Semester%205%20%5BPeriode%209%20en%2010%5D/Crystal%20Reports/euroreizen.rar">hier</a> downloaden.
 
 
+
 ## Beoordelingscriteria rapportage
+
+__Juridische en belastingtechnische eisen aan de factuur__
+
+Zie hiervoor de <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/facturen_maken/factuureisen/factuureisen">belastingsite</a>.
 
 __Algemene eisen rapportages__
 
