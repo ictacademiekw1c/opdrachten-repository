@@ -1,9 +1,9 @@
 #### [kleurcode]rgba(244,67,54, 1)
 
-# Leertaak 2
+# Leertaak 2- ESD en schroeven
 
 ---
-## Praktijkopdracht 2
+## Praktijkopdracht 2 
 ---
 
 ### Download

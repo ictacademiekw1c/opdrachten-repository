@@ -47,19 +47,30 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | [Opdracht Python Minecraft les 4](https://cyberpi.nl/les-4/#40) | 7 september | 7 september |
 | [Opdracht Python GPIO les 7](https://cyberpi.nl/les-7/#70) | 7 september | 7 september |
 | [Opdracht Python GPIO les 8.1](https://cyberpi.nl/les-8/#81) | 7 september | 7 september |
+| **INITIALISATIE** |  |  |
 | Context(WwW en 5W+H's) | 15 september | 14 september |
 | Vraag (Toekomstdroom, kernvraag, briefing) | 15 september | 14 september |
 | Idee (Brainstormsessie, id-Box - Now, Wow, How) | 15 september | 14 september |
 | Oplossing ( P.O.W.E.R, BCM) | 17 september | 17 september |
 | Pitch (Presentatie, Sexi) | 17 september | 17 september |
-| Plan van aanpak |  |  |
-| Analyse |  |  |
-| Functioneel ontwerp |  |  |
-| Technisch ontwerp |  |  |
 | Kick off RPi Challenge | 25 september | 25 september |
-| Oplevering Project | 2 november                       | 2 november |
-| Presentatie Project                                          | 5-9 november | 5-9 november |
-| Sluitingsdatum inzending | 1 maart | 1 maart |
+| **ONTWERP** |  |  |
+| Plan van aanpak | 30 september | 30 september |
+| Analyse | 30 september | 30 september |
+| Functioneel ontwerp | 30 september | 30 september |
+| Technisch ontwerp | 30 september | 30 september |
+| **IMPLEMENTATIE** |  |  |
+| Sprint1 | 27 september | 28 september |
+| Sprint2 | 4 oktober | 5 oktober |
+| Tussen presentatie Project aan opdrachtgever | 8 oktober              | 8 oktober || Sprint 3 | 11 oktober | 12 oktober |
+| Sprint 4 | 25 oktober | 26 oktober |
+| **OPLEVERING** |  |  |
+| Presentatie Project aan opdrachtgever                       | 29 okt- 2 nov | 29 okt- 2 nov |
+| Sprint 5 | 1 november | 2 november |
+| Inleveren product en beoordeling | 5-9 november | 5-9 november |
+| Sprint 6 | 8 november | 9 november |
+|  |  |  |
+| Sluitingsdatum inzending | 28 februari | 28 februari                      |
 | Finale | 18 april | 18 april |
 
 **Opleveren voor of op de deadline levert 2 punten op na goedkeuring door docent**

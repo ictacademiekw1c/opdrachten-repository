@@ -1,9 +1,9 @@
 #### [kleurcode]rgba(244,67,54, 1)
 
-# Leertaak 1
+# Leertaak 1 - Introductie praktijklokaal
 
 ---
-## Praktijkopdracht 1
+## Praktijkopdracht 1 
 ---
 
 ### Download
