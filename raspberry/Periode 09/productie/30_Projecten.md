@@ -7,79 +7,121 @@
 
 **IO3B4**
 
-## Ziekenhuis tablet
-Teamleden:
+## 1B. Ziekenhuis tablet
+Smart ziekenhuis oproepsysteem voor de patiënten.
+
+*Teamleden*:
+Tijn van den Berg
+Joep Laarhoven
+Ayoub Ohlale
+Jordy de Wit
 
 [Pitch]()
 
-## Domotica Systeem
-Teamleden:
+## 2B. Domotica Systeem
+Domotica systeem.
+
+*Teamleden*:
+Robin van Maasakker
+Danny Matula
+Marlo van den Oetelaar
+Naiche Smeets
 
 [Pitch]()
 
-##Gezondheidsadvies app
-Teamleden:
+##3B. Gezondheidsadvies app
+Smart device dat afhankelijk van je ingevoerde eetpatroon een advies geeft over je voeding voor deze dag.
+
+*Teamleden*:
+Daan Hoeflaken
+Koen van der Schans
+Aron Thijssen
+Brian Trommelen
 
 [Pitch]()
 
-##Verbeter het klimaat in een gebouw
-Teamleden:
+##4B. Derde wereld beveiligingsnetwerk
+
+Sociaal alarmsysteem voor derde wereldlanden. Burgers informeren elkaar via dit systeem bij onregelmatigheden of bedreigingen.
+
+*Teamleden*:
+Quin van Doorn
+Tim Kuipers
+Guus Langelaar
+Eric van der Ven
 
 [Pitch]()
+
+##5B. Roomtopia
+
+Klimaat meetsysteem voor gebouwen, scholen. Verschillende omgevingsfactoren worden gemeten en vastgelegd. Afhankelijk van de meetwaarde kan de leefbaarheid in de ruimte worden verbeterd.
+
+*Teamleden*:
+Stan van den Berg
+Adam Oubelkas
+Emiel Popelier
+Danush van Rooij
+
+[Pitch]()
+
 ----------------
 
 **IO3C4**
 
-## Infinity Pass
-Teamleden:
+## 1C. Infinity Pass
+Een pas die al je pasjes in je portemonnee kan vervangen. 
+
+*Teamleden*:
+Bram Bastiaansen
+Jesse van den Ende
+Sjoerd Kuiper
+Joost Roza
 
 [Pitch]()
 
-## Easy Clap
-Teamleden:
+## 2C. Easy Clap
+Bedien apparaten met het klappen van je handen.
+
+*Teamleden*:
+Pepijn Adena
+Daan Driessen
+Niels van der Laan
+Chris Schilders
 
 [Pitch]()
 
-## PiRate
-Teamleden:
+## 3C. PiRate
+Meet het stressniveau van mantelzorgers om bij te houden of de mantelzorg niet overbelast wordt.
+
+*Teamleden*:
+Richard Broekhoven
+Rayhan Lesteluhu
+Bart Mioch
+Mitchell Monsuur
 
 [Pitch]()
 
-## MyHome
-Teamleden:
+## 4C. MyHome
+Energieadvies applicatie die de informatie van een reeds geïnstalleerd Domotica systemen gebruikt om energiebesparend advies te geven.
 
+*Teamleden*:
+Roy Berris
+Cas van Daelen
+Jason Leeuwis
+Lorenzo Mulder
 
-## HoloCar
-Teamleden:
+## 5C. HoloCar
+Een Head Up Display die geïnstalleerd kan worden in een auto en extra informatie aan de bestuurder verstrekt over de wegsituatie.
+
+*Teamleden*:
+Luke van Es
+Bart van Maarschalkerweerd
+Cees Melis
+Wessel Poldervaart
 
 [Pitch]()
 
-
-
-
-
-
-
-Creeer de volgende documenten. 
-
-- Analyse
-- Plan van Aanpak
-  - Programma van Eisen
-  - Projectplan
-
-- Functioneel ontwerp
-- Technisch Ontwerp
-
-
-
-Gebruik de onderstaande sjablonen.
+-----
 
 # Links
 
-[Functioneel ontwerp](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Sjabloon%20functioneel%20ontwerp.docx)
-
-[Programma van eisen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Sjabloon%20programma%20van%20eisen.docx)
-
-[Project plan](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Sjabloon%20projectplan.docx)
-
-[Technisch ontwerp](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Sjabloon%20technisch%20ontwerp.docx)

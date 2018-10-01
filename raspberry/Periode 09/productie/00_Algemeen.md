@@ -53,7 +53,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Idee (Brainstormsessie, id-Box - Now, Wow, How) | 15 september | 14 september |
 | Oplossing ( P.O.W.E.R, BCM) | 17 september | 17 september |
 | Pitch (Presentatie, Sexi) | 17 september | 17 september |
-| Kick off RPi Challenge | 25 september | 25 september |
+| [Kick off RPi Challenge](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/Raspberry%20Pi%20Kickoff%2025%20september%202018%201.0.pdf) | 25 september | 25 september |
 | **ONTWERP** |  |  |
 | Plan van aanpak | 30 september | 30 september |
 | Analyse | 30 september | 30 september |
@@ -62,15 +62,16 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | **IMPLEMENTATIE** |  |  |
 | Sprint1 | 27 september | 28 september |
 | Sprint2 | 4 oktober | 5 oktober |
-| Tussen presentatie Project aan opdrachtgever | 8 oktober              | 8 oktober || Sprint 3 | 11 oktober | 12 oktober |
+| Tussen presentatie Project aan opdrachtgever | 8 oktober | 8 oktober |
+| Sprint 3 | 11 oktober | 12 oktober |
 | Sprint 4 | 25 oktober | 26 oktober |
 | **OPLEVERING** |  |  |
-| Presentatie Project aan opdrachtgever                       | 29 okt- 2 nov | 29 okt- 2 nov |
+| Presentatie Project aan opdrachtgever | 29 okt- 2 nov | 29 okt- 2 nov |
 | Sprint 5 | 1 november | 2 november |
 | Inleveren product en beoordeling | 5-9 november | 5-9 november |
 | Sprint 6 | 8 november | 9 november |
 |  |  |  |
-| Sluitingsdatum inzending | 28 februari | 28 februari                      |
+| Sluitingsdatum inzending | 28 februari | 28 februari |
 | Finale | 18 april | 18 april |
 
 **Opleveren voor of op de deadline levert 2 punten op na goedkeuring door docent**
@@ -89,6 +90,10 @@ Het is de bedoeling dat elk team een uitvinding doet die gebruik maakt van de Ra
 
 ##Waar wordt op beoordeeld
 
+De [wedstrijdregelementen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/RPT2018_Raspberry_Pi_Wedstrijdreglement.pdf)
+
+
+
 **Team passie**
 
 Hoe blijkt het enthousiasme van het team uit de inzending?
@@ -99,7 +104,7 @@ De neiging om anderen te enthousiasmeren door te laten zien hoe het team de uitv
 
 **Bijdrage aan het thema**
 
-Kan de uitvinding helpenbij het welbevinden van mensen?
+Kan de uitvinding helpen bij het welbevinden van mensen?
 
 **Commercieel potentieel**
 
