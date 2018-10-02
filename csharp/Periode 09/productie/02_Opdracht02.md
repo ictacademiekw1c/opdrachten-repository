@@ -10,7 +10,8 @@ In Opdracht 02 moeten de de volgende onderwerpen uitgewerkt in de opdracht:
 
 
 - Kunnen opzetten van een C# Windows Presentation Foundation applicatie met een vensters.
-- Kunnen toepassen van de controls:  *rectangle*.
+- Kunnen toepassen van de controls:  ***rectangle***.
+- Kunnen toepassen van het ***grid*** panel zodanig dat er een ***responsive*** scherm ontstaat.
 
 ### Opdracht
 

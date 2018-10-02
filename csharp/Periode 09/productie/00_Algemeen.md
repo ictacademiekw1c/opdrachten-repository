@@ -9,9 +9,12 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 
 |&nbsp;Opdracht         | &nbsp; &nbsp; Deadline **IO2A4**| &nbsp; &nbsp; Deadline **IO2B4**| &nbsp; &nbsp; Deadline **IO2C4**|
 |---------------  |--------------- | --------- | -------|
-| Opdracht 01 [Laaggeletterdheid](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/01_WinFormsLaaggeletterdheid.xlsx) | 11 september | 12 september | 11 september |
-| Opdracht 02 Panels | 18 september | 19 september | 18 september |
-| Opdracht 03 Controls | 25 september | 26 september | 25 september |
+| Opdracht 1 [Laaggeletterdheid](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/01_WinFormsLaaggeletterdheid.xlsx) | 11 september | 12 september | 11 september |
+| Opdracht 2 Panels | 18 september | 19 september | 18 september |
+| Opdracht [3.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%203.1.pdf), [3.2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%203.2.pdf) en [3.3](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%203.3.pdf) | 25 september | 26 september | 25 september |
+| Opdracht [4.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%204.1.pdf) en [4.3](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%204.3.pdf) | 4 oktober | 2 oktober | 3 oktober |
+| Opdracht [4.4](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%204.4.pdf) | 11 oktober | 9 oktober | 10 oktober |
+| Opdracht 5.1 | --                               | --                               | --                               |
 | Toets C# | -- | -- | -- |
 | Herkansing C# | -- | -- | -- |
 
