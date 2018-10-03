@@ -47,7 +47,7 @@
 *   Material Design
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xYkz0Ueg0L4" frameborder="0" allowfullscreen></iframe>
 *   <a href="https://material.google.com/style/color.html#" target="_blank">Material Design Kleurenpalet</a>
-
+*   <a href="https://material.io/tools/color/" target="_blank">Material Design Color Tool</a>
 ---
 ## Opdracht 5.3
 ---
