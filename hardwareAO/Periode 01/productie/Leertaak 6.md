@@ -26,7 +26,7 @@ Inleveren verslag van Praktijkopdracht 6
 - [How to Build a PC in easy steps [DIY]](http://www.it4nextgen.com/build-pc-easy-steps/)
 - [Motherboard:Types and Components Explained](http://www.it4nextgen.com/motherboard-components/)
 - [Intel Core i generaties overzicht](https://computerkiezen.nl/computer-onderdelen/intel-core-i-generaties-tick-tock/)
-- [Wiki Processor sockets](https://nl.wikipedia.org/wiki/Socket_(processor))
+- [Wiki Processor sockets](https://nl.wikipedia.org/wiki/Socket_(processor) )
 - [Wiki DDR SDRAM geheugen](https://nl.wikipedia.org/wiki/DDR_SDRAM)
 - Vraag de docent
 
