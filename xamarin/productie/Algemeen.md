@@ -4,10 +4,6 @@
 
 In periode 9 worden 7 opdrachten opgegeven. Het zijn allemaal losstaande Android Apps, die individueel moeten worden gemaakt en opgeleverd.
 
-De opdrachten zijn voorbereidend aan het project die voor periode 10 is gepland. Zijn de opdrachten eerder opgeleverd dan kan er ook eerder aan het project worden begonnen (in overleg met en goedkeuring van de docent). Het project bevat alle onderdelen voor het examen van applicatieontwikkelaar (kwalificatiedossier mbo met crebo code: 25187).
-
-De beoordeling van de opdrachten en het project wordt nog bekend gemaakt.
-
 ## 0.2  Planning, Uitvoeren van opdrachten, Versiebeheer, oplevering
 
 We gaan werken (individueel) in Visual Studio Team Services van Microsoft.
