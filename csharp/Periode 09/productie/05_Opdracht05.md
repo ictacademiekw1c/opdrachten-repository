@@ -20,7 +20,7 @@ Bij de Binding Modes **One Way** en **Two Way** wordt de  UI  niet automatisch g
 
 Dit heeft een aantal redenen namelijk:
 
-- Performance. Je wilt niet altijd direct de Target Source wijzigen als de Source wijzigd.
+- Performance. Je wilt niet altijd direct de Target Source wijzigen als de Source wijzigt.
 - De notificaties kan afhankelijk zijn van meerdere properties.
 
 Het is gebruikelijk om de INotifyPropertyChanged definitie in een aparte klasse onder te brengen zodat ook voor andere datamodelen deze klasse kan worden hergebruikt. 
