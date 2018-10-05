@@ -7,8 +7,8 @@
 
 **IO3B4**
 
-## 1B. Ziekenhuis tablet
-Smart ziekenhuis oproepsysteem voor de patiënten.
+## 1B. Hospital tablet
+Smart ziekenhuis oproepsysteem voor patiënten en verpleging.
 
 *Teamleden*:
 Tijn van den Berg
@@ -18,7 +18,7 @@ Jordy de Wit
 
 [Pitch]()
 
-## 2B. Domotica Systeem
+## 2B. Licht Systeem
 Domotica systeem.
 
 *Teamleden*:
@@ -29,7 +29,7 @@ Naiche Smeets
 
 [Pitch]()
 
-##3B. Gezondheidsadvies app
+##3B. Voedingsschema
 Smart device dat afhankelijk van je ingevoerde eetpatroon een advies geeft over je voeding voor deze dag.
 
 *Teamleden*:
@@ -40,7 +40,7 @@ Brian Trommelen
 
 [Pitch]()
 
-##4B. Derde wereld beveiligingsnetwerk
+##4B. Town Watch
 
 Sociaal alarmsysteem voor derde wereldlanden. Burgers informeren elkaar via dit systeem bij onregelmatigheden of bedreigingen.
 

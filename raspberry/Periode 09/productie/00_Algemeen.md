@@ -62,7 +62,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | **IMPLEMENTATIE** |  |  |
 | Sprint1 | 27 september | 28 september |
 | Sprint2 | 4 oktober | 5 oktober |
-| Tussen presentatie Project aan opdrachtgever | 8 oktober | 8 oktober |
+| Tussen presentatie Project aan opdrachtgever | ??? | ???                              |
 | Sprint 3 | 11 oktober | 12 oktober |
 | Sprint 4 | 25 oktober | 26 oktober |
 | **OPLEVERING** |  |  |
