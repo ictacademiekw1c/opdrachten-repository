@@ -26,7 +26,7 @@ __Uitwerking__
 
 ## Huiswerk opdracht testplan
 
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/usecaseabonnement.png">Use Case ATM</a>
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/usecaseabonnement.png" title="use case ATM">Use Case ATM</a>
 
 Maak voor bovenstaande Use Case een acceptatietestplan.
 
