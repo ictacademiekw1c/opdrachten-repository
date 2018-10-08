@@ -60,3 +60,61 @@
 ### Help
 -	<a href="https://www.w3schools.com/Js/js_if_else.asp" target="_blank">if / else statements</a>
 -	<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/03.%20Reader/Afspraken%20Activitydiagram.pdf" target="_blank">Afspraken activiteitendiagram</a>
+
+
+
+---
+## Opdracht 5.4
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%205/Opdracht%205.4.pdf" target="_blank">Download opdracht 5.4</a>
+
+### Onderwerpen
+*	Activiteitendiagram
+*	switch statement
+
+### Benodigde bestanden
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources%205.4/Flowcharts%20opdracht%2054.png" target="_blank">Activiteitendiagram opdracht</a>
+
+### Help
+-	<a href="https://www.w3schools.com/js/js_switch.asp" target="_blank">switch statement</a>
+
+
+---
+## Opdracht 5.5
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%205/Opdracht%205.5.pdf" target="_blank">Download opdracht 5.5</a>
+
+### Onderwerpen
+*	Activiteitendiagram
+*	if / else statement
+
+### Benodigde bestanden
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources%205.5/Flowcharts%20opdracht%2055.png" target="_blank">Activiteitendiagram opdracht</a>
+
+### Help
+-	<a href="https://www.w3schools.com/Js/js_if_else.asp" target="_blank">if / else statements</a>
+
+
+---
+## Opdracht 5.6
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%205/Opdracht%205.6.pdf" target="_blank">Download opdracht 5.6</a>
+
+### Onderwerpen
+*	Activiteitendiagram
+*	if / else statement
+
+### Benodigde bestanden
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%205/Resources%205.6/Flowcharts%20opdracht%2056.png" target="_blank">Activiteitendiagram opdracht</a>
+
+
+### Help
+-	<a href="https://www.w3schools.com/Js/js_if_else.asp" target="_blank">if / else statements</a>
+
+
