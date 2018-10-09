@@ -3,7 +3,7 @@
 # Hoofdstuk 6
 
 ---
-## Opdracht 5.1
+## Opdracht 6.1
 ---
 
 ### Download
@@ -31,7 +31,7 @@
 *   Kleurkeuzestrategieen
 
 ### Benodigde bestanden
-*	<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%205/Template%20Projectplan.docx" target="_blank">Template Projectplan.docx</a>
+*	<a href="" target="_blank">Template Opmaaktabel</a>
 
 ### Help
 *	Vraag de docent
