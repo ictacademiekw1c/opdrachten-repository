@@ -19,7 +19,6 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | Opdrachten 5.4, 5.5, 5.6 | di 23 okt | di 23 okt | zo 21 okt | zo 21 okt | ma 22 okt |
 
 
-
 <br> 
 
 **Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op** 
