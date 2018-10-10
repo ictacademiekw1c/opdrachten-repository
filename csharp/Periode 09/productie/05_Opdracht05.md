@@ -111,6 +111,7 @@ In Opdracht 5 moeten de volgende onderwerpen worden uitgewerkt:
 Opdracht 5.2 script [Personen.sql](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/03.%20Scripts/Personen.sql) - Personen SQL database
 
 ## Help
+[Kikkersprong spel uitleg](http://www.davdata.nl/kikkers.html)
 
 [WPF Data Binding Overview](https://www.wpftutorial.net/DataBindingOverview.html) - WPF-Tutorials
 
