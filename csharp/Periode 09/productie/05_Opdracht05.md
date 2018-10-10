@@ -104,7 +104,11 @@ In Opdracht 5 moeten de volgende onderwerpen worden uitgewerkt:
 
 
 
-Opdracht 5.1 - Nog niet beschikbaar
+[Opdracht 5.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%205.1.pdf) - Kikkersprong spel
+
+[Opdracht 5.2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%205.2.pdf) - Data Binding met Listview en SQL database
+
+Opdracht 5.2 script [Personen.sql](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/03.%20Scripts/Personen.sql) - Personen SQL database
 
 ## Help
 
