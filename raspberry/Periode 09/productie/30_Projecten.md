@@ -29,7 +29,7 @@ Naiche Smeets
 
 [Pitch]()
 
-##3B. Voedingsschema
+##3B. Voedingsmanager
 Smart device dat afhankelijk van je ingevoerde eetpatroon een advies geeft over je voeding voor deze dag.
 
 *Teamleden*:
@@ -99,7 +99,7 @@ Rayhan Lesteluhu
 Bart Mioch
 Mitchell Monsuur
 
-[Pitch]()
+[Pitch](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Presentaties/PiRate.pptm)
 
 ## 4C. MyHome
 Energieadvies applicatie die de informatie van een reeds geïnstalleerd Domotica systemen gebruikt om energiebesparend advies te geven.

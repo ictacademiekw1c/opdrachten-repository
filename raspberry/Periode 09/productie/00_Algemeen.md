@@ -60,16 +60,16 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Functioneel ontwerp | 30 september | 30 september |
 | Technisch ontwerp | 30 september | 30 september |
 | **IMPLEMENTATIE** |  |  |
-| Sprint1 | 27 september | 28 september |
-| Sprint2 | 4 oktober | 5 oktober |
-| Tussen presentatie Project aan opdrachtgever | ??? | ???                              |
-| Sprint 3 | 11 oktober | 12 oktober |
-| Sprint 4 | 25 oktober | 26 oktober |
+| Sprint1 | 24 - 27 september | 24 - 28 september |
+| Sprint2 | 1 - 4 oktober | 1 - 5 oktober |
+| Tussen presentatie Project aan opdrachtgever | 11 oktober                     | 11 oktober                       |
+| Sprint 3 | 5-11 oktober | 5-12 oktober |
+| Sprint 4 | 22-25 oktober | 22-26 oktober |
 | **OPLEVERING** |  |  |
-| Presentatie Project aan opdrachtgever | 29 okt- 2 nov | 29 okt- 2 nov |
-| Sprint 5 | 1 november | 2 november |
-| Inleveren product en beoordeling | 5-9 november | 5-9 november |
-| Sprint 6 | 8 november | 9 november |
+| Sprint 5 | 29 okt - 1 nov | 29 okt - 2 nov |
+| Inleveren product en beoordeling (Zelf afspraak plannen) | 5 -7 november | 5 - 7 november |
+| Sprint 6 | 5 - 8 november | 5 - 8 november |
+| Eindpresentatie Project aan opdrachtgever | 8 november | 8 november |
 |  |  |  |
 | Sluitingsdatum inzending | 28 februari | 28 februari |
 | Finale | 18 april | 18 april |
@@ -114,4 +114,10 @@ Heeft de uitvinding de mogelijkheid om verder te ontwikkelen op grotere schaal?
 
 [House of Digital](https://www.rocva.nl/Voor-bedrijven/Samenwerken/Publiek-private-samenwerkingen/House-of-Digital)
 
-[PA Consulting](http://www.paconsulting.com/insights/2018/raspberry-pi-nederland)
+[PA Consulting](http://www.paconsulting.com/insights/2018/raspberry-pi-nederland) - Raspberry Pi Challenge
+
+## Externe coaches/ Opdrachtgevers
+
+Peter van der Wees - [PA Consulting](http://www.paconsulting.com)
+
+Menno Jansen - Programmamanager zorginnovaties - [CZ](http://www.cz.nl)
