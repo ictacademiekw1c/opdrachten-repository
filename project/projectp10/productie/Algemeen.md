@@ -2,7 +2,6 @@
 
 ## 0.1 Inleiding
 
-
 ## 0.2 Voorbereiding
 
 
@@ -15,43 +14,43 @@ In dit project wordt een simulatie gedaan van een bedrijfssituatie. In deze bedr
 Jouw directeur of projectmanager heeft een opdracht gekregen van een bedrijf (de klant) en speel jij een belangrijke rol in de verschillende fases van het IT project.
 De opdrachten worden in de vervolgpagina's uitgelegd en zul je ze allemaal de komende weken moeten uitvoeren.
 
-Een bedrijfssituatie zoals hierin wordt beschreven zal ook volgend jaar de wijze zijn waarop je volgend jaar examen gaat doen.
-Dit project moet je dus zeker niet gaan zien als onbelangrijke opvuller van het tweede jaar, echter is het een eerste voorbereiding op je aanstaande examen en is het voor de docenten een
-eerste meetpunt of je nu al goed op weg bent en de beroepshouding hebt van een junior applicatieontwikkelaar.
 
 ## 0.5 De concrete bedrijfssituatie
 
 
-## 0.6 Beoordelingsmatrix project
+## 0.6 Fasering/onderdelen project P10
 
 
-| B1-K1 | Onderdeel| Cijfer/Afteken|Telt mee bij Vak|
-|----------------|-----------|---------------|
-|A. |Programma van Eisen|       |Analyseren|	
-|A1.|Goedkeuring PvE||Analyseren|
-|B. |Projectplan	||Analyseren|
-|B1.|Goedkeuring projectplan||Analyseren|	
-|C. |Functioneel ontwerp||Analyseren|	
-|C1.| Goedkeuring FO||Analyseren|	
-|D. |Technisch ontwerp||Analyseren|	
-|D1.|Goedkeuring TO||Analyseren|	
-|E. |Configuratie overzicht||Analyseren|	
+| B1-K1 | Onderdeel| 
+|----------------|-----------|
+|A. |Programma van Eisen|
+|A1.|Goedkeuring PvE|
+|B. |Projectplan	|
+|B1.|Goedkeuring projectplan|
+|C. |Functioneel ontwerp|
+|C1.| Goedkeuring FO|
+|D. |Technisch ontwerp|
+|D1.|Goedkeuring TO|
+|E. |Configuratie overzicht|
 
-| B1-K2 | Onderdeel| Cijfer/Afteken|Telt mee bij vak|
-|-------|----------|---------------|----|
-|A. |Inrichting TeamServices|| Onderhoud & Beheer|	
-|B. |Database (/documentatie)||	SQL |
-|C. |Applicatie (+/documentatie)||	C# |
-|C1.|(Bonus) Unit Test|| Onderhoud & Beheer |	
-|D. |Testplan||	 Onderhoud & Beheer |
-|E. |Testlog||  Onderhoud & Beheer |	
-|F. |Document versiebeheer|| Onderhoud & Beheer |	
+===
 
-| B1-K3 | Onderdeel| Cijfer/Afteken| Telt mee bij vak|
-|---|----------|--------|-----|
-|A. |Testplan|| Onderhoud & Beheer|	
-|B. |Test Rapport||	 Onderhoud & Beheer|
-|C. |Evaluatie|| Onderhoud & Beheer|
-																		
+| B1-K2 | Onderdeel| 
+|-------|----------|
+|A. |Inrichting TeamServices|
+|B. |Database (/documentatie)|
+|C. |Applicatie (+/documentatie)|
+|C1.|(Bonus) Unit Test|
+|D. |Testplan|
+|E. |Testlog|
+|F. |Document versiebeheer|
 
+=== 
 
+| B1-K3 | Onderdeel|
+|---|----------|
+|A. |Testplan|
+|B. |Test Rapport|
+|C. |Evaluatie|
+
+===
