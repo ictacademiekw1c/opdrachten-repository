@@ -2,6 +2,28 @@
 
 #Opdracht 5 - Binding  Modes
 
+### Opdrachten
+
+In Opdracht 5 moeten de volgende onderwerpen worden uitgewerkt:
+
+- Kunnen opzetten van een C# Windows Presentation Foundation applicatie met een venster.
+- Kunnen toepassen van de controls:  *Textbox, Label*, 
+- Kunnen toepassen van een *MessageBox*
+- Kunnen toepassen van *Data Binding* 
+- Kunnen toepassen van *DataContext* property
+- Kunnen toepassen van *Binding Mode*
+- Kunnen toepassen  van de *UpdateSourceTrigger* property
+
+
+
+[Opdracht 5.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%205.1.pdf) - Kikkersprong spel
+
+[Opdracht 5.2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%205.2.pdf) - Data Binding met Listview en SQL database
+
+Opdracht 5.2 script [Personen.sql](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/03.%20Scripts/Personen.sql) - Personen SQL database
+
+## Theorie
+
 Opdracht 5 is een verwerkingsopdracht voor het toepassen van Binding Modes bij Data Bindings. Op een grid panel of DockPanel plaatsen we diverse controls. Hoe er wordt gesynchroniseerd kunnen we sturen met de volgende Binding Modes:
 
 - **One Way**: Wijzigingen van de source property wordt ook overgenomen door de target property, maar niet in de andere richting.
@@ -23,29 +45,10 @@ Dit heeft een aantal redenen namelijk:
 - Performance. Je wilt niet altijd direct de Target Source wijzigen als de Source wijzigt.
 - De notificaties kan afhankelijk zijn van meerdere properties.
 
-Het is gebruikelijk om de INotifyPropertyChanged definitie in een aparte klasse onder te brengen zodat ook voor andere datamodelen deze klasse kan worden hergebruikt. 
-
-Hier de voorbeeld code 
+Een datamodel klasse uitbreiden met de INotifyPropertyChanged interface :
 
 ```c#
-   public class BindableBase : INotifyPropertyChanged
-    {
-        public event PropertyChangedEventHandler PropertyChanged;
-	
-	    public void RaisePropertyChanged(string propertyName)
-            {
-                if (PropertyChanged != null)
-                {
-                    PropertyChanged.Invoke(this, new PropertyChangedEventArgs(propertyName));
-                }
-            }
-    }
-```
-
-Toepassing in een klasse:
-
-```c#
- public class Persoon: BindableBase
+ public class Persoon: INotifyPropertyChanged
     {
         private string _naam;
         // De klasse Persoon heeft de property Naam
@@ -73,6 +76,37 @@ Toepassing in een klasse:
         {
             this.Adres = new Adres();
         }
+
+        // De implementatie van de INotifyPropertyChanged interface
+        public event PropertyChangedEventHandler PropertyChanged;
+	
+	    public void RaisePropertyChanged(string propertyName)
+            {
+                if (PropertyChanged != null)
+                {
+                    PropertyChanged.Invoke(this, new PropertyChangedEventArgs(propertyName));
+                }
+            }
+    }
+```
+
+Het is gebruikelijk om de INotifyPropertyChanged definitie in een aparte klasse onder te brengen zodat ook voor andere datamodelen deze code kan worden hergebruikt doormiddel van overerving.
+
+Hier de voorbeeld code van deze klasse:
+
+```c#
+
+public class BindableBase : INotifyPropertyChanged
+    {
+        public event PropertyChangedEventHandler PropertyChanged;
+	
+	    public void RaisePropertyChanged(string propertyName)
+            {
+                if (PropertyChanged != null)
+                {
+                    PropertyChanged.Invoke(this, new PropertyChangedEventArgs(propertyName));
+                }
+            }
     }
 ```
 
@@ -89,26 +123,6 @@ De UpdateSourceTrigger heeft de volgende opties:
 - **Explicit**: wanneer **UpdateSource()** wordt aangeroepen vanuit de code.
 
 ------
-
-### Opdrachten
-
-In Opdracht 5 moeten de volgende onderwerpen worden uitgewerkt:
-
-- Kunnen opzetten van een C# Windows Presentation Foundation applicatie met een venster.
-- Kunnen toepassen van de controls:  *Textbox, Label*, 
-- Kunnen toepassen van een *MessageBox*
-- Kunnen toepassen van *Data Binding* 
-- Kunnen toepassen van *DataContext* property
-- Kunnen toepassen van *Binding Mode*
-- Kunnen toepassen  van de *UpdateSourceTrigger* property
-
-
-
-[Opdracht 5.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%205.1.pdf) - Kikkersprong spel
-
-[Opdracht 5.2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%205.2.pdf) - Data Binding met Listview en SQL database
-
-Opdracht 5.2 script [Personen.sql](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/03.%20Scripts/Personen.sql) - Personen SQL database
 
 ## Help
 [Kikkersprong spel uitleg](http://www.davdata.nl/kikkers.html)
