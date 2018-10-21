@@ -1,7 +1,6 @@
 
 # 3. B1-K3: Levert een product op
 
-
 ## 3.1 B1-K3-W1: Optimaliseert het product
 
 ### Opdracht A
