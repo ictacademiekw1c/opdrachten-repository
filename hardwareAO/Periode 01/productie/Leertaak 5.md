@@ -14,7 +14,8 @@
 
 ### Onderwerpen
 * BIOS
-* Processor en geheugen
+* Processor
+* Geheugen
 * Diskdrives en optical disk drives
 * In- en uitvoer
   * toetsenbord

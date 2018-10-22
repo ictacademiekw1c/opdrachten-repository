@@ -14,8 +14,14 @@
 * Moederbord
 * Processor en sockets
 * DDR SDRAM geheugen
-* Disk drives, floppy drives en optical disk drives
-* kabels
+  * Type geheugens
+  * Geheugensnelheid
+
+- Harddisk drives
+- Optical disk drives
+- Floppy drives
+
+* Type kabels
 
 ## Opdrachten
 

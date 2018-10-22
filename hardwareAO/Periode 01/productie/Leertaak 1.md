@@ -12,7 +12,16 @@
 
 ### Onderwerpen
 * Introductie praktijkruimte
+  * Opstelling tafels, stoelen 
+  * Gereedschappen in het lokaal
+  * Magazijn
+  * Mag-erniet-zijn
+  * Goederen uitgifte balie
+  * EHBO kist
+  * Kasten met lesmaterialen
+  * ESD tester
 * Regels praktijkruimte
+* Waarom staat het vak Hardware op het rooster?
 
 -----
 
