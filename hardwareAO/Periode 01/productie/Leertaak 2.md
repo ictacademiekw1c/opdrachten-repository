@@ -12,7 +12,14 @@
 
 ### Onderwerpen
 * ESD
+  * Wat is ESD
+  * Welke maatregelen voorkomen ESD.
+  * ESD maatregelen in het lokaal
 * Schroeven
+  * Opbouw van een schroef
+  * Soorten schroeven
+  * Soorten schroevendraaiers
+  * Schroeven in een PC
 
 -----
 

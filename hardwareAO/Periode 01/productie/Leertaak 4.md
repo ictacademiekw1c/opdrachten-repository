@@ -33,6 +33,7 @@
   * Straight
   * Cross
   * Full Cross
+* Assemblage van een Straight- en Cross Cable.
 
 ------
 

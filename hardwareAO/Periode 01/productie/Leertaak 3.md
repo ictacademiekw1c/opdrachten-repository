@@ -11,13 +11,19 @@
 [Download Praktijkopdracht 3](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Leertaak%2003%20Assembleren%20PC/Praktijkopdracht%203.Assembleren%20PC.docx) - PC assembleren.
 
 ### Onderwerpen
-* ESD
-* Schroeven
 * PC onderdelen
-  * Harddisk
-  * DVD speler
-  * Floppy drive
-  * Moederbord
+  - Moederbord
+  - Harddisk
+  - DVD speler
+  - Floppy drive
+  - Kabel types
+* ESD
+  * ESD maatregelen in het lokaal
+  * ESD protocol van het praktijklokaal.
+* Schroeven
+  * Opbouw van een schroef
+  * Functie van schroeven in een PC
+  * Type schroeven in een PC
 
 ------
 
