@@ -127,8 +127,10 @@ De UpdateSourceTrigger heeft de volgende opties:
 ## Help
 [Kikkersprong spel uitleg](http://www.davdata.nl/kikkers.html)
 
+[WPF Data Binding - responding to chances](https://www.wpf-tutorial.com/data-binding/responding-to-changes/) - WPF Tutorial
+
 [WPF Data Binding Overview](https://www.wpftutorial.net/DataBindingOverview.html) - WPF-Tutorials
 
-[WPF Data Binding](https://www.tutorialspoint.com/wpf/wpf_data_binding.htm) - Tutorials Point
+[WPF Data Binding - Binding Modes](https://www.tutorialspoint.com/wpf/wpf_data_binding.htm) - Tutorials Point
 
 [Explain Binding Mode In WPF](https://www.c-sharpcorner.com/article/explain-binding-mode-in-wpf/) - C-Sharp Corner
