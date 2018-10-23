@@ -19,6 +19,7 @@
 
 ### Help
 *   <a href="https://www.w3schools.com/html/html_images.asp" target="_blank">Afbeeldingen toevoegen</a>
+*   <a href="https://www.w3schools.com/tags/tag_figcaption.asp" target="_blank">Onderschrift toevoegen</a>
 
 ---
 ## Opdracht 7.2
@@ -34,7 +35,8 @@
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%207/Resources/Opdracht%207.2.rar" target="_blank">Opdracht 7.2.rar</a>
 
 ### Help
-*   <a href="https://www.w3schools.com/cssref/pr_class_float.asp" target="_blank">Afbeeldingen uitlijnen</a>
+*   <a href="https://www.w3schools.com/cssref/pr_class_float.asp" target="_blank">Afbeeldingen uitlijnen (links/rechts)</a>
+*   <a href="https://www.w3schools.com/css/css_align.asp" target="_blank">Afbeeldingen uitlijnen (midden)</a>
 
 ---
 ## Opdracht 7.3
