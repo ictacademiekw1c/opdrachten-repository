@@ -27,11 +27,66 @@ In Opdracht 4 moeten de volgende onderwerpen worden uitgewerkt:
 
 ## Voorbeelden
 
+###Binding met elementen op het WPFformulier
+
+De properties van een UI Framework element kan worden gekoppeld met een propertie van een ander UI Framework element. In het voorbeeld hieronder wordt het TextBlock automatisch ververst als er tekst wordt ingevoerd in de TextBox. 
+
+In een applicatie zonder databinding moet dit geimplementeerd worden door op een event van de TextBox te luisteren en de Text propertie van de TextBlock te veranderen iedere keer dat de tekst veranderd. Met een data binding, dan deze verbinding tot stand worden gebracht vanuit de XAML scherm opmaak.
+
+```xaml
+<Window x:Class="DataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Simple binding voorbeels" Height="110" Width="280">
+    <StackPanel Margin="10">
+		<TextBox Name="txtValue" />
+		<WrapPanel Margin="0,10">
+			<TextBlock Text="Value: " FontWeight="Bold" />
+			<TextBlock Text="{Binding Path=Text, ElementName=txtValue}" />
+		</WrapPanel>
+	</StackPanel>
+</Window>
+```
+
+**De syntax van een binding**
+
+In XAML kunnen we een XAMLextensie aangeven doormiddel van accolades. Voor een data binding gebruiken we de Binding extension die het mogelijk maakt om de synchronisatie relatie tussen properties aan te geven.
+
+In zijn simpelse vorm, ziet een binding er als volgt uit:
+
+```xaml
+{Binding}
+```
+
+Deze XAML extensie geeft de huidige data context terug. Dit kan bruikbaar zijn, maar in de meeste situaties wil je een specifieke propertie met een andere propertie verbinden. Dit ziet er zo uit:
+
+```xaml
+{Binding Path=PropertieNaam}
+```
+
+Het keyword *Path* geeft de propertie aan waarvan wordt gesynchroniseerd. (De bron) Het keyword *Path* is de standaard propertie van de binding klasse en mag daarom worden weggelaten.
+
+```xaml
+{Binding PropertieNaam}
+```
+
+In voorbeelden zul je de twee schrijfwijzes tegenkomen.
+
+Een binding klasse heeft echter meer properties. Een van deze is de *ElementName* die in bovenstaand voorbeeld is gebruikt. *ElementName* maakt het mogelijk om met een ander UI Framework als bron te kunnen gebruiken. Iedere property dat in XAML binnen de accolades wordt gedefinieerd dient gescheiden te zijn met komma's.
+
+```xaml
+{Binding Path=Text, ElementName=txtValue}
+```
+
 ###Binding met onderliggend datamodel 
 
-Met behulp van de *DataContext* is het gemakkelijk om een deel van je scherm of groep van UI Framework elementen met Binding te koppelen aan een datamodel object. Binnen deze groep van UI Framework elementen volstaat het dan om alleen het *Path*, de Target Property te zetten.
+De *DataContext* propertie is de default bron van je bindings, tenzij je expliciet  een andere bron declareerd. Zoals in bovenstaand voorbeeld met *ElementName*. *DataContext* is onderdeel van de *FrameWorkElement* klasse. De meeste UI Controls, inclusief het WPF venster, zijn door overerving afgeleid  van FrameWorkElement en hebben dus ook deze functionaliteit. Door de *DataContext* van een element te zetten, specificeer je de basis van je bindings.
 
-De *DataContext* kun je op twee manieren zetten. In de code en in XAML. In XAML is de GUI het mooiste gescheiden van de onderliggende code. De onderliggende code bevat geen verwijzingen naar een GUI.
+Er is geen bron standaard ingesteld voor de *DataContext* propertie (Inhoud is NULL bij opstarten), maar omdat *DataContext* een overerving is door de hele control hierarchie, kun je de *DataContext* voor een venster zetten. Deze *DataContext* wordt door de overerving overgenomen door al zijn control kinderen, 
+
+Met behulp van de *DataContext* is het gemakkelijk om een deel van je scherm of groep van UI Framework elementen met Binding te koppelen aan een datamodel object in de code. Binnen deze groep van UI Framework elementen volstaat het dan om alleen het *Path*, de Target Property te zetten.
+
+De *DataContext* kun je op twee manieren definieren. In de code en in XAML. In XAML is de GUI het mooiste gescheiden van de onderliggende code. De onderliggende code bevat geen verwijzingen naar een GUI.
 
 Bij gebruik van de *DataContext* in de code kun je de *DataContext* dynamisch wijzigen tijdens de executie van de code. Dit kan in een aantal gevallen wenselijk zijn.
 
