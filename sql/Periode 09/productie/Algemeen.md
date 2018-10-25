@@ -29,12 +29,9 @@ De SQL kennis die is opgedaan in leerjaar 1 en 2.
     - Database administratie
         - Creeren en verwijderen van een database
         - Backup & Restore
-        - Autorisatie en rollen
-
-    - Extra onderwerpen
-        - ON [DELETE|UPDATE] .... [CASCADE|NULLIFY|RESTRICT] regels
-        - Database triggers
-
+        (- Autorisatie en rollen)
+        - Import/export van gegevens via o.a. xml
+ 
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
 
