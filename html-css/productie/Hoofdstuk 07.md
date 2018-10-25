@@ -52,4 +52,4 @@
 *   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   <a href="https://www.w3schools.com/cssref/css3_pr_background.aspp" target="_blank">Achtergrond(afbeeldingen)</a>
+*   <a href="https://www.w3schools.com/cssref/css3_pr_background.asp" target="_blank">Achtergrond(afbeeldingen)</a>
