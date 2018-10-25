@@ -21,7 +21,7 @@ De SQL kennis die is opgedaan in leerjaar 1 en 2.
     - Soorten Joins
     - Unions, EXCEPT en INTERSECT
 
-    - Subqueries en VIEW
+    (- Subqueries en VIEW)
     - GROUP BY in combinatie met HAVING en AGGREGAAT functies
 
     - Rapportages met Crystal reports
