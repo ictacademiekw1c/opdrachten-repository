@@ -16,14 +16,15 @@ Zet het databaseontwerp uit het technisch ontwerp om naar een database. Volg daa
 
 ## Hoofdstuk 5.1 Huiswerkopdracht
 
-Stap 1:
+* Stap 1:
 Maak een database creatie script voor de volgende Bachmann diagram.
 
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/boekwinkeldb.png">
 
     De tabellen die betrekking hebben op dvd's mag je weglaten.
 
-Beoordelingscriteria databasescript:
+__Beoordelingscriteria databasescript__
+
 Het resultaat moet aan de volgende punten voldoen.
 
     1.	Controle op bestaande databases.	
@@ -34,5 +35,6 @@ Het resultaat moet aan de volgende punten voldoen.
     6.	De juiste foreign key constraints om de associaties tussen de tabellen te realiseren (Met een alter table constructie)
     7. De basisset en de testset zijn in xml formaat.
 
-
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/04.%20Aanvullend/Codeerafspraken%20SQL.pdf
+" target="_blank">Codeerafspraken SQL.pdf</a>
 
