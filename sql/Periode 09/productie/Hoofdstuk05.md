@@ -4,7 +4,7 @@
 
 ## Database onderdeel uit B1-K2-W1
 
-Realiseren van de database 
+In het werkproces B1-K2-w2 zit het onderdeel 'Realiseren van de database' met de volgende opdrachten:<br> 
 
 Zet het databaseontwerp uit het technisch ontwerp om naar een database. Volg daarbij de volgende stappen. 
 
@@ -12,7 +12,6 @@ Zet het databaseontwerp uit het technisch ontwerp om naar een database. Volg daa
     b. Voer het creatiescript op de database uit. 
     c. Importeer gegevens van de database in xml formaat in je database. Deze gegevens staan in een XML-formaat dat in de database geïmporteerd kan worden. 
     d. Vul de tabellen in de database zo nodig aan met testgegevens ten behoeve van de realisatie. 
-
 
 ## Hoofdstuk 5.1 Huiswerkopdracht
 
