@@ -18,7 +18,7 @@ Zet het databaseontwerp uit het technisch ontwerp om naar een database. Volg daa
 * Stap 1:
 Maak een database creatie script voor de volgende Bachmann diagram.
 
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/boekwinkeldb.png">
+<img width="600" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/boekwinkeldb.png">
 
     De tabellen die betrekking hebben op dvd's mag je weglaten.
 
