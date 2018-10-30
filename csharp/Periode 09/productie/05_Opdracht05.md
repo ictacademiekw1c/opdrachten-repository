@@ -22,6 +22,10 @@ In Opdracht 5 moeten de volgende onderwerpen worden uitgewerkt:
 
 Opdracht 5.2 script [Personen.sql](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/03.%20Scripts/Personen.sql) - Personen SQL database
 
+[Opdracht 5.3 -Draft](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%205.3_draft.pdf) - DataBinding met Listview en SQL database
+
+Opdracht 5.3 script [NYCM.sql](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/03.%20Scripts/Nycm.sql) - deelnemers, registratie SQL database
+
 ## Theorie
 
 Opdracht 5 is een verwerkingsopdracht voor het toepassen van Binding Modes bij Data Bindings. Op een grid panel of DockPanel plaatsen we diverse controls. Hoe er wordt gesynchroniseerd kunnen we sturen met de volgende Binding Modes:
@@ -134,3 +138,5 @@ De UpdateSourceTrigger heeft de volgende opties:
 [WPF Data Binding - Binding Modes](https://www.tutorialspoint.com/wpf/wpf_data_binding.htm) - Tutorials Point
 
 [Explain Binding Mode In WPF](https://www.c-sharpcorner.com/article/explain-binding-mode-in-wpf/) - C-Sharp Corner
+
+[C# WPF and GUI - Pages and Navigation](https://www.youtube.com/watch?v=aBh0weP1bmo) - Youtube
