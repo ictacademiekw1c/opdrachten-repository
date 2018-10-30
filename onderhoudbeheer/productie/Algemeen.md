@@ -39,6 +39,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Hoofdstuk 8    | Test Case  | 10 sep |
 | Hoofdstuk 9    | Procedure Tickets  | 5 okt |
 | Hoofdstuk 10    | Acceptatietestplan  | 22 okt |
+| Hoofdstuk 11    | Ticketlijst en PvE  | 1 nov |
 
 <br> 
 
