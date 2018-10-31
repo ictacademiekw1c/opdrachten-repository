@@ -24,4 +24,26 @@ Examenopdrachten:
 Onderdeel A. Analyseren en categoriseren tickets
 
     - Onderdeel A2) Vraag aan je leidinggevende(=docent) welke tickets je moet oppakken
-    - Onderdeel A3) Categoriseer  deze tickets (zie verdere instructies onder A3 vorige pagina)
+    - Onderdeel A3) Categoriseer  deze tickets (zie verdere instructies onder A3 vorige pagina) en licht de categorie toe. Verwerk dit in het document 'Persoonlijke ticketlijst'
+
+Onderdeel B. Aandragen en doorvoeren oplossingen
+
+1. Overleg met je leidinggevende welke tickets je gaat realiseren. Je leidinggevende zet zijn paraaf in de kolom Doorvoeren. 
+2. Bedenk oplossingen voor die twee toegewezen tickets. 
+    a. Gebruik hierbij de uitgewerkte applicatie en database. 
+    b. Houd rekening met de randvoorwaarden zoals vermeld in Uittreksel SLA, Programma van Eisen  
+    c. Vul voor deze twee tickets het Aanpassingendocument in, gebruik daarbij Sjabloon Aanpassingendocument. Alleen de kolom Uitgevoerd Door en Uitgevoerd Datum vul je nog niet in. 
+3. Realiseer de gekozen oplossing voor de twee tickets in de applicatie en/of de database. Maak hierbij gebruik van Coding conventions. 
+ 
+
+__Linklijst__
+
+1. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Voorbeeld%20Uittreksel%20SLA.docx">Voorbeeld SLA</a>
+
+2. Volledige <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Opdracht%20Procedure%20afhandeling%20tickets.docx">procedure voor de ticketafhandeling van een IT support afdeling</a> beschreven in tekst.
+
+3. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Procedure%20versiebeheer.docx">Pocedure versiebeheer</a>
+
+4. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Sjabloon%20Aanpassingendocument.docx">Sjabloon aanpassingendocument</a>
+
+5. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Coding%20conventions.docx">Coding conventions</a>
