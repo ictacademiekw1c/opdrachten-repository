@@ -35,7 +35,7 @@
 *   <a href="http://www.w3schools.com/tags/tag_ol.asp" target="_blank">Geordende lijst</a>
 ```HTML
     <!-- Opsomming van de 3 stappen -->
-    <ul>
+    <ol>
         <li>
             Klik op "File".
         </li>
@@ -48,7 +48,7 @@
         <li>
             Klik op "Opslaan".
         </li>
-    </ul>
+    </ol>
 ```
 
 ---
@@ -82,6 +82,7 @@
                     Groene thee
                 </li>
             </ul>
+		</li>
         <li>
             Water
         </li>
