@@ -9,10 +9,9 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** |
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
-| Opdracht A  | 15 november | 13 november | xx november | xx november | xx november |
-| Opdracht B  | 22 november | 20 november | xx november | xx november | xx november |
-| Opdracht 1, <br> Opdracht 2,<br> Opdracht 3,<br> Opdracht 4,<br> Opdracht 5,<br> Opdracht 6,<br> Opdracht 7,<br> Opdracht 8,<br> Opdracht 9,<br> Opdracht 10,<br> Opdracht 11,<br> Opdracht 12  | 13 januari  | 13 januari  | 13 januari  | 13 januari  | 13 januari  |
-
+| Opdracht A  | xx november | xx november | 14 november | 12 november | 14 november |
+| Opdracht B  | xx november | xx november | 21 november | 19 november | 21 november |
+| Opdracht 1, <br> Opdracht 2,<br> Opdracht 3,<br> Opdracht 4,<br> Opdracht 5,<br> Opdracht 6,<br> Opdracht 7,<br> Opdracht 8,<br> Opdracht 9,<br> Opdracht 10,<br> Opdracht 11,<br> Opdracht 12  | 10 januari | 10 januari | 10 januari | 10 januari | 10 januari |
 
 <br> 
 
@@ -71,8 +70,8 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 *	De opdracht wordt ingeleverd als een pdf-bestand.
 *	Het verslag heeft heeft een duidelijke intro. (module header) 
 *	Het verslag is overzichtelijk opgebouwd door de structuur en het voorgeschreven template te gebruiken.
- 
+
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
- 
+
 *	De experimenten die uitgevoerd zijn vastgelegd in een verslag volgens het betreffende Opdracht template.
 *   
