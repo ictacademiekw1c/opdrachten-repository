@@ -27,6 +27,12 @@ Niet van toepassing.
 ### Tooling
 [Handig electronica circuit simulatietool](https://www.falstad.com/circuit/) - Falstad.com
 
+[script stroomkring](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Falstad.stroomkring.circuitjs.txt)
+
+[script serieschakeling](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Falstad.serieschakeling.circuitjs.txt)
+
+[script parallelschakeling](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Falstad.parallelschakeling.circuitjs.txt)
+
 ### Fun
 
 [Tesla Coil - Sweet Home](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/Tom/sweethomeTesla.mp4)
