@@ -25,7 +25,7 @@
     - De meeste succesvolle film per genre, wat betreft aantal gewonnen oscars.
     Laat de films weg die geen Oscarnominaties hebben gewonnen.
 
-    Toon van ieder rapport de Titel, het jaar, het genre, aantal gewonnen oscars, de winst in euro's, de voor- en achternaam van de regisseurs, en alle  volledige namen  van de volledige cast.
+    Toon van ieder rapport de Titel, het jaar, het genre, aantal gewonnen oscars, de winst in euro's, de voor- en achternaam van de regisseurs, en alle en volledige namen  van de volledige cast.
 
 
 voorbeeld weergave formulier
