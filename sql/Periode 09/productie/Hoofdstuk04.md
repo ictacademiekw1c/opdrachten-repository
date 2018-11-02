@@ -32,6 +32,8 @@ voorbeeld weergave formulier
 
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/opdracht4.png" width="550" title="Opdracht 4">
 
+In de visuele weergave ontbreken nog de printknop, het genre en de volledige regisseursnaam. 
+
 Hoe maak je een rapportage aan met parameters? Lees daarvoor hoofdstuk 5 van de reader die je in hoofdstuk 2 hebt gedownload.
 
 __Extra beoordelingscriteria__
