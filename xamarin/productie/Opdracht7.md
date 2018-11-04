@@ -11,4 +11,6 @@
     De tijdbalk balk begint op groen en verandert langzaam (via geel en oranje) naar rood als er nog slechts 10% van de tijd resteert. Speel een geluid af als de tijd is verstreken en stop de timer.
 
 
+## Link Mvvm voorbeeld met een klok
 
+<a href="https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/data-bindings-to-mvvm">Klok voorbeeld met MVVM</a>
