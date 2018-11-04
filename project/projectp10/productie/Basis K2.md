@@ -9,9 +9,6 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
 
     1. Ga uit van de opgeleverde documenten 'Vastgesteld functioneel ontwerp' en 'Vastgesteld technisch ontwerp'. 
     2. Maak een planning voor het realiseren en het testen van de applicatie of voor onderdelen ervan.
-        a. Maak hiervoor de backlog-items Realiseren en testen in sprint 1.
-        b. Verdeel de back-log in verschillende te programmeren/testen taken
-        c. Kijk dagelijks aan het begin van de dag en aan het eind van de dag of je taken naar een andere status kan plaatsen.
         
 ### Opdracht B: Realiseren van de database
 
@@ -21,7 +18,7 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
       a. Maak of genereer een creatiescript van de database. 
       b. Voer het creatiescript op de database uit. 
       c. Importeer de gegevens in je database. 
-      d. Vul de tabellen in de database zonodig aan met testgegevens ten behoeve van de realisatie.
+      d. Vul de tabellen in de database aan met testgegevens in xml formaat ten behoeve van de realisatie.
  
 ### Opdracht C: Realiseren van de applicatie
 
@@ -42,16 +39,7 @@ __Resultaat__
                 b. 3-TIER; scheiding van Data, Business en Presentatielaag 
                 c. Coding conventions volgens bijlage
                 d. Documentatie aan de hand van betekenisvolle commentaar (header commentaar/inwendige commentaar)  
-        - Een aangepast document versiebeheer; je kunt alle wijzingen halen uit je Team Services Pagina / Commits
-
-### Opdracht C (bonus): Maak een Unittest project aan met een test klasse
-
-Onderzoek voor welke klasses en methodes er zinvolle unit tests geschreven kunnen worden.
-Overleg hierover eventueel met je technische projectleider, welke unittests er gewenst zijn.
-
-__Resultaat__
-
-Een unittest project die een aantal klasses en methodes test op gewenst gedrag.
+        - Een aangepast document versiebeheer; 
  
 __Links__
 
@@ -68,7 +56,7 @@ Je gaat de gemaakte applicatie of onderdelen ervan testen.
 
       1. Stel het testplan op. Gebruik hierbij 'Vastgesteld functioneel ontwerp', 'Vastgesteld technisch ontwerp' 
         'Sjabloon testrapport'. 
-      2. Geef voor elk van de onderdelen uit het testplan aan met welke gegevens je dat gaat testen. 
+      2. Geef voor elk van de onderdelen uit het testplan aan __en met welke gegevens__ je dat gaat testen. 
       3. Vermeld voor elk te testen onderdeel wat het te verwachte testresultaat is. 
 
 ### Opdracht E: Uitvoeren van de tests en invullen van de testlog

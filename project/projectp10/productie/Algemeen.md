@@ -28,7 +28,7 @@ De opdrachten worden in de vervolgpagina's uitgelegd en zul je ze allemaal de ko
 |B. |Projectplan	|
 |B1.|Goedkeuring projectplan|
 |C. |Functioneel ontwerp|
-|C1.| Goedkeuring FO|
+|C1.|Goedkeuring FO|
 |D. |Technisch ontwerp|
 |D1.|Goedkeuring TO|
 |E. |Configuratie overzicht|
@@ -40,7 +40,6 @@ De opdrachten worden in de vervolgpagina's uitgelegd en zul je ze allemaal de ko
 |A. |Inrichting TeamServices|
 |B. |Database (/documentatie)|
 |C. |Applicatie (+/documentatie)|
-|C1.|(Bonus) Unit Test|
 |D. |Testplan|
 |E. |Testlog|
 |F. |Document versiebeheer|
