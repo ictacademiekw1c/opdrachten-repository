@@ -94,28 +94,6 @@ Een datamodel klasse uitbreiden met de INotifyPropertyChanged interface :
     }
 ```
 
-Het is gebruikelijk om de INotifyPropertyChanged definitie in een aparte klasse onder te brengen zodat ook voor andere datamodelen deze code kan worden hergebruikt doormiddel van overerving.
-
-Hier de voorbeeld code van deze klasse:
-
-```c#
-
-public class BindableBase : INotifyPropertyChanged
-    {
-        public event PropertyChangedEventHandler PropertyChanged;
-	
-	    public void RaisePropertyChanged(string propertyName)
-            {
-                if (PropertyChanged != null)
-                {
-                    PropertyChanged.Invoke(this, new PropertyChangedEventArgs(propertyName));
-                }
-            }
-    }
-```
-
-
-
 -----
 
 Bij de Binding Modes **One Way to Source** en **One Time** kunnen we het moment van sychronisatie sturen doormiddel van de eigenschap **UpdateSourceTrigger**
