@@ -27,7 +27,7 @@ In Opdracht 4 moeten de volgende onderwerpen worden uitgewerkt:
 
 ## Voorbeelden
 
-###Binding met elementen op het WPFformulier
+###Binding met elementen op het WPF formulier
 
 De properties van een UI Framework element kan worden gekoppeld met een propertie van een ander UI Framework element. In het voorbeeld hieronder wordt het TextBlock automatisch ververst als er tekst wordt ingevoerd in de TextBox. 
 
@@ -86,7 +86,151 @@ Er is geen bron standaard ingesteld voor de *DataContext* propertie (Inhoud is N
 
 Met behulp van de *DataContext* is het gemakkelijk om een deel van je scherm of groep van UI Framework elementen met Binding te koppelen aan een datamodel object in de code. Binnen deze groep van UI Framework elementen volstaat het dan om alleen het *Path*, de Target Property te zetten.
 
-De *DataContext* kun je op twee manieren definieren. In de code en in XAML. In XAML is de GUI het mooiste gescheiden van de onderliggende code. De onderliggende code bevat geen verwijzingen naar een GUI.
+Hier een simpel databinding Simpel DataBinding voorbeeld
+
+```xaml
+<Window x:Class="Hfst05_Minimal_DataBinding_Example.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hfst05_Minimal_DataBinding_Example"
+        mc:Ignorable="d"
+        SizeToContent="WidthAndHeight"
+        Title="MainWindow">
+    <StackPanel Height="Auto">
+        <Label Name="theLabel" Content="{Binding Name}" />
+        <Button Content="Click me" Click="Button_Click" />
+        <Button Content="Click me later" Click="Button_Click_1" />
+    </StackPanel>
+</Window>
+```
+
+MainWindow.xaml
+
+```c#
+/************************** Module Header *******************************\
+Project:		WPF: Minimal WPF DataBinding example
+Auteur:			Bart Linsen
+Aanmaakdatum:   4 november 2018 
+Module naam:	MainWindows.xaml.cs
+
+Omschrijving:	WPF demo met DataBinding
+
+\************************************************************************/
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace Hfst05_Minimal_DataBinding_Example
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        // Het datamodel van het GUI element theLabel
+        TestObject t;
+
+        public MainWindow()
+        {
+            // Construeren van het dataModel
+            t = new TestObject();
+            InitializeComponent();
+            // Zet de DataContext van het GUI element theLabel op het dataModel
+            theLabel.DataContext = t; // This is the whole bind operation
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            // Data wordt weggeschreven in het datamodel van het GUI element theLabel
+            t.Name = "Button1";
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            // Data wordt weggeschreven in het datamodel van 
+            // het GUI element theLabel
+            t.Name = "Button0";
+        }
+    }
+}
+```
+
+MainWindows.xaml.cs
+
+```c#
+/************************** Module Header *******************************\
+Project:		WPF: Minimal WPF DataBinding example
+Auteur:			Bart Linsen
+Aanmaakdatum:   4 november 2018 
+Module naam:	TestObject.cs
+
+Omschrijving:	WPF demo met DataBinding
+
+\************************************************************************/
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.ComponentModel;
+
+namespace Hfst05_Minimal_DataBinding_Example
+{
+    class TestObject : INotifyPropertyChanged
+    {
+        private string _name;
+
+        public string Name
+        {
+            get
+            {
+                return _name;
+            }
+
+            set
+            {
+                if (_name == value) return;
+
+                _name = value;
+                RaisePropertyChanged("Name");
+            }
+        }
+
+        #region INotifyPropertyChanged Members
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        public void RaisePropertyChanged(string propertyName)
+        {
+            if (PropertyChanged != null)
+            {
+                PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+            }
+        }
+
+        #endregion
+    }
+}
+```
+
+TestObject.cs
+
+
+
+De *DataContext* kun je op twee manieren definieren. In de code en in XAML. In XAML is de GUI het mooiste gescheiden van de onderliggende code. De onderliggende code bevat dan geen verwijzingen naar een GUI.
 
 Bij gebruik van de *DataContext* in de code kun je de *DataContext* dynamisch wijzigen tijdens de executie van de code. Dit kan in een aantal gevallen wenselijk zijn.
 
