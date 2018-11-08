@@ -14,7 +14,7 @@ Je stelt een acceptatietest op voor een van de functionaliteiten uit de applicat
         i.   Vastgesteld Programma van eisen 
         ii.  Vastgesteld functioneel ontwerp 
         iii. Vastgesteld technisch ontwerp 
-        iv.  Gevulde database met deelnemers en resultaten over verschillende jaren
+        iv.  Gevulde database, waarin voor iedere tabellen minimaal 10 records aanwezig zijn.
         v.   De gebouwde applicatie  
  
 __Links__

@@ -5,7 +5,6 @@
 ### Opdracht A: Het Programma van Eisen 
 
 Je stelt de informatiebehoefte vast voor het systeem en je legt deze vast in een Programma van Eisen.  
- 
 __Verzamelen van gegevens__
 
     Je krijgt als input een aantal verslagen van een aantal contactmomenten tussen de klant en de softwareleverancier. 
@@ -14,7 +13,6 @@ __Verzamelen van gegevens__
     - Opstellen Programma van Eisen 
     - Vul het Programma van Eisen aan op basis van de verkregen informatie.  
 
- 
 __Opleveren Programma van Eisen__ 
   
     - Lever het Programma van Eisen op in je portfolio.  
