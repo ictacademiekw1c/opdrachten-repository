@@ -21,14 +21,14 @@ Examenopdrachten:
 
 ### Werkproces P1-K1-W1: Onderhoudt een applicatie 
 
-Onderdeel A. Analyseren en categoriseren tickets
+__Onderdeel A.__ Analyseren en categoriseren tickets
 
     - Onderdeel A2) Vraag aan je leidinggevende(=docent) welke tickets je moet oppakken
     - Onderdeel A3) Categoriseer  deze tickets (zie verdere instructies onder A3 vorige pagina) en licht de categorie toe. Verwerk dit in het document 'Persoonlijke ticketlijst'
 
 ``Voordat je begint met het doorvoeren van de aanpassingen zet je de applicatie, zoals je het hebt gedownload, in je team services pagina in je 'onderhoud en beheer' project. Iedere aanpassing voorzie je van de juiste commentaar (code conventions) en commit en push je naar de gekoppelde repository``
 
-Onderdeel B. Aandragen en doorvoeren oplossingen
+__Onderdeel B.__ Aandragen en doorvoeren oplossingen
 
 1. Overleg met je leidinggevende welke tickets je gaat realiseren. Je leidinggevende zet zijn paraaf in de kolom Doorvoeren. 
 2. Bedenk oplossingen voor die twee toegewezen tickets. 
@@ -38,6 +38,14 @@ Onderdeel B. Aandragen en doorvoeren oplossingen
 3. Realiseer de gekozen oplossing voor de twee tickets in de applicatie en/of de database. Maak hierbij gebruik van Coding conventions. 
 
  ``Er is een inleveropdracht gemaakt voor het aanpassingendocument``
+
+__Onderdeel C.__  Documenteren en communiceren
+
+    1. Documenteer de doorgevoerde wijzigingen volgens 'Procedure afhandeling tickets'.
+    2. Noteer je naam/initialen en de datum in de kolom 'Doorgevoerd' in Aanpassingendocument. 
+    3. Communiceer de aanpassingen aan je leidinggevende. Je leidinggevende zet de status 'Doorgevoerd' in de ticketlijst.
+
+``Al je wijzigingen zijn ook zichtbaar in je commits op je team services pagina; je aanpassingendocument komt overeen met je commits in dit project``
 
 __Linklijst__
 
