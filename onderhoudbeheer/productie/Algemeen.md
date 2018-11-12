@@ -34,15 +34,15 @@ Iedere week wordt er een opdracht gepubliceerd, die meetelt met de eindbeoordeli
 ## 0.5 Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
 
-|&nbsp;Hoofdstuk | &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4, IO3C4 &nbsp; &nbsp; |
-|----------------|--------------- | -------------------|
-| Hoofdstuk 8    | Test Case  | 10 sep |
-| Hoofdstuk 9    | Procedure Tickets  | 5 okt |
+|&nbsp;Hoofdstuk  | &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4, IO3C4 &nbsp; &nbsp; |
+|-----------------|--------------- | -------------------|
+| Hoofdstuk 8     | Test Case  | 10 sep |
+| Hoofdstuk 9     | Procedure Tickets  | 5 okt |
 | Hoofdstuk 10    | Acceptatietestplan  | 22 okt |
 | Hoofdstuk 11    | Ticketlijst en PvE  | 5 nov |
 | Hoofdstuk 11    | P1-K1-W1  |  12 nov |
 | Hoofdstuk 11    | P1-K1-W2  |  19 nov |
-| Hoofdstuk 12    | Test  | 28 |
+| Hoofdstuk 12    | Test  | 28 nov |
 
 <br> 
 
