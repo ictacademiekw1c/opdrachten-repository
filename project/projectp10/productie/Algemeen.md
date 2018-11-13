@@ -41,36 +41,3 @@ Voor een nadere toelichting op het administratiesysteem heeft de vereniging een 
 **Document:**
 
 [Specificaties Bondsbase](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2010/Productie/01.%20Reader/ProjectP10.Specificaties.pdf) - Ledenadministratie systeem voor de Gildenbondsharmonie Boxtel.
-
-
-## 0.7 Fasering/onderdelen project P10
-
-
-| B1-K1 | Onderdeel|
-|----------------|-----------|
-| Opdracht A | Programma van Eisen |
-| Opdracht B| Projectplan |
-| Opdracht C | Opstellen functioneel ontwerp	|
-| Opdracht D | Opstellen technisch ontwerp |
-| Opdracht E | Gereedmaken ontwikkelomgeving |
-
-===
-
-| B1-K2 | Onderdeel|
-|-------|----------|
-|Opdracht A | Maken van je werkplanning in de Microsoft Team Services onder 'Work' |
-| Opdracht B | Realiseren van de database |
-| Opdracht C | Realiseren van de applicatie |
-| Opdracht D | Opstellen testplan en testscenario's |
-| Opdracht E | Uitvoeren van de tests en invullen van de testlog |
-| Opdracht F | Wijzigen van de applicatie en het document versiebeheer |
-
-=== 
-
-| B1-K3 | Onderdeel|
-|---|----------|
-| Opdracht A | Opstellen van een Acceptatietest |
-| Opdracht B | Uitvoeren van een Acceptatietest |
-| Opdracht C | Evaluatie van het product |
-
-===
