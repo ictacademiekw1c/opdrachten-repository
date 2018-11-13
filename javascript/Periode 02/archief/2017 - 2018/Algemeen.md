@@ -7,10 +7,15 @@ Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicat
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
 
-|Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** &nbsp;|
-|--------------------  |----------- | --------- | --------- | --------- | --------- |
-| Opdrachten 6.1, 6.2 | di 20 nov | di 20 nov | zo 18 nov | zo 18 nov | ma 11 nov |
- 
+|Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** + **IO1B4** + **IO1D4** + **IO1E4** |  &nbsp; &nbsp;  Deadline **IO1C4** &nbsp; |
+|--------------------  |--------------- | --------- |
+| Opdracht 7.1, 7.2| Zo 19 november | wo 22 november  |
+| Opdracht 7.3| Zo 26 november | wo 29 november |
+| Opdracht 7.4, 7.5 | Zo 10 december | Wo 13 december |
+| Opdracht 8.1, 8.2 | Zo 17 december | di 19 december |
+| Opdracht 9.1, 9.2 | Zo 24 december | di 9 januari  |
+| Eindopdracht Deel 1 | Do 18 januari | n.v.t |
+| Eindopdracht Deel 2 | n.v.t | n.v.t | 
 
 
 <br> 
