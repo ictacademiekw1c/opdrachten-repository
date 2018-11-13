@@ -18,7 +18,11 @@ Dit project doe je individueel. Er zullen werktaken of opdrachten zijn waarbij j
 Bij iedere werkproces worden opdracht(/-en) geformuleerd en concrete resulta(a)t(/-en) verwacht. Voor ieder resultaat wordt een inleveropdracht aangemaakt. Het beoordelen doen we op dezelfde manier als bij de PVB en hanteren we dezelfde beoordelingscriteria.
 
 __Monitoren gedrag en voortgang__
-Tijdens de komende weken monitoren we je gedrag en voortgang. Om dit te faciliteren moet je je Microsoft team services portaal gebruiken voor je codebase en je planning en voortgang (backlogs en status per taak). Maak hiervoor een project p10 aan.  
+
+    Tijdens de komende weken monitoren we je gedrag en voortgang. Om dit te faciliteren moet je je Microsoft team services portaal gebruiken voor je codebase en je planning en voortgang (backlogs en status per taak). Maak hiervoor een project p10 aan.  
+
+    Maak per week een sprint aan en per sprint voeg je alle werkzaamheden toe van 1 kerntaak.
+    Maak per werkproces een 'backlog item' aan en per opdracht een 'task'.
 
 ## 0.4 De context 
 
