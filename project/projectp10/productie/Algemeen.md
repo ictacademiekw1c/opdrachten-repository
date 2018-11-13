@@ -2,7 +2,7 @@
 
 ## 0.1 Inleiding
 
-Project p10 is het derdejaarsproject ter voorbereiding van het PVB voor de crebocode 25187, kwalificatiedossier applicatieontwikkelaar.
+Project p10 is het derdejaarsproject ter voorbereiding van de PVB voor de crebocode 25187, kwalificatiedossier applicatieontwikkelaar.
 
 Het project zal starten op 13 november 2018 en eindigen in de week van 3 december. 
 
@@ -12,9 +12,13 @@ Het project zal de kerntaken B1-K1 t/m B1-K3 omvatten. De laatste kerntaak P1-K1
 
 Dit project doe je individueel. Er zullen werktaken of opdrachten zijn waarbij je mekaar kunt ondersteunen en dat kan voor iedereen leerzaam zijn. Echter tijdens de komende PVB word je volledig individueel beoordeeld.
 
+
 ## 0.3 Oplevering en beoordelings criteria
 
 Bij iedere werkproces worden opdracht(/-en) geformuleerd en concrete resulta(a)t(/-en) verwacht. Voor ieder resultaat wordt een inleveropdracht aangemaakt. Het beoordelen doen we op dezelfde manier als bij de PVB en hanteren we dezelfde beoordelingscriteria.
+
+__Monitoren gedrag en voortgang__
+Tijdens de komende weken monitoren we je gedrag en voortgang. Om dit te faciliteren moet je je Microsoft team services portaal gebruiken voor je codebase en je planning en voortgang (backlogs en status per taak). Maak hiervoor een project p10 aan.  
 
 ## 0.4 De context 
 
