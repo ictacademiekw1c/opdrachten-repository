@@ -1,4 +1,4 @@
-# Opdracht 6
+# Sprint/Opdracht 6
 
 ## Opslag in een lokale database met SQLite
 
