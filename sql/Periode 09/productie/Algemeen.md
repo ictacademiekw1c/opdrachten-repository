@@ -15,6 +15,8 @@ Als rapportage tool zal gebruik worden gemaakt van Crystal Reports, dat door SAP
 
 De SQL kennis die is opgedaan in leerjaar 1 en 2.
 
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/Opdrachtenportaal/opdrachtenportaal-master/index.html">De opdrachtenportaal SQL van het tweede leerjaar</a>
+
 ## Onderwerpenlijst periode 9/10 
 
     - Verschillen Joins/Subqueries/Unions?
