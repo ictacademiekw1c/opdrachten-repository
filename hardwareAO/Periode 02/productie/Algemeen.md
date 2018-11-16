@@ -9,17 +9,17 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** |
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
-| Opdracht A  | xx november | xx november | 14 november | 12 november | 14 november |
+| Opdracht A  | xx november | xx november | 16 november | 14 november | 16 november |
 | Opdracht B  | xx november | xx november | 21 november | 19 november | 21 november |
 | Opdracht 1, <br> Opdracht 2,<br> Opdracht 3,<br> Opdracht 4,<br> Opdracht 5,<br> Opdracht 6,<br> Opdracht 7,<br> Opdracht 8,<br> Opdracht 9,<br> Opdracht 10,<br> Opdracht 11,<br> Opdracht 12  | 10 januari | 10 januari | 10 januari | 10 januari | 10 januari |
 
 <br> 
 
-**Let op: Je dient de opdrachten vóór de eerste les van de volgende week te laten zien. Let hier dus op** 
+**Let op: Je dient de opdrachten in te leveren via een inleveropdracht in de ELO studieroute. Let op de inleverdatum. Een week na de inleverdatum sluit de mogelijkheid tot elektronisch inleveren.** 
 
 ## Opleveren opdrachten
-1. Je dient al je huiswerkopdrachten in de HardwareAO map van je ELO portfolio te plaatsen
-2. Daarna laat je de opdracht uit je ELO aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
+1. Je dient al je huiswerkopdrachten in te leveren via inleveropdrachten in de ELO studieroute.
+2. Bij de prakticum opdrachten is het verplicht eerst het verslag te laten zien voordat je verder kunt met de volgende opdracht. Daarna laat je de opdracht uit je ELO aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
 
 
 ## Voorkennis
@@ -31,10 +31,10 @@ Voor de lessen HardwareAO heb je naast Microsoft Word geen speciale software nod
 
 
 ## Opleveren opdrachten
-Het huiswerk indien van toepassing wordt in de les op het bord geschreven of met een overhead projector gepresenteerd. Neem dit over in je agenda! De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
+Het huiswerk is te vinden op het opdrachtenportaal en indien van toepassing ook in de les op het bord geschreven of met een overhead projector gepresenteerd. Neem dit over in je agenda! De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
 **Voorbeeld:**
-``Opleveren: Plaats het PDF document met de naam `Opdracht 2.pdf` in de map 'Hoofdstuk 2' van je HardwareAO portfoliomap``
+``Opleveren: Upload het PDF document met de naam van de opdracht in via de inleveropdracht in de HardwareAO inleveropdracht.``
 
 De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
@@ -68,10 +68,13 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
 *	De opdracht is op tijd ingeleverd op ELO in het portfolio.
 *	De opdracht wordt ingeleverd als een pdf-bestand.
-*	Het verslag heeft heeft een duidelijke intro. (module header) 
+*	Het verslag heeft heeft een duidelijke inleiding. 
+  *	Naam
+  *	Leerlingnummer
+  *	Klas
+  *	Datum 
 *	Het verslag is overzichtelijk opgebouwd door de structuur en het voorgeschreven template te gebruiken.
 
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
 
 *	De experimenten die uitgevoerd zijn vastgelegd in een verslag volgens het betreffende Opdracht template.
-*   

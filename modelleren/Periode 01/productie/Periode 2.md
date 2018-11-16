@@ -27,8 +27,7 @@
 ---
 
 ### Download
-Volgt later
-<!-- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.01%20MOD%5D%20Modelleren/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Opdracht%202.2%20-%20Dag%20van%20het%20park.xlsx" target="_blank">Opdracht 2.2 - Dag van het park</a> -->
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.01%20MOD%5D%20Modelleren/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Opdracht%202.2%20-%20BOTE.xlsx" target="_blank">Opdracht 2.2 - Battle of the Elements</a>
 
 ---
 ## Opdracht 2.3
