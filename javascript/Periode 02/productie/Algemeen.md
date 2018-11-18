@@ -9,7 +9,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** &nbsp;|
 |--------------------  |----------- | --------- | --------- | --------- | --------- |
-| Opdrachten 6.1, 6.2 | di 20 nov | di 20 nov | zo 18 nov | zo 18 nov | ma 11 nov |
+| Opdrachten 6.1, 6.2 | di 20 nov | di 20 nov | zo 18 nov | zo 18 nov | ma 19 nov |
  
 
 
