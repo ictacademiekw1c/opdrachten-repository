@@ -5,7 +5,7 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
 
 ## 2.1 B1-K1-W1: Realiseert een product
 
-### Opdracht A: Maken van je werkplanning in de Microsoft Team Services onder 'Work'
+### Opdracht A: Maken van je planning
 
     1. Ga uit van de opgeleverde documenten 'Vastgesteld functioneel ontwerp' en 'Vastgesteld technisch ontwerp'. 
     2. Maak een planning voor het realiseren en het testen van de applicatie of voor onderdelen ervan.

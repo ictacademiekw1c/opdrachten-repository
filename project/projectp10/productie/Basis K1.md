@@ -90,6 +90,8 @@ __Links__
 
    - [Sjabloon functioneel ontwerp](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20functioneel%20ontwerp.docx)
 
+``Voor het functioneel ontwerp is 1 inleveropdracht gemaakt. Comprimeer dus je bestanden en lever het zip/rar in in de inleveropdracht``
+
 ### Opdracht D: Opstellen technisch ontwerp 
 
     Schrijf het technisch ontwerp aan de hand van 
