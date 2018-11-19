@@ -66,7 +66,7 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 ## Algemene beoordelingscriteria
 
 Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
-*	De opdracht is op tijd ingeleverd op ELO in het portfolio.
+*	De opdracht is op tijd ingeleverd via een inleveropdracht op ELO.
 *	De opdracht wordt ingeleverd als een pdf-bestand.
 *	Het verslag heeft heeft een duidelijke inleiding. 
   *	Naam
@@ -78,3 +78,5 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscriteria:
 
 *	De experimenten die uitgevoerd zijn vastgelegd in een verslag volgens het betreffende Opdracht template.
+
+------
