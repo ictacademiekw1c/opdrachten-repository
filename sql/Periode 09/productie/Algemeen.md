@@ -43,7 +43,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 2 Crystal Reports 1 |  7 nov |
 | Opdracht 3 Crystal Reports Factuur | 9 nov |
 | Opdracht 4 Crystal Reports Movies | 16 nov |
-| Opdracht 5 Database/SQL | 16 nov  |
+| Opdracht 5 Database/SQL | 23 nov  |
 
 <br> 
 

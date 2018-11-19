@@ -47,6 +47,22 @@ __Onderdeel C.__  Documenteren en communiceren
 
 ``Al je wijzigingen zijn ook zichtbaar in je commits op je team services pagina; je aanpassingendocument komt overeen met je commits in dit project``
 
+__Onderdeel D.__ Controleren
+
+    1. Neem van je leidinggevende de ticketlijst in ontvangst. 
+    2. Controleer voor elke ticket of de applicatiedocumentatie volledig is bijgewerkt. 
+    Gebruik hierbij 'Procedure afhandeling tickets'. 
+    3. Noteer de juiste status in de kolom Status van de ticketlijst. 
+
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Opdracht%20Procedure%20afhandeling%20tickets.docx">procedure voor de ticketafhandeling van een IT support afdeling</a>
+ 
+__Onderdeel E.__ Archiveren en documenteren 
+    
+    1. Werk de applicatiedocumentatie bij, zodat deze weer volledig en actueel is. Gebruik hierbij 'Procedure afhandeling tickets'. 
+    2. Maak een nieuwe minor versie van de applicatie. Gebruik hierbij 'Procedure versiebeheer'. 
+    3. Voeg de gegevens van deze nieuwe versie toe aan Vastgesteld 'Document versiebeheer'. 
+    4. Archiveer de nieuwe versie in Vastgestelde 'huidige versie'. 
+
 __Linklijst__
 
 1. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Voorbeeld%20Uittreksel%20SLA.docx">Voorbeeld SLA</a>
@@ -58,3 +74,7 @@ __Linklijst__
 4. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Sjabloon%20Aanpassingendocument.docx">Sjabloon aanpassingendocument</a>
 
 5. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Coding%20conventions.docx">Coding conventions</a>
+
+6. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Voorbeeld%20Procedure%20versiebeheer.docx">Voorbeeld procedure versiebeheer</a>
+
+7. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Vastgesteld%20Document%20versiebeheer.docx">Vastgesteld document versiebeheer</a>
