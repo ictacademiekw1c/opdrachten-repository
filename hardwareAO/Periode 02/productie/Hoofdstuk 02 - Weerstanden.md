@@ -1,6 +1,6 @@
 #### [kleurcode]rgba(233,30,99, 1)
 
-# Hoofdstuk 2
+# Hoofdstuk 2 - Weerstanden
 
 ---
 ## Opdracht B

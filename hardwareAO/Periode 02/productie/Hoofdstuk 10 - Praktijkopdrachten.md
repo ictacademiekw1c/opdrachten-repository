@@ -1,140 +1,10 @@
 #### [kleurcode]rgba(156,39,176, 1)
 
-# Hoofdstuk 3
+# Praktijkopdrachten
 
 ---
 ## Algemeen
 
-In dit hoofdstuk worden de volgende componenten behandeld:
-- Weerstanden
-- Leds en diodes
-- Transistoren
-- Condensators
-
-
-### Download
-
-[Algemene informatie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_algemeen.pdf) 
-over alle componenten die je gebruikt bij de praktijkproeven.
-
-Zoals:
-- breadboard
-- jumpwires
-- batterij
-- schakelaars
-- weerstanden
-- led
-- transistoren
-- condensatoren
-
-----
-## Weerstanden
-
-### Onderwerpen
-
-* Het herkenen van verschillende soort weerstanden.
-* Bekend zijn met de tekensymbolen van een weerstand, potmeter, LDR en thermistor
-* De waarde van een weerstand kunnen berekenen aan de hand van de kleurcode.
-* Begrijpen dat de waarde van de weerstanden in een reeks bepaald is door de tolerantie waarmee de weerstanden gemaakt zijn.
-
-### Presentaties
-- [Weerstanden en kleurcodes](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa02.Presentatie.Weerstanden.pdf)
-
-### Help
-- [MAKE presents: The Resistor](https://www.youtube.com/watch?v=VPVoY1QROMg) - Youtube
-- [Kleurcodering van weerstanden](https://www.weerstandcalculator.nl/)
-- [Weerstand waarden en toleranties](http://www.logwell.com/tech/components/resistor_values.html)
-
-- Vraag de docent.
-
-----
-## Led en diode
-
-### Onderwerpen
-
-* Stroom kan maar van 1 kant door de led/diode.
-* Bekend zijn met de tekensymbolen van een diode en een led.
-* Spanningsval over de diode 0,7V is en onafhankelijk is van de stroom. (silicium: 0,7V, germanium: 0,3 V)
-* Een diode heeft een spanningsval afhankelijk van de kleur die hij uitzend.
-* Een led een diode is die licht geeft als deze in doorlaatrichting is aangesloten.
-* De grote van de spanningsval over een led is afhankelijk van de kleur die de led uitstraalt.
-
-### Presentaties
-- [LED en diodes](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa03.Presentatie.Led.pdf)
-
-
-
-### Help
-- [Wat is een halfgeleider?](https://www.youtube.com/watch?v=gUmDVe6C-BU) - Youtube
-- [Wiki Led](https://nl.wikipedia.org/wiki/Led)
-- [Hoe werkt een diode?](https://www.youtube.com/watch?v=Coy-WRCfems) - Youtube
-- Vraag de docent
-
-----
-## Transistor
-
-### Onderwerpen
-**Bipolaire transistor**
-* Een bipolaire transistor heeft 2 functies:
-  * Een transistor versterkt stroom
-  * Een transistor schakelt een grote stroom met een kleine **stuurstroom** door de basis
-* Type transistoren. (NPN en PNP) 
-* Tekensymbolen van een npn en een pnp transitor
-* De 3 aansluitingen op een transistor heten basis, emitter en collector.
-
-**MOSFET**
-* Een MOSFET transistor heeft 2 functies:
-  * Een MOSFET transistor versterkt stroom
-  * Een MOSFET transistor schakelt een grote stroom met een kleine **stuurspanning** op de gate
-  * De Gatestroom is verwaarloosbaar klein, de Drainstroom is erg groot
-* Type MOSFET transistoren. (N-kanaal en P-kanaal) 
-* Tekensymbolen van een n-kanaal en een p-kanaal transitor
-* De 3 aansluitingen op een transistor heten basis, emitter en collector.
-* MOSFET transistoren zijn eenvoudig te maken daarom vind je ze in geintegreerde circuits (processoren)
-
-### Presentaties
-- [Transistor](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa04.Presentatie.Transistor.pdf)
-
-### Help
-- [Hoe werkt een transistor](http://www.learnabout-electronics.org/Semiconductors/bjt_04.php) - animatie
-- [Transistors - Electronics Basics](https://www.youtube.com/watch?v=HqhE-8xXeCQ&index=22&list=PLYS_1w0FFIANdG78JyJu3tsumsXVIcXUB) - Youtube
-- [Transistors, How do they work ?](https://www.youtube.com/watch?v=7ukDKVHnac4) - Youtube
-
-------
-
-## Condensator
-
-### Onderwerpen
-* Een condensator slaat elektrische lading op.
-* Er is een kortstondige ladingsstroom.
-* De ladingsstroom is afhankelijk van:
-  * Het oppervlak van de platen;
-  * De onderlinge afstand van de platen;
-  * Het materiaal tussen de platen; (dielektricum)
-  * Zie [animatie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa05.Presentatie.Condensator.capacitor-lab_nl.jar)
-* Elektrisch gedrag bij:
-  * Gelijkspanning: de condensator geleid niet;
-  * Wisselspanning: door de laadstromen lijkt een condensator te geleiden. De weerstand is afhankelijk van de freqentie van de wisselspanning.
-
-**Keramische condensator**
-* Tekensymbool van een keramische condensator;
-* Bouw van een keramische condensator.
-
-**Elektrolytische condensator**
-* Tekensymbool van een elektrolytische condensator;
-* Bouw van een elektrolytische condensator.
-
-### Presentaties
-- [Condensator](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa05.Presentatie.Condensator.pdf)
-
-### Help
-- [Capacitors and Capacitance: Capacitor physics and circuit operation](https://www.youtube.com/watch?v=f_MZNsEqyQw) - Youtube
-- [Condensator Lab](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa05.Presentatie.Condensator.capacitor-lab_nl.jar) - PhET Interactive Simulations
-
--------
-
-## Opdrachten
----
 Tijdens de les ben je bezig met praktijkoefeningen elektronica. Voor dit praktijk gedeelte wordt je beoordeeld. Hier onder de instructies voor de oplevering van iedere opdracht.
 
 ### Instructies
@@ -210,3 +80,18 @@ Lever de verslagen in via de betreffende inleveropdracht in de Hardware AO studi
 
 [opdracht 14](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_opdracht14.pdf) - ...
 
+## Extra Informatie
+
+In deze link [algemene informatie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_algemeen.pdf) vindt je informatie die over alle componenten die je gebruikt in de praktijkproeven.
+
+Zoals:
+- breadboard
+- jumpwires
+- batterij
+- schakelaars
+- weerstanden
+- led
+- transistoren
+- condensatoren
+
+------
