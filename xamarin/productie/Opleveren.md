@@ -10,6 +10,6 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Sprint 2    | Pages zonder XAML  | 5 nov |
 | Sprint 3    | PhoneWord  | 9 nov  |
 | Sprint 4    | Pages met XAML  | 12 nov |
-| Sprint 5    | Feedback App  | 16 nov |
-| Sprint 6    | Feedback met SQLite  | 19 nov |
+| Sprint 5    | Feedback App  | 21 nov |
+| Sprint 6    | Feedback met SQLite  | 21 nov |
 | Sprint 7    | Timer met MVvm  | 28 nov |

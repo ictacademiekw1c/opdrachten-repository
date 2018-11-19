@@ -162,7 +162,7 @@ Hieronder de richtlijnen voor dit verslag
     - Nummer van de experimenteerbox.
 
 Voor iedere opdracht:
- 
+
    - Titel van de opdracht.
     - Datum.
     - Schema van de schakeling.
@@ -178,8 +178,9 @@ Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 ### Benodigde bestanden
 [Template Basiselektronica verslag ](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_verslag_template.docx) 
 
-
 ### Download
+
+Lever de verslagen in via de betreffende inleveropdracht in de Hardware AO studieroute nadat je het verslag en de schakeling hebt laten controleren door de docent.
 
 [opdracht 01](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_opdracht01.pdf) - Led met schakelaar
 
