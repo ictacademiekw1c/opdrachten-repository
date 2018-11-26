@@ -46,7 +46,7 @@
 ## Opdracht 10.3
 ---
 
-** Klassen van Dhr. Gijsbrechts hoeven deze opdracht niet te maken. Diegenen krijgen een andere opdracht tijdens de les! **
+** Sommige klassen hoeven deze opdracht niet te maken. Diegenen krijgen een andere opdracht tijdens de les! Vraag dit na bij je docent! **
 
 ### Download
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2010/Opdracht%2010.3.pdf" target="_blank">Download opdracht 10.3</a>
