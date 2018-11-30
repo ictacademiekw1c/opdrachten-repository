@@ -29,7 +29,7 @@
 *	Navigatiebalk
 
 ### Benodigde bestanden
-*	<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Bijlage%20opdracht%209.2.docx" target="_blank">Bijlage opdracht 9.1.docx</a>
+*	<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.33%20USA%5D%20Usability/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Bijlage%20opdracht%209.2.docx" target="_blank">Bijlage opdracht 9.2.docx</a>
 
 ### Help
 *	Geen
