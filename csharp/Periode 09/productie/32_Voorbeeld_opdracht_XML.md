@@ -2,24 +2,72 @@
 
 #Uitgewerkte opdracht WPF XML#
 
-##Lezen van XML bestanden
+##Algemeen ##
+
+XML staat voor Extensible Markup Language en is complementair met HTML en andere webtechnologieën. XML is de W3C standaard voor het online uitwisselen van informatie.
+
+XML is geen database, maar wordt gebruikt om grote hoeveelheden ongestructureerde data in op te slaan. XML bestanden kunnen door ieder type applicatie worden ingelezen. Hier een samenvatting van de voordelen:
+
+- Grote hoeveelheid data.
+- Ongestructureerde data.
+- Toegang door verschillende type applicaties.
+- Makkelijk te delen tussen applicaties.
+- Makkelijk te genereren.
+- Makkelijk leesbaar.
+
+**Syntax**
+```xml
+<root>  
+       <child>  
+            <subchild>.....</subchild>  
+       </child>  
+</root>   
+```
+**XML voorbeeld**
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<nieuws>
+	<item>
+		<titel>Brand</titel>
+		<beschrijving>Brand in de veenstraat.</beschrijving>
+	</item>
+	<item>
+		<titel>Fusie</titel>
+		<datum>22-03</datum>
+		<beschrijving>De twee lokale amateurclubs zijn gisteren gefuseerd.</beschrijving>
+	</item>
+	<item>
+		<titel>Diefstal</titel>
+		<beschrijving>Gisterenavond is de lokale supermarkt overvallen door twee mannen.</beschrijving>
+	</item>
+</nieuws>
+```
+
+
+
+##Lezen van XML bestanden ##
 
 C# heeft verschillende mogelijkheden om een XML bestand in te lezen en verder te gebruiken in de applicatie. Hieronder zijn twee voorbeelden uitgewerkt.
 
 **xmlDocument klasse**
 
-- xmlDocument is een klasse waarin een xml document in keer in het geheugen wordt geladen en waar bewerkingen en selects op kunnen worden uitgevoerd.
+- *xmlDocument* is een klasse waarin een XML document in keer in het geheugen wordt geladen en waar bewerkingen en selecties op kunnen worden uitgevoerd.
 
 **DataSet klasse**
 
 - De DataSet heeft methods om direct een DataSet te vullen vanuit een xml bestand. 
 
 
-## ** Voorbeeld - gebruik xmlDocument** klasse 
+## Voorbeeld - gebruik xmlDocument klasse ##
 
-In dit eenvoudig voorbeeld wordt de item nodes uitgelezen.
+In dit eenvoudig voorbeeld wordt de item nodes uitgelezen. Eerst wordt het hele XML bestand in een xmlDocument object ingelezen. Dit object heeft allerlei mogelijkheden om de XML structuur en zijn inhoud te onderzoeken.
 
-De nodes met de node.name "titel" en "beschrijving" worden uitgelezen en in de Console Output window geprint.
+Zo kan er een lijst van alle elementen (*Nodes*) worden gemaakt (*XmlNodeList*) met de method .*SelectNodes*
+
+Van een node kan de naam van het element (*.Name*) en de inhoud van de tag (*.InnerText*) worden uitgelezen.
+
+In de applicatie wordt de *.InnerText* van de *XmlNodeList*  in de Console Output window geprint.
 
 ```c#
 using System;
@@ -50,14 +98,15 @@ namespace XML_voorbeeld1
         public MainWindow()
         {
             InitializeComponent();
+            // Creeer een xmlDocument object dat alle xml data bevat
             XmlDocument xmlDoc = new XmlDocument();
             // Laad het xml document in het geheugen
             xmlDoc.Load("test1.xml");
 
-            // Genereer een List met nodes
-
+            // Genereer een List met nodes. Neem de top 2 lagen niet mee in de list
             XmlNodeList nodeList = xmlDoc.SelectNodes("nieuws/item/*");
             Console.WriteLine("#########################");
+            // Loop door de lijst van nodes en 
             foreach (XmlNode node in nodeList)
             {
                 // Console.WriteLine(node.InnerText);
@@ -87,7 +136,7 @@ namespace XML_voorbeeld1
 
 ## Voorbeeld gebruik xmlDocument en DataSet Klasse
 
-In dit voorbeeld worden twee methodes uitgewerkt om een XML bestand in te lezen. De data uit de xml bestand wordt gebruikt om een listView op het scherm te vullen. De ListView is doormiddel van databinding gekoppeld aan een ViewModel. De ViewModel heeft een ObservableCollection van nieuwsItems die gevuld worden  vanuit de applicatie. 
+In dit voorbeeld worden twee methodes uitgewerkt om een XML bestand in te lezen. De data uit de xml bestand wordt gebruikt om een ListView op het scherm te vullen. De ListView is doormiddel van databinding gekoppeld aan een ViewModel. De ViewModel heeft een ObservableCollection van nieuwsItems die gevuld worden  vanuit de applicatie. 
 
 
 
@@ -180,7 +229,7 @@ namespace XML_voorbeeld3
 
             // Genereer een List met nodes
             XmlNodeList nodeList = xmlDoc.SelectNodes("nieuws/*");
-            // Loop door alle items en stop de gegevens in BO object
+            // Loop door alle items en stop de gegevens in BO objecten
             foreach (XmlNode node in nodeList)
             {
                 // Debug schrijf waarden naar Console output
@@ -192,8 +241,19 @@ namespace XML_voorbeeld3
                     Titel = node["titel"].InnerText,
                     Beschrijving = node["beschrijving"].InnerText
                 });
-
-            }
+                
+                // TIP!!!
+                // Op dezelfde manier zou je ook een database kunnen vullen.
+                // (3-Tier layers niet in dit voorbeeld uitgewerkt!!)
+                //
+                // NieuwsItemBLL.Create(new NieuwsItemBO
+                // {
+                //		Titel = node["titel"].InnerText,
+                //		Beschrijving = node["beschrijving"].InnertText
+                // });
+                //
+                
+            } // Einde foreach loop
 
             /// Dummy item in listView
             NieuwsVM.Nieuws.Add(new NieuwsItemBO
@@ -213,8 +273,8 @@ namespace XML_voorbeeld3
             {
                 NieuwsVM.Nieuws.Add(new NieuwsItemBO
                 {
-                    Titel = (string) r[0],
-                    Beschrijving = (string) r[1]
+                    Titel = (string) r["titel"],
+                    Beschrijving = (string) r["beschrijving"]
                 });
 
             }
@@ -295,10 +355,12 @@ namespace XML_voorbeeld3
 
 
 
-###Downloads###
+###Downloads ###
 In deze sectie de verschillende voorbeeld xml bestanden die gebruikt zijn in de voorbeelden.
 
 - XML script [test1.xml](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/03.%20Scripts/test1.xml) .
 - XML script [test2.xml](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/03.%20Scripts/test2.xml).
 
+###Help ###
 
+[Programmeren Kan Iedereen: Het Inlezen van XML Files](https://www.youtube.com/watch?v=q-F20427FWE) - Youtube
