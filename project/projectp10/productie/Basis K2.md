@@ -3,7 +3,7 @@
 Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de applicatie met de bijbehorende database en het bijbehorende document versiebeheer. 
 
 
-## 2.1 B1-K1-W1: Realiseert een product
+## 2.1 B1-K2-W1: Realiseert een product
 
 ### Opdracht A: Maken van je planning
 
@@ -48,7 +48,7 @@ __Links__
 [Coding conventions](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Coding%20conventions.docx)
 
 
-## 2.2 B1-K1-W2: Test het ontwikkelde product
+## 2.2 B1-K2-W2: Test het ontwikkelde product
 
 Je gaat de gemaakte applicatie of onderdelen ervan testen. 
 
