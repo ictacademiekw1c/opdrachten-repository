@@ -23,6 +23,8 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
       c. Importeer de gegevens in je database. 
       d. Vul de tabellen in de database aan met testgegevens in xml formaat ten behoeve van de realisatie.
 
+``Het formaat dat je moet importeren kan varieren per PVB: csv, insert statements, xml. Zorg ervoor dat je alle formaten kan programmeren.``
+
 __Beoordelingscriteria databasescript__
 
 Het resultaat moet aan de volgende punten voldoen.
