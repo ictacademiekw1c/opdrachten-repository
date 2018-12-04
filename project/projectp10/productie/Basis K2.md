@@ -9,6 +9,9 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
 
     1. Ga uit van de opgeleverde documenten 'Vastgesteld functioneel ontwerp' en 'Vastgesteld technisch ontwerp'. 
     2. Maak een planning voor het realiseren en het testen van de applicatie of voor onderdelen ervan.
+
+``De planning kun je maken in het document versiebeheer. Zorg ervoor dat je alle taken plant met een duidelijke en specifieke omschrijving. Taken zijn ook uitgesplitst op detail niveau. Vergeet niet de testwerkzaamheden.``
+
         
 ### Opdracht B: Realiseren van de database
 
@@ -19,6 +22,18 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
       b. Voer het creatiescript op de database uit. 
       c. Importeer de gegevens in je database. 
       d. Vul de tabellen in de database aan met testgegevens in xml formaat ten behoeve van de realisatie.
+
+__Beoordelingscriteria databasescript__
+
+Het resultaat moet aan de volgende punten voldoen.
+
+    1.	Controle op bestaande databases.	
+    2.	IFexits – DropDatabase.	
+    3.	Create database (location;min size;max size;growsize).	
+    4.	Create table (fieldname;fieldtype;notnull;pr.key) definities zoals voortgekomen uit de datadictionary
+    5.	De juiste primary keys op alle bestaande tabellen
+    6.	De juiste foreign key constraints om de associaties tussen de tabellen te realiseren (Met een alter table constructie)
+    7. De basisset/testset zijn in xml formaat en moeten zonder foutmeldingen geladen kunnen worden.
  
 ### Opdracht C: Realiseren van de applicatie
 
