@@ -42,3 +42,23 @@
 - <a href="https://www.w3schools.com/js/js_arrays.asp" target="_blank">Arrays</a>
 - <a href="https://www.w3schools.com/js/js_loop_for.asp" target="_blank">For loops</a>
 - <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank"While loop</a>
+
+
+---
+## Opdracht 8.3
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Opdracht%208.3.pdf" target="_blank">Download opdracht 8.3</a>
+
+### Onderwerpen
+- onclick events
+- functions
+- if statement
+
+### Benodigde bestanden
+- Geen
+
+### Help
+- <a href="https://www.w3schools.com/jsref/dom_obj_style.asp" target="_blank">.style property</a>
+
