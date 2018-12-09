@@ -20,7 +20,7 @@
 ### Help
 - <a href="https://www.w3schools.com/js/js_arrays.asp" target="_blank">Arrays</a>
 - <a href="https://www.w3schools.com/js/js_loop_for.asp" target="_blank">For loops</a>
-- <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank"While loop</a>
+- <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank">While loop</a>
 
 
 ---
@@ -41,7 +41,7 @@
 ### Help
 - <a href="https://www.w3schools.com/js/js_arrays.asp" target="_blank">Arrays</a>
 - <a href="https://www.w3schools.com/js/js_loop_for.asp" target="_blank">For loops</a>
-- <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank"While loop</a>
+- <a href="https://www.w3schools.com/js/js_loop_while.asp" target="_blank">While loop</a>
 
 
 ---
