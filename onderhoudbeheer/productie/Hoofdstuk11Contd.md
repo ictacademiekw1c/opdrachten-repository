@@ -39,6 +39,7 @@ __Onderdeel B.__ Aandragen en doorvoeren oplossingen
 
  ``Er is een inleveropdracht gemaakt voor het aanpassingendocument``
 
+
 __Onderdeel C.__  Documenteren en communiceren
 
     1. Documenteer de doorgevoerde wijzigingen volgens 'Procedure afhandeling tickets'.
@@ -46,6 +47,8 @@ __Onderdeel C.__  Documenteren en communiceren
     3. Communiceer de aanpassingen aan je leidinggevende. Je leidinggevende zet de status 'Doorgevoerd' in de ticketlijst.
 
 ``Al je wijzigingen zijn ook zichtbaar in je commits op je team services pagina; je aanpassingendocument komt overeen met je commits in dit project``
+
+### Werkproces P1-K1-W2: Beheert gegevens
 
 __Onderdeel D.__ Controleren
 
@@ -55,13 +58,17 @@ __Onderdeel D.__ Controleren
     3. Noteer de juiste status in de kolom Status van de ticketlijst. 
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Opdracht%20Procedure%20afhandeling%20tickets.docx">procedure voor de ticketafhandeling van een IT support afdeling</a>
- 
+
+``Lees/bestudeer vooral het onderdeel 'Controleren' ; Begrijp je de werkwijze?``
+
 __Onderdeel E.__ Archiveren en documenteren 
     
     1. Werk de applicatiedocumentatie bij, zodat deze weer volledig en actueel is. Gebruik hierbij 'Procedure afhandeling tickets'. 
     2. Maak een nieuwe minor versie van de applicatie. Gebruik hierbij 'Procedure versiebeheer'. 
     3. Voeg de gegevens van deze nieuwe versie toe aan Vastgesteld 'Document versiebeheer'. 
     4. Archiveer de nieuwe versie in Vastgestelde 'huidige versie'. 
+
+``Lees/bestudeer vooral de documenten 6 en 7 uit de linklijst hieronder. Begrijp je de werkwijze?``
 
 __Linklijst__
 

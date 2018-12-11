@@ -41,8 +41,8 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Hoofdstuk 10    | Acceptatietestplan  | 22 okt |
 | Hoofdstuk 11    | Ticketlijst en PvE  | 5 nov |
 | Hoofdstuk 11    | P1-K1-W1  |  12 nov |
-| Hoofdstuk 11    | P1-K1-W2  |  19 nov |
-| Hoofdstuk 12    | Test  | 28 nov |
+| Hoofdstuk 11    | P1-K1-W2  |  geen opdracht/bestudeer werkwijze |
+| Hoofdstuk 12    | OntwikkelTest  | 28 nov |
 
 <br> 
 

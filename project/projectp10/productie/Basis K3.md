@@ -4,7 +4,6 @@
 ## 3.1 B1-K3-W1: Optimaliseert het product
 
 ### Opdracht A
-
 Je stelt een acceptatietest op voor een van de functionaliteiten uit de applicatie. Je leidinggevende geeft aan voor welke functionaliteit uit het functioneel ontwerp jij een acceptatietest gaat maken.  
  
 1. Stel een acceptatietest op aan de hand van Sjabloon Acceptatietest, voor de aan jou toegewezen functionaliteit.  
@@ -25,7 +24,6 @@ __Resultaat__
 
     Een ingevulde sjabloon acceptatie test
 
-## 3.2 B1-K3-W2: Levert het product op
 
 ### Opdracht B
 
@@ -63,7 +61,36 @@ __Links__
 
 [Sjabloon testrapport](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20testrapport.docx)
 
+## 3.2 B1-K3-W2: Levert het product op
+
+### Opdracht C
+
+Je gaat de applicatie installeren in de productieomgeving (VM) en opleveren aan de opdrachtgever.  
+
+__Opleveren product__  
+
+    1. Installeer de applicatie in de productieomgeving. Vraag je leidinggevende welke productieomgeving je moet gebruiken. Zie hiervoor ook 9 Configuratieoverzicht productieomgeving. 
+    2. Test of de applicatie in de productieomgeving goed werkt. 
+    3. Vul het document versiebeheer in. Gebruik hierbij Sjabloon document versiebeheer. Achter Tickets vul je niets in. 
+ 
+__Voorbereiden presentatie en demonstratie__
+  
+    1. Bereid je voor op het geven van een presentatie en demonstratie van de hele applicatie. Gebruik hiervoor Bijlage 2 Vastgesteld Programma van eisen. 
+    Presenteren en demonstreren applicatie  
+    2. Laat in een korte presentatie aan de opdrachtgever de onderdelen uit het Programma van eisen zien. Geef kort aan waarom je de applicatie gemaakt hebt en wat de voordelen zijn voor de opdrachtgever. 
+    3. Demonstreer de applicatie aan de opdrachtgever en laat globaal de werking van de applicatie zien.
+ 
+__Resultaat__
+
+Als resultaat van deze opdracht lever je de volgende producten en/of diensten op. 
+ De applicatie in de productieomgeving 
+ Document versiebeheer 
+ De presentatie van de applicatie 
+ De demonstratie van de applicatie 
+
 ## 3.3 B1-K3-W3: Evalueert het opgeleverde product
+
+### Opdracht D
 
 Je evalueert het product (de applicatie) en het proces (hoe het maken en opleveren van de applicatie is gegaan) m.b.v. het sjabloon hieronder.
 

@@ -1,6 +1,6 @@
 #### [kleurcode]rgba(244,67,54, 1)
 
-# Hoofdstuk 1
+# Hoofdstuk 1 - Wet van Ohm
 
 ---
 ## Opdracht A
@@ -15,6 +15,7 @@ Lever deze opdracht via de betreffende inleveropdracht in de Hardware AO studier
 ### Onderwerpen
 * De weerstand van een geleider
 * De wet van Ohm
+* Serie en parallel geschakelde weerstanden
 
 ### Presentatie
 
