@@ -57,7 +57,7 @@
 - if statement
 
 ### Benodigde bestanden
-- Geen
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/style.css" target="_blank">style.css</a>
 
 ### Help
 - <a href="https://www.w3schools.com/jsref/dom_obj_style.asp" target="_blank">.style property</a>
