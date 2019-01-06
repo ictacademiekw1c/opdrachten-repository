@@ -15,6 +15,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdrachten 8.1 | di 11 dec | di 11 dec | zo 9 dec | zo 9 dec | ma 10 dec |
 | Opdrachten 8.2 | di 18 dec | di 18 dec | zo 16 dec | zo 16 dec | ma 17 dec |
 | Opdrachten 8.3, 9.1 | di 8 jan | di 8 jan | zo 6 jan | zo 6 jan | ma 7 jan |
+| Eindopdracht |  |  |  |  |  |
  
 
 
