@@ -13,7 +13,7 @@
 *	Media Query
 
 ### Benodigde bestanden
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2014/Resources/Opdracht%2014.1.rar" target="_blank">Opdracht 14.2.rar</a>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2014/Resources/Opdracht%2014.1.rar" target="_blank">Opdracht 14.1.rar</a>
 
 ### Help
 *   <a href="https://www.w3schools.com/css/css3_mediaqueries.asp" target="_blank">Media Query</a>
