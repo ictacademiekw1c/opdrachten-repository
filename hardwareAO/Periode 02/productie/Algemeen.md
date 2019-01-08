@@ -11,9 +11,12 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
 | Opdracht A  | xx november | xx november | 16 november | 14 november | 16 november |
 | Opdracht B  | xx november | xx november | 21 november | 19 november | 21 november |
-| Opdracht 1, <br> Opdracht 2,<br> Opdracht 3,<br> Opdracht 4,<br> Opdracht 5,<br> Opdracht 6,<br> Opdracht 7,<br> Opdracht 8,<br> Opdracht 9,<br> Opdracht 10,<br> Opdracht 11,<br> Opdracht 12  | 10 januari | 10 januari | 10 januari | 10 januari | 10 januari |
-
+| Opdracht 1, <br> Opdracht 2,<br> Opdracht 3,<br> Opdracht 4,<br> Opdracht 5,<br> Opdracht 6,<br> Opdracht 7,<br> Opdracht 8,<br> Opdracht 9,<br> Opdracht 10,<br> Opdracht 11,<br> Opdracht 12  | 10 januari | 10 januari | 23 januari | 23 januari | 23 januari |
+| Toets  | xx november | xx november | 17 januari | 15 januari | 17 januari |
+| Herkansing  | 30 november | 30 november | 30 januari | 30 januari | 30 januari |
 <br> 
+
+
 
 **Let op: Je dient de opdrachten in te leveren via een inleveropdracht in de ELO studieroute. Let op de inleverdatum. Een week na de inleverdatum sluit de mogelijkheid tot elektronisch inleveren.** 
 
