@@ -21,6 +21,9 @@ Lever deze opdracht via de betreffende inleveropdracht in de Hardware AO studier
 
 
 ### Presentatie
+
+[Presentatie Weerstanden](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/Tom/Weerstanden.pptx) - Auteur: Tom van der Zandt
+
 [Weerstanden en kleurcodes](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa02.Presentatie.Weerstanden.pdf)
 
 ### Benodigde bestanden

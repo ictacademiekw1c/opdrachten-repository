@@ -29,7 +29,9 @@ In dit hoofdstuk wordt de volgende componenten behandeld:
 * Bouw van een elektrolytische condensator.
 
 ### Presentaties
+- [Presentatie condensatoren](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/Tom/condensatoren.pptx) - Auteur: Tom van der Zandt
 - [Condensator](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa05.Presentatie.Condensator.pdf)
+- [Presentatie wissel-,  gelijkstroom](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/Tom/AC.pptx) - Auteur: Tom van der Zandt
 
 ### Extra Informatie
 - [Capacitors and Capacitance: Capacitor physics and circuit operation](https://www.youtube.com/watch?v=f_MZNsEqyQw) - Youtube

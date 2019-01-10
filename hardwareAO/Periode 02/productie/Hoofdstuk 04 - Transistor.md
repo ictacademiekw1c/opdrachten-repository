@@ -28,6 +28,7 @@ In dit hoofdstuk worden de volgende componenten behandeld:
 * MOSFET transistoren zijn eenvoudig te maken daarom vind je ze in geintegreerde circuits (processoren)
 
 ### Presentaties
+- [Presentatie transistors](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/Tom/transistors.pptx) - Auteur: Tom van der Zandt
 - [Transistor](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa04.Presentatie.Transistor.pdf)
 
 ### Extra Informatie
