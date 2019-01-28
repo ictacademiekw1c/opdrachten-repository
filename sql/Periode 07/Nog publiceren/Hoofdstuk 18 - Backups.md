@@ -1,6 +1,9 @@
 #### [kleurcode]rgba(96,125,139,1)
 
-# Hoofdstuk 18
+# Hoofdstuk 18 - Backups
+---
+### Reader
+<a href="" target="_blank">Hoofdstuk 18 - Backups</a>
 
 ---
 ## Opdracht 18.1
@@ -10,7 +13,7 @@
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Hoofdstuk%2018/Opdracht%2018.1.pdf" target="_blank">Download opdracht 18.1</a>
 
 ### Onderwerpen
-*   Database back-up
+*   Database backup
 
 ### Benodigde bestanden
 *   Je hebt voor deze opdracht geen nieuwe database nodig.

@@ -1,6 +1,9 @@
 #### [kleurcode]rgba(239,108,0,1)
 
-# Hoofdstuk 14
+# Hoofdstuk 14 - Default, unique en check
+---
+### Reader
+<a href="" target="_blank">Hoofdstuk 14 - Default, unique en check</a>
 
 ---
 ## Opdracht 14.1

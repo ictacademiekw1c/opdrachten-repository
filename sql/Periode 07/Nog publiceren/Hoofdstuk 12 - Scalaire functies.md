@@ -1,6 +1,9 @@
 #### [kleurcode]rgba(175,180,43,1)
 
-# Hoofdstuk 12
+# Hoofdstuk 12 - Scalaire functies
+---
+### Reader
+<a href="" target="_blank">Hoofdstuk 12 - Scalaire functies</a>
 
 ---
 ## Opdracht 12.1

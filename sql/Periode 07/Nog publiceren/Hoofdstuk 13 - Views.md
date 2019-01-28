@@ -1,6 +1,9 @@
 #### [kleurcode]rgba(255,160,0,1)
 
-# Hoofdstuk 13
+# Hoofdstuk 13 - Views
+---
+### Reader
+<a href="" target="_blank">Hoofdstuk 13 - Views</a>
 
 ---
 ## Opdracht 13.1
