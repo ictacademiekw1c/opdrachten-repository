@@ -62,10 +62,6 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 *	De opdracht is op tijd ingeleverd in de ELO (het portfolio).
 *	De opdracht wordt ingeleverd als een rar-bestand.
 
-Voor de opdrachten gelden de volgende aanvullende beoordelingscriteria:
-
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/04.%20Aanvullend/Codeerafspraken%20SQL.pdf" target="_blank">Codeerafspraken SQL.pdf</a>
-
 ## Periodecijfer
 
 Nader te bepalen

@@ -3,11 +3,11 @@
 # Hoofdstuk Herhaling
 
 ---
-## Opdracht H.1
+## Opdracht Herhaling 1
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Hoofdstuk%20herhaling/Opdracht%20herhaling.1.pdf" target="_blank">Download opdracht H.1</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Hoofdstuk%20herhaling/Opdracht%20herhaling.1.pdf" target="_blank">Download opdracht Herhaling 1</a>
 
 ### Onderwerpen
 *   Bachmandiagram
@@ -19,11 +19,11 @@
 *   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/04.%20Aanvullend/relaties.pdf" target="_blank">Download Relaties in Visio</a>
 
 ---
-## Opdracht H.2
+## Opdracht Herhaling 2
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Hoofdstuk%20herhaling/Opdracht%20herhaling.2.pdf" target="_blank">Download opdracht H.2</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Hoofdstuk%20herhaling/Opdracht%20herhaling.2.pdf" target="_blank">Download opdracht Herhaling 2</a>
 
 ### Onderwerpen
 *	Database aanmaken
@@ -31,7 +31,7 @@
 *	Invoeren van gegevens
 
 ### Benodigde bestanden
-*   Je hebt voor deze opdracht de Bachmandiagram uit opdracht H.1 nodig.
+*   Je hebt voor deze opdracht de Bachmandiagram uit opdracht Herhaling 1 nodig.
 
 ### Help
 *   <a href="https://www.w3schools.com/sql/sql_create_db.asp" target="_blank">Aanmaken database</a>
@@ -41,11 +41,11 @@
 *   <a href="https://www.w3schools.com/sql/sql_insert.asp" target="_blank">Invoeren van gegevens</a>
 
 ---
-## Opdracht H.3
+## Opdracht Herhaling 3
 ---
 
 ### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Hoofdstuk%20herhaling/Opdracht%20herhaling.3.pdf" target="_blank">Download opdracht H.3</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Hoofdstuk%20herhaling/Opdracht%20herhaling.3.pdf" target="_blank">Download opdracht Herhaling 3</a>
 
 ### Onderwerpen
 *	Selecteren van gegevens
