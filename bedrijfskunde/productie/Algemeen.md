@@ -20,40 +20,48 @@ Deze site bevat:
 ## 0.3 Onderwerpenlijst bedrijfskunde
 
 ### Periode 3
+
 - Wat is een bedrijf (diensten en producten)?
-- Werkprocessen / procedures
+- Organogram, Afdelingen, Functies 
 - IT bedrijven, beroepen, vaktermen, onderwerpen
+- ICT Functies en Beroepen
+
+- Klanten ICT	
+    - Gebruikersspecificaties
+    - Klantgesprekken - gesprekstechniek LSD
+    <a href='https://www.leren.nl/cursus/professionele-vaardigheden/gesprekstechnieken/'>Online informatie m.b.t. gesprekstechnieken</a>
+    - Programma van Eisen - Offerte
+
+- Opstellen Projectplan 
+    – Offerte/Kostprijs
+    - Projectgrens
+    - Risicoanalyse
+
 - Facturering en BTW
 - Bedrijfsprocessen en bedrijfssoftware
 - Licenties en auteursrecht
 
 ### Periode 4
 
-- Kosten, soorten kosten en afschrijvingen
-- Integrale Kostprijs berekening
-- Prijselasticiteit - programmeer opdracht
-
 - ICE model - creativiteit
 - Business Model Canvas
+
 
 ## 0.4 Opdrachten
 
 Iedere week wordt er een opdracht gepubliceerd, die meetelt met het eindcijfer voor dit vak.
 
-## 0.5 Toets periode 3 2018
+## 0.5 Toets periode 3
 
 Toetsafname per klas <br>
 
 | &nbsp; &nbsp; **IO2A4**| &nbsp; &nbsp; **IO2B4**| &nbsp; &nbsp; **IO2C4**| 
 |--------------- | --------- | --------|
-| 13 april 2018 | 10 april 2018 | 10 april 2018 |
+|  |  |  |
 
 Toetsonderdelen:
-- Bedrijf, Organisatie en onderneming (Hoofdstuk 1)
-- Factuur, wat zijn de minimale eisen aan een goede factuur? (Hoofdstuk 2)
-- Bedrijfsprocessen en bedrijfssoftware (Hoofdstuk 3)
-- Softwarelicenties en auteursrecht (Hoofdstuk 4)
- 
+- wordt nog bekendgemaakt
+
 Bij de theorietoets mag je geen internet gebruiken (gesloten laptop) en wordt op papier afgenomen.
 De toets zal bestaan uit open en/of meerkeuze vragen.
 
@@ -67,10 +75,10 @@ Als blijkt dat de samenvatting (deels/geheel) een letterlijke kopie is, wordt de
 Wat is een samenvatting volgens wiki:<br>
 ``Een samenvatting is een verkorte versie van een origineel, bijvoorbeeld een tekst, een film of een gebeurtenis. De bedoeling van zo'n simplificatie is om de hoofdpunten van het veel langere onderwerp uit te lichten. Men krijgt hiermee in een korte tijd de kerngedachten ervan weergegeven.``
 
-## 0.6 Toets periode 4 2018
+## 0.6 Toets periode 4 
 
 Toetsafname per klas <br>
 
 | &nbsp; &nbsp; **IO2A4**| &nbsp; &nbsp; **IO2B4**| &nbsp; &nbsp; **IO2C4**| 
 |--------------- | --------- | --------|
-| ? juni 2018 | ? juni 2018 | ? juni 2018 |
+|  |  |  |
