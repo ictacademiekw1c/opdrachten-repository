@@ -15,7 +15,7 @@ Deze site bevat:
 
 > In deze studieroute worden bedrijfskundige onderwerpen behandeld, waarmee iedere IT-er direct of zijdelings mee te maken krijgt.
 > De leerling neemt kennis van deze onderwerpen, zodat hij/zij zich als beginnende IT beroepsbeoefenaar is voorbereid in de context waar hij/zij gaat werken.
-> Een aantal van deze onderwerpen zijn ook examenstof.
+> Een aantal van deze onderwerpen is ook examenstof.
 
 
 Zie ook de studiewijzer van deze studieroute.
@@ -32,8 +32,9 @@ Zie ook de studiewijzer van deze studieroute.
 
 - Klanten ICT	
     - Gebruikersspecificaties
-    - Klantgesprekken - gesprekstechniek LSD
-    <a href='https://www.leren.nl/cursus/professionele-vaardigheden/gesprekstechnieken/'>Online informatie m.b.t. gesprekstechnieken</a>
+    - Klantgesprekken 
+        - gesprekstechniek LSD
+        - <a href='https://www.leren.nl/cursus/professionele-vaardigheden/gesprekstechnieken/'>Online informatie m.b.t. gesprekstechnieken</a>
     - Programma van Eisen - Offerte
 
 - Opstellen Projectplan 
