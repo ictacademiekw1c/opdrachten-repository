@@ -6,7 +6,10 @@
 
 Reader over bedrijf en organisatie
 
+[![Bedrijf, organisatie onderneming](http://img.youtube.com/vi/33fjBhQHcn4/0.jpg)]
+
 Reader Bedrijfsvormen
+
 
 ## 1.2 Leertaak 1
 
