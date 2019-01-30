@@ -1,41 +1,37 @@
-#### [kleurcode]rgba(134,67,234,1)
+#### [kleurcode]rgba(114,67,234,1)
 
-#  Hoofdstuk 5 Kostensoorten
+#  Hoofdstuk 4 Softwarelicenties en auteursrecht
 
-## 5.1 Algemeen
+## 4.1 Algemeen
 
-## 5.2 Bronnen
+## 4.2 Bronnen
 
-[Presentatie Kostensoorten](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%20les5_Ed.pptx)
+[Presentatie software licenties en auteursrecht](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%20les4_Ed.pptx)
 
-[Wat is afschrijven?](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/afschrijving/wat_is_afschrijven)
+[Soorten Softwarelicenties](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Softwarelicentie.pdf)
 
-[Hoe bereken je de afschrijving?](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/afschrijving/hoe_berekent_u_het_bedrag_van_de_afschrijving)
+[Crash course on copyright](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Crash%20course%20on%20copyrights.pdf)
 
+### Auteursrecht = copyright
+"Het auteursrecht is het uitsluitend recht van de maker van een werk van letterkunde, wetenschap of kunst, of van diens rechtverkrijgenden,<br> om dit openbaar te maken en te verveelvoudigen, behoudens de beperkingen, bij de wet gesteld." (Artikel 1 Auteurswet)
 
-## 5.3 Opdracht Kostensoorten en afschrijvingen
+## 4.3 Huiswerkopdracht Licenties
 
-Situatie: Je gaat een eenmans- IT- bedrijf beginnen en je gaat je in een nieuw (gehuurde) kantoorpand vestigen.
-Het kantoor wordt leeg opgeleverd, dus je zal alle inventaris zelf moeten aanschaffen. 
+- Werk alle [soorten softwarelicenties](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Softwarelicentie.pdf) uit en omschrijf wat elke licentie inhoudt.
+- Stel dat jij een mooi software programma hebt gemaakt. Welke soort licentie zou jij dan graag willen en waarom?
 
-Bij de software die je gaat ontwikkelen wil je een overzicht van kostensoorten en afschrijvingen van de bedrijfsmiddelen, <br>
-die je nodig hebt om de software te ontwikkelen en je bedrijf te runnen, hebben.
+## 4.4 Lesopdracht Copyright
 
-Stap 1:
-- Welke producten en/of diensten ga je ontwikkelen/leveren?
-
-Stap 2:
-- Welke spullen (bedrijfsmiddelen) heb je daarbij nodig? (Probeer compleet te zijn)
-- Welke andere kosten-(posten) heb je? 
-- Bepaal per kostenpost of het [direct](https://nl.wikipedia.org/wiki/Directe_kosten)/[indirect](https://nl.wikipedia.org/wiki/Indirecte_kosten) is.
-- Bepaal per kostenpost of het [vast](https://nl.wikipedia.org/wiki/Constante_kosten)/[variabel](https://nl.wikipedia.org/wiki/Variabele_kosten) is.
-
-Stap 3:
-- Wat zijn hiervan de actuele prijzen?
-- Bepaal de vermoedelijke levensduur van ieder bedrijfsmiddel.
-- Wat is de restwaarde van ieder bedrijfsmiddel?
-- Bereken de afschrijvingskosten per jaar per bedrijfsmiddel
-
-Tip:
-Werk bovenstaande stappen uit in een excel-sheet.
+In [crash course on copyright](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Crash%20course%20on%20copyrights.pdf)
+wordt copyright of auteursrecht uitgebreid behandeld. <br>
+Haal uit deze tekst de antwoorden op de volgende vragen:
+  
+  -  Waarom is auteursrecht een betere benaming dan de Engelse term copyright?
+  -  Moet je voor je applicatie je auteursrecht laten registreren? En vanaf wanneer is dit principe ontstaan?
+  -  Waarom is auteursrecht op computer software zo ingewikkeld?
+  -  Wie is de eigenaar van een applicatie met copyright?
+  -  Kan de eigenaar van de copyright worden verwisseld?
+  -  Als je specifieke toestemming geeft aan derden hoe wordt dat genoemd?
+  -  Hoe lang is copyright geldig?   
+  -  Geef een voorbeeld van fair use en wat is portret recht? 
 

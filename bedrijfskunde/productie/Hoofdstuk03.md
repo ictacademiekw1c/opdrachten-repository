@@ -1,57 +1,39 @@
-#### [kleurcode]rgba(94,67,234,1)
+#### [kleurcode]rgba(74,67,234,1)
 
-#  Hoofdstuk 3 Bedrijfsprocessen en -software
+#  Hoofdstuk 2 Factuur en BTW
 
-## 3.1 Algemeen
+## 2.1 Algemeen
 
-## 3.2 Bron
+## 2.2 Bronnen
 
-[Presentatie Bedrijfsprocessen -software](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde les3_Ed.pptx)
+[Presentatie facturen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%201.pptx)
 
-- CRM software<br>
-Wat betekent CRM? Het is een afkorting die staat voor Customer Relationship Management (Wikipedia); het beheren van uw klantrelaties. Als synoniemen worden ook wel relatiemarketing, verkoopinformatiesysteem, relatiebeheersysteem of verkoopbeheersysteem gebruikt. Het doel ervan is om alle contacten met uw klanten te optimaliseren, waarbij alle klanten op een individuele waarde worden ingeschaald. Die waarde wordt veelal bepaald op basis van individuele klantbehoeften, klanttevredenheid en klantrendement.
-- Wat kun je met HRM software<br>
-HRM software ondersteunt HRM processen in de breedste zin. Personeelsinformatie- en salarissystemen kennen al een lange historie als basisadministratie voor HRM. Daarnaast bestaan er veel toepassingen voor de meer strategische kant van HRM, zoals voor talentmanagement, assessment, recruitment, arbeidsmarktcommunicatie, etc. 
+[Site van de belastingdienst](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/facturen_maken/factuureisen/factuureisen)
 
-## 3.3 Opdracht 3 Softwaresystemen
+Bekijk op de site van de belastingdienst wat de eisen zijn van een goede factuur. 
 
-Doe verder onderzoek naar de verschillende soorten softwaresystemen.
-<br>Beantwoord daarbij per afkorting de volgende vragen:
-- Waar staat de afkorting voor?
-- Welke afdelingen hebben deze software nodig?
-- Welke bedrijfsprocessen ondersteunen ze? Noem er minimaal 1 per softwaresysteem.
-- Noem een naam en leverancier van een software systeem
+## 2.3 Voorbeelden van facturen
 
-De volgende softwaresystemen moet je onderzoeken:<br>
-``CRM, HRM, MRP, SRM, CAD, WMS, ERP, en POS.`` 
+[Voorbeeld 1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Factuur1.png)
 
-Lever het op via de opleveropdracht Hoofdstuk3 in N@tschool.
+[Voorbeeld 2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Factuur2.png)
 
-## 3.4 Bedrijfsprocessen en UML Use diagrammen
+[Voorbeeld 3](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Factuur3.png)
 
-Bedrijfsprocessen kunnen worden beschreven als Use case diagrammen en zijn zijn zodoende ook vaak onderdeel van een functioneel ontwerp.
+## 2.4 Voorbeelden van spookfacturen
 
-In een globale Use Case diagram is het de bedoeling dat de volgende onderdelen in het diagram aanwezig moeten zijn:
+![Spookfactuur](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/bedrijfskunde/images/spookfactuur.jpg?raw=true)
 
-- Welke verschillende rollen/gebruikers zijn aanwezig/spelen een rol?
-- Met welke andere systemen/bedrijfsprocessen heeft met het CRM bedrijfsproces een uitwisseling van informatie?
-- Welke informatie uitwisseling vindt er plaats met de gebruikers en het CRM systeem? 
+[Wat zijn spookfacturen?](https://www.efactuurdirect.nl/blog/wat-zijn-spookfacturen-en-hoe-herken-je-ze/)
 
-Een CRM pakket zou op de volgende manier in een Use Case kunnen worden beschreven:
+[Voorbeeld spookfactuur](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/Materiaal%2095311/Spookfactuur1.png)
 
-In een globale Use Case diagram wordt het systeem gezien als 1 bedrijfsproces met verschillende gebruikers/systemen eromheen.
+## 2.5 Opdracht 2
+
+>1. Maak een samenvatting waaraan een factuur moet voldoen.
+>2. Je verkoopt een website voor € 750,00 aan de ICT-Academie. De site is opgeleverd, getest en geaccepteerd. Je gaat nu een factuur opmaken die je aan de ICT-academie moet versturen. 
+<br>Je mag de overige gegevens verzinnen.
+>Maak een __papieren__ factuur op die voldoet aan alle wettelijke eisen.
+>Opleveren voor de volgende les (volgende week).
 
 
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/04.%20Aanvullend/CRM1.pdf" target="_new">CRM Use Case diagram</a>
-
-
-## 3.5 Opdracht UML Use Case diagram
-
-Maak in Visio (Categorie > Software & Database > UML Use Case diagram) een Use Case diagram voor een bioscoop systeem.
-Beantwoord dezelfde vragen als hierboven en visualiseer dat vervolgens in een Use Case diagram.
-
-Lever de opdracht in via de inleveropdracht UML Use Case bioscoop systeem.
-<br>
-
-Mogelijke uitwerking Use Case voor een bioscoopsysteem:
-![Mogelijke uitwerking Use Case voor een bioscoopsysteem](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/bedrijfskunde/images/usecase.jpg?raw=true)
