@@ -3,7 +3,12 @@
 # Hoofdstuk 1
 
 ---
+## Introductie
+
+[Hoofdstuk 1: Microsoft Visual Studio](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst01.pdf)
+
 ## Opdracht 1.1
+
 ---
 
 ### Download

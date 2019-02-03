@@ -1,4 +1,4 @@
-####1212[kleurcode]rgba(239,108,0,1)
+####[kleurcode]rgba(255,192,0,1)
 
 # Algemene informatie #
 
@@ -9,17 +9,28 @@ Het doel van deze studieroute is studenten te leren programmeren in C++. Met C++
 ## Opleverdata
 Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
-|Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** &nbsp;|
-|--------------------  |----------- | --------- | --------- | --------- | --------- |
-| Opdrachten  | | | | |  |
-
-
-<br> 
+|Opdracht              | &nbsp; &nbsp; Deadline **IO2A4** | &nbsp; &nbsp; Deadline **IO2B4** | &nbsp; &nbsp; Deadline **IO2C4** |
+|--------------------  |----------- | --------- | --------- |
+| [Opdracht1.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Opdracht%201.1.pdf) | | | |
+| [Opdracht1.2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Opdracht%201.2.pdf) | | | |
+| [Opdracht 2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst02.pdf) | | | |
+| [Opdracht 3](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst03.pdf) | | | |
+| [Opdracht 4](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst04.pdf) | | | |
+| [Opdracht 5](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst05.pdf) | | | |
+| [Opdracht 6](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst06.pdf) | | | |
+| [Opdracht 7](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst07.pdf) | | | |
+| [Opdracht 8](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst08.pdf) | | | |
+| [Opdracht 9](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst09.pdf) | | | |
+| [Opdracht 10](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst10.pdf) | | | |
+| Opdracht 11 | | | |
+| Opdracht 12 | | | |
+| Opdracht 13 | | | |
+| Opdracht 14 | | | |
 
 **Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op** 
 
 ## Opleveren opdrachten
-1. Je dient al je huisopdrachten in de Javascript map van je N@tschool portfolio te plaatsen
+1. Je dient al je huisopdrachten in de C++ map van je N@tschool portfolio te plaatsen
 2. Daarna laat je de opdracht uit je N@tschool aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
 
 
@@ -74,4 +85,18 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 *	De opdracht wordt ingeleverd als een rar-bestand.
 *	De code is voorzien van onderstaande intro (module header). 
 *	De code is overzichtelijk opgebouwd door onder andere gebruik te maken van tabs en enters.
-*	De code is voorzien van waardevol en voldoende commentaar.
+*	De code is voorzien van voldoende en zinvol commentaar.
+
+```c++
+/************************** Module Header *******************************\
+Opdracht:		<Opdrachtnaam>
+Auteur:			<Auteurnaam>
+Aanmaakdatum:   dd februari 2019
+Bestandsnaam:	<bestand.cs>
+Versie:			0.1	<Omschrijvingen>
+				0.2	<Omschrijving aanpassen>
+				1.0 Release
+
+\************************************************************************/
+```
+
