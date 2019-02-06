@@ -55,6 +55,7 @@ Zie ook de studiewijzer van deze studieroute.
 ## 0.4 Opdrachten
 
 Iedere week wordt er een opdracht gepubliceerd, die meetelt met het eindcijfer voor dit vak.
+
 | &nbsp; &nbsp; Taak | &nbsp; &nbsp; Uiterste oplevermoment IO2A4 IO2B4 IO2C4 |
 |------|------------------------|
 |  1 Bedrijven en rechtsvormen | Tijdens de les in de week van 11 t/m 15 febr |  

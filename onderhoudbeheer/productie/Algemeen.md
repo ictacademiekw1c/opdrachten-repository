@@ -27,20 +27,16 @@ Voor een applicatieontwikkelaar valt onder 'beheer en behoud' alle voorkomende w
  - Geautomatiseerde testtechniek (unit testing)
  - Waterval vs. scrum/agile IT projecten
 
-## 0.4 Opdrachten
+## 0.4 Opdrachten/Taken
 
-
-## 0.5 Opleverdata
-Hieronder zie de deadlines van inleveren van je opdrachten. 
-
-|&nbsp;Hoofdstuk  | &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4, IO3C4 &nbsp; &nbsp; |
-|-----------------|--------------- | -------------------|
-
-<br> 
+| &nbsp; &nbsp; Taak | &nbsp; &nbsp; Uiterste oplevermoment IO2A4 IO2B4 IO2C4 |
+|--------------------|--------------------------------------------------------|
+|  1. Kwalificatiedossier en ervaringen | Tijdens de les in de week van 11 t/m 15 febr |
+|||
+<br>
 
 
 
+## 0.5 Toetsen 
 
-## 0.6 Toetsen 
-
-Kunnen ook afgenomen worden.
+Aan het einde van de periode.
