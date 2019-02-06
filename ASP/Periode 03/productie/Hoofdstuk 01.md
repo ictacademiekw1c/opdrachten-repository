@@ -14,10 +14,9 @@
 
 ### Benodigde bestanden
 *   De installatiebestanden worden in de eerste les SQL en ASP uitgedeeld op USB-stick.
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/InstallatieWerkomgeving.pdf" target="_blank">InstallatieWerkomgeving.pdf</a>
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/InstallatieWerkomgeving.pdf" target="_blank">InstallatieWerkomgeving.pdf</a>
 
 ---
 ## Opdracht 1.2
@@ -34,9 +33,11 @@
 *   Je hebt voor deze opdracht geen bestanden nodig. 
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
-*   <iframe width="560" height="315" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/H1-MappenstructuurAanmaken.mp4" frameborder="0" allowfullscreen></iframe>
-*   <iframe width="560" height="315" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2002/Resources/H2-InleverenOpdracht.mp4" frameborder="0" allowfullscreen></iframe>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/H1%20-%20Introductie%20ASP.NET.pdf" target="_blank">Configureren Visual Studio (opzetten Solution, aanmaken projecten, eerste ASP.NET webpagina)</a>
+*	Aanmaken solution en mappenstructuur	
+<iframe width="560" height="315" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/Aanmaken%20solution.mp4" frameborder="0" allowfullscreen></iframe>
+*	Aanmaken projecten in solution
+<iframe width="560" height="315" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/Aanmaken%20project.mp4" frameborder="0" allowfullscreen></iframe>
 ---
 ## Opdracht 1.3
 ---
@@ -51,4 +52,6 @@
 *   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   Je gaat zelf op zoek naar bronnen.
+*   Je gaat zelf op zoek naar bronnen. Na de presentaties zal hier een document worden toegevoegd waarin de theorie wordt samengevat.
+*	Postback
+<iframe width="560" height="315" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/Postback.mp4" frameborder="0" allowfullscreen></iframe>
