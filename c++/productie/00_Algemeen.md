@@ -11,7 +11,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO2A4** | &nbsp; &nbsp; Deadline **IO2B4** | &nbsp; &nbsp; Deadline **IO2C4** |
 |--------------------  |----------- | --------- | --------- |
-| [Opdracht1.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Opdracht%201.1.pdf) | Ma 11 febr| Ma 11 febr | Di 12 febr |
+| [Opdracht1.1](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Opdracht%201.1.pdf) | Ma 11 febr| Ma 11 febr | Zo 10 febr |
 | [Opdracht1.2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Opdracht%201.2.pdf) | Ma 11 febr| Ma 11 febr | Di 12 febr |
 | [Opdracht 2](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst02.pdf) | Ma 11 febr| Ma 11 febr | Di 12 febr |
 | [Opdracht 3](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst03.pdf) | Ma 11 febr| Ma 11 febr | Di 12 febr |
