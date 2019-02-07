@@ -13,7 +13,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Opdracht              | &nbsp; &nbsp; Deadline IO2A4, IO2B4, IO2C4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
-| Opdracht H.1, H.2, H.3 |  -  |
+| Opdracht H.1, H.2, H.3 |  Vrijdag 15 februari 2019  |
 | Opdracht 10.1, 10.2 |  -  |
 | Opdracht 11.1, 11.2, 11.3 |  -  |
 | Opdracht 12.1, 12.2 |  -  |
