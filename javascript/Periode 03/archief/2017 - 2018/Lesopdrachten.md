@@ -11,7 +11,7 @@ We gaan enkele HTML events gebruiken om op verschillende manieren meldingen (*al
 2.  Zorg ervoor dat er een *alert()* naar de gebruiker gaat (bedenk zelf leuke teksten) bij de volgende events op dit element:
 
     -   onclick
-    -   onmouseover
+    -   onmouseenter
     -   oncontextmenu
 
 Tip: Bekijk de voorbeelden van de events ([*Klik hier*](https://www.w3schools.com/tags/ref_eventattributes.asp)) om allerlei voorbeelden te bekijken
@@ -30,14 +30,15 @@ Tip: Bekijk de voorbeelden van de events ([*Klik hier*](https://www.w3schools.co
 
 **Opdracht**
 
-We gaan enkele HTML events gebruiken om op verschillende manieren meldingen (console.logs()'s) te laten zien. We gaan dit doen door in de HTML een &lt;H1&gt element aan te maken en hierop enkele events aan te koppelen
+We gaan enkele HTML events gebruiken om op verschillende manieren meldingen (console.logs()'s) te laten zien. We gaan dit doen door in de HTML een &lt;H1&gt`` element aan te maken en hierop enkele events aan te koppelen
 
 1.	Maak in je HTML een nieuw ``<input type="text">`` element aan. Zorg voor een standaard tekst in dit element!
 
 2.	Zorg ervoor dat er een console.log() melding gegenereerd wordt (bedenk zelf toepasselijke teksten) bij de volgende events op dit element:
-	- onselect
-	- onchange
-	- onkeydown
+
+- onselect
+- onchange
+- onkeydown
 
 Tip: Bekijk de voorbeelden van de events ([*Klik hier*](https://www.w3schools.com/tags/ref_eventattributes.asp)) om allerlei voorbeelden te bekijken
 

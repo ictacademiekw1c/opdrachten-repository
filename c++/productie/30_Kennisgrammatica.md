@@ -6,7 +6,7 @@
 
 Met een *kennisgrammatica* analyse heb je een *dataontwerp* gemaakt van je applicatie. Alle redundante informatie is er als het goed is uit en netjes georganiseerd in diagrammen met informatie die bij elkaar hoort.
 
-Als je een OOP ontwerp maakt is dit data ontwerp dus rechtstreeks te vertalen naar de *klassen* in je applicatie. Je *kennisgrammatica* diagram beschrijft dus je *klassen* structuur van je applicatie.
+Als je een OOP ontwerp maakt is dit data ontwerp dus rechtstreeks te vertalen naar de *klassen* in je applicatie. Uit je  *kennisgrammatica* diagram leidt je dus je *klassen* structuur af van je applicatie.
 
 Hoe je vanuit een *kennisgrammatica* diagrammen je *klassen* bouwt en de *relaties* legt, is als voorbeeld uitgewerkt in onderstaand excel bestand.  
 
