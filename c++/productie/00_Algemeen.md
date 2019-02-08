@@ -88,15 +88,17 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 *	De code is voorzien van voldoende en zinvol commentaar.
 
 ```c++
+
 /************************** Module Header *******************************\
-Opdracht:		<Opdrachtnaam>
-Auteur:			<Auteurnaam>
+Opdracht:       Opdrachtnaam
+Auteur:         Auteurnaam
 Aanmaakdatum:   dd februari 2019
-Bestandsnaam:	<bestand.cs>
-Versie:			0.1	<Omschrijvingen>
-				0.2	<Omschrijving aanpassen>
-				1.0 Release
+Bestandsnaam:   bestand.cs
+Versie:         0.1    Omschrijvingen
+                0.2    Omschrijving aanpassen
+                1.0    Release
 
 \************************************************************************/
+
 ```
 
