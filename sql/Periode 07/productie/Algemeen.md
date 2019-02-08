@@ -13,7 +13,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Opdracht              | &nbsp; &nbsp; Deadline IO2A4, IO2B4, IO2C4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
-| Opdracht H.1, H.2, H.3 |  -  |
+| Opdracht H.1, H.2, H.3 |  Vrijdag 15 februari 2019  |
 | Opdracht 10.1, 10.2 |  -  |
 | Opdracht 11.1, 11.2, 11.3 |  -  |
 | Opdracht 12.1, 12.2 |  -  |
@@ -89,6 +89,5 @@ Gedurende deze periode behaal je in totaal 2 cijfers.
 
 ## Hulpmiddelen
 * <a href="https://www.w3schools.com/sql/" target="_blank">SQL op W3Schools</a>
-* <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/04.%20Aanvullend/Cheatsheet_SQL_Csharp.pdf" target="_blank">SQL Datatype Cheatsheet</a>
 
 #### [setSubMenuHeader]
