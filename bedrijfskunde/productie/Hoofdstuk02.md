@@ -18,9 +18,7 @@ Tijdens het examen zal je ook je gespreksvaardigheden moeten laten zien en een g
 
 In het volgende filmpje wordt de gesprekstechniek luisteren-samenvatten-doorvragen (LSD) uitgelegd. 
 
-[![Gesprekstechniek Luisteren Samenvatten Doorvragen]](http://img.youtube.com/vi/-b_xGRQT_mA/0.jpg)
-
-
+[![Gesprekstechniek Luisteren Samenvatten Doorvragen](http://img.youtube.com/vi/-b_xGRQT_mA/0.jpg)](http://www.youtube.com/watch?v=-b_xGRQT_mA)
 
 
 ## 2.2 Oefening klassikaal
