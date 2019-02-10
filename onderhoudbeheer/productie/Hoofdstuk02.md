@@ -32,8 +32,7 @@ Om een goed overzicht te houden van alle aanpassingen aan een applicatie is soft
 
 [![Nog meer Git op youtube](http://img.youtube.com/vi/OqmSzXDrJBk/0.jpg)](http://www.youtube.com/watch?v=OqmSzXDrJBk)
 
-## 2.3 Opdracht 2
+## 2.3 Taak 2
  
-- [Doe de Git cursus op codecademy](https://www.codecademy.com/learn/learn-git)
-- Maak in groepsvorm (2 max 3/4 personen) een Kahoot quiz van minimaal 14 vragen over het onderwerp Versies en versiebeheer. Gebruik de theorie uit bovenstaande wiki-pagina's, codecademy en youtube video's. In een volgende les spelen we alle Kahoot's en kunnen we zien wie de echte versie-(beheer) master is. <br>De mooie en interessante vragen kunnen terugkomen in de theorie toets.
+ Zie hiervoor taak 2 in de studieroute
 
