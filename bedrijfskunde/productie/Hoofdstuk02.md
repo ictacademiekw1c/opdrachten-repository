@@ -20,8 +20,27 @@ In het volgende filmpje wordt de gesprekstechniek luisteren-samenvatten-doorvrag
 
 [![Gesprekstechniek Luisteren Samenvatten Doorvragen](http://img.youtube.com/vi/-b_xGRQT_mA/0.jpg)](http://www.youtube.com/watch?v=-b_xGRQT_mA)
 
+Op de volgende link wordt <a href="https://www.leren.nl/cursus/management/coaching/lsd.html">LSD</a> nog verder uitgelegd:
+
+Wat is het verschil tussen een open vraag en een gesloten vraag?
 
 ## 2.2 Oefening klassikaal
+
+Pas LSD toe in een gesprek van 3-5 minuten met je buurman/vrouw, waarbij hij of zij verteld over een ervaring/gebeurtenis in het afgelopen weekend. Keer de rol om na 5 minuten.
+
+Luisteren:
+- Heb oogcontact
+- Knik en humm
+- Maak eventueel aantekeningen
+
+Samenvatten:
+- Als ik het goed begrepen heb, vind je dat...
+-Je zegt dus dat...
+
+Doorvragen:
+- Stel open vragen
+- Hoe weet jij dat?
+- Is dat altijd zo?
 
 ## 2.2 Leertaak 2
 
