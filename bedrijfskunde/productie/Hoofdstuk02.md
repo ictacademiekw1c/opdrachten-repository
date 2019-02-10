@@ -42,6 +42,4 @@ Doorvragen:
 - Hoe weet jij dat?
 - Is dat altijd zo?
 
-## 2.2 Leertaak 2
 
-Doe nu leertaak 2 in de studieroute.
