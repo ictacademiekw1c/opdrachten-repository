@@ -20,6 +20,10 @@
     *   getline
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+*   *Aan de slag met C++* - Gert-Jan Laan, Hoofdstuk 1
+*   *Reader - C++,* Hoofdstuk 4
+*   [Microsoft C++ Language Reference](https://msdn.microsoft.com/en-us/library/3bstk3k5.aspx)
+*   [cin >>](http://www.cplusplus.com/reference/iostream/cin/?kw=cin) - Cplusplus
+*   [Getline(string)](http://www.cplusplus.com/reference/string/string/getline/?kw=getline) - Cplusplus
 
 ---
