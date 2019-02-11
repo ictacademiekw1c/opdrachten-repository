@@ -36,9 +36,3 @@
 
 ### Help
 <a href="https://www.tutorialspoint.com/asp.net/asp.net_life_cycle.htm" target="_blank">ASP.NET life cycle (onderdeel hiervan is PostBack)</a>
-
----
-## Opdracht 2.3
----
-
-### Opdracht wordt binnenkort toegevoegd
