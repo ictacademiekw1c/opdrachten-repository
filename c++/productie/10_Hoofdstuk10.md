@@ -4,6 +4,22 @@
 In hoofdstuk 10 wordt het volgende onderwerp uitgewerkt in de opdracht:
 - Gebruik van een array om de data van het kennisgrammatica diagram in op te slaan.
 
+## Opdracht 10
+
+------
+
+### Download
+
+[Hoofdstuk 10, Aanwezigheidsregistratie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst10.pdf)
+
+### Onderwerpen
+
+- Kennisgrammatica
+- Sequentie diagram (BPMN)
+- Enkelvoudige array
+- Syntax
+  - *type-specificatie arraynaam[lengte];*
+
 
 ##ARRAYS##
 Een array is een zogeheten datastructuur waarin je veel waarden van hetzelfde type kunt opbergen. "Veel" betekend dat het aantal elementen in de array kunnen varieren van enkel tot vele tienduizenden.
