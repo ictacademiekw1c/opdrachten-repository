@@ -6,11 +6,11 @@
 
 __Reader over bedrijf en organisatie__
 
-<a href='https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijf%20-%20Organisatie.pdf'>Bedrijf en organisatie</a>
+``Toets!``: <a href='https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijf%20-%20Organisatie.pdf'>Bedrijf en organisatie</a>
 
 __Reader Bedrijfsvormen__
 
-<a href='https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/BedrijfsvormenReader.pdf'>Bedrijfsvormen</a>
+``Toets!``: <a href='https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/BedrijfsvormenReader.pdf'>Bedrijfsvormen</a>
 
 Tip:<br>
 Maak een samenvatting van bovenstaande readers.
