@@ -21,8 +21,8 @@
 
 ### Help
 *   *Aan de slag met C++ - Gert-Jan Laan, Hoofdstuk 3*
-    Reader - Hoofdstuk 7
-    [Cplusplus - Declaration, Prototypes, Definitions, and Implementations](http://www.cplusplus.com/articles/yAqpX9L8/)
-    [Gamedev - Organizing code files in .h and .cpp files](https://www.gamedev.net/resources/_/technical/general-programming/organizing-code-files-in-c-and-c-r1798)
+*   Reader - Hoofdstuk 7
+*   [Cplusplus - Declaration, Prototypes, Definitions, and Implementations](http://www.cplusplus.com/articles/yAqpX9L8/)
+*   [Gamedev - Organizing code files in .h and .cpp files](https://www.gamedev.net/resources/_/technical/general-programming/organizing-code-files-in-c-and-c-r1798)
 
 ---
