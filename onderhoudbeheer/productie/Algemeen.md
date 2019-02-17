@@ -32,11 +32,12 @@ Voor een applicatieontwikkelaar valt onder 'beheer en behoud' alle voorkomende w
 | &nbsp; &nbsp; Taak | &nbsp; &nbsp; Uiterste oplevermoment IO2A4 IO2B4 IO2C4 |
 |--------------------|--------------------------------------------------------|
 |  1. Kwalificatiedossier en ervaringen | Tijdens de les in de week van 11 t/m 15 febr |
+|  2. Versies en versiebeheer | Tijdens de les in de week van 18 t/m 22 febr |
+|  3. Groepstaak waterval | Voor de carnavalsvakantie |
 |||
 <br>
 
 
-
-## 0.5 Toetsen 
+## 0.5 Toets
 
 Aan het einde van de periode.
