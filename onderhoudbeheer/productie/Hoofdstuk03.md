@@ -25,24 +25,11 @@ Het watervalmodel bestaat uit de volgende fasen:
 
 Het watervalmodel bestaat uit verschillende fasen. Iedere fase heeft een eigen niveau dat tevens de volgorde bepaalt. Het hoogste niveau wordt als eerste uitgevoerd en vervolgens de lagere fasen. Dit is gelijk aan de natuurlijke werking van een waterval en vandaar ook de naam. Hierboven is goed te zien dat de verschillende fasen van boven naar beneden lopen.
 
-### 3.1.1 Lesopdrachten
+### 3.1.1 Groepsopdracht Waterval
 
-Na de introductie door de docent werk je aan de volgende opdrachten (in groepsvorm met maximaal 3 leerlingen). 
-
-  1. Vergelijk de waterval methode met jullie kwalificatiedossier. Noteer de verschillen en overeenkomsten
-  2. Er zijn meerdere methodieken die gebaseerd zijn op de watervalmethodiek. Zoek er minimaal 2 op.
-  3. Welke technieken/vaardigheden heb je totnutoe geleerd of heb je ervaring om elke fase uit te voeren (op school en stage)?
-  4. Zoek op internet een afbeelding die de waterval methodiek visueel weergeeft. Teken de afbeelding na. Klopt de gevonden afbeelding met de opsomming hierboven?
-  5. Zoek op internet wat de mogelijke voordelen en nadelen zijn van de watervalmethodiek.
-
-Zet de antwoorden op papier en noteer ook de namen van de leerlingen van je groepje. 
-
-Jullie krijgen 25 minuten de tijd.
-
-De antwoorden worden aan het eind van dezelfde les klassikaal behandeld en levert 2 huispunten op indien je voldoende inspanning hebt verricht om de opdrachten uit te voeren.
+Zie hiervoor verder de groepstaak Waterval in de studieroute.
 
 ## 3.2 Scrum/Agile
-
 
 ### 3.2.1 Agile (=Projectmanagement methodiek)
 
@@ -58,13 +45,12 @@ The Manifesto for Agile Software Development is based on twelve principles:
 - Working software is the primary measure of progress
 - Sustainable development, able to maintain a constant pace
 - Continuous attention to technical excellence and good design
-- Simplicity�the art of maximizing the amount of work not done�is essential
+- Simplicity 'the art of maximizing the amount of work not done' is essential
 - Best architectures, requirements, and designs emerge from self-organizing teams
 - Regularly, the team reflects on how to become more effective, and adjusts accordingly
 
 
 ### 3.2.2 SCRUM (=Hoe wordt er dan samengewerkt?)
-
 
 [![Scrum uitgelegd in een video](http://img.youtube.com/vi/WxiuE-1ujCM/0.jpg)](http://www.youtube.com/watch?v=WxiuE-1ujCM)
 
