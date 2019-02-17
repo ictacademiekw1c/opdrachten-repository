@@ -1,7 +1,7 @@
 # Hoofdstuk 3 Waterval versus Scrum/Agile
 
 Er kan op verschillende manieren een IT project worden uitgevoerd. In de loop van de jaren zijn er verschillende ontwikkelmethodieken daarvoor ontwikkeld.
-De waterval methodiek is een methodiek die jarenlang door heel IT bedrijven is gehanteerd als de manier hoe je een IT project moet aanpakken.
+De waterval methodiek is een methodiek die jarenlang door veel IT bedrijven is gehanteerd als de manier hoe je een IT project moet aanpakken.
  
 
 ## 3.1 Waterval
@@ -20,6 +20,8 @@ Het watervalmodel bestaat uit de volgende fasen:
 - Testen. <br>Er wordt gecontroleerd of de software goed volgens de ontwerpen is gebouwd. Ook kunnen er in deze fase fouten boven water komen die al in eerdere stadia gemaakt zijn. Testen kan handmatig worden uitgevoerd of volledig geautomatiseerd. Voor het daadwerkelijk testen moet er een testplan worden geschreven. Het testplan beschrijft wat er getest moet worden en hoe het getest moet worden.
 - Implementatie.<br> Het systeem is klaar en getest. Toch zal het nog in het bedrijf in gebruik genomen moeten worden. Dat wordt gedaan in deze fase.
 - Beheer en onderhoud. <br>Om er voor te zorgen dat het systeem het blijft doen zal er onderhoud verricht moeten worden.
+
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/400px-Watervalmodel.jpg" alt="waterval model" title="schema waterval model">
 
 Het watervalmodel bestaat uit verschillende fasen. Iedere fase heeft een eigen niveau dat tevens de volgorde bepaalt. Het hoogste niveau wordt als eerste uitgevoerd en vervolgens de lagere fasen. Dit is gelijk aan de natuurlijke werking van een waterval en vandaar ook de naam. Hierboven is goed te zien dat de verschillende fasen van boven naar beneden lopen.
 
@@ -56,7 +58,7 @@ The Manifesto for Agile Software Development is based on twelve principles:
 - Working software is the primary measure of progress
 - Sustainable development, able to maintain a constant pace
 - Continuous attention to technical excellence and good design
-- Simplicity—the art of maximizing the amount of work not done—is essential
+- Simplicityï¿½the art of maximizing the amount of work not doneï¿½is essential
 - Best architectures, requirements, and designs emerge from self-organizing teams
 - Regularly, the team reflects on how to become more effective, and adjusts accordingly
 
