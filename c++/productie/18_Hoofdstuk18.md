@@ -1,13 +1,13 @@
 ####[kleurcode]rgba(255,192,0,1)
 
-#HOOFDSTUK 18#
+#HOOFDSTUK 18
 
 In hoofdstuk 18 wordt de volgende onderwerpen uitgewerkt in de opdracht:
 
 - Gebruik van klassen om de data  van het kennisgrammatica diagram en de functies die hier toegang tot hebben, in op te slaan;
 - Gebruik van scope operator om de implementatie van methoden buiten de klasse te kunnen plaatsen.
 
-##KLASSEN##
+##KLASSEN
 
 Klassen vormen de basis van object georienteerd programmeren. Elke klasse heeft functies waar ieder object van die klasse gebruik van kan maken. Elk object bevat ook gegevens, de *attributen* van het object en deze attributen zijn, net als de functies, ook in de klasse gedefineerd.
 
@@ -40,7 +40,7 @@ In een klassendiagram wordt de klasse door middel van een rechthoek, die uit dri
 * In het middelste deel staan de attributen en
 * in het onderste deel staan de namen van de functies.
 
-##IMPLEMENTATIE##
+##IMPLEMENTATIE
 **kop**
 
 In de broncode begint de defenitie van een klasse met de kop van de klasse die bestaat uit het woord *class* gevolgd door de naam van de klasse. De defenitie eindigt met een puntkomma:
@@ -143,7 +143,7 @@ void Leerling::Weergeven()
 }
 ```
 
-##TOEPASSING##
+##TOEPASSING
 Een klasse kun je niet direct gebruiken om hier data in op te slaan. Een klasse is een bouwtekening (datatype) om een object mee te construeren. De declaratie is als volgt:
 
 ```c++

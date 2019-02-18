@@ -1,12 +1,12 @@
 ####[kleurcode]rgba(255,192,0,1)
 
-#HOOFDSTUK14#
+#HOOFDSTUK14
 In hoofdstuk 14 worden de volgende onderwerpen uitgewerkt in de opdracht:
 - Gebruik van *structs* om de data van het kennisgrammatica diagram in op te slaan
 - Gebruik van het *reference*-argumenten in plaats van *value*-argumenten.
 
 
-##STRUCT##
+##STRUCT
 Een struct is een groep gegevenselementen die onder één naam zijn gegroepeerd. Deze gegevenselementen, ook wel *members* genoemd, kunnen verschillende typen en verschillende lengten hebben. *structs* kunnen in C ++ worden gedeclareerd met behulp van het volgende syntax:
 
 ```
@@ -20,7 +20,7 @@ struct type_naam
 } object_namen;
 ```
 
-###Declaratie###
+###Declaratie
 een voorbeeld van een declaratie van een C-struct die product heet en waarin een *int* en *double* waarden kunnen worden opgeborgen ziet er zo uit:
 
 ``` C++
@@ -46,7 +46,7 @@ schematisch ziet deze *struct* er in het geheugen van de computer uit als in de 
 ```
 De *struct* bestaat uit 2 *members*. Iedere *member* is van een ander *datatype*. Om de *members* van een *struct* van elkaar te kunnen onderscheiden hebben ze een eigen unieke naam. 
 
-###Toekennen###
+###Toekennen
 Met behulp van de naam van de *struct* en de naam van de *member* kun je de elementen individueel uitlezen en schrijven. In dit voorbeeld apple.gewicht, appel.prijs. De punt tussen de *struct*-naam en de *member*- naam heet de *punt*-operator.
 
 ``` C++
@@ -89,7 +89,7 @@ artikel2 = artikel1;
 
 Na de toekenning hebben de *members* van artikel2 precies dezelfde waarden als de *members* van artikel1
 
-###Structure als argument van een functies###
+###Structure als argument van een functies
 Net als andere variabelen kan een *struct* een *argument* zijn van een functie. en net als bij andere variabelen kan zo'n *argument* op drie manieren voorkomen, namelijk als 
 - value-argument
 - [reference](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/04.%20Aanvullend/Reference-argument_AanDeSlagMetC++_2002.pdf);
@@ -190,7 +190,7 @@ void Print(const Artikel &a)
 ```
 
 ----------------------
-#Pointers vs reference (engels)#
+#Pointers vs reference (engels)
 
 A pointer can be re-assigned any number of times while a reference cannot be re-seated after binding.
 Pointers can point nowhere (NULL), whereas reference always refer to an object.

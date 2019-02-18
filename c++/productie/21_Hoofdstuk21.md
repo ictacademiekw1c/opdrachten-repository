@@ -1,6 +1,6 @@
 ####[kleurcode]rgba(255,192,0,1)
 
-#HOOFDSTUK 21#
+#HOOFDSTUK 21
 
 In hoofdstuk 21 wordt de volgende onderwerpen uitgewerkt in de opdracht:
 
