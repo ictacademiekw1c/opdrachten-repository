@@ -61,7 +61,7 @@
 - <a href="https://www.w3schools.com/cssref/css_selectors.asp" target="_blank">CSS Selector</a>
 
 
-<!--
+
 
 ---
 ## Opdracht 12.4
@@ -78,6 +78,8 @@
 
 ### Help
 - <a href="https://www.w3schools.com/jquery/jquery_events.asp" target="_blank">jQuery events</a>
+
+<!--
 
 ---
 ## Opdracht 12.5
