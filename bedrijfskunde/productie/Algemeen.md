@@ -34,7 +34,7 @@ Zie ook de studiewijzer van deze studieroute.
     - Gebruikersspecificaties
     - Klantgesprekken 
         - gesprekstechniek LSD
-        - <a href='https://www.leren.nl/cursus/professionele-vaardigheden/gesprekstechnieken/'>Online informatie m.b.t. gesprekstechnieken</a>
+  Online informatie m.b.t. gesprekstechnieken</a>
     - Programma van Eisen - Offerte
 
 - Opstellen Projectplan 
@@ -59,6 +59,7 @@ Iedere week wordt er een opdracht gepubliceerd, die meetelt met het eindcijfer v
 | &nbsp; &nbsp; Taak | &nbsp; &nbsp; Uiterste oplevermoment IO2A4 IO2B4 IO2C4 |
 |------|------------------------|
 |  1 Bedrijven en rechtsvormen | Tijdens de les in de week van 11 t/m 15 febr |  
+|  3 Factuur | Tijdens de les in de week van 25 febr - 1 mrt |  
 |||
 
 ## 0.5 Toets periode 3

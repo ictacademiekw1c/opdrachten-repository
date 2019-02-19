@@ -43,7 +43,7 @@
 - <a href="https://www.w3schools.com/jquery/jquery_get_started.asp" target="_blank">get started with jQuery</a>
 - <a href="https://www.w3schools.com/jquery/jquery_selectors.asp" target="_blank">jQuery selectors</a>
 - <a href="https://www.w3schools.com/jquery/jquery_ref_effects.asp" target="_blank">jQuery effects</a>
-<!-- START RON's COMMENTAAR
+
 ---
 ## Opdracht 12.3
 ---
@@ -60,6 +60,9 @@
 ### Help
 - <a href="https://www.w3schools.com/cssref/css_selectors.asp" target="_blank">CSS Selector</a>
 
+
+
+
 ---
 ## Opdracht 12.4
 ---
@@ -75,6 +78,8 @@
 
 ### Help
 - <a href="https://www.w3schools.com/jquery/jquery_events.asp" target="_blank">jQuery events</a>
+
+<!--
 
 ---
 ## Opdracht 12.5

@@ -18,9 +18,10 @@ Tijdens het examen zal je ook je gespreksvaardigheden moeten laten zien en een g
 
 In het volgende filmpje wordt de gesprekstechniek luisteren-samenvatten-doorvragen (LSD) uitgelegd. 
 
+``Toets``
 [![Gesprekstechniek Luisteren Samenvatten Doorvragen](http://img.youtube.com/vi/-b_xGRQT_mA/0.jpg)](http://www.youtube.com/watch?v=-b_xGRQT_mA)
 
-Op de volgende link wordt <a href="https://www.leren.nl/cursus/management/coaching/lsd.html">LSD</a> nog verder uitgelegd:
+``Toets`` Op de volgende link wordt <a href="https://www.leren.nl/cursus/management/coaching/lsd.html">LSD</a> nog verder uitgelegd:
 
 Wat is het verschil tussen een open vraag en een gesloten vraag?
 

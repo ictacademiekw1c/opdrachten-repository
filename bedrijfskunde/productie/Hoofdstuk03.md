@@ -6,9 +6,9 @@
 
 ## 3.2 Bronnen
 
-[Presentatie facturen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%201.pptx)
+``Toets`` [Presentatie facturen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%201.pptx)
 
-[Site van de belastingdienst](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/facturen_maken/factuureisen/factuureisen)
+``Toets`` [Site van de belastingdienst](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/facturen_maken/factuureisen/factuureisen)
 
 Bekijk op de site van de belastingdienst wat de eisen zijn van een goede factuur. 
 
@@ -24,16 +24,13 @@ Bekijk op de site van de belastingdienst wat de eisen zijn van een goede factuur
 
 ![Spookfactuur](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/bedrijfskunde/images/spookfactuur.jpg?raw=true)
 
-[Wat zijn spookfacturen?](https://www.efactuurdirect.nl/blog/wat-zijn-spookfacturen-en-hoe-herken-je-ze/)
+``Toets`` [Wat zijn spookfacturen?](https://www.efactuurdirect.nl/blog/wat-zijn-spookfacturen-en-hoe-herken-je-ze/)
 
 [Voorbeeld spookfactuur](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/[B.05%20BED]%20Bedrijfskunde/Productie/Materiaal%2095311/Spookfactuur1.png)
 
-## 3.5 Opdracht bij dit hoofdstuk
+## 3.5 Taak 3
 
->1. Maak een samenvatting waaraan een factuur moet voldoen.
->2. Je verkoopt een website voor € 750,00 aan de ICT-Academie. De site is opgeleverd, getest en geaccepteerd. Je gaat nu een factuur opmaken die je aan de ICT-academie moet versturen. 
-<br>Je mag de overige gegevens verzinnen.
->Maak een __papieren__ factuur op die voldoet aan alle wettelijke eisen.
->Opleveren voor de volgende les (volgende week).
+Zie taak 3 in de studieroute.
+
 
 
