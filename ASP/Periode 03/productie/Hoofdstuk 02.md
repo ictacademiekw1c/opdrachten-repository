@@ -35,4 +35,5 @@
 *   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-<a href="https://www.tutorialspoint.com/asp.net/asp.net_life_cycle.htm" target="_blank">ASP.NET life cycle (onderdeel hiervan is PostBack)</a>
+*   Postback 
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/Postback.gif">
