@@ -6,7 +6,7 @@
 
 ## 4.2 Bron
 
-[Presentatie Bedrijfsprocessen -software](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde les3_Ed.pptx)
+``Toets`` [Presentatie Bedrijfsprocessen -software](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde les3_Ed.pptx)
 
 - CRM software<br>
 Wat betekent CRM? Het is een afkorting die staat voor Customer Relationship Management (Wikipedia); het beheren van uw klantrelaties. Als synoniemen worden ook wel relatiemarketing, verkoopinformatiesysteem, relatiebeheersysteem of verkoopbeheersysteem gebruikt. Het doel ervan is om alle contacten met uw klanten te optimaliseren, waarbij alle klanten op een individuele waarde worden ingeschaald. Die waarde wordt veelal bepaald op basis van individuele klantbehoeften, klanttevredenheid en klantrendement.
@@ -43,5 +43,3 @@ Beantwoord dezelfde vragen als hierboven en visualiseer dat vervolgens in een Us
 Lever de opdracht in via de inleveropdracht UML Use Case bioscoop systeem.
 <br>
 
-Mogelijke uitwerking Use Case voor een bioscoopsysteem:
-![Mogelijke uitwerking Use Case voor een bioscoopsysteem](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/bedrijfskunde/images/usecase.jpg?raw=true)
