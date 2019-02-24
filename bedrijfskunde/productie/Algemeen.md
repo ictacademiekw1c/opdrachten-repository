@@ -60,6 +60,7 @@ Iedere week wordt er een opdracht gepubliceerd, die meetelt met het eindcijfer v
 |------|------------------------|
 |  1 Bedrijven en rechtsvormen | Tijdens de les in de week van 11 t/m 15 febr |  
 |  3 Factuur | Tijdens de les in de week van 25 febr - 1 mrt |  
+|  4 Softwaresystemen | Tijdens de les in de week van 11-15mrt  |  
 |||
 
 ## 0.5 Toets periode 3
