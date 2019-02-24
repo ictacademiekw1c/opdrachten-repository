@@ -79,8 +79,6 @@
 ### Help
 - <a href="https://www.w3schools.com/jquery/jquery_events.asp" target="_blank">jQuery events</a>
 
-<!--
-
 ---
 ## Opdracht 12.5
 ---
@@ -102,6 +100,8 @@
 - <a href="https://www.w3schools.com/jquery/eff_fadein.asp" target="_blank">jQuery fadeIn() / fadeOut()</a>
 - <a href="https://www.w3schools.com/jquery/event_resize.asp" target="_blank">window resize()</a>
 - <a href="https://www.w3schools.com/jsref/met_win_settimeout.asp" target="_blank">setTimeout()</a>
+
+<!--
 
 ---
 ## Opdracht 12.6
