@@ -12,6 +12,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 11.1, 11.2, 11.3 | Ma 11 febr | Di 12 febr | Di 12 febr | Ma 11 febr |
 | Opdracht 12.1, 12.2 | Ma 18 febr | Di 19 febr | Di 19 febr | Ma 19 febr |
 | Opdracht 12.3, 12.4 | Ma 25 febr | Di 26 febr | Di 25 febr | Ma 25 febr |
+| Opdracht 12.5 | Ma 11 mrt | Di 12 mrt | Di 12 mrt | Ma 11 mrt |
 
 <br> 
 
