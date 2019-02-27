@@ -34,6 +34,7 @@ Voor een applicatieontwikkelaar valt onder 'beheer en behoud' alle voorkomende w
 |  1. Kwalificatiedossier en ervaringen | Tijdens de les in de week van 11 t/m 15 febr |
 |  2. Versies en versiebeheer | Tijdens de les in de week van 18 t/m 22 febr |
 |  3. Groepstaak waterval | Voor de carnavalsvakantie |
+|  3. Groepstaak SCRUM/Agile | In de week na de carnavalsvakantie |
 |||
 <br>
 
