@@ -135,7 +135,7 @@
 ### Help
 - <a href="https://www.w3schools.com/jquery/jquery_callback.asp" target="_blank">Callback functions</a>
 
-<--
+<!--
 
 ---
 ## Opdracht 12.8
