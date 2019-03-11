@@ -101,7 +101,7 @@
 - <a href="https://www.w3schools.com/jquery/event_resize.asp" target="_blank">window resize()</a>
 - <a href="https://www.w3schools.com/jsref/met_win_settimeout.asp" target="_blank">setTimeout()</a>
 
-<!--
+
 
 ---
 ## Opdracht 12.6
@@ -134,6 +134,8 @@
 
 ### Help
 - <a href="https://www.w3schools.com/jquery/jquery_callback.asp" target="_blank">Callback functions</a>
+
+<--
 
 ---
 ## Opdracht 12.8
