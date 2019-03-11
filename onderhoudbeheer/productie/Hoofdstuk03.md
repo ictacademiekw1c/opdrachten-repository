@@ -57,18 +57,7 @@ The Manifesto for Agile Software Development is based on twelve principles:
 [Taken Scrum Master](https://elo.kw1c.nl/Pages/ViewMP4.aspx?cpsysid=b1fee9a0-96f4-4203-8d74-35a3a83b1fc9)
 
 
-### 3.2.3 Huiswerkopdracht Agile/Scrum
+### 3.2.3 Groepsopdracht Agile/Scrum
 
-Kies een van de volgende onderwerpen:
-- Verschillen tussen Agile en Waterval? 
-- Het Agile manifesto
-- Wat zijn de taken van de Scrummaster
-- Wat is Scrum / Hoe werken mensen samen in een SCRUM team?
+Zie hiervoor verder de groepstaak Waterval in de studieroute.
 
-Vooronderzoek:
-- Bekijk minimaal 3 filmpjes op youtube die gaan over een van de bovenstaande onderwerpen.
-- Zoek op internet naar bronnen
-
-Opdracht:
-- Noteer alle bronnen (sites/youtube filmpjes/presentaties)
-- Maak een presentatie in een groepje (max 3 pers) en presenteer het samen (5 min) of maak een samenvatting (min. 2 A4) individueel.

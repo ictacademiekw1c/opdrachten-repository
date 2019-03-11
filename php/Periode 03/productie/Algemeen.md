@@ -9,9 +9,10 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 
 |Opdrachten in         | Alle Klassen |
 |--------------------  |--------------| 
-| Hoofdstuk 1          | zo 10-02     |
-| Hoofdstuk 2          | zo 17-02     |
-| Hoofdstuk 3          | zo 24-02     |
+| Hoofdstuk 1               | zo 10-02     |
+| Hoofdstuk 2 (2.1,2.2)     | zo 17-02     |
+| Hoofdstuk 3 (3.1,3.2,3.3) | zo 24-02     |
+| Hoofdstuk 4 (4.1,4.2,4.3,4.4)   | zo 10-03     |
 
 
 <br> 
