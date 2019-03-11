@@ -5,6 +5,22 @@ In hoofdstuk 14 worden de volgende onderwerpen uitgewerkt in de opdracht:
 - Gebruik van *structs* om de data van het kennisgrammatica diagram in op te slaan
 - Gebruik van het *reference*-argumenten in plaats van *value*-argumenten.
 
+## Opdracht 14
+
+------
+
+### Download
+
+[Hoofdstuk 14, New York City Marathon](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst14.pdf)
+
+### Onderwerpen
+
+- Kennisgrammatica
+- Sequentiediagram
+- Syntax
+  - struct
+  - reference argumenten
+
 
 ##STRUCT
 Een struct is een groep gegevenselementen die onder één naam zijn gegroepeerd. Deze gegevenselementen, ook wel *members* genoemd, kunnen verschillende typen en verschillende lengten hebben. *structs* kunnen in C ++ worden gedeclareerd met behulp van het volgende syntax:
