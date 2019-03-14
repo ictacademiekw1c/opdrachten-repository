@@ -31,9 +31,9 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
-| IO2A4 |  -  |
-| IO2B4 |  -  |
-| IO2C4 |  -  |
+| IO2A4 |  Woensdag 3 april 2019  |
+| IO2B4 |  Woensdag 3 april 2019  |
+| IO2C4 |  Woensdag 3 april 2019  |
 
 
 ## Editor
