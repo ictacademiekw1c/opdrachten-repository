@@ -5,6 +5,22 @@ In hoofdstuk 14 worden de volgende onderwerpen uitgewerkt in de opdracht:
 - Gebruik van *structs* om de data van het kennisgrammatica diagram in op te slaan
 - Gebruik van het *reference*-argumenten in plaats van *value*-argumenten.
 
+## Opdracht 14
+
+------
+
+### Download
+
+[Hoofdstuk 14, New York City Marathon](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst14.pdf)
+
+### Onderwerpen
+
+- Kennisgrammatica
+- Sequentiediagram
+- Syntax
+  - struct
+  - reference argumenten
+
 
 ##STRUCT
 Een struct is een groep gegevenselementen die onder één naam zijn gegroepeerd. Deze gegevenselementen, ook wel *members* genoemd, kunnen verschillende typen en verschillende lengten hebben. *structs* kunnen in C ++ worden gedeclareerd met behulp van het volgende syntax:
@@ -25,24 +41,24 @@ een voorbeeld van een declaratie van een C-struct die product heet en waarin een
 
 ``` C++
 //declaratie
-struct product 
+struct Product 
 {
   int gewicht;
   double prijs;
 };
 
-product appel;
-product banaan, meloen;
+Product appel;
+Product banaan, meloen;
 ```
 
 schematisch ziet deze *struct* er in het geheugen van de computer uit als in de volgend figuur.
 
 ```
-|  member   |  type  | inhoud |   member    |
-|           |        |        |    naam     |
-|-----------|--------|--------|-------------|
-| gewicht   | int    |   10   | a.gewicht   |
-| prijs     | double |    2   | a.prijs     | 
+|  member   |  type  | inhoud |   member    	|
+|           |        |        |    naam     	|
+|-----------|--------|--------|-----------------|
+| gewicht   | int    |  1000  | appel.gewicht   |
+| prijs     | double |  2,99  | appel.prijs     | 
 ```
 De *struct* bestaat uit 2 *members*. Iedere *member* is van een ander *datatype*. Om de *members* van een *struct* van elkaar te kunnen onderscheiden hebben ze een eigen unieke naam. 
 
@@ -51,7 +67,7 @@ Met behulp van de naam van de *struct* en de naam van de *member* kun je de elem
 
 ``` C++
 // Declaratie
-struct product 
+struct Product 
 {
   int gewicht;
   double prijs;
@@ -72,6 +88,7 @@ int main()
 **Kopieren van een struct**
 
 ```
+//Declaratie
 struct Artikel
 {
 	string omschrijving;
@@ -79,7 +96,11 @@ struct Artikel
 	double prijs;
 }
 
+// Declaratie
 Artikel artikel1;
+Artikel artikel2;
+
+// Toekenning
 artikel1.omschrijving = "driewieler";
 artikel1.nummer = 101;
 artikel1.projs = 72.35;
@@ -109,8 +130,10 @@ void Print(Artikel);
 
 main()
 {
+	// Declaratie
 	Artikel artikel;
-
+	
+	// Toekenning
 	artikel.omschrijving = "cd-speler"
 	artikel.nummer = 20021;
 	artikel.prijs = 335;
@@ -192,26 +215,18 @@ void Print(const Artikel &a)
 ----------------------
 #Pointers vs reference (engels)
 
-A pointer can be re-assigned any number of times while a reference cannot be re-seated after binding.
-Pointers can point nowhere (NULL), whereas reference always refer to an object.
-You can't take the address of a reference like you can with pointers.
-There's no "reference arithmetics" (but you can take the address of an object pointed by a reference and do pointer arithmetics on it as in *&obj + 5*).
-To clarify a misconception:
+* Een pointer kan een willekeurig aantal keren opnieuw worden toegewezen, terwijl bij een reference een binding niet opnieuw kan worden geplaatst.
+* een pointer kan naar niks wijzen (NULL), terwijl een refence altijd naar een object verwijst.
+* Je kunt niet het adres  van een refence opvragen. Dit kan bij pointers wel.
+* Refences kennen geen "reference-berekeningen" (Je wel het adres van een door een referentie aangewezen object achterhalen en hier rekenkundige berekeningen op uitvoeren zoals in *&obj + 5*
 
-The C++ standard is very careful to avoid dictating how a compiler must implement references, but every C++ compiler implements references as pointers. That is, a declaration such as:
+Als algemene regel,
 
-```
-int &ri = i;
-```
-if it's not optimized away entirely, allocates the same amount of storage as a pointer, and places the address of i into that storage.
-So, a pointer and a reference both occupy the same amount of memory.
+- Gebruik references in functieparameters en return types om bruikbare en zelfdocumenterende interfaces te definiëren.
+- Gebruik pointers om algoritmen en datastructuren te implementeren.
 
-As a general rule,
 
-- Use references in function parameters and return types to define useful and self-documenting interfaces.
-- Use pointers to implement algorithms and data structures.
-
-Interesting read:
+###Help
 
 - [C++ FAQ lite](http://yosefk.com/c++fqa/ref.html).
 - [References vs. Pointers](https://www.embedded.com/electronics-blogs/programming-pointers/4023307/References-vs-Pointers).

@@ -21,16 +21,16 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | [Opdracht 7](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst07.pdf) | Ma 18 febr | Ma 18 febr | Zo 17 febr |
 | [Opdracht 8](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst08.pdf) | Ma 25 febr | Ma 25 febr | Zo 24 febr |
 | [Opdracht 9](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/Opdracht%209.pdf) | Ma 25 febr | Ma 25 febr | Zo 24 febr |
-| [Opdracht 10](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst10.pdf) | Vr 1 mrt | Do 28 feb | |
-| [Opdracht 12](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst12.pdf) | Vr 1 mrt | Do 28 feb | |
-| Opdracht 14 | Vr 15 mrt | Do 14 mrt | |
-| Opdracht 15 |  |  | |
-| Opdracht 16 |  |  | |
-| Opdracht 17 | | | |
-| Opdracht 18 | | | |
-| Opdracht 19 | | | |
-| Opdracht 20 | | | |
-| Toets | 2 -9 apr | 2-9 apr | |
+| [Opdracht 10](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst10.pdf) | Vr 1 mrt | Do 28 feb | Zo 3 mrt |
+| [Opdracht 12](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst12.pdf) | Vr 1 mrt | Do 28 feb | Zo 17 mrt |
+| [Opdracht 14](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst14.pdf) | Vr 15 mrt | Do 14 mrt | Zo 17 mrt |
+| [Opdracht 15](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst15.pdf) |  Vr 15 mrt | Do 14 mrt| Zo 24 mrt|
+| [Opdracht 16](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst16.pdf) | Vr 22 mrt | Do 21 mrt | |
+| Opdracht 17 | Vr 22 mrt | Do 21 mrt | |
+| Opdracht 18 | Vr 22 mrt | Do 21 mrt | |
+| Opdracht 19 | Vr 29 mrt | Wo 27 mrt | |
+| Opdracht 20 | Vr 29 mrt | Wo 27 mrt | |
+| Toets | do 4 apr | do 4 apr | do 4 apr |
 
 **Let op: Je dient de opdrachten uiterlijk op de dag aangegeven in het rooster te laten aftekenen door je docent. Let hier dus op** 
 

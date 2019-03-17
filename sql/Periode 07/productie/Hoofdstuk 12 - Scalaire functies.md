@@ -3,7 +3,7 @@
 # Hoofdstuk 12 - Scalaire functies
 ---
 ### Reader
-<a href="" target="_blank">Hoofdstuk 12 - Scalaire functies</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/SQL_reader_12_scalairefuncties.pdf" target="_blank">Hoofdstuk 12 - Scalaire functies</a>
 
 ---
 ## Opdracht 12.1
