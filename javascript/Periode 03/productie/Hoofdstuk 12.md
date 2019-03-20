@@ -135,7 +135,6 @@
 ### Help
 - <a href="https://www.w3schools.com/jquery/jquery_callback.asp" target="_blank">Callback functions</a>
 
-<!--
 
 ---
 ## Opdracht 12.8
@@ -185,5 +184,3 @@
 - <a href="https://www.w3schools.com/jquery/misc_each.asp" target="_blank">each()</a>
 - <a href="https://www.w3schools.com/jquery/html_text.asp" target="_blank">.text()</a>
 - <a href="https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_click" target="_blank">this</a>
-
--->
