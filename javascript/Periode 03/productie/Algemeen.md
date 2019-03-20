@@ -14,8 +14,6 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 12.3, 12.4 | Ma 25 febr | Di 26 febr | Di 25 febr | Ma 25 febr |
 | Opdracht 12.5 | Ma 11 mrt | Di 12 mrt | Di 12 mrt | Ma 11 mrt |
 | Opdracht 12.6, 12.7 | Ma 18 mrt | Di 19 mrt | Di 19 mrt | Ma 18 mrt |
-| Opdracht 12.8, 12.9 | Ma 18 mrt | Di 19 mrt | Di 19 mrt | Ma 18 mrt |
-| Opdracht Eindodprachten | Ma 18 mrt | Di 19 mrt | Di 19 mrt | Ma 18 mrt |
 
 <br> 
 
