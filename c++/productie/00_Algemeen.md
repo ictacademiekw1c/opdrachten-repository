@@ -29,7 +29,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | [Opdracht 17](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst17.pdf) | Vr 22 mrt | Do 21 mrt | |
 | [Opdracht 18](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst18.pdf) | Vr 22 mrt | Do 21 mrt | |
 | Opdracht 19 | Vr 29 mrt | Wo 27 mrt | |
-| Opdracht 20 | Vr 29 mrt | Wo 27 mrt | |
+| [Opdracht 20](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/ProgrammerenC++AO_lrjr2_Console_Hfst20.pdf) | Vr 29 mrt | Wo 27 mrt | |
 | Toets | do 4 apr | do 4 apr | do 4 apr |
 
 **Let op: Je dient de opdrachten uiterlijk op de dag aangegeven in het rooster te laten aftekenen door je docent. Let hier dus op** 
