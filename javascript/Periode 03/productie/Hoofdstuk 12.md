@@ -114,7 +114,7 @@
 - Chaining
 
 ### Benodigde bestanden
-- Geen
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Template%2012.6.zip">Template 12.6</a>
 
 ### Help
 - <a href="https://www.w3schools.com/jquery/jquery_chaining.asp" target="_blank">Chaining</a>
