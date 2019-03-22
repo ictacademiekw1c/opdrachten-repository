@@ -70,11 +70,11 @@ Iedere week wordt er een opdracht gepubliceerd, die meetelt met het eindcijfer v
 Toetsafname per klas <br>
 
 | &nbsp; &nbsp; **IO2A4**| &nbsp; &nbsp; **IO2B4**| &nbsp; &nbsp; **IO2C4**| 
-|--------------- | --------- | --------|
-|  |  |  |
+|--------------- | ------------ | ------------- |
+|  2 april 2019  | 2 april 2019 | 5 april 2019  |
 
 Toetsonderdelen:
-- wordt nog bekendgemaakt
+- Hoofdstuk 1 t/m hoofdstuk 4
 
 Bij de theorietoets mag je geen internet gebruiken (gesloten laptop) en wordt op papier afgenomen.
 De toets zal bestaan uit open en/of meerkeuze vragen.
