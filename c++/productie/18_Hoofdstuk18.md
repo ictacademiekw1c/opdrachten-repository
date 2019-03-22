@@ -123,7 +123,7 @@ class Leerling
 		int l_nr;
 	
 	// constructor
-	Leerling() {}
+	Leerling();
 	
 	// methoden (prototype)
 	void Invoeren();
@@ -132,6 +132,13 @@ class Leerling
 };
 
 // implementatie
+// Constructor klasse Leerling
+Leerling::Leerling(
+{
+	// Leeg. Geen initialisatie bij constructie nodig
+}
+
+// Methods klasse Leerling
 void Leerling::Invoeren()
 {
 
