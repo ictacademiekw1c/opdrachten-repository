@@ -1,4 +1,4 @@
-### [kleurcode]rgba(233,60,99,1)
+#### [kleurcode]rgba(233,60,99,1)
 
 # Hoofdstuk 3 - SEO (Search Engine Optimisation)
 
