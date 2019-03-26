@@ -19,6 +19,8 @@ Het vermogen van een klasse om eigenschappen en kenmerken van een andere klasse 
 
 Neem een groep voertuigen. Uit deze groep van voertuigen wil je klassen maken voor Bus, Auto en Vrachtwagen. De methoden brandstofHoeveelheid(), aantalPersonen(), remmen() zijn hetzelfde voor alle drie de klassen. Als we deze klassen zouden maken zonder overerving dan moeten we al deze functies in elk van de drie klassen implementeren, zoals weergegeven in de onderstaande afbeelding:
 
+![](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/04.%20Aanvullend/Hfst19_Portaal1.png)
+
 ```
 | 	Class Bus				|	Class Auto				|	Class Vrachtwagen		|
 |---------------------------|---------------------------|---------------------------|
@@ -29,6 +31,10 @@ Neem een groep voertuigen. Uit deze groep van voertuigen wil je klassen maken vo
 ```
 
 Je kunt duidelijk zien dat bovenstaande proces resulteert in dubbele duplicatie van dezelfde code. Dit vergroot de kans op fouten en dubbele gegevens, wat je juist met klasses wilt voorkomen. Om dit soort situaties te voorkomen, wordt *overerving* gebruikt. Als we een klasse Voertuig maken en deze drie functies erin opnemen en de rest van de klassen van de voertuigklasse erven, kunnen we eenvoudig de duplicatie van gegevens vermijden en de herbruikbaarheid vergroten. Kijk naar het onderstaande diagram waarin er een overerving is van de drie klassen uit de voertuigklasse:
+
+![](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/04.%20Aanvullend/Hfst19_Portaal2.png)
+
+
 
 ```
 							|	Class Voertuig			|
@@ -60,7 +66,8 @@ class sub-klassenaam : access_mode base-klassenaam
 };
 ```
 
-Hier is *sub-klassenaam* de naam van de sub-klasse, *access_mode* is de modus waarin je deze *sub*- klasse wilt erven, bijvoorbeeld:  *public*, *private* enzovoorts en *base_klassenaam* is de naam van de base klasse waarvan u de sub- klasse wilt erven. .
+Hier is *sub-klassenaam* de naam van de sub-klasse, *access_mode* is de modus waarin je deze *sub*- klasse wilt erven, bijvoorbeeld:  *public*, *private* enzovoorts en *base_klassenaam* is de naam van de base klasse waarvan u de sub- klasse wilt erven. 
+
 **Opmerking:** een afgeleide klasse krijgt niet de toegang tot private data members . De afgeleide klasse neemt echter wel het alle members en functies van het volledig bovenliggend object over. Dus ook de private members die in deze *base* klasse zijn door gedeclareerd.
 
 ```c++
@@ -141,22 +148,22 @@ class B : public A
 { 
 	// x is public 
 	// y is protected 
-	// z is niet toegankelijk vanuit B 
+	// z is niet toegankelijk in B 
 }; 
 
 class C : protected A 
 { 
 	// x is protected 
 	// y is protected 
-	// z is niet toegangelijk vanuit C 
+	// z is niet toegangelijk in C 
 }; 
 
 class D : private A // als je niks expliciet aangeeft maakt de compiler
-					// data members privatefor classes 
+					// data members private 
 { 
 	// x is private 
 	// y is private 
-	// z is not toegankelijk vanuit D 
+	// z is not toegankelijk in D 
 }; 
 ```
 
