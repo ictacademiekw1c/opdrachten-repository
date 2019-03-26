@@ -21,38 +21,10 @@ Neem een groep voertuigen. Uit deze groep van voertuigen wil je klassen maken vo
 
 ![](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/04.%20Aanvullend/Hfst19_Portaal1.png)
 
-```
-| 	Class Bus				|	Class Auto				|	Class Vrachtwagen		|
-|---------------------------|---------------------------|---------------------------|
-| 	brandstofHoeveelheid()	|	brandstofHoeveelheid()	|	brandstofHoeveelheid()	|
-|	aantalPersonen()		|	aantalPersonen()		|	aantalPersonen()		|
-|	remmen()				|	remmen()				|	remmen()				|
-
-```
-
 Je kunt duidelijk zien dat bovenstaande proces resulteert in dubbele duplicatie van dezelfde code. Dit vergroot de kans op fouten en dubbele gegevens, wat je juist met klasses wilt voorkomen. Om dit soort situaties te voorkomen, wordt *overerving* gebruikt. Als we een klasse Voertuig maken en deze drie functies erin opnemen en de rest van de klassen van de voertuigklasse erven, kunnen we eenvoudig de duplicatie van gegevens vermijden en de herbruikbaarheid vergroten. Kijk naar het onderstaande diagram waarin er een overerving is van de drie klassen uit de voertuigklasse:
 
 ![](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.08%20C++%5D%20C++/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/04.%20Aanvullend/Hfst19_Portaal2.png)
 
-
-
-```
-							|	Class Voertuig			|
-							|---------------------------|
-							|	brandstofHoeveelheid()	|
-							|	aantalPersonen()		|
-							|	remmen()				|
-							|---------------------------|
-							/			|				\
-						   /			|				 \
-						  /				|				  \ 
-						 /				|					\
-						/				|					 \
-
-| 	Class Bus				|	Class Auto				|	Class Vrachtwagen		|
-|---------------------------|---------------------------|---------------------------|
-
-```
 
 Gebruiken we overerving, dan schrijven we de functies maar een keer op in plaats van drie keer. omdat de drie *sub*-klassen (Bus, Auto en Vrachtwagen) de functionaliteit erven van de *base* klasse. (Voertuig) 
 
