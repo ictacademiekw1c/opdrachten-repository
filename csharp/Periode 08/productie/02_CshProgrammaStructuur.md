@@ -17,8 +17,8 @@
 /************************** Module Header *******************************\
 Project:		New York City Marathon
 Auteur:			Bart Linsen
-Aanmaakdatum:    3 april 2017 
-Module naam:	 NYCM.cs
+Aanmaakdatum:   3 april 2017 
+Module naam:	NYCM.cs
 
 Omschrijving:	Hoofdprogramma New York City Marathon
 
@@ -47,7 +47,7 @@ namespace NewYorkCityMarathon_Hfst23
 
 * De volgende regel bevat de *class* declaratie, de klasse NYCM bevat data en methods definities die het programma gebruikt. Klassen bevatten over het algemeen meerdere *methoden*. *Methoden* definieren het gedrag van een klasse. Op dit moment heeft de *Program* klasse maar een *methode* *Main*
 
-* De volgende regel definieerd de *Main* methode, dit is het toegangspunt voor alle C# programma's. De *Main* methode bepaalt wat de class doet wanneer de klasse wordt opgestart. De Main methode is gedefinieerd als static, zodat er geen instantie hoeft te worden gecreeerd van de 
+* De volgende regel definieerd de *Main* methode, dit is het toegangspunt voor alle C# programma's. De *Main* methode bepaalt wat de class doet wanneer de klasse wordt opgestart. De Main methode is gedefinieerd als static, zodat er geen instantie hoeft te worden gecreeerd van het toegangspunt. De *Main* methode mag maar een keer voorkomen in een C# programma.
 
 * De lijn ``` /* .... */ ``` wordt door de compiler genegeerd en hier kun je daarom commentaar in plaatsen.
 
@@ -177,7 +177,7 @@ namespace NewYorkCityMarathonHfst23
   }
   ```
 
-  ​
+  
 
 
 
@@ -188,3 +188,5 @@ namespace NewYorkCityMarathonHfst23
 [try {} catch {}](https://www.dotnetperls.com/catch) - dotnetperls
 
 [TryParse](https://www.dotnetperls.com/parse) - dotnetperls
+
+[How To Concatenate Strings In C#](https://www.c-sharpcorner.com/article/6-effective-ways-to-concatenate-strings-in-c-sharp-and-net-core/) - C# Corner

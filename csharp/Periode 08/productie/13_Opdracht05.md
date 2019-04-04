@@ -1,8 +1,8 @@
 ####[kleurcode]rgba(239,108,0,1)
 
-#Opdracht 6 - NYCM - 3 Tier#
+#Opdracht 5 - NYCM - 3 Tier#
 
-In Opdracht 6 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
+In Opdracht 5 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
 
 
 - Kunnen opzetten van een C# OOP Windows Forms applicatie met meerdere vensters.
@@ -20,5 +20,5 @@ In Opdracht 6 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
 
 ### Opdracht
 
-[Opdracht 06](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/26_WinFormsNYCM_3-Tier.xlsx) - **Windows New York City Marathon 3-Tier![](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/images/NYCM-logo.jpg)
+[Opdracht 05]() - **Windows New York City Marathon 3-Tier![](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/images/NYCM-logo.jpg)
 

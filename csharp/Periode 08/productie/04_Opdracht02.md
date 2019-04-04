@@ -1,8 +1,8 @@
 ####[kleurcode]rgba(239,108,0,1)
 
-#Opdracht 3#
+#Opdracht 2#
 
-In hoofdstuk 23 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
+In hoofdstuk 2 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
 
 
 - Kunnen opzetten van een C# OOP Windows Forms applicatie;
@@ -17,7 +17,7 @@ Doorwerken van [Hoofdstuk 8](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/8
 
 Doorwerken van [Hoofdstuk 9](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/01.%20Reader/0009_Reader%20C-Sharp%20V7.0%20-%20Vensters%20en%20MDI.pdf) Vensters en MDI - Programmeren in C#
 
-[Opdracht 03](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/23_WindowsForms.doc) - **Windows Forms**
+[Opdracht 02]() - **Windows Forms**
 
 
 

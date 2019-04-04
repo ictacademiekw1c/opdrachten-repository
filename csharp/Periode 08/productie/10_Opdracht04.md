@@ -1,8 +1,8 @@
 ####[kleurcode]rgba(239,108,0,1)
 
-#Opdracht 5#
+#Opdracht 4#
 
-In Opdracht 5 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
+In Opdracht 4 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
 
 
 - Kunnen opzetten van een C# OOP Windows Forms applicatie met meerdere vensters.
@@ -18,5 +18,5 @@ In Opdracht 5 moeten de volgende onderwerpen worden uitgewerkt in de opdracht:
 
 ### Opdracht
 
-[Opdracht 05](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/25_WinFormsDominos.xlsx) - **Windows Forms Dominos**![](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/images/Dominos_logo_black.png)
+[Opdracht 05]() - **Windows Forms Dominos**![](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/images/Dominos_logo_black.png)
 
