@@ -59,3 +59,8 @@ De website die moet kiezen is afhankelijk van je voornaam. Een andere website wo
 *   <a href="https://000.nl/seo-tips/" target="_blank">De beste SEO tips om hoger in Google te komen op een rijtje [2018]</a>
 *   <a href="https://www.answerthepublic.com/" target="_blank">Hoe zoeken mensen in zoekmachines?</a>
 *   Zie videos op deze pagina
+
+
+### Opleveren opdracht
+
+Je (individuele) verbetervoorstel moet je opleveren in de taak SEO verbetervoorstel in de studieroute.
