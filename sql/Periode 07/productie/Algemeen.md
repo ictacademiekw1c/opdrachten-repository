@@ -18,7 +18,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 11.1, 11.2, 11.3 |  Vrijdag 15 maart 2019  |
 | Opdracht 12.1, 12.2 |  Vrijdag 22 maart 2019  |
 | Opdracht 13.1, 13.2 |  Vrijdag 29 maart 2019  |
-| Opdracht 14.1, 14.2 |  -  |
+| Opdracht 14.1, 14.2 |  Vrijdag 19 april 2019  |
 | Opdracht 15.1, 15.2, 15.3 |  -  |
 | Opdracht 16.1, 16.2 |  -  |
 | Opdracht 17.1 |  -  |
