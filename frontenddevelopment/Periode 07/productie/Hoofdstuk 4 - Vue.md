@@ -1,4 +1,4 @@
-leurcode]rgba(233,60,130,1)
+#### kleurcode]rgba(233,60,130,1)
 
 # Hoofdstuk 4 - Javascript frameworks
 
