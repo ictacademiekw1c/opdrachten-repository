@@ -16,6 +16,8 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Hoofdstuk 4 (4.3, 4.4)   | zo 17-03 |
 | Hoofdstuk 5 (5.1, 5.2)   | ma 25-03 |
 | Hoofdstuk 5 (5.3)   | zo 31-03 |
+| Hoofdstuk 5 (5.4)   | do 18-04 |
+| Eindopdracht   | do 18-04 |
 
 
 <br> 

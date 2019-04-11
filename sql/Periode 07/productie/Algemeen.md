@@ -18,7 +18,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 11.1, 11.2, 11.3 |  Vrijdag 15 maart 2019  |
 | Opdracht 12.1, 12.2 |  Vrijdag 22 maart 2019  |
 | Opdracht 13.1, 13.2 |  Vrijdag 29 maart 2019  |
-| Opdracht 14.1, 14.2 |  -  |
+| Opdracht 14.1, 14.2 |  Vrijdag 19 april 2019  |
 | Opdracht 15.1, 15.2, 15.3 |  -  |
 | Opdracht 16.1, 16.2 |  -  |
 | Opdracht 17.1 |  -  |
@@ -27,7 +27,8 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 **Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
 
-## Toets
+## Toets Periode 7
+### Eerste kans
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
@@ -35,6 +36,13 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | IO2B4 |  Woensdag 3 april 2019  |
 | IO2C4 |  Woensdag 3 april 2019  |
 
+### Herkansing
+
+| &nbsp;Klas              |  &nbsp;Datum en tijd |
+|--------------------  |--------------- |
+| IO2A4 |  Maandag 15 april 2019  |
+| IO2B4 |  Maandag 15 april 2019  |
+| IO2C4 |  Maandag 15 april 2019  |
 
 ## Editor
 Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
