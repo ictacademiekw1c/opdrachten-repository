@@ -12,7 +12,7 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 |Opdracht 1.1 DevOps | 12 april | 11 april | |
 | Opdracht 1.2 Leerlinggegevens | 12 april | 11 april |  |
 | Opdracht 1.3 Waterschapsverkiezingen | 12 april | 11 april |  |
-| Herkansing C++ | 18 april | 18 april |  |
+| Herkansing C++ | 17 april | 17 april | 17 april |
 | Opdracht 2 Windows Forms | 18 april | 18 april |  |
 | Opdracht 3 Windows Forms NYCM | 18 april | 18 april |  |
 | Opdracht 4 Windows Forms Dominos |  |  |  |
