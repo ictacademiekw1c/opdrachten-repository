@@ -3,7 +3,7 @@
 # Hoofdstuk 15 - Stored procedures
 ---
 ### Reader
-<a href="" target="_blank">Hoofdstuk 15 - Stored procedures</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/SQL_reader_15_storedprocedures.pdf" target="_blank">Hoofdstuk 15 - Stored procedures</a>
 
 ---
 ## Opdracht 15.1
