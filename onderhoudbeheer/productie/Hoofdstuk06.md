@@ -6,5 +6,5 @@
 
 ## 6.2 Inleveropdracht Testmethodieken
 
-Zie de inleveropdracht in de studieroute van Onderhoud en beheer.
+Zie Taak 2 in de studieroute van Onderhoud en beheer in periode 4.
 
