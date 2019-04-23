@@ -1,6 +1,6 @@
 #### [kleurcode]rgba(255,193,7, 1)
 
-# Eindopdracht Javascript - jQuery & AJAX
+# Eindodpracht Javascript - jQuery & AJAX
 
 ---
 ## Eindopdracht
