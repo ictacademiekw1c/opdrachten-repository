@@ -2,7 +2,7 @@
 
 # Hoofdstuk 16 - Gebruikersbeheer (server)
 ---
-### Reader
+### Reader (verschijnt binnenkort!)
 <a href="" target="_blank">Hoofdstuk 16 - Gebruikersbeheer (server)</a>
 
 ---
