@@ -14,7 +14,7 @@
 
 ## Oefening - Installeren Vue via NPM, CLI en UI
 Installeren van NodeJS
-* <a href="https://nodejs.org/en/download/" target="_blank">https://nodejs.org/en/download/</a>
+* <a href="https://nodejs.org/en/download/" target="_blank">https://nodejs.org/en/download/</a><br>
 Installeren van VueJS m.b.v. CDN, NPM en CLI
 * <a href="https://coursetro.com/posts/code/133/How-to-Install-Vue-2---Through-CDN,-NPM-and-the-Vue-CLI" target="_blank">https://coursetro.com/posts/code/133/How-to-Install-Vue-2---Through-CDN,-NPM-and-the-Vue-CLI</a><br>
 
