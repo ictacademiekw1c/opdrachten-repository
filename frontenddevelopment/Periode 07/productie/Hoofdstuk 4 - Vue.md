@@ -13,7 +13,12 @@
 <a href="https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance" target="_blank">Introductie vuejs</a>
 
 ## Oefening - Installeren Vue via NPM, CLI en UI
-* <a href="https://nodejs.org/en/download/" target="_blank">https://nodejs.org/en/download/</a>
-* <a href="https://coursetro.com/posts/code/133/How-to-Install-Vue-2---Through-CDN,-NPM-and-the-Vue-CLI" target="_blank">https://coursetro.com/posts/code/133/How-to-Install-Vue-2---Through-CDN,-NPM-and-the-Vue-CLI</a>
+Installeren van NodeJS
+* <a href="https://nodejs.org/en/download/" target="_blank">https://nodejs.org/en/download/</a><br>
+Installeren van VueJS m.b.v. CDN, NPM en CLI
+* <a href="https://coursetro.com/posts/code/133/How-to-Install-Vue-2---Through-CDN,-NPM-and-the-Vue-CLI" target="_blank">https://coursetro.com/posts/code/133/How-to-Install-Vue-2---Through-CDN,-NPM-and-the-Vue-CLI</a><br>
 
+
+## Oefening - Bouwen van een Single Page Application
+* <a href="https://scotch.io/tutorials/how-to-build-a-simple-single-page-application-using-vue-2-part-1/" target="_blank">https://scotch.io/tutorials/how-to-build-a-simple-single-page-application-using-vue-2-part-1</a><br>
 
