@@ -8,11 +8,14 @@ O.a. Wat is het verdienmodel? Waar liggen de kosten?
 
 ## 7.2 Uitleg en voorbeelden product(/bedrijf)
 
-Facebook
-BMW
-LinkedIn
-Uber
-Foursquare
+(presentatie BMC volgt nog...)
+
+Voorbeelden:
+- Facebook
+- BMW
+- LinkedIn
+- Uber
+- Foursquare
 
 ## 7.3 Oefenen op bekend bedrijf/product
 
