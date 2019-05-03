@@ -26,3 +26,5 @@ Doorwerken van [Hoofdstuk 9](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/8
 [Getting Started with Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/getting-started-with-windows-forms)
 
 [How to: Add Controls to Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/how-to-add-controls-to-windows-forms)
+
+[SaveFileDialog in C-Sharp](https://www.c-sharpcorner.com/uploadfile/mahesh/savefiledialog-in-C-Sharp/) - Csharp corner
