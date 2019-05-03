@@ -1,34 +1,36 @@
 # Hoofdstuk 7 Testen in de praktijk
 
-## 7.1 Geautomatiseerd testen met een unittest
+## 7.1 Algemeen - Geautomatiseerd testen
+
+- Hoe zet je een geautomatiseerde test op?
+- Wat kan je geautomatiseerd testen?
+- Wat test je nu precies?
+- Wat is de assert klasse?
+
+## 7.2 Geautomatiseerd testen met een unittest
 
 Voorbeeld van een unittest in een c# console applicatie.
 
 __Voorbeeld code om te testen__ :
 
-  [BankAccountNS code](https://docs.microsoft.com/nl-nl/visualstudio/test/sample-project-for-creating-unit-tests)
+  <a href="https://docs.microsoft.com/nl-nl/visualstudio/test/sample-project-for-creating-unit-tests" target="_top">BankAccountNS code</a>
 
 __Walk-through voor de Unit Test__ :
 
-  [Aanmaken van de unit test](https://docs.microsoft.com/nl-nl/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code)
+  <a href="https://docs.microsoft.com/nl-nl/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code" target="_top">Aanmaken van de unit test</a>
 
 __Assert Klasse__
 
-  [Naslag Assert klasse](https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.testtools.unittesting.assert.aspx)
+  <a href="https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.testtools.unittesting.assert.aspx" target="_new">Naslag Assert klasse</a>
 
-### 7.1.1 Opdracht Unit test. 
+### 7.2.1 Opdracht Unit test. 
 
 - Maak de bovenstaande projecten (BankAccount [console-applicatie] en UnitTest [unit-test]  project) in visual studio aan.
 - Voer de Unit tests uit
 - Verzin nog 2 extra unittest methodes en voer de Unit test nogmaals uit.
 
 
-## 7.2 Opstellen Testplan
+## 7.3 Opstellen Testplan
 
 In hoofdstuk 6 zijn de verschillende testtypes behandeld.
 Afhankelijk van de testtypes die je applicatie nodig heeft kun je een testplan opstellen.
-
-//todo template testplan met een functionele test / black box benadering
-
-
-
