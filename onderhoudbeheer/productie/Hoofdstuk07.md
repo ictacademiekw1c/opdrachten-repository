@@ -13,15 +13,15 @@ Voorbeeld van een unittest in een c# console applicatie.
 
 __Voorbeeld code om te testen__ :
 
-  <a href="https://docs.microsoft.com/nl-nl/visualstudio/test/sample-project-for-creating-unit-tests" target="_top">BankAccountNS code</a>
+  <a href="https://docs.microsoft.com/nl-nl/visualstudio/test/sample-project-for-creating-unit-tests" target="_blank">BankAccountNS code</a>
 
 __Walk-through voor de Unit Test__ :
 
-  <a href="https://docs.microsoft.com/nl-nl/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code" target="_top">Aanmaken van de unit test</a>
+  <a href="https://docs.microsoft.com/nl-nl/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code" target="_blank">Aanmaken van de unit test</a>
 
 __Assert Klasse__
 
-  <a href="https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.testtools.unittesting.assert.aspx" target="_new">Naslag Assert klasse</a>
+  <a href="https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.testtools.unittesting.assert.aspx" target="_blank">Naslag Assert klasse</a>
 
 ### 7.2.1 Opdracht Unit test. 
 
