@@ -29,24 +29,24 @@ Voor een applicatieontwikkelaar valt onder 'beheer en behoud' alle voorkomende w
 
 ## 0.4 Opdrachten/Taken
 
+__Periode 4__ 
+
 | &nbsp; &nbsp; Taak | &nbsp; &nbsp; Uiterste oplevermoment IO2A4 IO2B4 IO2C4 |
 |--------------------|--------------------------------------------------------|
-|  1. Kwalificatiedossier en ervaringen | Tijdens de les in de week van 11 t/m 15 febr |
-|  2. Versies en versiebeheer | Tijdens de les in de week van 18 t/m 22 febr |
-|  3. Groepstaak waterval | Voor de carnavalsvakantie |
-|  4. Groepstaak SCRUM/Agile | In de week na de carnavalsvakantie |
-|  5. Taak 5 : Bugs | Tijdens de les in de week van 25 mrt  |
-|||
+|Taak 1: groepsopdracht voorkennis testen | Uiterlijk 5 mei 2019 |
+|Taak 2: Opdracht testmethodieken | Uiterlijk 6 mei 2019 |
 <br>
 
 Toetsafname per klas <br>
 
+__Periode 4__
+
 | &nbsp; &nbsp; **IO2A4**| &nbsp; &nbsp; **IO2B4**| &nbsp; &nbsp; **IO2C4**| 
 |--------------- | ------------ | ------------- |
-|  10 april 2019  | 9 april 2019 | 8 april 2019  |
+|??|??|??|
 
-Toetsonderdelen:
-- Hoofdstuk 1 t/m hoofdstuk 4
+Toetsonderdelen periode 4:
+- Hoofdstuk 5 t/m ?
 
 Bij de theorietoets mag je geen internet gebruiken (gesloten laptop) en wordt op papier afgenomen.
 De toets zal bestaan uit open en/of meerkeuze vragen.
