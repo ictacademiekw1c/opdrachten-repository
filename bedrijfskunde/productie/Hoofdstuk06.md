@@ -15,7 +15,7 @@ Als je een bedrijf runt komt er niet alleen maar geld binnen, maar maak ook je v
 [Hoe bereken je de afschrijving?](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/afschrijving/hoe_berekent_u_het_bedrag_van_de_afschrijving)
 
 
-## 6.3 Opdracht Kostensoorten en afschrijvingen
+## 6.3 Opdrachtomschrijving Kostensoorten en afschrijvingen
 
 Situatie: Je gaat een eenmans- IT- bedrijf beginnen en je gaat je in een nieuw (gehuurde) kantoorpand vestigen.
 Het kantoor wordt leeg opgeleverd, dus je zal alle inventaris zelf moeten aanschaffen. 
