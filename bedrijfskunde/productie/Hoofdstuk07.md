@@ -24,7 +24,11 @@ Voorbeelden:
 - Tinder
 - Azure
 - Ajax
-- 
+- Kies een lokaal bedrijf/product of je stagebedrijf/product
 - Eigen keuze
 
-## 7.3 Eigen product/bedrijf en toepassen BMC
+De opdracht wordt nog geformuleerd in een groepstaak.
+
+## 7.4 Eigen product/bedrijf en toepassen BMC
+
+Maar voordat je dit kunt doen wordt allereerst het ICE-model behandeld (Hoofdstuk 8).

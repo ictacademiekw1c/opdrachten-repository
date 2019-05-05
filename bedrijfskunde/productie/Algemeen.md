@@ -44,13 +44,13 @@ Zie ook de studiewijzer van deze studieroute.
 
 - Facturering en BTW
 - Bedrijfsprocessen en bedrijfssoftware
-- Licenties en auteursrecht
 
 ### Periode 4
 
-- ICE model - creativiteit
+- Licenties en auteursrecht
+- Kostensoorten en afschrijvingen
 - Business Model Canvas
-
+- ICE model - creativiteit
 
 ## 0.4 Opdrachten
 
@@ -58,23 +58,20 @@ Iedere week wordt er een opdracht gepubliceerd, die meetelt met het eindcijfer v
 
 | &nbsp; &nbsp; Taak | &nbsp; &nbsp; Uiterste oplevermoment IO2A4 IO2B4 IO2C4 |
 |------|------------------------|
-|  1. Bedrijven en rechtsvormen | Tijdens de les in de week van 11 t/m 15 febr |  
-|  2. Factuur | Tijdens de les in de week van 25 febr - 1 mrt |  
-|  3. Softwaresystemen | Tijdens de les in de week van 11-15mrt  |
-|  4. Taak 5 : UML Use Case Bioscoop | Tijdens de les in de week van 25 mrt  |
-
+|  1. Licenties en auteursrechten | 7 mei 2019 |  
+|  2. Kostensoorten en afschrijvingen | 14 mei 2019 |  
 |||
 
-## 0.5 Toets periode 3
+## 0.5 Toets periode 4
 
 Toetsafname per klas <br>
 
 | &nbsp; &nbsp; **IO2A4**| &nbsp; &nbsp; **IO2B4**| &nbsp; &nbsp; **IO2C4**| 
 |--------------- | ------------ | ------------- |
-|  2 april 2019  | 2 april 2019 | 5 april 2019  |
+|  ?? | ?? | ??  |
 
 Toetsonderdelen:
-- Hoofdstuk 1 t/m hoofdstuk 4
+- Hoofdstuk 5 t/m hoofdstuk ?
 
 Bij de theorietoets mag je geen internet gebruiken (gesloten laptop) en wordt op papier afgenomen.
 De toets zal bestaan uit open en/of meerkeuze vragen.
