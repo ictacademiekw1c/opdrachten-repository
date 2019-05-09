@@ -12,6 +12,7 @@
 ### Instructies
 * <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.01%20MOD%5D%20Modelleren/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2004/Productie/01.%20Reader/Lesstof%2014%20Data%20dictionairy.xlsx" target="_blank">Data dictionary</a>
 * <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.01%20MOD%5D%20Modelleren/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2004/Productie/01.%20Reader/Lesstof%2015%20Bachman%20diagram.xlsx" target="_blank">Bachman diagram</a>
+* <a href="" target="_blank">Klassendiagram</a>
 
 
 ---
