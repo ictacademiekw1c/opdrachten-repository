@@ -6,7 +6,7 @@
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/124398_02_02_BC30_Assertions.mp4" target="_new">Uitleg Assert</a>
 
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/124398_02_03_BC30_Assertions.mp4" target="_new">Assert in code?</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/124398_02_03_BC30_AsserCode.mp4" target="_new">Assert in code?</a>
 
 
 - Wat is de assert klasse?
