@@ -44,21 +44,21 @@ colors.Count
 ###Elementen uit de List Collection halen###
 Elementen worden typisch uit de *List* *Collection* gehaald doormiddel van loops.
 
-**foreach loop**
-
-```c#
-foreach (string color in colors)
-{
-    MessageBox.Show(color);
-}
-```
-
 **for loop**
 
 ```c#
 for (int i = 0; i < colors.Count; i++)
 {
     MessageBox.Show(colors[i]);
+}
+```
+
+**foreach loop**
+
+```c#
+foreach (string color in colors)
+{
+    MessageBox.Show(color);
 }
 ```
 
@@ -113,7 +113,7 @@ List<string> arrlist = new List<string>(strArr);
 Met de *String* method **Join()** wordt een *List Collection* geconverteerd naar een *string*.
 
 ```c#
-string combindedString = string.Join(",", colors);
+string combinedString = string.Join(",", colors);
 ```
 Na het uitvoeren van bovenstaand statement bevat de variabele *combinedString* de waarde: "Red,Blue,Green"
 
