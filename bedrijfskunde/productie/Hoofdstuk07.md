@@ -39,6 +39,9 @@ Maak de BMC van:
 
 en maak daar een (powerpoint) presentatie van.
 
-Groepstaak 1: Vorm je eigen groep van 2-4 personen en maak een afspraak met de docent wanneer je je een BMC presentatie gaat doen van het bedrijf/product dat jullie gekozen hebben.
+Groepstaak 1: Vorm je eigen groep van 2-4 personen.
+- Kies een product/bedrijf en overleg de keuze met je docent
+- Maak een afspraak met de docent wanneer je je een BMC presentatie gaat doen van het bedrijf/product dat jullie gekozen hebben. 
+- Houd een presentatie van minimaal 5 minuten en laat ieder groepslid een evenredig deel van de presentatie doen.
 
 
