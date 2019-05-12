@@ -13,12 +13,23 @@
 *   Datasource
 *   Gridview
 
-
 ### Benodigde bestanden
 *   Je hebt voor deze opdracht geen bestanden nodig.
 
 ### Help
-*   Er zijn geen hulplinks voor deze opdracht beschikbaar.
+*   Foutafhandeling bij het beheren van gegevens in een gridview (plaats de code in het RowUpdated event van de gridview)
+```c#
+	// Controleren of de update kan worden uitgevoerd
+    if(e.Exception == null)
+    {
+      Message.Text = "Row updated successfully.";
+    }
+    else
+    {
+      e.ExceptionHandled = true;
+      Message.Text = "An error occurred while attempting to update the row.";
+    }
+```
 
 ---
 ## Opdracht 7.2
