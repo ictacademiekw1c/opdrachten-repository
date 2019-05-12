@@ -8,11 +8,11 @@ Als je een bedrijf runt komt er niet alleen maar geld binnen, maar maak ook je v
 
 ## 6.2 Bronnen
 
-[Presentatie Kostensoorten](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%20les5_Ed.pptx)
+``Toets`` [Presentatie Kostensoorten](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%20les5_Ed.pptx)
 
-[Wat is afschrijven?](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/afschrijving/wat_is_afschrijven)
+``Toets`` [Wat is afschrijven?](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/afschrijving/wat_is_afschrijven)
 
-[Hoe bereken je de afschrijving?](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/afschrijving/hoe_berekent_u_het_bedrag_van_de_afschrijving)
+``Toets`` [Hoe bereken je de afschrijving?](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/afschrijving/hoe_berekent_u_het_bedrag_van_de_afschrijving)
 
 
 ## 6.3 Opdrachtomschrijving Kostensoorten en afschrijvingen

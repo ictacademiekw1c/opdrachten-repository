@@ -5,20 +5,28 @@
 ## 7.1 Algemeen
 BMC is een moderne manier om een ondernemingsplan op te zetten.
 
-<a href="https://www.kvk.nl/advies-en-informatie/innovatie/organisatievernieuwing/business-model-canvas/" target="_new">Uitleg Business model canvas door de KVK</a>
+``Toets`` <a href="https://www.kvk.nl/advies-en-informatie/innovatie/organisatievernieuwing/business-model-canvas/" target="_new">Uitleg Business model canvas door de KVK</a>
 
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/04.%20Aanvullend/BMC.svg" title="Business modal canvas">
 
 
-## 7.2 Uitleg en voorbeelden product(/bedrijf)
-
-(presentatie BMC volgt nog...)
+## 7.2 Voorbeelden BMC
 
 Voorbeelden:
 - Facebook
+
+<img width="600" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/FacebookBMC.png" >
+
 - BMW
+
+<img width="600" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/BMWBMC.png" >
+
 - LinkedIn
+
 - Uber
+
+<img width="600" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/UberBMC.png" >
+
 - Foursquare
 
 ## 7.3 Oefenen op bekend bedrijf/product
@@ -29,7 +37,6 @@ Voorbeelden:
 - Azure
 - Ajax
 - Kies een lokaal bedrijf/product of je stagebedrijf/product
-- Eigen keuze
 
 De opdracht wordt nog geformuleerd in een groepstaak.
 
