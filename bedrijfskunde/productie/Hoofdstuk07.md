@@ -33,9 +33,12 @@ Voorbeelden:
 
 ## 7.3 Oefenen op bekend bedrijf/product
 
-
-?Maak de BMC van:
+Maak de BMC van:
 
 - Kies een bekend product/bedrijf of lokaal bedrijf/product of je stagebedrijf/product
 
-De opdracht wordt nog geformuleerd in een groepstaak.
+en maak daar een (powerpoint) presentatie van.
+
+Groepstaak 1: Vorm je eigen groep van 2-4 personen en maak een afspraak met de docent wanneer je je een BMC presentatie gaat doen van het bedrijf/product dat jullie gekozen hebben.
+
+
