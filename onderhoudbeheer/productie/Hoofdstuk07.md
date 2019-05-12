@@ -33,9 +33,5 @@ __Walk-through voor de Unit Test__ :
 - Maak de bovenstaande projecten (BankAccount [console-applicatie] en UnitTest [unit-test]  project) in visual studio aan.
 - Voer de Unit tests uit
 - Verzin nog 2 extra unittest methodes en voer de Unit test nogmaals uit.
+- Comprimeer de sourcecode en upload het in Taak 3 - unittest
 
-
-## 7.3 Opstellen Testplan
-
-In hoofdstuk 6 zijn de verschillende testtypes behandeld.
-Afhankelijk van de testtypes die je applicatie nodig heeft kun je een testplan opstellen.
