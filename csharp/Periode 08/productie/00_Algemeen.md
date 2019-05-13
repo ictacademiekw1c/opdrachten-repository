@@ -13,9 +13,9 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 1.2 Leerlinggegevens | 12 april | 11 april |ma  15 apr |
 | Opdracht 1.3 Waterschapsverkiezingen | 12 april | 11 april | ma 15 apr  |
 | Opdracht 2 Windows Forms | 18 april | 18 april | di 23 apr |
-| Opdracht 3 Windows Forms NYCM | 26 april | 26 april | ma 6 mei |
-| Opdracht 4 Windows Forms Dominos | 10 mei | 9 mei | ma 13 mei |
-| Opdracht 5 Windows Forms NYCM 3-Tier |  |  |  |
+| Opdracht 3 Windows Forms NYCM | 26 april | 26 april | zo 5 mei |
+| Opdracht 4 Windows Forms Dominos | 10 mei | 9 mei | zo 12 mei |
+| Opdracht 5 Windows Forms NYCM 3-Tier | 17 mei | 16 mei | zo 19 mei |
 | Opdracht 6 Windows Forms NYCM SQL |  |  |  |
 | Opdracht 7 Windows Forms NYCM SQL Plus Update & Delete | |  |  |
 |  |  |  |  |
