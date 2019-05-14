@@ -81,6 +81,6 @@ foreach(DataRow dr in dsLeerling.Tables["tblLeerling".Rows)
 }
 ```
 
-## LINKS
+## Interessante bronnen
 
 [DataSets, DataTables, and DataViews](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/dataset-datatable-dataview/) - Microsoft Docs

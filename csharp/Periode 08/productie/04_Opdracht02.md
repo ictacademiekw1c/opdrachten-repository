@@ -21,7 +21,7 @@ Doorwerken van [Hoofdstuk 9](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/8
 
 
 
-### Links
+### Interessante bronnen
 
 [Getting Started with Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/getting-started-with-windows-forms)
 

@@ -147,7 +147,7 @@ static void GetSalesByCategory(string connectionString,
 
 - 
 
-### Links
+### Interessante bronnen
 
 - [Connection strings and configuration files](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/connection-strings-and-configuration-files)
 - [Execute a Command](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/executing-a-command) - Microsoft ADO.NET
