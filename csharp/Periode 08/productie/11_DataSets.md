@@ -71,7 +71,7 @@ dsLeerling.Tables["tblLeerling"].Rows.Add("Henk", 1234, "IO2A4"", "man";
 
 ###Tabel rij verwijderen###
 
-Met de method **.Delete()** wordt een rij verwijderd uit de*DataTable*.
+Met de method **.Delete()** wordt een rij verwijderd uit de *DataTable*.
 
 ```c#
 foreach(DataRow dr in dsLeerling.Tables["tblLeerling"].Rows)
