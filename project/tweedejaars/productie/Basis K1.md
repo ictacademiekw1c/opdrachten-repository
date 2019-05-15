@@ -67,7 +67,7 @@ __Links__
 
 ### Opdracht C: Opstellen functioneel ontwerp
  
-    - 0 Werk een COGNIAM analyse uit op basis van het sjabloon 'Sjabloon analyse'.
+    - 0 Werk een analyse uit op basis van het sjabloon 'Sjabloon analyse'.
     - 1 Schrijf het functioneel ontwerp op basis van het Programma van Eisen. 
         - Gebruik hiervoor 'Sjabloon functioneel ontwerp' 
         - Vastgesteld Programma van Eisen. 
@@ -82,7 +82,7 @@ __Communiceren met opdrachtgever__
 __Resultaat__
  
     Als resultaat van deze opdracht lever je de volgende producten en/of diensten op. 
-      - Een COGNIAM analyse
+      - Een analyse
       - Een functioneel ontwerp
       - Een toelichting op het functioneel ontwerp
       - Gevraagde goedkeuring 

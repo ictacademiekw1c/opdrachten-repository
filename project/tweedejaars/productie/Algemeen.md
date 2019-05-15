@@ -9,7 +9,7 @@ In dit project zullen de examenonderdelen B1-K1, B1-K2 en B1-K3 (zie de pagina's
 
 ## 0.2 Voorbereiding
 
-Iedere leerling zal een Azure DevOps pagina moeten aanmaken en deze moeten delen met een van de docenten: Dhr. Saebu, Dhr. Bijnen, Dhr. Linsen of Dhr. van Meer.
+Iedere leerling zal een Azure DevOps pagina moeten aanmaken en deze moeten delen met een van de docenten: dhr. Saebu, dhr. Bijnen, dhr. Linsen of dhr. van Meer.
 
 ## 0.3 Oplevering en beoordelings criteria
 
@@ -51,8 +51,8 @@ Dit project moet je dus zeker niet gaan zien als onbelangrijke opvuller van het 
 |C. |Functioneel ontwerp||	
 |C1.| Goedkeuring FO||	
 |D. |Technisch ontwerp||
-|D1.|Goedkeuring TO|	
-|E. |Configuratie overzicht|	
+|D1.|Goedkeuring TO||	
+|E. |Configuratie overzicht||	
 
 | B1-K2 | Onderdeel| Cijfer/Afteken|
 |-------|----------|---------------|
