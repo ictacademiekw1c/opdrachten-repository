@@ -2,7 +2,7 @@
 
 #DataSets#
 
-In C# werken we nooit rechtstreeks m et een database. Een database bevindt zich net zoals andere bronnen van data( *DataSources* of gegevensbronnen), altijd buiten het programma. Binnen het programma werken we met een *DataSet*, en die ziet er net zo uit als de tabellen van een relationele database.
+In C# werken we nooit rechtstreeks met een database. Een database bevindt zich net zoals andere bronnen van data (*DataSources* of gegevensbronnen), altijd buiten het programma. Binnen het programma werken we met een *DataSet*, en die ziet er net zo uit als de tabellen van een relationele database.
 
 ```C#
 De DataSet onderhoudt de verbindingen met de DataSources. Een DataSource kan een database zijn maar ook een XML-bestand, een spreadsheet of een willekeurig ander bestand
@@ -71,10 +71,10 @@ dsLeerling.Tables["tblLeerling"].Rows.Add("Henk", 1234, "IO2A4"", "man";
 
 ###Tabel rij verwijderen###
 
-Met de method **.Delete()** wordt een rij verwijderd uit de*DataTable*.
+Met de method **.Delete()** wordt een rij verwijderd uit de *DataTable*.
 
 ```c#
-foreach(DataRow dr in dsLeerling.Tables["tblLeerling".Rows)
+foreach(DataRow dr in dsLeerling.Tables["tblLeerling"].Rows)
 {
     if(dr["LeerlingNummer"].ToString()=="123")
     dr.Delete();
