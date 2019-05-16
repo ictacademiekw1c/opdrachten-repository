@@ -166,7 +166,7 @@ lvPersons.Columns.Add("Age");
 
 Om data toe te voegen aan een *ListView*, moet je eerste een instantie van de klasse *ListViewItem* creëren. Deze *ListViewItem* vul je met data en deze voeg je daarna met de *Add* Method toe aan de *ListView*'s Items lijst.
 
-Het *ListViewItem* bestaat uit een wat aparte structuur. Het hoofd data element is de propertie Text. De overige kolommen in een ListView zijn in de definitie van het ListView element, details van deze tekst. De details zitten opgeslagen in een lijst van SubItems.  Om data in deze subitems te plaatsen moet je de Add method van de SubItems gebruiken.
+Het *ListViewItem* bestaat uit een wat aparte structuur. Het hoofd data element is de propertie *Text*. De overige kolommen in een ListView zijn in de definitie van het ListView element, details van deze tekst. De details zitten opgeslagen in een lijst van SubItems.  Om data in deze subitems te plaatsen moet je de Add method van de SubItems gebruiken.
 
 ```
 ListViewItem item1 = new listViewItem{Text="123"}
@@ -181,11 +181,12 @@ Het interessante is dat *SubItem*[0] de *Text* propertie is en de overige kolomm
 item1.Text ="123", item1.SubItems[0] = "123", item1.SubItems[1]="Tom" en item1.SubItems[2]="24"
 ```
 
-In plaats van met de *Text* en  *SubItems* lijst te werken kun je ook gebruik maken van  *string[]* constructor.
+In plaats van met de *Text* en  *SubItems* lijst te werken kun je ook gebruik maken van een *string* of *string[]* constructor.
 
 ```c#
 ListViewItem item1 = new ListViewItem(new[] {"id123", "Tom", "24"});
 ListViewItem item2 = new ListViewItem(new[] {person.Id, person.Name, person.Age});
+lvPersons.Items.Add("id123"); // Alleen Text propertie wordt gevuld. Geen ListViewItem nodig
 lvPersons.Items.Add(item1);
 lvPersons.Items.Add(item2);
 ```
@@ -301,5 +302,6 @@ namespace Hfst03_ListViewExample
 ## Interessante bronnen
 
 [ListView Control (Windows Forms)](https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/listview-control-windows-forms) - Microsoft
+
 [How to: Display Subitems in Columns with the Windows Forms ListView Control](https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/how-to-display-subitems-in-columns-with-the-windows-forms-listview-control) - Microsoft
 
