@@ -15,6 +15,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 13.4 | ma 27 mei | zo 26 mei | woe 29 mei | zo 26 mei |
 | Opdracht 13.5 | ma 3 juni | zo 2 juni | woe 5 juni | zo 2 juni |
 | Eindopdracht | Vóór de toets | Vóór de toets | Vóór de toets | Vóór de toets| 
+| Toets |  |  |  |  | 
 
 <br>
 
