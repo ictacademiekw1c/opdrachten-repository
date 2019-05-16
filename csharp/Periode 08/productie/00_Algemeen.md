@@ -16,11 +16,11 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 3 Windows Forms NYCM | 26 april | 26 april | zo 5 mei |
 | Opdracht 4 Windows Forms Dominos | 10 mei | 9 mei | zo 12 mei |
 | Opdracht 5 Windows Forms NYCM 3-Tier | 17 mei | 16 mei | zo 19 mei |
-| Opdracht 6 Windows Forms NYCM SQL |  |  |  |
-| Opdracht 7 Windows Forms NYCM SQL Plus Update & Delete | |  |  |
+| Opdracht 6 Windows Forms NYCM SQL | 24 mei | 23 mei |  |
+| Opdracht 7 Windows Forms NYCM SQL Plus Update & Delete | 28 mei | 28 mei |  |
 |  |  |  |  |
-| Toets C# | 6 juni | 6 juni | 6 juni |
-| Herkansing C# |  |  |  |
+| Toets C# | 4 juni | 4 juni | -- |
+| Herkansing C# | 25 juni | 25 juni | 25 juni |
 
 
 
