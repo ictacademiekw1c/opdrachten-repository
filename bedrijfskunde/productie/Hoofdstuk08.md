@@ -1,8 +1,12 @@
 #### [kleurcode]rgba(154,67,234,1)
 
-# 6 Algoritme/Programmeren
+# 8 Intermezzo onderwerp - Algoritme/Programmeren
 
-## 6.1 Voorbeeld
+# 8.0 Inleiding 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Nua3Cjdik0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 8.1 Probleem
  
 Stel je hebt de getallen 1 t/m 10. Je wil alle getallen in een array stoppen, alleen heb je als restrictie dat er geen 2 getallen in 1 array mogen zitten die elkaars veelvoud zijn.
 Hoeveel arrays heb ik dan nodig voor deze 10 getallen?
@@ -22,7 +26,7 @@ __Uitwerking:__
 
 Ik heb hier 4 arrays voor nodig.
 
-## 6.2 De opdracht en strategie
+## 8.2 De opdracht en strategie
 
 ### Opdracht 
 
@@ -35,5 +39,3 @@ Stel ik heb nu de getallen 1 t/m 1000. Hoeveel verschillende arrays heb ik nu no
 3. Programmeer je code in je favoriete programmeertaal. Toon het resultaat aan je docent. Hoeveel arrays hebben 1000 getallen nodig?
 4. Wat is de oplossing als ik nu 10000 getallen heb? Hoeveel als ik 100000 getallen (van 1 tot 100000) heb?
 5. Kan je je algoritme nog verder optimaliseren?  
-
-
