@@ -21,28 +21,30 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 14.1, 14.2 |  Vrijdag 19 april 2019  |
 | Opdracht 15.1, 15.2, 15.3 |  Zondag 5 mei 2019  |
 | Opdracht 16.1, 16.2 |  Vrijdag 24 mei 2019  |
-| Opdracht 17.1 |  -  |
-| Opdracht 18.1 |  -  |
+| Opdracht 17.1 |  Maandag 3 juni 2019  |
+| Opdracht 18.1 |  Maandag 3 juni 2019   |
 <br> 
+
+**Let op: De uiterlijke aftekendatum van het huiswerk is maandag 3 juni 2019. Hierna wordt het huiswerk niet meer afgetekend.** 
 
 **Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
 
-## Toets Periode 7
+## Toets Periode 8
 ### Eerste kans
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
-| IO2A4 |  Woensdag 3 april 2019  |
-| IO2B4 |  Woensdag 3 april 2019  |
-| IO2C4 |  Woensdag 3 april 2019  |
+| IO2A4 |  Woensdag 5 juni 2019  |
+| IO2B4 |  Dinsdag 4 juni 2019  |
+| IO2C4 |  Dinsdag 4 juni 2019  |
 
 ### Herkansing
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
-| IO2A4 |  Maandag 15 april 2019  |
-| IO2B4 |  Maandag 15 april 2019  |
-| IO2C4 |  Maandag 15 april 2019  |
+| IO2A4 |  Dinsdag 25 juni 2019  |
+| IO2B4 |  Dinsdag 25 juni 2019  |
+| IO2C4 |  Dinsdag 25 juni 2019  |
 
 ## Editor
 Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.

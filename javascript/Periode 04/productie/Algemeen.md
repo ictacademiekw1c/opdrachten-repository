@@ -9,12 +9,13 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 |Opdracht              | &nbsp; &nbsp;  Deadline **IO1B4** &nbsp; |  &nbsp; &nbsp;  Deadline **IO1C4** &nbsp; |   &nbsp; &nbsp;  Deadline **IO1D4** &nbsp; | &nbsp; &nbsp;  Deadline **IO1E4** &nbsp; |
 |--------------------  |--------------- | --------- |
-| Opdracht 13.1 | | | | | 
-| Opdracht 13.2 | | | | | 
-| Opdracht 13.3 | | | | | 
-| Opdracht 13.4 | | | | |
-| Opdracht 13.5 | | | | |
+| Opdracht 13.1 | ma 6 mei  | zo 5 mei | woe  8 mei | zo 5 mei | 
+| Opdracht 13.2 | ma 13 mei | zo 12 mei | woe 15 mei| zo 12 mei  | 
+| Opdracht 13.3 | ma 20 mei | zo 19 mei | woe 22 mei | zo 19 mei | 
+| Opdracht 13.4 | ma 27 mei | zo 26 mei | woe 29 mei | zo 26 mei |
+| Opdracht 13.5 | ma 3 juni | zo 2 juni | woe 5 juni | zo 2 juni |
 | Eindopdracht | Vóór de toets | Vóór de toets | Vóór de toets | Vóór de toets| 
+| Toets |  |  |  |  | 
 
 <br>
 

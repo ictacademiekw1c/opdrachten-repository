@@ -182,7 +182,7 @@ namespace NewYorkCityMarathonHfst23
 
 
 
-##LINKS##
+##Interessante bronnen##
 [C# program structure](https://www.tutorialspoint.com/csharp/csharp_program_structure.htm) - Tutorial point
 
 [try {} catch {}](https://www.dotnetperls.com/catch) - dotnetperls

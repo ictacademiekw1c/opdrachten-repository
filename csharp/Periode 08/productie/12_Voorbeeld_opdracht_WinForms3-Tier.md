@@ -27,7 +27,7 @@ Keywords: *** DataSet, DataTable, Rows, Colums, Lists of data objects, List<T>, 
 
 - [Kennisgrammatica diagrammen -> OOP C# Windows Form applicatie](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/01.%20Reader/Leerlinggegevens3-Tier_kennis-Csh.xlsx) - Leerlinggegevens 3-Tier
 
-### Links
+### Interessante bronnen
 
 - [Understand 3- Tier Architecture in C#](https://www.codeproject.com/Tips/662107/Understand-Tier-Architecture-in-Csharp) - Codeproject
 - [Three Tier Architecture In ASP.NET](https://www.c-sharpcorner.com/UploadFile/5d683d/three-tier-architecture-in-Asp-Net/) - C# Corner

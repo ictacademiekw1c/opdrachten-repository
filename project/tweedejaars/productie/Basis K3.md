@@ -6,7 +6,7 @@
 
 ### Opdracht A
 
-Je stelt een acceptatietest op voor één van de functionaliteiten uit de applicatie. Je leidinggevende geeft aan voor welke functionaliteit uit het functioneel ontwerp jij een acceptatietest gaat maken.  
+Je stelt een acceptatietest op voor Ã©Ã©n van de functionaliteiten uit de applicatie. Je leidinggevende geeft aan voor welke functionaliteit uit het functioneel ontwerp jij een acceptatietest gaat maken.  
  
 1. Stel een acceptatietest op aan de hand van Sjabloon Acceptatietest, voor de aan jou toegewezen functionaliteit.  
     a. Vul de naam van de functionaliteit boven in het sjabloon in. 
