@@ -19,8 +19,8 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 6 Windows Forms NYCM SQL | 24 mei | 23 mei |  |
 | Opdracht 7 Windows Forms NYCM SQL Plus Update & Delete | 28 mei | 28 mei |  |
 |  |  |  |  |
-| Toets C# | 4 juni | 4 juni | -- |
-| Herkansing C# | 25 juni | 25 juni | 25 juni |
+| Toets C# | di 4 juni | di 4 juni | ma 3 juni                        |
+| Herkansing C# | di 25 juni | di 25 juni | di 25 juni |
 
 
 
