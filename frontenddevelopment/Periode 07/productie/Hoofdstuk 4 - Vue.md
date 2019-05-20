@@ -22,3 +22,21 @@ Installeren van VueJS m.b.v. CDN, NPM en CLI
 ## Oefening - Bouwen van een Single Page Application
 * <a href="https://scotch.io/tutorials/how-to-build-a-simple-single-page-application-using-vue-2-part-1/" target="_blank">https://scotch.io/tutorials/how-to-build-a-simple-single-page-application-using-vue-2-part-1</a><br>
 
+https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BK.07%20FrD%5D%20Keuzedeel%20%5BK0722%5D%20Frontend%20development/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/FD%20-%20Opdracht%205%20-%20Vue.pdf
+
+---
+## Opdracht 5 - Maak een compleet Vue-project met responsive en SEO
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BK.07%20FrD%5D%20Keuzedeel%20%5BK0722%5D%20Frontend%20development/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/02.%20Opdrachten/FD%20-%20Opdracht%205%20-%20Vue.pdf" target="_blank">Download opdracht 5</a>
+
+### Onderwerpen, o.a:
+*   Vue
+*   Responsive
+*   SEO
+
+### Benodigde bestanden
+* Je hebt geen extra bestanden nodig.
+
+
