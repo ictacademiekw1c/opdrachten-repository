@@ -6,11 +6,11 @@
 
 ## 5.2 Bronnen
 
-[Presentatie software licenties en auteursrecht](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%20les4_Ed.pptx)
+``toets`` [Presentatie software licenties en auteursrecht](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Bedrijfskunde%20les4_Ed.pptx)
 
-[Soorten Softwarelicenties](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Softwarelicentie.pdf)
+``toets`` [Soorten Softwarelicenties](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/Softwarelicentie.pdf)
 
-[Crash course on copyright](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Crash%20course%20on%20copyrights.pdf)
+``toets`` [Crash course on copyright](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Crash%20course%20on%20copyrights.pdf)
 
 ### Auteursrecht = copyright
 "Het auteursrecht is het uitsluitend recht van de maker van een werk van letterkunde, wetenschap of kunst, of van diens rechtverkrijgenden,<br> om dit openbaar te maken en te verveelvoudigen, behoudens de beperkingen, bij de wet gesteld." (Artikel 1 Auteurswet)
@@ -23,7 +23,7 @@
 
 ## 5.4 Lesopdracht Copyright
 
-In [crash course on copyright](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Crash%20course%20on%20copyrights.pdf)
+``toets`` In [crash course on copyright](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/Materiaal%2095311/Crash%20course%20on%20copyrights.pdf)
 wordt copyright of auteursrecht uitgebreid behandeld. <br>
 Haal uit deze tekst de antwoorden op de volgende vragen:
   
