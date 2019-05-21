@@ -1,10 +1,10 @@
 #### [kleurcode]rgba(154,39,176,1)
 
-##Opdrachten##
+## Opdrachten
 ---
 Tijdens de les ben je bezig met praktijkoefeningen Arduino. Voor dit praktijk gedeelte wordt je beoordeeld. Hier onder de instructies voor de oplevering van iedere opdracht.
 
-###Instructies###
+### Instructies 
 
 **Aftekenen van een praktijk opdracht:**
 - De schakeling die je in de les bouwt moet door de docent persoonlijk worden gecontroleerd.
@@ -44,12 +44,12 @@ Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 
 <strong>LET OP: Je mag pas verder met de volgende praktijkopdracht als de praktijk opdracht en het verslag is afgerond en goedgekeurd door de docent!</strong>
 
-###Benodigde bestanden###
+### Benodigde bestanden
 [Template Arduino verslag ](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Ontwikkeling/01.%20Reader/ProjectenArduino_Verslag%20template.docx)
 
 **Dit bestand moet je gebruiken voor je verslaglegging!**
 
-###Downloads###
+### Downloads
 **Opdracht 01, H-Brug L293D**
 
 - [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_ArduinoDeel2_Opdracht01.pdf)
@@ -65,13 +65,13 @@ Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 - [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_ArduinoDeel2_Opdracht03.pdf)
 
 ------------
-**Opdracht 04 - Motorshield v2.3 **
+**Opdracht 04 - Motorshield v2.3**
 
 - [Opdracht beschrijving](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/ProgrammerenCC++AO_lrjr2_ArduinoDeel2_Opdracht04.pdf)
 - [Manual Adafruit Motorshield](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-motor-shield-v2-for-arduino.pdf)
 
 **pagina 40 - Install Adafruit Motor Shield V2 library** voor het installeren van de juiste motor shield bibliotheken 
-**pagina 45 - Library Reference ** voor het creeren en gebruiken van een motor object.
+**pagina 45 - Library Reference** voor het creeren en gebruiken van een motor object.
 
 ------
 
