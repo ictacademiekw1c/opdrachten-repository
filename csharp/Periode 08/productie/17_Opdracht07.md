@@ -30,3 +30,9 @@ In Opdracht 7 moeten de de volgende onderwerpen uitgewerkt in de opdracht:
 
 [Opdracht 07](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/07_WinFormsNYCM_SQL_update_delete.xlsx) - **Windows New York City Marathon SQL![](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/images/NYCM-logo.jpg)
 
+[Screenplay opdracht 07](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Productie/02.%20Opdrachten/07_WinFormsNYCM_SQL_update_delete.mp4) - mp4 video
+
+
+
+
+

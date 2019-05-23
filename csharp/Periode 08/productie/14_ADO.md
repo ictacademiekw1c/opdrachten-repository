@@ -109,7 +109,7 @@ Ieder strongly typed command object ondersteund ook de [CommandType](https://doc
 
 
 
-| Methos    | Return Value                                                 |
+| Methods   | Return Value                                                 |
 | ------------------ | ------------------------------------------------------------ |
 | `ExecuteReader()`  | Geeft een `DataReader` object terug.                         |
 | `ExecuteScalar()`    | Geeft een enkele scalar waarde terug.                        |
