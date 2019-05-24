@@ -14,4 +14,4 @@
 
 ## 5. Commit en Push al je werk naar je Azure DevOps Pagina
 
-## 6. Houd je voortgang bij en bewaak je planning door afgewerkte onderdelen te verplaatsen naar 'in progress' of 'done'
+## 6. Houd je voortgang bij en bewaak je planning door afgewerkte onderdelen te verplaatsen naar __in progress__ of __done__
