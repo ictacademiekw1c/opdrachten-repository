@@ -32,6 +32,8 @@ __Links__
 
 [Sjabloon Programma van eisen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20Programma%20van%20Eisen.docx) 
 
+[Resultaten hardloopevenementen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/result_runs.xlsx) 
+
 ## 1.2 B1-K1-W2 Levert een bijdrage aan het projectplan
 
 ### Opdracht B: Projectplan
