@@ -11,11 +11,11 @@ Je stelt een acceptatietest op voor één van de functionaliteiten uit de applic
 1. Stel een acceptatietest op aan de hand van Sjabloon Acceptatietest, voor de aan jou toegewezen functionaliteit.  
     a. Vul de naam van de functionaliteit boven in het sjabloon in. 
     b. Vul per functionaliteit Actie, Scenario en Verwacht resultaat in.  
-    c. Maak gebruik van de volgende documenten/product. 
+    c. Maak gebruik van de volgende documenten/product: 
         i.   Vastgesteld Programma van eisen 
         ii.  Vastgesteld functioneel ontwerp 
         iii. Vastgesteld technisch ontwerp 
-        iv.  Gevulde database met deelnemers en resultaten over verschillende jaren
+        iv.  Gevulde database met deelnemers en resultaten van evenementen over verschillende jaren
         v.   De gebouwde applicatie  
  
 __Links__
