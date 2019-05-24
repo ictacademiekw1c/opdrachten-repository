@@ -10,7 +10,7 @@ __Verzamelen van gegevens__
 
     Je krijgt als input een aantal verslagen van een aantal contactmomenten tussen de klant en de softwareleverancier. 
 
-    Naar aanleiding van deze verslagen voer je de volgende stappen uit.
+    Naar aanleiding van deze verslagen voer je de volgende stappen uit:
     - Opstellen Programma van Eisen 
     - Vul het Programma van Eisen aan op basis van de verkregen informatie.  
 
@@ -22,7 +22,7 @@ __Opleveren Programma van Eisen__
  
 __Resultaat__ 
 
-    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op. 
+    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op: 
      - Een opgeleverde 'Programma van Eisen' 
      - Goedkeuring van de klant met betrekking tot de inhoud zodat je verder kan gaan met de volgende stap. 
 
@@ -49,7 +49,7 @@ __Communiceren met opdrachtgever__
  
 __Resultaat__ 
         
-    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op. 
+    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op: 
     - Het voorlopige projectplan
     - Een toelichting op het voorlopige projectplan
     - Het (aangepaste) definitieve projectplan 
@@ -83,7 +83,7 @@ __Communiceren met opdrachtgever__
  
 __Resultaat__
  
-    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op. 
+    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op: 
       - Een analyse
       - Een functioneel ontwerp
       - Een toelichting op het functioneel ontwerp
@@ -110,7 +110,7 @@ __Communiceren met opdrachtgever__
  
 __Resultaat__
  
-        Als resultaat van deze opdracht lever je de volgende producten en/of diensten op. 
+        Als resultaat van deze opdracht lever je de volgende producten en/of diensten op: 
         - Een technisch ontwerp
         - Een toelichting op het technisch ontwerp
         - Gevraagde goedkeuring 

@@ -53,7 +53,7 @@ Dit project moet je dus zeker niet gaan zien als onbelangrijke opvuller van het 
 |D. |Technisch ontwerp||
 |D1.|Goedkeuring TO||	
 |E. |Configuratie overzicht|||	
-
+<br>
 | B1-K2 | Onderdeel| Cijfer/Afteken|
 |-------|----------|---------------|
 |A. |Inrichting Azure DevOps||	
@@ -62,13 +62,13 @@ Dit project moet je dus zeker niet gaan zien als onbelangrijke opvuller van het 
 |C1.|(Bonus) Unit Test||	
 |D. |Testplan||
 |E. |Testlog||	
-|F. |Document versiebeheer||	
-
+|F. |Document versiebeheer|||	
+<br>
 | B1-K3 | Onderdeel| Cijfer/Afteken|
 |-------|----------|---------------|
 |A. |Testplan||
 |B. |Test Rapport||
-|C. |Evaluatie||
+|C. |Evaluatie|||
 																		
 
 
