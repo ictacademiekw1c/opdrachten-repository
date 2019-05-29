@@ -32,11 +32,11 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 ## Toets Periode 8
 ### Eerste kans
 
-| &nbsp;Klas              |  &nbsp;Datum en tijd ||
-|--------------------  |--------------- ||
-| IO2A4 |  Woensdag 5 juni 2019  ||
-| IO2B4 |  Woensdag 5 juni 2019  | __LET OP: DAG GEWIJZIGD!__ |
-| IO2C4 |  Woensdag 5 juni 2019  | __LET OP: DAG GEWIJZIGD!__ |
+| &nbsp;Klas              |  &nbsp;Datum en tijd |
+|--------------------  |--------------- |
+| IO2A4 |  Woensdag 5 juni 2019  |
+| IO2B4 |  Dinsdag 4 juni 2019  |
+| IO2C4 |  Dinsdag 4 juni 2019  |
 
 ### Herkansing
 
