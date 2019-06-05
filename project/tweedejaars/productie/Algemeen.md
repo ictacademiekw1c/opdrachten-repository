@@ -2,14 +2,14 @@
 
 ## 0.1 Inleiding
 
-Dit project start 13 juni 2019. In ruim 2 weken tijd zal er in groepsverband gewerkt worden aan het project 'Vestingloop'.
+Dit project start op 11 juni 2019. In ruim 2 weken tijd zal er in groepsverband gewerkt worden aan het project 'Vestingloop'.
 In dit project zullen de examenonderdelen B1-K1, B1-K2 en B1-K3 (zie de pagina's onder "Lessen") moeten worden uitgevoerd. 
 
-``De uiterlijke opleverdatum is woensdag 26 juni; ook alle producten daarvoor moeten voor deze datum opgeleverd zijn (documenten op N@tschool en code in de git repository van Azure DevOps). Maak voor jezelf een realistische planning en volg deze ook op. Ook je planning en voortgang wordt gemonitord via Azure DevOps en beoordeeld.``
+``De uiterlijke opleverdatum is dinsdag 25 of woensdag 26 juni. Alle producten moeten voor deze datum opgeleverd zijn (documenten op N@tschool en code in de git repository van Azure DevOps). Maak voor je groep een realistische planning en volg deze ook op. Ook jullie planning en voortgang wordt gemonitord via Azure DevOps en beoordeeld.``
 
 ## 0.2 Voorbereiding
 
-Iedere leerling zal een Azure DevOps pagina moeten aanmaken en deze moeten delen met een van de docenten: dhr. Saebu, dhr. Bijnen, dhr. Linsen of dhr. van Meer.
+Ieder groepje zal een Azure DevOps pagina moeten aanmaken en deze moeten delen met een van de docenten: dhr. Saebu, dhr. Bijnen, dhr. Linsen of dhr. van Meer.
 
 ## 0.3 Oplevering en beoordelings criteria
 
@@ -52,7 +52,7 @@ Dit project moet je dus zeker niet gaan zien als onbelangrijke opvuller van het 
 |C1.| Goedkeuring FO||	
 |D. |Technisch ontwerp||
 |D1.|Goedkeuring TO||	
-|E. |Configuratie overzicht||	
+|E. |Configuratie overzicht|||	
 
 | B1-K2 | Onderdeel| Cijfer/Afteken|
 |-------|----------|---------------|

@@ -8,7 +8,7 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
 ### Opdracht A: Maken van je werkplanning in de Microsoft Team Services onder 'Work'
 
     1. Ga uit van de opgeleverde documenten 'Vastgesteld functioneel ontwerp' en 'Vastgesteld technisch ontwerp'. 
-    2. Maak een planning voor het realiseren en het testen van de applicatie of voor onderdelen ervan.
+    2. Maak een planning voor het realiseren en het testen van de applicatie of voor onderdelen ervan:
         a. Maak hiervoor de backlog-items Realiseren en testen in sprint 1.
         b. Verdeel de back-log in verschillende te programmeren/testen taken
         c. Kijk dagelijks aan het begin van de dag en aan het eind van de dag of je taken naar een andere status kan plaatsen.
@@ -16,7 +16,7 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
 ### Opdracht B: Realiseren van de database
 
     Zet het databaseontwerp uit het technisch ontwerp om naar een database. 
-    Volg daarbij de volgende stappen. 
+    Volg daarbij de volgende stappen: 
 
       a. Maak of genereer een creatiescript van de database. 
       b. Voer het creatiescript op de database uit. 
@@ -25,19 +25,19 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
  
 ### Opdracht C: Realiseren van de applicatie
 
- Maak de onderdelen van de applicatie. 
+ Maak de onderdelen van de applicatie: 
         1. Voorzie de broncode van functioneel commentaar. 
         2. Maak hierbij gebruik van Coding conventions
         3. Beschrijf de realisatie in versiebeheer
 
 __Resultaat__
 
-        Als resultaat van deze opdracht lever je de volgende producten en/of diensten op.  
-        - Het creatiescript voor de database 
-        - Een (export van) de database gevuld met testdata
+        Als resultaat van deze opdracht lever je de volgende producten en/of diensten op:  
+        - Het creatiescript voor de database. 
+        - Een (export van) de database gevuld met testdata.
         - De broncode van onderdelen van de applicatie die je gemaakt hebt.
         - De werkende onderdelen van de applicatie die je gemaakt hebt.
-            - De applicatie is gebouwd met de volgende software standaard ideeen:
+        - De applicatie is gebouwd met de volgende software standaard ideeen:
                 a. OOP (Object oriented Programming)
                 b. 3-TIER; scheiding van Data, Business en Presentatielaag 
                 c. Coding conventions volgens bijlage

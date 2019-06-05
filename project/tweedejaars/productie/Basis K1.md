@@ -10,7 +10,7 @@ __Verzamelen van gegevens__
 
     Je krijgt als input een aantal verslagen van een aantal contactmomenten tussen de klant en de softwareleverancier. 
 
-    Naar aanleiding van deze verslagen voer je de volgende stappen uit.
+    Naar aanleiding van deze verslagen voer je de volgende stappen uit:
     - Opstellen Programma van Eisen 
     - Vul het Programma van Eisen aan op basis van de verkregen informatie.  
 
@@ -22,7 +22,7 @@ __Opleveren Programma van Eisen__
  
 __Resultaat__ 
 
-    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op. 
+    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op: 
      - Een opgeleverde 'Programma van Eisen' 
      - Goedkeuring van de klant met betrekking tot de inhoud zodat je verder kan gaan met de volgende stap. 
 
@@ -31,6 +31,8 @@ __Links__
 [Verslagen contactmomenten met Vestingloop](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Vestingloop.docx)
 
 [Sjabloon Programma van eisen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20Programma%20van%20Eisen.docx) 
+
+[Resultaten hardloopevenementen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/result_runs.xlsx) 
 
 ## 1.2 B1-K1-W2 Levert een bijdrage aan het projectplan
 
@@ -47,7 +49,7 @@ __Communiceren met opdrachtgever__
  
 __Resultaat__ 
         
-    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op. 
+    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op: 
     - Het voorlopige projectplan
     - Een toelichting op het voorlopige projectplan
     - Het (aangepaste) definitieve projectplan 
@@ -81,7 +83,7 @@ __Communiceren met opdrachtgever__
  
 __Resultaat__
  
-    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op. 
+    Als resultaat van deze opdracht lever je de volgende producten en/of diensten op: 
       - Een analyse
       - Een functioneel ontwerp
       - Een toelichting op het functioneel ontwerp
@@ -108,7 +110,7 @@ __Communiceren met opdrachtgever__
  
 __Resultaat__
  
-        Als resultaat van deze opdracht lever je de volgende producten en/of diensten op. 
+        Als resultaat van deze opdracht lever je de volgende producten en/of diensten op: 
         - Een technisch ontwerp
         - Een toelichting op het technisch ontwerp
         - Gevraagde goedkeuring 
