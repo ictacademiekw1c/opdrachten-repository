@@ -12,7 +12,7 @@ BMC is een moderne manier om een ondernemingsplan op te zetten.
 
 ## 7.2 Voorbeelden BMC
 
-Voorbeelden:
+``Toets``: Voorbeelden:
 - Facebook
 
 <img width="600" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.05%20BED%5D%20Bedrijfskunde/Productie/01.%20Reader/FacebookBMC.png" >
