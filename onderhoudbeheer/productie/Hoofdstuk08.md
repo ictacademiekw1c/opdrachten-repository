@@ -28,8 +28,11 @@ Laat je docent je DevOps omgeving zien.
 Omdat bij het opzetten van de DevOps er met Git gewerkt wordt en je een sprint moet gaan opzetten met de methodiek SCRUM/Agile wordt dit ook meegenomen in de toets van periode 4.
 Dus neem onderstaande linkjes ook mee in je samenvatting en toetsvoorbereiding.
 
-``Toets`` : [![Over Git en Github op youtube](http://img.youtube.com/vi/uUuTYDg9XoI/0.jpg)](http://www.youtube.com/watch?v=uUuTYDg9XoI)
+``Toets``: [![Over Git en Github op youtube](http://img.youtube.com/vi/uUuTYDg9XoI/0.jpg)](http://www.youtube.com/watch?v=uUuTYDg9XoI)
 
-``Toets`` : [![Nog meer Git op youtube](http://img.youtube.com/vi/OqmSzXDrJBk/0.jpg)](http://www.youtube.com/watch?v=OqmSzXDrJBk)
+``Toets``: [![Nog meer Git op youtube](http://img.youtube.com/vi/OqmSzXDrJBk/0.jpg)](http://www.youtube.com/watch?v=OqmSzXDrJBk)
 
-``Toets`` : [![Agile uitgelegd in een youtube video](http://img.youtube.com/vi/DvBKevrItcc/0.jpg)](http://www.youtube.com/watch?v=DvBKevrItcc)
+``Toets``: [![Agile uitgelegd in een youtube video](http://img.youtube.com/vi/DvBKevrItcc/0.jpg)](http://www.youtube.com/watch?v=DvBKevrItcc)
+
+``Toets``: [Taken Scrum Master](https://elo.kw1c.nl/Pages/ViewMP4.aspx?cpsysid=b1fee9a0-96f4-4203-8d74-35a3a83b1fc9)
+
