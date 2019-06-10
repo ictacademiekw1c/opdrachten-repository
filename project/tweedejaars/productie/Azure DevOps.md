@@ -4,7 +4,7 @@
 
 ### 1. Aanmaken Azure DevOps pagina
 
-### 2. Aanmaken project 'Vestingloop'
+### 2. Aanmaken project 'DisruptiveSports'
 
     Maak een project aan met GIT als versiebeheer en SCRUM als planningsmethodiek.
 
