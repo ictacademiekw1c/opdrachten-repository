@@ -8,31 +8,34 @@ Je stelt de informatiebehoefte vast voor het systeem en je legt deze vast in een
  
 __Verzamelen van gegevens__
 
-    Je krijgt als input een aantal verslagen van een aantal contactmomenten tussen de klant en de softwareleverancier. 
 
-    Naar aanleiding van deze verslagen voer je de volgende stappen uit:
+    Maak een afspraak met de opdrachtgever voor een gesprek om alle wensen en eisen te weten te komen voor de 1ste fase.
+
+    Bereid je als team hierop voor door een vragenlijst samen te stellen.
+
+    Tijdens het gesprek pas je LSD (luisteren, samenvatten en doorvragen toe).
+
+    Na het gesprek voer je de volgende stappen uit:
+    - Maak voor jezelf een verslag van het gesprek 
     - Opstellen Programma van Eisen 
     - Vul het Programma van Eisen aan op basis van de verkregen informatie.  
 
- 
 __Opleveren Programma van Eisen__ 
   
     - Lever het Programma van Eisen op in je portfolio.  
-    - Vraag om goedkeuring van de klant. 
+    - Vraag om goedkeuring van de klant/of je projectleider 
  
 __Resultaat__ 
 
     Als resultaat van deze opdracht lever je de volgende producten en/of diensten op: 
      - Een opgeleverde 'Programma van Eisen' 
-     - Goedkeuring van de klant met betrekking tot de inhoud zodat je verder kan gaan met de volgende stap. 
+     - Goedkeuring van de klant/projectleider met betrekking tot de inhoud zodat je verder kan gaan met de volgende stap. 
 
 __Links__
 
-[Verslagen contactmomenten met Vestingloop](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Vestingloop.docx)
 
 [Sjabloon Programma van eisen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/Sjabloon%20Programma%20van%20Eisen.docx) 
 
-[Resultaten hardloopevenementen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/result_runs.xlsx) 
 
 ## 1.2 B1-K1-W2 Levert een bijdrage aan het projectplan
 
