@@ -40,6 +40,8 @@ De ambities zijn sky high maar de eerste stappen moeten de komende weken alleree
 
 Deze centrale renners, loopevenementen database zal als bron dienen voor allerlei disruptive tools die pas in een latere fase zullen worden ontwikkeld. Totnutoe werden uitslagen vooral vanuit evenement.uitslagen.nl betrokken, maar dit bedrijf heeft niet de mogelijkheden en ambities om de plannen van ASICS te kunnen waarmaken. De data die vanuit uitslagen.nl in de afgelopen jaren is verzameld zal moeten worden overgeheveld naar de centrale database van Disruptive sports.
 
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/result_runs.xlsx">Platte data van uitslagen.nl</a>
+
 Komende dagen zal er een eerste gesprek moeten worden afgesproken om de precieze wensen en eisen boven water te gaan halen van de opdrachtgever (ASICS). 
 
 - De potentiele __klant__:
