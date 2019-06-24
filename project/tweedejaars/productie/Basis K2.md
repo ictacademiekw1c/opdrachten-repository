@@ -28,7 +28,7 @@ Aan de hand van het functioneel ontwerp en het technisch ontwerp maak je de appl
  Maak de onderdelen van de applicatie: 
         1. Voorzie de broncode van functioneel commentaar. 
         2. Maak hierbij gebruik van Coding conventions
-        3. Beschrijf de realisatie in versiebeheer
+        3. Beschrijf de realisatie in het 'document versiebeheer'
 
 __Resultaat__
 
