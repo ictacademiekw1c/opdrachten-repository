@@ -16,7 +16,7 @@ Ieder groepje zal een Azure DevOps pagina moeten aanmaken en deze moeten delen m
 - Ieder onderdeel bevat een aantal opdrachten en op te leveren producten.
 - Code zal per onderdeel moeten worden opgeleverd via Azure DevOps.
 - Word-documenten en/of andere Office 365 of Visio bestanden zullen in de eigen portfolio moeten worden opgeleverd in de map die gekoppeld is aan de de studieroute waarin dit project portaal is toegevoegd. 
-- De planning zal aanwezig moeten zijn in het document 'Project plan', maar ook in het Azure DevOps project 'Vestingloop' in de vorm van 1 sprint en gedetailleerde Backlog-items, die weer onderverdeeld zijn in taken.
+- De planning zal aanwezig moeten zijn in het document 'Project plan', maar ook in het Azure DevOps project 'Disruptive Sports' in de vorm van 1 sprint en gedetailleerde Backlog-items, die weer onderverdeeld zijn in taken.
 - Per dag zal het groepje verantwoording moeten afleggen op zijn planning en voortgang. 
 
 ``Het uiteindelijke project zal één cijfer opleveren en op het rapport verschijnen.``
