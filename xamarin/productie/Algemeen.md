@@ -1,3 +1,5 @@
+#### [kleurcode]rgba(116,217,6, 1)
+
 # 0. Ontwikkelen van Android Apps met Xamarin.Forms in Visual Studio
 
 ## 0.1 Algemeen 
