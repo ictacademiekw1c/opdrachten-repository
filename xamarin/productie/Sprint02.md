@@ -31,7 +31,7 @@ Voor onderstaande opdrachten is onderstaande link naar een workshop je belangrij
 ## Opdracht 2.2
 ---
 
-Download hier de opdracht <a href='linkjekomtzonog'>"De ontwikkelaar kan gebruik maken van het DevOps project"</a>
+Download hier de opdracht <a href='linkjekomtzonog'>"De ontwikkelaar kan een complexere master detail App bouwen"</a>
 
 ### Download
 
