@@ -1,29 +1,28 @@
 # 0. Ontwikkelen van Android Apps met Xamarin.Forms in Visual Studio
 
-## 0.1 Algemeen
+## 0.1 Algemeen 
 
-In periode 9 worden 7 opdrachten opgegeven. Het zijn allemaal losstaande Android Apps, die individueel moeten worden gemaakt en opgeleverd.
+In deze studieroute leren we hoe we in Visual Studio Native Android Apps kunnen ontwikkelen in de programmeertaal die jullie in leerjaar 2 gehad hebben: C#.
 
-## 0.2  Planning, Uitvoeren van opdrachten, Versiebeheer, oplevering
+Het testen van de ontwikkelde Apps doen we op onze eigen Android devices of op de devices die het KW1C speciaal voor deze studieroute heeft aangeschaft. Als beide opties niet voorhanden zijn dan kan er ook altijd getest worden op de android emulator die standaard ook in Visual Studio is opgenomen.
 
-We gaan werken (individueel) in Visual Studio Team Services van Microsoft.
+In periode 9/10 bouwen we tussen de 6-8 Apps waarin we stapsgewijs steeds meer gaan leren hoe we een professionele Native App kunnen bouwen.
 
-Je hebt Visual Studio 2017 Enterprise versie geinstalleerd op je laptop.
+Deze studieroute heeft zeker in de eindfase veel overlap met de C# studieroute van dit schooljaar. De Xaml bestanden en de bijbehorende te programmeren logica heeft veel gelijkenissen met het bouwen van Windows C# applicaties in WPF.
 
-__Stappenplan__
+## 0.2  Opdrachten, repostories en sprints.
 
-1. Op de site van microsoft maak je een visual studio team services account aan.
+In dit vak en bij deze opdrachten werken we in Visual Studio gecombineerd met de DevOps omgeving die gekoppeld is met ieders Azure portaal.
 
-Maak in het dashboard een project/team aan..
+Naast het verder ontwikkelen van je C# vaardigheden leer je in deze studieroute:
+- Ontwikkelen van applicaties in verschillende omgevingen en ontwikkeltools (Windows, Android - C#, WPF, XAML - Android SDK, .Net)
+- Verder ontwikkelen van je probleemoplossende (lees-/analytische) vaardigheden
+- Basiskennis m.b.t. Android Apps
+- Inzicht in hoe Apps werken en wat er bij komt kijken
 
-![Dashboard](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/dashboardmts.png?raw=true)
+__Opbrengst__
 
-En maak daar een nieuw project aan met de naam Xamarin of Android Apps:
-
-![Nieuw project](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/tsproject.png?raw=true)
-
-De volgende stappen zijn in Visual Studio:
-
-![Connecten](https://github.com/ictacademiekw1c/opdrachten-repository/blob/master/xamarin/images/connectmts.png?raw=true)
+- C# WPF oefeningen richting het examen
+- Waardevolle basiskennis en vaardigheden als je verder wil als App ontwikkelaar
 
 ...
