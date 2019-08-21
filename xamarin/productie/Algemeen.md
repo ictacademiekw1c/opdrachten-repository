@@ -10,7 +10,7 @@ In periode 9/10 bouwen we tussen de 6-8 Apps waarin we stapsgewijs steeds meer g
 
 Deze studieroute heeft zeker in de eindfase veel overlap met de C# studieroute van dit schooljaar. De Xaml bestanden en de bijbehorende te programmeren logica heeft veel gelijkenissen met het bouwen van Windows C# applicaties in WPF.
 
-## 0.2  Opdrachten, repostories en sprints.
+## 0.2  Opdrachten, repositories en sprints.
 
 In dit vak en bij deze opdrachten werken we in Visual Studio gecombineerd met de DevOps omgeving die gekoppeld is met ieders Azure portaal.
 
