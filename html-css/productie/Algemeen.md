@@ -64,9 +64,26 @@ Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscri
 ## Quizzen
 
 Als we een aantal hoofdstukken behandeld hebben, dan zal er een quiz plaats vinden. Deze quiz maak je alleen en tijdens de les. Het resultaat van deze quiz telt mee voor je huiswerkcijfer. Op basis van het aantal goed antwoorden wordt het aantal punten berekend:
-*   75% of meer goed --> 2 punten
-*   50% tot 75% goed --> 1 punt
-*   Minder dan 50% goed --> 0 punten
+
+<table><thead>
+<tr>
+<th></th>
+<th align="left">Redenatie</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>0</td>
+<td align="left">Minder dan 50% goed</td>
+</tr>
+<tr>
+<td>1</td>
+<td align="left">50% tot 75% goed</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="left">75% of meer goed</td>
+</tr>
+</tbody></table>
 
 ## Periodecijfer
 
