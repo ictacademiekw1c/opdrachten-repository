@@ -1,8 +1,8 @@
 ####[kleurcode]rgba(239,108,0,1)
 
-#ADO #
+# ADO
 
-##Koppelingen met een SQL database#
+## Koppelingen met een SQL database
 
 In deze sectie gaan we specifiek in op de verbinding met een SQL database. Deze verbinding maken onderhouden en data over uitwisselen is een taak van de **Data Access Layer**.
 
@@ -16,7 +16,18 @@ Keywords: ***SqlConnection, configurationStrings, ConfigurationManager, SqlComma
 
 ## Verbinden met een SQL Server
 
-De volgende code geeft een voorbeeld van het creeren en openen van een verbinding met een SQL Server database.
+De .NET Framework Data Provider voor SQL Server gebruikt een  [SqlConnection](<https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlconnection?view=netframework-4.8>) klasse om een verbinding te maken naar een SQL database. De klasse heeft een aantal methods en properties tot beschikking Om de verbinding op te bouwen en te sluiten.
+
+| Property               | Description                                                  |
+| ---------------------- | ------------------------------------------------------------ |
+| ```ConnectionString``` | Verbindings string voor de database. Bevat het pad naar de server, de database naam en de inloggevens op de database |
+
+| Methods       | Description                                                  |
+| ------------- | ------------------------------------------------------------ |
+| ```Open()```  | Object opent de verbinding met de database. Hierbij wordt gebruik gemaakt van de inloggevens die beschreven zijn in de ConnectionString. |
+| ```Close()``` | Object sluit de verbinding met de database. <br>**Let op: sluit altijd de verbinding als je hem niet meer nodig hebt.** |
+
+De volgende code geeft een voorbeeld van het creeren en openen van een verbinding met een SQL Server database. Hier wordt de connectionstring al meegegeven met de constructor van het connection object.
 
 ```c#
 // Er van uitgaand dat de connectionString een geldige connection string is.  
@@ -78,16 +89,15 @@ Om je connectionstring te gebruiken in de code gebruik je de Configuration Setti
 string connectionString = ConfigurationManager.ConnectionStrings["myConnectionString"].ConnectionString;
 ```
 
-##    Uitvoeren van een SQL Command
+##   Versturen van een Sql commando
 
-De .NET Framework Data Provider voor SQL Server gebruikt een  [SqlCommand](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand) object die een aantal methods tot beschikking heeft om SQL commando's te kunnen uitvoeren. De keuze welk commando geschikt is afhankelijk van het type commando en de gewenste return waarde van de SQL database. 
+De .NET Framework Data Provider voor SQL Server gebruikt een  [SqlCommand](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand) klasse om data naar een SQL database te sturen. De klasse heeft een aantal methods en properties tot beschikking heeft om SQL commando's uit te voeren. De keuze welk commando geschikt is afhankelijk van het type commando en de gewenste return waarde van de SQL database. 
 
-| Command            | Return Value                                                 |
-| ------------------ | ------------------------------------------------------------ |
-| `ExecuteReader`    | Geeft een `DataReader` object terug.                         |
-| `ExecuteScalar`    | Geeft een enkele scalar waarde terug.                        |
-| `ExecuteNonQuery`  | Voert het commando uit en geeft geen rij inhoud terug.       |
-| `ExecuteXMLReader` | Geeft een  [XmlReader](https://docs.microsoft.com/en-us/dotnet/api/system.xml.xmlreader) object terug. Dit is alleen beschikbaar voor het `SqlCommand` object. |
+| Property          | Description                                                  |
+| ----------------- | ------------------------------------------------------------ |
+| ```Connection```  | Het *SqlConnection* object wat gebruikt wordt om het Sql commando te versturen. |
+| ```CommandType``` | Geeft het type command aan zie voor onderstaande lijst welke CommandTypes er zijn. |
+| ```CommandText```  | De commando tekst die naar de Sql server wordt verstuurd. De keuze welk commando geschikt is afhankelijk van het type commando en de gewenste return waarde van de SQL database. |
 
 Ieder strongly typed command object ondersteund ook de [CommandType](https://docs.microsoft.com/en-us/dotnet/api/system.data.commandtype) enumeration die specificeerd hoe de command string moet worden geinterpreteerd, zoals beschreven in de volgende tabel.
 
@@ -96,6 +106,15 @@ Ieder strongly typed command object ondersteund ook de [CommandType](https://doc
 | `Text`            | An SQL command defining the statements to be executed at the data source. |
 | `StoredProcedure` | De naam van een stored procedure. Je kunt de  `Parameters` propertie van het command gebruiken om toegang te krijgen tot de input en output parameters en return waarden, ongeacht welk `Execute` method wordt aangeroepen. Wanneer `ExecuteReader` wordt gebruikt zijn de return waarde en de output parameters niet toegankelijk totdat de `DataReader` is gesloten. |
 | `TableDirect`     | De naam van een tabel.                                       |
+
+
+
+| Methods   | Return Value                                                 |
+| ------------------ | ------------------------------------------------------------ |
+| `ExecuteReader()`  | Geeft een `DataReader` object terug.                         |
+| `ExecuteScalar()`    | Geeft een enkele scalar waarde terug.                        |
+| `ExecuteNonQuery()`  | Voert het commando uit en geeft geen rij inhoud terug.       |
+| `ExecuteXMLReader()` | Geeft een  [XmlReader](https://docs.microsoft.com/en-us/dotnet/api/system.xml.xmlreader) object terug. Dit is alleen beschikbaar voor het `SqlCommand` object. |
 
 ## Voorbeeld
 
@@ -142,10 +161,6 @@ static void GetSalesByCategory(string connectionString,
  ```
 
 
-
-###Downloads###
-
-- 
 
 ### Interessante bronnen
 

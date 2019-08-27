@@ -61,12 +61,34 @@ Voor opdrachten vanaf hoofdstuk 3 gelden de volgende aanvullende beoordelingscri
 *   ID's en classes worden benoemd volgens de camelCase methode. Starten met een kleine letter met het eventuele woord dat daar op volgt startend met een hoofdletter.
 *   Lege elementen worden <strong>niet</strong> afgesloten met een "/"-teken.
 
+## Quizzen
+
+Als we een aantal hoofdstukken behandeld hebben, dan zal er een quiz plaats vinden. Deze quiz maak je alleen en tijdens de les. Het resultaat van deze quiz telt mee voor je huiswerkcijfer. Op basis van het aantal goed antwoorden wordt het aantal punten berekend:
+
+<table><thead>
+<tr>
+<th></th>
+<th align="left">Redenatie</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>0</td>
+<td align="left">Minder dan 50% goed</td>
+</tr>
+<tr>
+<td>1</td>
+<td align="left">50% tot 75% goed</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="left">75% of meer goed</td>
+</tr>
+</tbody></table>
+
 ## Periodecijfer
 
 Gedurende deze periode behaal je in totaal 2 cijfers.
-* Cijfer A: Huiswerkopdrachten
+* Cijfer A: Opdrachten (huiswerk + quizzen)
 * Cijfer B: Toets
 
 Periodecijfer = (Cijfer A + (cijfer B * 3)) / 4
-
-#### [setSubMenuHeader]Testingsss

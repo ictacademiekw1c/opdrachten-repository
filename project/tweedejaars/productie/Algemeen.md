@@ -2,21 +2,21 @@
 
 ## 0.1 Inleiding
 
-Dit project start 13 juni 2019. In ruim 2 weken tijd zal er in groepsverband gewerkt worden aan het project 'Vestingloop'.
+Dit project start op 11 juni 2019. In ruim 2 weken tijd zal er in groepsverband gewerkt worden aan het project 'Disruptive sports'.
 In dit project zullen de examenonderdelen B1-K1, B1-K2 en B1-K3 (zie de pagina's onder "Lessen") moeten worden uitgevoerd. 
 
-``De uiterlijke opleverdatum is woensdag 26 juni; ook alle producten daarvoor moeten voor deze datum opgeleverd zijn (documenten op N@tschool en code in de git repository van Azure DevOps). Maak voor jezelf een realistische planning en volg deze ook op. Ook je planning en voortgang wordt gemonitord via Azure DevOps en beoordeeld.``
+``De uiterlijke opleverdatum is dinsdag 25 of woensdag 26 juni. Alle producten moeten voor deze datum opgeleverd zijn (documenten op N@tschool en code in de git repository van Azure DevOps). Maak voor je groep een realistische planning en volg deze ook op. Ook jullie planning en voortgang wordt gemonitord via Azure DevOps en beoordeeld.``
 
 ## 0.2 Voorbereiding
 
-Iedere leerling zal een Azure DevOps pagina moeten aanmaken en deze moeten delen met een van de docenten: dhr. Saebu, dhr. Bijnen, dhr. Linsen of dhr. van Meer.
+Ieder groepje zal een Azure DevOps pagina moeten aanmaken en deze moeten delen met een van de docenten: dhr. Saebu, dhr. Bijnen, dhr. Linsen of dhr. van Meer.
 
 ## 0.3 Oplevering en beoordelings criteria
 
 - Ieder onderdeel bevat een aantal opdrachten en op te leveren producten.
 - Code zal per onderdeel moeten worden opgeleverd via Azure DevOps.
 - Word-documenten en/of andere Office 365 of Visio bestanden zullen in de eigen portfolio moeten worden opgeleverd in de map die gekoppeld is aan de de studieroute waarin dit project portaal is toegevoegd. 
-- De planning zal aanwezig moeten zijn in het document 'Project plan', maar ook in het Azure DevOps project 'Vestingloop' in de vorm van 1 sprint en gedetailleerde Backlog-items, die weer onderverdeeld zijn in taken.
+- De planning zal aanwezig moeten zijn in het document 'Project plan', maar ook in het Azure DevOps project 'Disruptive Sports' in de vorm van 1 sprint en gedetailleerde Backlog-items, die weer onderverdeeld zijn in taken.
 - Per dag zal het groepje verantwoording moeten afleggen op zijn planning en voortgang. 
 
 ``Het uiteindelijke project zal één cijfer opleveren en op het rapport verschijnen.``
@@ -32,43 +32,29 @@ Dit project moet je dus zeker niet gaan zien als onbelangrijke opvuller van het 
 
 ## 0.5 De concrete bedrijfssituatie
 
-- De __klant__: De organisatie achter het evenement de [Vestingloop](http://vestingloop.nl) en de hoofdsponsor die ook de kosten van dit IT-project zullen gaan bekostigen is [Brand Loyalty](https://www.brandloyalty-int.com/nl-NL/home/).
-  De project manager die ook werkzaam is bij BrandLoyalty en ook de coordinator is van de Vestingloop. 
+Jullie werken als junior software ontwikkelaars in de startup bedrijf "Disruptive sports – Artintelligent social sporting tools" dat vorig jaar is opgericht door pas afgestudeerde leerlingen van het MBO college van de ICT academie. De oprichters Trevi A en Jordi van der H. zijn 2 jaar achtereen verkozen in de top 500 door the next web (thenextweb.nl) als de meest belovende digitale talenten van het jaar. Beide hebben reeds meerdere hackathons gewonnen met innovatieve Apps en hebben vanuit de sportwereld en in het bijzonder vanuit het bekende sportmerk ASICS het verzoek gehad om allerlei leuke verslavende en disruptive tools te verzinnen op het gebied van social sporting. 
 
-- Waar jullie werken als junior programmeur: 'New Kids From The Blockchain' (NKftBC) een __startup bedrijf__ dat gevestigd is in de binnenstad van 's-Hertogenbosch.
+Door allerlei Apps in te zetten bij sportevenementen en het daarmee verzamelen van zoveel mogelijk data (denk aan GPS en allerlei sensoren) en het opbouwen van een social netwerk gelinkt aan Facebook, Instagram, snapchat, discord etc. wil ASICS artificial intelligence en slimme zelflerende algortimes in gaan zetten om customized content en tailormade services just on the right moment - at the right place te deployen en de sportwereld op disruptieve manier volledig te transformeren.
+
+De ambities zijn sky high maar de eerste stappen moeten de komende weken allereerst worden gezet door een database op te zetten waarin renners resultaten van een aantal loopevementen (alle loopevenementen in Nederland en in latere fases ook van de hele wereld) zullen moeten worden opgeslagen. 
+
+Deze centrale renners, loopevenementen database zal als bron dienen voor allerlei disruptive tools die pas in een latere fase zullen worden ontwikkeld. Totnutoe werden uitslagen vooral vanuit evenement.uitslagen.nl betrokken, maar dit bedrijf heeft niet de mogelijkheden en ambities om de plannen van ASICS te kunnen waarmaken. De data die vanuit uitslagen.nl in de afgelopen jaren is verzameld zal moeten worden overgeheveld naar de centrale database van Disruptive sports.
+
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/Vestingloop%2025187/result_runs.xlsx">Platte data van uitslagen.nl</a>
+
+Komende dagen zal er een eerste gesprek moeten worden afgesproken om de precieze wensen en eisen boven water te gaan halen van de opdrachtgever (ASICS). 
+
+- De potentiele __klant__:
+ASICS
+
+Zie asics.nl en myasics.com
 
 - De vakdocenten zullen in dit project de rol spelen van de klant of de contactpersoon bij de klant en/of jullie eigen projectmanager binnen het IT bedrijf waar jullie werken. 
 
-## 0.6 Beoordelingsmatrix project
+## 0.6 Beoordelingsformulier K1 t/m K3
 
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/B-B1-K1.xlsm" target="_new">Beoordelingsformulier K1</a>
 
-| B1-K1 | Onderdeel| Cijfer/Afteken|
-|-------|----------|---------------|
-|A. |Programma van Eisen|       |	
-|A1.|Goedkeuring PvE||
-|B. |Projectplan	||
-|B1.|Goedkeuring projectplan||	
-|C. |Functioneel ontwerp||	
-|C1.| Goedkeuring FO||	
-|D. |Technisch ontwerp||
-|D1.|Goedkeuring TO||	
-|E. |Configuratie overzicht||	
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/B-B1-K2.xlsm" target="_new">Beoordelingsformulier K2</a>
 
-| B1-K2 | Onderdeel| Cijfer/Afteken|
-|-------|----------|---------------|
-|A. |Inrichting Azure DevOps||	
-|B. |Database (/documentatie)||
-|C. |Applicatie (+/documentatie)||
-|C1.|(Bonus) Unit Test||	
-|D. |Testplan||
-|E. |Testlog||	
-|F. |Document versiebeheer||	
-
-| B1-K3 | Onderdeel| Cijfer/Afteken|
-|-------|----------|---------------|
-|A. |Testplan||
-|B. |Test Rapport||
-|C. |Evaluatie||
-																		
-
-
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/B-B1-K3.xlsm" target="_new">Beoordelingsformulier K3</a>

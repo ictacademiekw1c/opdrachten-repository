@@ -4,20 +4,20 @@
 
 - Bij geautomatiseerd testen is de belangrijkste term __Assert__
 
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/124398_02_02_BC30_Assertions.mp4" target="_new">Uitleg Assert</a>
+``Toets``: <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/124398_02_02_BC30_Assertions.mp4" target="_new">Uitleg Assert</a>
 
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/124398_02_03_BC30_AssertCode.mp4" target="_new">Assert in code?</a>
+``Toets``: <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/124398_02_03_BC30_AssertCode.mp4" target="_new">Assert in code?</a>
 
 
 - Wat is de assert klasse?
 __Assert Klasse__
 
-  <a href="https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.testtools.unittesting.assert.aspx" target="_blank">Naslag Assert klasse</a>
+``Toets``: <a href="https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.testtools.unittesting.assert.aspx" target="_blank">Naslag Assert klasse</a>
 
 
 ## 7.2 Geautomatiseerd testen met een unittest
 
-Voorbeeld van een unittest in een c# console applicatie.
+``Toets``: Voorbeeld van een unittest in een c# console applicatie.
 
 __Voorbeeld code om te testen__ :
 
