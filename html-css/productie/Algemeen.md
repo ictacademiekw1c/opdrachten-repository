@@ -73,17 +73,18 @@ Als we een aantal hoofdstukken behandeld hebben, dan zal er een quiz plaats vind
 </thead><tbody>
 <tr>
 <td>0</td>
-<td align="left">Minder dan 50% goed</td>
+<td align="left">Minder dan 55% goed</td>
 </tr>
 <tr>
 <td>1</td>
-<td align="left">50% tot 75% goed</td>
+<td align="left">55% tot 80% goed</td>
 </tr>
 <tr>
 <td>2</td>
-<td align="left">75% of meer goed</td>
+<td align="left">80% of meer goed</td>
 </tr>
 </tbody></table>
+
 
 ## Periodecijfer
 
