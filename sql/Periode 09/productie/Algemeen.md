@@ -19,31 +19,32 @@ De SQL kennis die is opgedaan in leerjaar 1 en 2.
 
 ## Onderwerpenlijst periode 9/10 
 
+    A. Herhaling verdieping SQL
+
     - Verschillen Joins/Subqueries/Unions?
     - Soorten Joins
     - Unions, EXCEPT en INTERSECT
-
     (- Subqueries en VIEW)
     - GROUP BY in combinatie met HAVING en AGGREGAAT functies
 
+    B. Rapportages
     - Rapportages met Crystal reports
 
-    - Database administratie
-        - Creeren en verwijderen van een database
-        - Backup & Restore
-        (- Autorisatie en rollen)
-        - Import/export van gegevens via o.a. xml
+    C. Database administratie
+    - Creeren en verwijderen van een database
+    - Backup & Restore
+    - Import/export van gegevens via o.a. xml
  
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
 
 | &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4, IO3C4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
-| Opdracht 1 Movies    | 7 sep |
-| Opdracht 2 Crystal Reports 1 |  7 nov |
-| Opdracht 3 Crystal Reports Factuur | 9 nov |
-| Opdracht 4 Crystal Reports Movies | 16 nov |
-| Opdracht 5 Database/SQL | 23 nov  |
+| Opdracht 1 Movies    |  |
+| Opdracht 2 Crystal Reports 1 |   |
+| Opdracht 3 Crystal Reports Factuur |  |
+| Opdracht 4 Crystal Reports Movies |  |
+| Opdracht 5 Database/SQL |   |
 
 <br> 
 
@@ -102,7 +103,7 @@ Voor de opdrachten gelden de volgende aanvullende beoordelingscriteria:
 
 In het examenjaar worden geen periodecijfers meer gegeven, maar een negatieve beoordeling kan betekenen dat de leerling niet voor het PVB op mag gaan.
 
-Ook dit vak telt dus mee voor de vaststelling of je wel niet op mag voor het PVB in januari.
+Ook dit vak telt dus mee voor de vaststelling of je wel niet op mag voor het PVB in december/januari.
 
 ## Hulpmiddelen
 * <a href="https://www.w3schools.com/sql/" target="_blank">SQL op W3Schools</a>
