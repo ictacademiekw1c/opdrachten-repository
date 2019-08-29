@@ -11,14 +11,14 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 
 |&nbsp;Opdracht         | &nbsp; &nbsp; Deadline **IO2A4**| &nbsp; &nbsp; Deadline **IO2B4**| 
 |---------------  |--------------- | --------- |
-| Opdracht 1.1 | | |
-| Opdracht 2.1 | | |
-| Opdracht 3.1, 3.2 en 3.3 | | |
-| Opdracht 4.1, 4.2 | | |
-| Opdracht 5.1, 5.2 | | |
-| Opdracht 5.3 | | |
-|  |  |  |
-| PVB oefening | | |
+| Opdracht 1.1 				| | |
+| Opdracht 2.1 				| | |
+| Opdracht 3.1, 3.2 en 3.3 	| | |
+| Opdracht 4.1, 4.2 		| | |
+| Opdracht 5.1, 5.2 		| | |
+| Opdracht 5.3 				| | |
+| PVB oefening 				| | |
+| PVB oefening 				| | |
 
 Lever de opdrachten in via je in opdracht 1.1 aan te maken DevOps Project.
 
