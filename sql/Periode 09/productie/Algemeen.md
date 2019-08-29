@@ -17,6 +17,11 @@ De SQL kennis die is opgedaan in leerjaar 1 en 2.
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/Opdrachtenportaal/opdrachtenportaal-master/index.html">De opdrachtenportaal SQL van het tweede leerjaar</a>
 
+
+Hoe actueel is SQL nog voor applicatieontwikkelaar?
+
+<a href="https://www.jetbrains.com/lp/devecosystem-2019/?utm_source=facebook&utm_medium=cpc&utm_campaign=emea_en_emea_fb_devecosystem2019_rem&fbclid=IwAR10fPnpz9e2OIb0kAjVq3JYDccPuUL_cimE6BZdWjZxhDwUVKjkdbmw-7c" target="_new">The state of Developer Ecosystem 2019</a>
+
 ## Onderwerpenlijst periode 9/10 
 
     A. Herhaling verdieping SQL
