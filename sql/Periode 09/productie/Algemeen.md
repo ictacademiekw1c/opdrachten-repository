@@ -17,33 +17,41 @@ De SQL kennis die is opgedaan in leerjaar 1 en 2.
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/Opdrachtenportaal/opdrachtenportaal-master/index.html">De opdrachtenportaal SQL van het tweede leerjaar</a>
 
+
+Hoe actueel is SQL nog voor een applicatieontwikkelaar?
+
+<a href="https://www.jetbrains.com/lp/devecosystem-2019/?utm_source=facebook&utm_medium=cpc&utm_campaign=emea_en_emea_fb_devecosystem2019_rem&fbclid=IwAR10fPnpz9e2OIb0kAjVq3JYDccPuUL_cimE6BZdWjZxhDwUVKjkdbmw-7c" target="_new">The state of Developer Ecosystem 2019</a>
+
 ## Onderwerpenlijst periode 9/10 
+
+    A. Herhaling verdieping SQL
 
     - Verschillen Joins/Subqueries/Unions?
     - Soorten Joins
     - Unions, EXCEPT en INTERSECT
-
     (- Subqueries en VIEW)
     - GROUP BY in combinatie met HAVING en AGGREGAAT functies
 
+    B. Rapportages 
+    
     - Rapportages met Crystal reports
 
-    - Database administratie
-        - Creeren en verwijderen van een database
-        - Backup & Restore
-        (- Autorisatie en rollen)
-        - Import/export van gegevens via o.a. xml
+    C. Database administratie MSSQL
+
+    - Creeren en verwijderen van een database
+    - Backup & Restore
+    - Import/export van gegevens via o.a. xml
  
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
 
-| &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4, IO3C4 &nbsp; &nbsp; |
+| &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
-| Opdracht 1 Movies    | 7 sep |
-| Opdracht 2 Crystal Reports 1 |  7 nov |
-| Opdracht 3 Crystal Reports Factuur | 9 nov |
-| Opdracht 4 Crystal Reports Movies | 16 nov |
-| Opdracht 5 Database/SQL | 23 nov  |
+| Opdracht 1 Movies    |  |
+| Opdracht 2 Crystal Reports 1 |   |
+| Opdracht 3 Crystal Reports Factuur |  |
+| Opdracht 4 Crystal Reports Movies |  |
+| Opdracht 5 Database/SQL |   |
 
 <br> 
 
@@ -102,7 +110,7 @@ Voor de opdrachten gelden de volgende aanvullende beoordelingscriteria:
 
 In het examenjaar worden geen periodecijfers meer gegeven, maar een negatieve beoordeling kan betekenen dat de leerling niet voor het PVB op mag gaan.
 
-Ook dit vak telt dus mee voor de vaststelling of je wel niet op mag voor het PVB in januari.
+Ook dit vak telt dus mee voor de vaststelling of je wel niet op mag voor het PVB in december/januari.
 
 ## Hulpmiddelen
 * <a href="https://www.w3schools.com/sql/" target="_blank">SQL op W3Schools</a>
