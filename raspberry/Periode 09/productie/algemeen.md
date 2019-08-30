@@ -33,18 +33,17 @@ Hier enkele voorbeelden van oplossingen:
 | ma 16 sept 		| 4 					|  	Realiseren			| Sprint 2				|						|
 | ma 23 sept 		| 5 					|  	Realiseren			| Sprint 3				| Tussentijdse presentatie |
 | ma 30 sept 		| 6 					|  	Realiseren			| Sprint 4				|						|
-| ma 7 okt 		| 7 					|  	Realiseren			| Sprint 5				|						|
+| ma 7 okt 			| 7 					|  	Realiseren			| Sprint 5				|						|
 | ma 14 okt 		| Herfstvakantie		|  						| 						|						|
 | ma 21 okt 		| 8 					|  	Testen			| Testen + verbetervoorstellen				|						|
 | ma 28 okt 		| 9 					|  	Optimaliseren		| Sprint 6				|						|
 | ma 4 nov	 		| 10 					|  	Opleveren			| Eindpresentatie		|						|
 
-**Opleveren voor of op de deadline levert 2 punten op na goedkeuring door docent**
-
-``Opleveren (voor 1 punt) kan tot uiterlijk een week na de deadline``
 
 ##Project management
-SCRUM in combinatie met [ICE](http://www.denkvaardigheid.nl/ice-model/)
+Het project ga je draaien via de AGILE manier. Dat betekend dat je werkt met in een team met Sprints, Daily Standups en een gevulde Backlog (Board geheten binnen DevOps). Zie afbeelding hieronder voor meer informatie:
+<br>
+<img src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/raspberry/Periode%2009/productie/images/agile_workflow.png">
 
 ##Hoe ziet de inzending er uit
 Het is de bedoeling dat elk team een uitvinding doet die gebruik maakt van de Raspberry Pi in overeenstemming met de regels van de competitie. De inzending moet bevatten:
