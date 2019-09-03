@@ -43,7 +43,7 @@ Hier enkele voorbeelden van oplossingen:
 ##Project management
 Het project ga je draaien via de AGILE manier. Dat betekend dat je werkt met in een team met Sprints, Daily Standups en een gevulde Backlog (Board geheten binnen DevOps). Zie afbeelding hieronder voor meer informatie:
 <br>
-<img src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/raspberry/Periode%2009/productie/images/agile_workflow.png">
+<img src="https://raw.githubusercontent.com/ictacademiekw1c/opdrachten-repository/master/raspberry/Periode%2009/productie/images/agile_workflow.png" style="width: 850px">
 
 ##Hoe ziet de inzending er uit
 Het is de bedoeling dat elk team een uitvinding doet die gebruik maakt van de Raspberry Pi in overeenstemming met de regels van de competitie. De inzending moet bevatten:

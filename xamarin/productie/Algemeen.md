@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Algemene informatie
 
 ## Doelstelling
@@ -93,7 +92,6 @@ __Opbrengst__
 
 - C# WPF oefeningen richting het examen
 - Waardevolle basiskennis en vaardigheden als je verder wil als App ontwikkelaar
->>>>>>> d513b2caffcbebacc55774f204c32e504abc4fdd
 
 Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering en heeft dit invloed op het uiteindelijke resultaat, waardoor het eindcijfer lager uit zal vallen.
 
