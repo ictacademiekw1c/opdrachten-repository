@@ -52,11 +52,13 @@ Het is de bedoeling dat elk team een uitvinding doet die gebruik maakt van de Ra
 * een korte samenvatting van het project (max. 500 woorden)
 * een uitgebreide beschrijving van hoe de uitvinding is gebouwd, zodat anderen kunnen begrijpen wat het team heeft gebouwd en ook hoe dat is gebouwd. Dit bevat tenminste: een overzicht van alle software modules en eventuele aanvullende hardware, publieke software code, instructies en een video presentatie van maximaal 5 minuten op een publieke site om video’s te delen, zoals YouTube.
 
-##Waar wordt op beoordeeld
+##Beoordelingsformulier K1 t/m K3
 
-De [wedstrijdregelementen](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.34%20RASP%5DRaspberry%20Pi%20Challenge/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/RPT2018_Raspberry_Pi_Wedstrijdreglement.pdf)
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/B-B1-K1.xlsm" target="_new">Beoordelingsformulier K1</a>
 
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/B-B1-K2.xlsm" target="_new">Beoordelingsformulier K2</a>
 
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/B-B1-K3.xlsm" target="_new">Beoordelingsformulier K3</a>
 
 **Team passie**
 
