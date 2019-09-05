@@ -33,12 +33,12 @@ Uit de toets:
 6. Welke regisseurs zijn het meest succesvol (wat betreft omzet) per film genre?
 
 ## Extra
-a. Welke acteur heeft in de meest verschillende genres gespeeld?
-b. Welke regisseur maakt films die gemiddeld langer duren dan de gemiddelde lengte van alle films die korter duren dan 2 uur?
+- Welke acteur heeft in de meest verschillende genres gespeeld?
+- Welke regisseur maakt films die gemiddeld langer duren dan de gemiddelde lengte van alle films die korter duren dan 2 uur?
 
 ## Voorbeeld met UNION keyword
 
-Maak van de laatse 5 jaren per jaar een top 3 van de films met titel, releasedatum, oscarnominaties en genre
+- Maak van de laatse 5 jaren per jaar een top 3 van de films met titel, releasedatum, oscarnominaties en genre
 
 ## Voorbeeld met EXCEPT, INTERCEPT keyword
 

@@ -47,11 +47,8 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
-| Opdracht 1 Movies    |  |
-| Opdracht 2 Crystal Reports 1 |   |
-| Opdracht 3 Crystal Reports Factuur |  |
-| Opdracht 4 Crystal Reports Movies |  |
-| Opdracht 5 Database/SQL |   |
+| Opdracht 1 Movies    |  6/9/2019 |
+| Opdracht 2  |   13/9/2019 |
 
 <br> 
 
