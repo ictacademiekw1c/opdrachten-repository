@@ -6,18 +6,18 @@
 
 ### KlasseOpdracht Kennis/voorkennis
 
-__????__
+__Vragen?__
 
     Waarom heb ik uberhaupt een database nodig als ik een applicatie bouw?
-Wat zijn de verschillen tussen een SQL database en een NoSQL database? Wat is beter/slechter?
-Bestaan er in de toekomst nog steeds SQL databases? Welke soorten NoSQL Databases zijn er? 
-Waarom NoSQL, we hebben toch al SQL? Welke NoSQL databases zijn er naast mongodb?
+    Wat zijn de verschillen tussen een SQL database en een NoSQL database? Wat is beter/slechter?
+    Bestaan er in de toekomst nog steeds SQL databases? Welke soorten NoSQL Databases zijn er? 
+    Waarom NoSQL, we hebben toch al SQL? Welke NoSQL databases zijn er naast mongodb?
 
 ### Informatie
 
 <a href="https://www.mongodb.com/nosql-inline" target="_new">Over NoSQL op mongodb.com</a>
 
-## 2.2 MongDB
+## 2.2 MongoDB
 
 ### Hoe wordt de data opgeslagen in een MongoDB database?
 
