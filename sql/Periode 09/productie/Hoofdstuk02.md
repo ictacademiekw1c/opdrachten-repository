@@ -23,6 +23,7 @@ __Vragen?__
 
 ### Hoe wordt er gequeried op een MongoDB database?
 
+
 ## 2.3 Informatie
 
 <a href="https://www.w3schools.com/nodejs/nodejs_mongodb.asp">MongoDB queries met nodejs</a>
