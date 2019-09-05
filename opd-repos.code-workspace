@@ -6,6 +6,10 @@
 		{
 			"path": ".",
 			"name": "opdrachten-repository"
+		},
+		{
+			"name": "nodejs",
+			"path": "C:\\Repos\\nodejs"
 		}
 	],
 	"settings": {}

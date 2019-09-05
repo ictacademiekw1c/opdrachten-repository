@@ -1,37 +1,22 @@
-#### [kleurcode]rgba(103,58,183,1)
+#### [kleurcode]rgba(156,39,176,1)
 
-# Hoofdstuk 3 Crystal Reports vervolg
+# Hoofdstuk 3 Rapportages met Crystal Reports
 
-## 3.1 Klasseopdrachten
+## 3.1 Inleiding en Installatie 
 
-Volg hierbij de reader uit het vorige hoofdstuk
+__Waarom rapportages__
 
-    - Integreer je eerste crystal reports rapportage in een Windows Forms applicatie door het onder een button te zetten (click event).
-``zie hiervoor paragraaf 2.3 van de reader`` 
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/waaromRapportages.png" alt="waarom rapportages">
 
-    - Maak een tweede rapportage met de volgende informatie: Toon van ALLE films de titel, het genre en het land van herkomst, naam en voornaam regisseur, naam van de studio.
-``zie hiervoor Hoofdstuk 3, rapportage meerdere tabellen``
+__Voorbeelden__
 
-    - Vervang de button door een combobox in je windows forms applicatie en laat als opties beide rapportages zien en laat de rapportage aanmaken als je een van de 2 opties kiest.
-``zie hiervoor Hoofdstuk 3.3, het aanroepen van meerdere rapporten``
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/Afbeelding2-1.png" width="400" />
 
-## 3.1 Huiswerkopdracht
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/ExpensesReport.jpg"  width="400" />
 
-A. Maak de factuur rapportage zoals beschreven in de reader in hoofdstuk 4 (Rapportage aanmaken zonder wizard).
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/Rapportage-Kosten-per-categorie-per-periode.png"  width="400"/>
 
-De access database die je hiervoor nodig hebt kun je <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811v%20Vakinhoudelijke%20MBO%20%20AO/1.19%20Digitaal%20archief/95311%20AO/Semester%205%20%5BPeriode%209%20en%2010%5D/Crystal%20Reports/euroreizen.rar">hier</a> downloaden.
-
-
-## Beoordelingscriteria rapportage inhoudelijk
-
-__Juridische en belastingtechnische eisen aan de factuur__
-
-Zie hiervoor de <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/facturen_maken/factuureisen/factuureisen">belastingsite</a>.
-
-
-Refererend aan de belastingsite: Voeg dus ook een BTW berekening, BTW nummer, KvK nummer en een geldige (wat formaat betreft) bankrekeningnummer toe.
-
-Laat per klant de factuur op een nieuwe pagina (page break) beginnen.
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/rapportages-inkomsten-per-contact.png" width="400"/>
 
 __Algemene eisen rapportages__
 
@@ -48,3 +33,25 @@ Een rapport dient aan de onderstaande eisen te voldoen:
         •	Zorg dat er alleen informatie op staat.
 
         Dus geen gegevens waar je niets aan hebt.
+
+__Installatie__
+De installatie software wordt verspreid via USB stick. Na installatie heb je de mogelijkheid gekregen binnen Visual Studio een rapportage applicatie te bouwen met de Crystal Reports template (Windows Forms of WPF).
+
+## 3.2 Reader Crystal Reports
+
+De reader voor het ontwikkelen van Windows Forms Crystal Reports rapportages kun je <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/Reader%20Crystal%20Reports.doc">hier</a> downloaden. 
+
+## 3.3 Eerste (Movies) rapportage via de wizard
+
+Dit wordt voorgedaan in de klas
+
+## 3.4 Opdracht
+
+Maak een nette rapportage, die voldoet aan de eisen van hierboven, van films uit de movies database met de gegevens:
+
+    Titel, release datum, recensie, lengte, budget in euro's, verdiensten in euro's, oscar nominaties, gewonnen oscars gesorteerd op de release dattum (oplopend) en de filmtitel.
+
+- De rapportage is een Crystal reports Windows Forms applicatie.
+
+__Opleveren__
+Toon de rapportage aan de docent. Je hoeft de code niet op te leveren aan de docent.

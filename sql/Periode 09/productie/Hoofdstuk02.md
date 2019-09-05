@@ -1,57 +1,29 @@
-#### [kleurcode]rgba(156,39,176,1)
+#### [kleurcode]rgba(85, 39, 176,1)
 
-# Hoofdstuk 2 Rapportages met Crystal Reports
+# Hoofdstuk 2 NoSQL Databases
 
-## 2.1 Inleiding en Installatie 
+## 2.1 NoSQL Databases
 
-__Waarom rapportages__
+### KlasseOpdracht Kennis/voorkennis
 
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/waaromRapportages.png" alt="waarom rapportages">
+__????__
 
-__Voorbeelden__
+    Waarom heb ik uberhaupt een database nodig als ik een applicatie bouw?
+Wat zijn de verschillen tussen een SQL database en een NoSQL database? Wat is beter/slechter?
+Bestaan er in de toekomst nog steeds SQL databases? Welke soorten NoSQL Databases zijn er? 
+Waarom NoSQL, we hebben toch al SQL? Welke NoSQL databases zijn er naast mongodb?
 
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/Afbeelding2-1.png" width="400" />
+### Informatie
 
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/ExpensesReport.jpg"  width="400" />
+<a href="https://www.mongodb.com/nosql-inline" target="_new">Over NoSQL op mongodb.com</a>
 
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/Rapportage-Kosten-per-categorie-per-periode.png"  width="400"/>
+## 2.2 MongDB
 
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/rapportages-inkomsten-per-contact.png" width="400"/>
+### Hoe wordt de data opgeslagen in een MongoDB database?
 
-__Algemene eisen rapportages__
+### Hoe wordt er gequeried op een MongoDB database?
 
-Een rapport dient aan de onderstaande eisen te voldoen:
+## 2.3 Informatie
 
-        •	Paginanummer + afdrukdatum op elke pagina
-        •	Een duidelijke titel waarvan de inhoud van het rapport af te leiden valt.
-        •	Alle veldinformatie is leesbaar.
+<a href="https://www.w3schools.com/nodejs/nodejs_mongodb.asp">MongoDB queries met nodejs</a>
 
-        Bij een datum laat je de tijd weg als deze niet belangrijk is.
-
-        •	Zorg dat de velden ‘hoog’ genoeg zijn. Anders vallen de lussen van de g, j, enz weg.
-        •	Zorg voor een goede paginaindeling.
-        •	Zorg dat er alleen informatie op staat.
-
-        Dus geen gegevens waar je niets aan hebt.
-
-__Installatie__
-De installatie software wordt verspreid via USB stick. Na installatie heb je de mogelijkheid gekregen binnen Visual Studio een rapportage applicatie te bouwen met de Crystal Reports template (Windows Forms of WPF).
-
-## 2.2 Reader Crystal Reports
-
-De reader voor het ontwikkelen van Windows Forms Crystal Reports rapportages kun je <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/Reader%20Crystal%20Reports.doc">hier</a> downloaden. 
-
-## 2.3 Eerste (Movies) rapportage via de wizard
-
-Dit wordt voorgedaan in de klas
-
-## 2.4 Opdracht
-
-Maak een nette rapportage, die voldoet aan de eisen van hierboven, van films uit de movies database met de gegevens:
-
-    Titel, release datum, recensie, lengte, budget in euro's, verdiensten in euro's, oscar nominaties, gewonnen oscars gesorteerd op de release dattum (oplopend) en de filmtitel.
-
-- De rapportage is een Crystal reports Windows Forms applicatie.
-
-__Opleveren__
-Toon de rapportage aan de docent. Je hoeft de code niet op te leveren aan de docent.

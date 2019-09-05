@@ -1,48 +1,50 @@
 #### [kleurcode]rgba(103,58,183,1)
 
-# Hoofdstuk 4 Crystal Reports vervolg2
+# Hoofdstuk 4 Crystal Reports vervolg
 
-## Hoofdstuk 4.1 Huiswerkopdracht
+## 4.1 Klasseopdrachten
 
-### Windows forms applicatie met meerdere aanroepbare rapportages met parameters.
+Volg hierbij de reader uit het vorige hoofdstuk
 
-    Maak een nieuwe windows forms applicatie waarin je meerdere crystal reports kan aanroepen met een parameter.
+    - Integreer je eerste crystal reports rapportage in een Windows Forms applicatie door het onder een button te zetten (click event).
+``zie hiervoor paragraaf 2.3 van de reader`` 
 
-    In de huiswerkopdrachten van hoofdstuk 3 heb je geleerd hoe je een crystal report rapport kan aanroepen vanuit een windows form applicatie. 
-    
-    In deze applicatie ga je dit ook doen alleen moet je een rapport ook een parameter doorgeven.
-     
-    De parameter die je moet doorgeven is het jaar van uitbrengen van een film.
-    
-    Maak dus in het formulier mogelijk om voor een bepaald jaar (release datum):
-    (Zet alle mogelijke release jaren - aflopend - uit in een combobox.)
+    - Maak een tweede rapportage met de volgende informatie: Toon van ALLE films de titel, het genre en het land van herkomst, naam en voornaam regisseur, naam van de studio.
+``zie hiervoor Hoofdstuk 3, rapportage meerdere tabellen``
 
-    - De meeste succesvolle films te tonen (wat betreft gemaakte winst) 
-    De flops komen daardoor als laatste op de rapportage te voorschijn.
+    - Vervang de button door een combobox in je windows forms applicatie en laat als opties beide rapportages zien en laat de rapportage aanmaken als je een van de 2 opties kiest.
+``zie hiervoor Hoofdstuk 3.3, het aanroepen van meerdere rapporten``
 
-    of 
-     
-    - De meeste succesvolle film per genre, wat betreft aantal gewonnen oscars.
-    Laat de films weg die geen Oscarnominaties hebben gewonnen.
+## 4.2 Huiswerkopdracht
 
-    Toon van ieder rapport de Titel, het jaar, het genre, aantal gewonnen oscars, de winst in euro's, de voor- en achternaam van de regisseurs, en alle en volledige namen  van de volledige cast.
+A. Maak de factuur rapportage zoals beschreven in de reader in hoofdstuk 4 (Rapportage aanmaken zonder wizard).
+
+De access database die je hiervoor nodig hebt kun je <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811v%20Vakinhoudelijke%20MBO%20%20AO/1.19%20Digitaal%20archief/95311%20AO/Semester%205%20%5BPeriode%209%20en%2010%5D/Crystal%20Reports/euroreizen.rar">hier</a> downloaden.
 
 
-voorbeeld weergave formulier
+## Beoordelingscriteria rapportage inhoudelijk
 
-<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Productie/opdracht4.png" width="550" title="Opdracht 4">
+__Juridische en belastingtechnische eisen aan de factuur__
 
-In de visuele weergave ontbreken nog de printknop, het genre en de volledige regisseursnaam. 
-
-Hoe maak je een rapportage aan met parameters? Lees daarvoor hoofdstuk 5 van de reader die je in hoofdstuk 2 hebt gedownload.
-
-__Extra beoordelingscriteria__
-
-Elke rapportage moet ook afgedrukt kunnen worden (H6 reader)
-
-__Facultatief__
-
-Maak een grafische weergave van genres enerzijds en gewonnen oscars en gemaakte winst anderzijds. 
+Zie hiervoor de <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/facturen_maken/factuureisen/factuureisen">belastingsite</a>.
 
 
+Refererend aan de belastingsite: Voeg dus ook een BTW berekening, BTW nummer, KvK nummer en een geldige (wat formaat betreft) bankrekeningnummer toe.
 
+Laat per klant de factuur op een nieuwe pagina (page break) beginnen.
+
+__Algemene eisen rapportages__
+
+Een rapport dient aan de onderstaande eisen te voldoen:
+
+        •	Paginanummer + afdrukdatum op elke pagina
+        •	Een duidelijke titel waarvan de inhoud van het rapport af te leiden valt.
+        •	Alle veldinformatie is leesbaar.
+
+        Bij een datum laat je de tijd weg als deze niet belangrijk is.
+
+        •	Zorg dat de velden ‘hoog’ genoeg zijn. Anders vallen de lussen van de g, j, enz weg.
+        •	Zorg voor een goede paginaindeling.
+        •	Zorg dat er alleen informatie op staat.
+
+        Dus geen gegevens waar je niets aan hebt.

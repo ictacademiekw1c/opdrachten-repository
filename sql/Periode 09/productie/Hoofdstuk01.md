@@ -32,3 +32,31 @@ Uit de toets:
 5. Welke acteurs hebben in films gespeeld met verschillende talen? Toon de naam van de acteur, de titel van de film en de taal.
 6. Welke regisseurs zijn het meest succesvol (wat betreft omzet) per film genre?
 
+## Extra
+a. Welke acteur heeft in de meest verschillende genres gespeeld?
+b. Welke regisseur maakt films die gemiddeld langer duren dan de gemiddelde lengte van alle films die korter duren dan 2 uur?
+
+## Voorbeeld met UNION keyword
+
+Maak van de laatse 5 jaren per jaar een top 3 van de films met titel, releasedatum, oscarnominaties en genre
+
+## Voorbeeld met EXCEPT, INTERCEPT keyword
+
+SELECT ProductID   
+FROM Production.Product ;  
+--Result: 504 Rows  
+
+SELECT ProductID   
+FROM Production.Product  
+INTERSECT  
+SELECT ProductID   
+FROM Production.WorkOrder ;  
+--Result: 238 Rows (products that have work orders)  
+
+SELECT ProductID   
+FROM Production.Product  
+EXCEPT  
+SELECT ProductID   
+FROM Production.WorkOrder ;  
+--Result: 266 Rows (products without work orders)  
+
