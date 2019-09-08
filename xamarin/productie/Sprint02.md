@@ -26,6 +26,7 @@ Download hier de opdracht <a target="_new" href='https://elo.kw1c.nl/CMS/Studie/
 * TabbedPage
 * CarouselPage
 
+
 ---
 ## Opdracht 2.2
 ---

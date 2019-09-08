@@ -7,22 +7,21 @@ Het doel van deze studieroute is studenten te leren apps te bouwen in Xamarin. M
 Hieronder zie de deadlines van inleveren van je sprints. 
 ** Let op: ** Een sprint bevat meerdere opdrachten!
 
-|Opdracht              | &nbsp; &nbsp;  Deadline **IO3A4** &nbsp; |  &nbsp; &nbsp;  Deadline **IO3B4** &nbsp; |   &nbsp; &nbsp;  Deadline **IO3C4** &nbsp;  |
-|--------------------  | --------- | --------- | --------- | --------- |
-| Sprint 1 | | | | 
-| Sprint 2 | | | | 
-| Sprint 3 | | | | 
-| Sprint 4 | | | |
-| Sprint 5 | | | |
-| Sprint 6 | | | |
-| Sprint 7 | | | |
-| Sprint 8 | | | |
-| Toets    | | | | 
-| Herkansing | | | | 
+|Opdracht              | &nbsp; &nbsp;  Deadline **IO3A4** &nbsp; |  &nbsp; &nbsp;  Deadline **IO3B4** &nbsp; |
+|--------------------  | --------- | --------- | 
+| Sprint 1 | 9/9/2019 | 9/9/2019 | 
+| Sprint 2 | 23/9/2019| 23/9/2019|  
+| Sprint 3 | | | 
+| Sprint 4 | | |
+| Sprint 5 | | |
+| Sprint 6 | | |
+| Sprint 7 | | |
+| Sprint 8 | | |
+| Toets    | | | 
+| Herkansing | | 
 
 <br>
 
-**Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op ** 
 
 ## Opleveren opdrachten (Definition of Done)
 1. Je commit en pusht je opdrachten naar de git repository van je DevOps project. ** Dit is je officiële inleverdatum **.
