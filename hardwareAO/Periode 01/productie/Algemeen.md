@@ -1,3 +1,5 @@
+#### [kleurcode]rgba(184,49,226, 1)
+
 # Algemene informatie
 
 ## Doelstelling

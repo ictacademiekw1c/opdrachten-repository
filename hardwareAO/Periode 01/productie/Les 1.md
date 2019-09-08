@@ -1,3 +1,5 @@
+#### [kleurcode]rgba(144,107,228, 1)
+
 # Les 1 Hardware AO?
 
 ## Les 1 Hardware AO, praktijklokaal, regels
