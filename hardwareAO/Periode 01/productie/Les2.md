@@ -9,6 +9,6 @@
 * ESD
 * Gereedschap
 
-## Opdracht
+## Huiswerk opdrachten
 
-ZIe presentatie en inleveropdracht Les 2
+Zie presentatie, inleveropdracht Opdracht 3 en Opdracht 4
