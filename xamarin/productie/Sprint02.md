@@ -8,7 +8,7 @@ In deze sprint leren we de belangrijkste soorten pagina's in Xamarin.Forms te pr
 ## Opdracht 2.0
 ---
 
-Download hier de opdracht <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/25187%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Sprint2/Testen%20op%20een%20fysieke%20device.pdf">"De ontwikkelaar kan de App op een echte device laten builden"</a>
+Download hier de opdracht <a target="_new" href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.35%20APP%5D%20Xamarin%20%5BApp-development%5D/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/21-Testen%20op%20een%20fysieke%20device.pdf">"De ontwikkelaar kan de App op een echte device laten builden"</a>
 
 
 ---
@@ -16,7 +16,7 @@ Download hier de opdracht <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Acad
 ---
 
 ### Download
-Download hier de opdracht <a href='https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.29%20INFi%5D%20Informatica%20instructie/25187%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Sprint2/Opdracht21MasterDetail.pptx'>"De ontwikkelaar kan een eenvoudige master detail App tonen"</a>
+Download hier de opdracht <a target="_new" href='https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.35%20APP%5D%20Xamarin%20%5BApp-development%5D/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/22-Eenvoudige%20pages%20opdracht.pdf'>"De ontwikkelaar kan een eenvoudige master detail App tonen"</a>
 
 
 ### Onderwerpen
@@ -31,7 +31,7 @@ Download hier de opdracht <a href='https://elo.kw1c.nl/CMS/Studie/811%20ICT-Acad
 ---
 
 ### Download
-Download hier de opdracht <a href='linkjekomtzonog'>"De ontwikkelaar kan een complexere master detail App bouwen"</a>
+Download hier de opdracht <a href=''>"De ontwikkelaar kan een complexere master detail App bouwen"</a>
 
 ### Onderwerpen
 * Master Detail
