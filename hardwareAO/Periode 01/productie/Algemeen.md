@@ -13,7 +13,6 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 <br> 
 
-**Let op: Je dient de opdrachten vóór de eerste les van de volgende week te laten zien. Let hier dus op** 
 
 ## Opleveren opdrachten
 1. Van iedere huiswerkopdracht is een inleveropdracht gemaakt in de studieroute

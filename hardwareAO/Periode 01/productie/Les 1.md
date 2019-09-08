@@ -9,4 +9,8 @@
 * Regels praktijkruimte
 * Waarom staat het vak Hardware op het rooster?
 
+## Huiswerkopdracht
+
+Geen huiswerk voor Les 1
+
 -----
