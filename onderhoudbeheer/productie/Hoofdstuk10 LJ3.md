@@ -39,9 +39,4 @@ Het uiteindelijke testplan document moet duidelijk en eenduidig zijn voor een ei
 De eindgebruiker gaat de applicatie testen aan de hand van het opgestelde acceptatietestplan.
 Met dit document moet het voor de eindgebruiker duidelijk worden welke onderdelen en hoe een op te leveren applicatie getest moet worden.
 
-
-
-
-
-
-## 
+-----
