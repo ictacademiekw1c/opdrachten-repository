@@ -9,15 +9,14 @@ Voordat de test kan worden uitgevoerd moet er eerst een testplan worden opgestel
 
 Een manier om een testplan op te stellen die door een eindgebruiker kan worden uitgevoerd is door alle functionaliteiten die in het functioneel/technisch ontwerp reeds zijn genoemd deze structureel en per onderdeel in het testplan op te nemen.
 
-## Testplan
+## Testplan sjabloon
 
 Als sjabloon voor het testen van 1 functionaliteit van de applicatie kan het volgende bestand worden gebruikt:
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/Sjabloon%20Acceptatietest.docx">sjabloon testplan</a>
 
 
-__Situatie__
-
+## Situatie ##
 
 Een landelijke weekmagazine heeft een website laten bouwen waarop een bezoeker een abonnement kan aanvragen
 voor hun magazine. Het aanvragen van het abonnement verloopt over meerdere stappen en meerdere schermen.
@@ -32,7 +31,7 @@ Vertaald naar een use case:
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/Acceptatietest%20Abonnement.docx">Deel uitwerking voor de use case van het abonnement</a>
 
 
-Werk bovenstaand document verder uit voor alle 6 functionaliteiten. 
+Werk bovenstaand document verder uit voor alle functionaliteiten. 
 
 __Beoordelingscriteria__
 
