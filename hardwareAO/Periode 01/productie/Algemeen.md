@@ -19,7 +19,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 ## Opleveren opdrachten
 1. Van iedere huiswerkopdracht is een inleveropdracht gemaakt in de studieroute
-2. Daarna laat je de opdracht uit je ELO aan de docent zien. **Dit is verplicht om je huiswerk goed te kunnen laten keuren**
+2. Laat op verzoek van de docent je de opdracht aan de docent zien. De docent kan je om toelichting vragen op de uitwerking van je opdracht. Op basis daarvan kan de docent bepalen of je een 0, 1 of 2 als huiswerkcijfer krijgt. 
 
 
 ## Voorkennis
