@@ -32,12 +32,14 @@ Download hier de opdracht <a target="_new" href='https://elo.kw1c.nl/CMS/Studie/
 ---
 
 ### Download
-Download hier de opdracht <a href=''>"De ontwikkelaar kan een complexere master detail App bouwen"</a>
+Download hier de opdracht <a href='https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.35%20APP%5D%20Xamarin%20%5BApp-development%5D/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/22-Complexere%20pages%20opdracht.pdf'>"De ontwikkelaar kan een complexere master detail App bouwen"</a>
 
 ### Onderwerpen
 * Master Detail
 * NavigationPage
-* Board
+* Listview
+* Drawer menu
+
 
 ### Help
 Voor deze opdracht is onderstaande link naar een workshop je belangrijkste bron van informatie:
