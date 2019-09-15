@@ -1,4 +1,4 @@
-#### [kleurcode]rgba(244,67,54, 1)
+#### [kleurcode]rgba(244, 54, 133, 1)
 
 # Les 3 - De moederbord
 
