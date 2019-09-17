@@ -25,7 +25,10 @@ verder:
 Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar kan navigeren gebruikmakend van van stack navigation"</a>
 
 ### Onderwerpen
-* ??
+* NavigationPage
+* .PushAsyc / PopAsync
+* .PushModalAsync / PopModalAsync
+
 ---
 ## Opdracht 3.2
 ---
@@ -34,7 +37,9 @@ Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar kan navigere
 Download hier de opdracht <a target="_new" href=''>"De App gebruiker kan navigeren in een Tabbed Page"</a>
 
 ### Onderwerpen
-* ??
+* TabbedPage
+* Android drawables map
+
 ---
 ## Opdracht 3.3
 ---
@@ -43,7 +48,9 @@ Download hier de opdracht <a target="_new" href=''>"De App gebruiker kan naviger
 Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar krijgt inzicht in de uitlijn opties van een user control"</a>
 
 ### Onderwerpen
-* ??
+* Stacklayout 
+* Alignment
+
 ---
 ## Opdracht 3.4
 ---
@@ -52,7 +59,7 @@ Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar krijgt inzic
 Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar leert om te gaan met de stacklayout"</a>
 
 ### Onderwerpen
-* ??
+* Stacklayout attributen
 
 ---
 ## Opdracht 3.5
@@ -62,7 +69,7 @@ Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar leert om te 
 Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar customiseert de layout met een gridview"</a>
 
 ### Onderwerpen
-* ??
+* Gridview
 
 
 
