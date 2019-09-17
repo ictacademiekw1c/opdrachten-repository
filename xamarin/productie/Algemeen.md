@@ -3,6 +3,21 @@
 ## Doelstelling
 Het doel van deze studieroute is studenten te leren apps te bouwen in Xamarin. Met Xamarin is het mogelijk om middels één programmeertaal, namelijk C#, native apps te ontwikkelen voor iOS, Android en Windows Phone. Een applicatie ontwikkeld met Xamarin heeft een native User Interface en gebruikerssnelheid. Dit betekent dat de app hetzelfde reageert en eruit ziet als een app gemaakt in de programmeertaal voor een specifiek besturingssysteem. Door gebruik te maken van deze tool kun je veel sneller een app ontwikkelen voor meerdere besturingssystemen. Gemiddeld wordt er namelijk 85% code (!) hergebruikt. Inmiddels ontwikkelen ruim 1.4 miljoen developers met Xamarin.
 
+Het testen van de ontwikkelde Apps doen we op onze eigen Android devices of op de devices die het KW1C speciaal voor deze studieroute heeft aangeschaft. Als beide opties niet voorhanden zijn dan kan er ook altijd getest worden op de android emulator die standaard ook in Visual Studio is opgenomen.
+
+In periode 9/10 bouwen we tussen de 6-8 Apps waarin we stapsgewijs steeds meer gaan leren hoe we een professionele Native App kunnen bouwen.
+
+Deze studieroute heeft zeker in de eindfase veel overlap met de C# studieroute van dit schooljaar. De Xaml bestanden en de bijbehorende te programmeren logica heeft veel gelijkenissen met het bouwen van Windows C# applicaties in WPF.
+
+__Opbrengst__
+
+- C# WPF oefeningen richting het examen
+- Waardevolle basiskennis en vaardigheden als je verder wil als App ontwikkelaar
+
+Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering en heeft dit invloed op het uiteindelijke resultaat, waardoor het eindcijfer lager uit zal vallen.
+
+Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
+
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je sprints. 
 ** Let op: ** Een sprint bevat meerdere opdrachten!
@@ -11,7 +26,7 @@ Hieronder zie de deadlines van inleveren van je sprints.
 |--------------------  | --------- | --------- | 
 | Sprint 1 | 9/9/2019 | 9/9/2019 | 
 | Sprint 2 | 23/9/2019| 23/9/2019|  
-| Sprint 3 | | | 
+| Sprint 3 | 7/10/2019| 7/10/2019| 
 | Sprint 4 | | |
 | Sprint 5 | | |
 | Sprint 6 | | |
@@ -62,45 +77,8 @@ De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 <td align="left">Opdracht goed en op tijd ingeleverd.</td>
 </tr>
 </tbody></table>
-=======
-#### [kleurcode]rgba(116,217,6, 1)
-
-# 0. Ontwikkelen van Android Apps met Xamarin.Forms in Visual Studio
-
-## 0.1 Algemeen 
-
-In deze studieroute leren we hoe we in Visual Studio Native Android Apps kunnen ontwikkelen in de programmeertaal die jullie in leerjaar 2 gehad hebben: C#.
-
-Het testen van de ontwikkelde Apps doen we op onze eigen Android devices of op de devices die het KW1C speciaal voor deze studieroute heeft aangeschaft. Als beide opties niet voorhanden zijn dan kan er ook altijd getest worden op de android emulator die standaard ook in Visual Studio is opgenomen.
-
-In periode 9/10 bouwen we tussen de 6-8 Apps waarin we stapsgewijs steeds meer gaan leren hoe we een professionele Native App kunnen bouwen.
-
-Deze studieroute heeft zeker in de eindfase veel overlap met de C# studieroute van dit schooljaar. De Xaml bestanden en de bijbehorende te programmeren logica heeft veel gelijkenissen met het bouwen van Windows C# applicaties in WPF.
-
-## 0.2  Opdrachten, repositories en sprints.
-
-In dit vak en bij deze opdrachten werken we in Visual Studio gecombineerd met de DevOps omgeving die gekoppeld is met ieders Azure portaal.
-
-Naast het verder ontwikkelen van je C# vaardigheden leer je in deze studieroute:
-- Ontwikkelen van applicaties in verschillende omgevingen en ontwikkeltools (Windows, Android - C#, WPF, XAML - Android SDK, .Net)
-- Verder ontwikkelen van je probleemoplossende (lees-/analytische) vaardigheden
-- Basiskennis m.b.t. Android Apps
-- Inzicht in hoe Apps werken en wat er bij komt kijken
-
-__Opbrengst__
-
-- C# WPF oefeningen richting het examen
-- Waardevolle basiskennis en vaardigheden als je verder wil als App ontwikkelaar
-
-Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering en heeft dit invloed op het uiteindelijke resultaat, waardoor het eindcijfer lager uit zal vallen.
-
-Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
 
 
-## Algemene beoordelingscriteria
 
-Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan onderstaande beoordelingscriteria te voldoen.
-*	De opdracht is op tijd gecommit en pushed op DevOps.
-*	De opdracht draait in een Emulator of op een echt device.
-*	De code is overzichtelijk opgebouwd door onder andere gebruik te maken van tabs en enters.
-*	De code is voorzien van waardevol en voldoende commentaar.
+
+
