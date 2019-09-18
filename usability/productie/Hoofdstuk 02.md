@@ -17,6 +17,7 @@
 
 ### Help
 *   <a href="http://www.carrieretijger.nl/functioneren/communiceren/mondeling/vaardigheden/vragen-stellen" target="_blank">Vragen stellen</a>
+
 ---
 ## Opdracht 2.2
 ---
