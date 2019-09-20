@@ -45,4 +45,8 @@ Beschrijf de document layout in BSON/mongodb formaat van je 5 meest favoriete fi
 
 Zet ook de antwoorden van de klasseopdracht/vragen hierboven in dit document.
 
+Of
+
+Maak een c# console applicatie waarin je een film (connectie/collection/document als in de bovenstaande gist) kan zoeken op basis van een deel van de titel. Indien gevonden toon je alle gegevens van de gevonden film(s). 
+
 Lever dit in in de inleveropdracht van hoofdstuk 2.
