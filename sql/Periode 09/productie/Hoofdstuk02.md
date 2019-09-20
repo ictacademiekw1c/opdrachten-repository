@@ -43,4 +43,6 @@ __Lokaal__
 
 Beschrijf de document layout in BSON/mongodb formaat van je 5 meest favoriete films (titel, lengte, releasedatum, aantal nominaties, aantal oscars, kosten, omzet) uit de movies database, waarbij ook de acteurs, hun rollen, de regisseur, de studio, genre en land wordt meegenomen. Maak hiervan een Word document.
 
+Zet ook de antwoorden van de klasseopdracht/vragen hierboven in dit document.
+
 Lever dit in in de inleveropdracht van hoofdstuk 2.
