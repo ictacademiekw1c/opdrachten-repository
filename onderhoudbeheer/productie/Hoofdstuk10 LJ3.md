@@ -26,7 +26,7 @@ In het tweede scherm worden de creditcard gegevens ingevoerd. De bezoeker heeft 
 Vertaald naar een use case:
 <img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/usecaseabonnement.png" title="use case abonnement">
 
-## 10.2 Huiswerk opdracht testplan
+## 10.2 Huiswerk opdracht 2 testplan
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/Acceptatietest%20Abonnement.docx">Deel uitwerking voor de use case van het abonnement</a>
 
