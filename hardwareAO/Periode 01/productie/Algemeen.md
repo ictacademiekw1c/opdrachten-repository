@@ -13,6 +13,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
 | Les 2, Opdracht 3 & 4, ESD en gereedschap|   | 18 sept | 16 sept | 16 sept | 16 sept | 
 | Les 3, Opdracht 5, Het moederbord|   | 25 sept | 23 sept | 23 sept | 23 sept | 
+| Les 4, Opdracht 6, CPU|   | 2 okt | 30 sept | 30 sept | 30 sept | 
 
 <br> 
 
