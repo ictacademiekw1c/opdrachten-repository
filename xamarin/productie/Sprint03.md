@@ -17,12 +17,22 @@ verder:
 
 ``workshop 2``: <a target="_new" href="https://docs.microsoft.com/en-us/learn/modules/customize-layout-in-xamarin-forms-xaml-pages/">Layout customisatie</a>
 
+
+## Sprint 3 vullen
+Maak Sprint 3 aan en vul deze met onderstaande taken:
+- De ontwikkelaar kan navigeren gebruikmakend van van stack navigation
+- De App gebruiker kan navigeren in een Tabbed Page
+- De ontwikkelaar krijgt inzicht in de uitlijn opties van een user control
+- De ontwikkelaar leert om te gaan met de stacklayout
+- De ontwikkelaar customiseert de layout met een gridview
+
 ---
 ## Opdracht 3.1
 ---
 
-### Download
-Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar kan navigeren gebruikmakend van van stack navigation"</a>
+### De ontwikkelaar kan navigeren gebruikmakend van van stack navigation
+
+Maak de exercise (unit 3) van <a href="https://docs.microsoft.com/en-us/learn/modules/create-multi-page-xamarin-forms-apps-with-stack-and-tab-navigation/3-exercise-navigate-between-pages-using-stack-navigation" target="_new">deze workshop</a>
 
 ### Onderwerpen
 * NavigationPage
@@ -33,8 +43,9 @@ Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar kan navigere
 ## Opdracht 3.2
 ---
 
-### Download
-Download hier de opdracht <a target="_new" href=''>"De App gebruiker kan navigeren in een Tabbed Page"</a>
+### De App gebruiker kan navigeren in een Tabbed Page
+
+Maak de excercise (unit 6) van <a href="https://docs.microsoft.com/en-us/learn/modules/create-multi-page-xamarin-forms-apps-with-stack-and-tab-navigation/6-exercise-navigate-between-pages-using-tab-navigation" target="_new">deze workshop</a>
 
 ### Onderwerpen
 * TabbedPage
@@ -44,8 +55,9 @@ Download hier de opdracht <a target="_new" href=''>"De App gebruiker kan naviger
 ## Opdracht 3.3
 ---
 
-### Download
-Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar krijgt inzicht in de uitlijn opties van een user control"</a>
+### De ontwikkelaar krijgt inzicht in de uitlijn opties van een user control
+
+Maak de exercise (unit 3) van <a href="https://docs.microsoft.com/en-us/learn/modules/customize-layout-in-xamarin-forms-xaml-pages/3-exercise-explore-alignment-options" target="_new">deze workshop</a>
 
 ### Onderwerpen
 * Stacklayout 
@@ -55,8 +67,9 @@ Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar krijgt inzic
 ## Opdracht 3.4
 ---
 
-### Download
-Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar leert om te gaan met de stacklayout"</a>
+### De ontwikkelaar leert om te gaan met de stacklayout
+
+Maak de excercise (unit 5) van <a href="https://docs.microsoft.com/en-us/learn/modules/customize-layout-in-xamarin-forms-xaml-pages/5-exercise-use-stacklayout-to-build-a-ui" target="_new">deze workshop</a>
 
 ### Onderwerpen
 * Stacklayout attributen
@@ -65,12 +78,9 @@ Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar leert om te 
 ## Opdracht 3.5
 ---
 
-### Download
-Download hier de opdracht <a target="_new" href=''>"De ontwikkelaar customiseert de layout met een gridview"</a>
+### De ontwikkelaar customiseert de layout met een gridview
+
+Maak de exercise (unit 7) van <a href="https://docs.microsoft.com/en-us/learn/modules/customize-layout-in-xamarin-forms-xaml-pages/7-exercise-use-grid-to-build-a-ui" target="_new">deze workshop</a>
 
 ### Onderwerpen
 * Gridview
-
-
-
-
