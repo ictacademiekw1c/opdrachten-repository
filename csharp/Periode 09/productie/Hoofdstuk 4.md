@@ -17,7 +17,7 @@
 - 	Geen
 
 ### Help
--  <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.07%20CSh%5D%20C%20Sharp/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/02.%20Opdrachten/Opdracht%20WPF%204.1.pdf" target="_blank">Creating a Binding</a>
+-  <a href="https://www.tutorialspoint.com/wpf/wpf_data_binding.htm#targetText=Data%20binding%20is%20a%20mechanism,data%20object%20on%20user%20interface." target="_blank">Creating a Binding</a>
 
 ---
 ## Opdracht 4.2
