@@ -4,7 +4,7 @@
 
 ## 4.1 Klasseopdrachten
 
-Volg hierbij de reader uit het vorige hoofdstuk
+Volg hierbij de <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/Productie/04.%20Aanvullend/Reader%20Crystal%20Reports.doc">reader uit het vorige hoofdstuk</a>
 
     - Integreer je eerste crystal reports rapportage in een Windows Forms applicatie door het onder een button te zetten (click event).
 ``zie hiervoor paragraaf 2.3 van de reader`` 
