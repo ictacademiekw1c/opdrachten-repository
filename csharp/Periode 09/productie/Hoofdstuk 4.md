@@ -53,4 +53,5 @@
 
 ### Help
 -  <a href="http://dotnetpattern.com/wpf-listview-binding#targetText=WPF%20Listview%20is%20a%20control,for%20binding%20list%20of%20items." target="_new">WPF ListView Binding</a>
+- <a href="https://stackoverflow.com/questions/4529242/how-do-i-bind-a-listview-selecteditem-to-a-textbox-using-the-twoway-mode#answer-4529309" target="_blank">ElementName, SelectedItem en ItemSource</a>
 
