@@ -34,7 +34,7 @@
 - 	Geen
 
 ### Help
--  <a href="https://www.dotnetperls.com/calendar-wpf" target="_blank">Calendar WPF Example</a>
+-  <a href="http://blog.cylewitruk.com/2010/09/wpf-combobox-and-databinding-datacontext-itemssource-displaymemberpath-selecteditem-selectedvalue-selectedvaluepath/" target="_blank">Uitgebreid voorbeeld met Databinding en SelectedValue</a>
 
 ---
 ## Opdracht 4.3
