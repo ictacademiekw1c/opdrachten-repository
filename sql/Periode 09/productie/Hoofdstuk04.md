@@ -17,7 +17,8 @@ Volg hierbij de <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%2
 
 ## 4.2 Huiswerkopdracht
 
-A. Maak de factuur rapportage zoals beschreven in de reader in hoofdstuk 4 (Rapportage aanmaken zonder wizard).
+Maak een factuur rapportage zoals beschreven in de reader in hoofdstuk 4 (Rapportage aanmaken zonder wizard).
+Je rapportage genereert voor iedere klant in de onderstaande database een aparte factuur.
 
 De access database die je hiervoor nodig hebt kun je <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811v%20Vakinhoudelijke%20MBO%20%20AO/1.19%20Digitaal%20archief/95311%20AO/Semester%205%20%5BPeriode%209%20en%2010%5D/Crystal%20Reports/euroreizen.rar">hier</a> downloaden.
 
