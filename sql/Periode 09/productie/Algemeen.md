@@ -50,6 +50,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 1 Movies    |  6/9/2019 |
 | Opdracht 2  NoSQL |   27/9/2019 |
 | Opdracht 3  Eerste Movies Crystal reports Rapportage |   20/9/2019 |
+| Opdracht 4  Factuur per klant/Alle klanten Crystal reports Rapportage |   11/10/2019 |
 
 <br> 
 
