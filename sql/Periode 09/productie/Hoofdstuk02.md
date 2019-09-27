@@ -41,11 +41,10 @@ __Lokaal__
 
 ## 2.4 Inleveropdracht hoofdstuk 2 - Mongodb
 
-Beschrijf de document layout in BSON/mongodb formaat van je 5 meest favoriete films (titel, lengte, releasedatum, aantal nominaties, aantal oscars, kosten, omzet) uit de movies database, waarbij ook de acteurs, hun rollen, de regisseur, de studio, genre en land wordt meegenomen. Maak hiervan een Word document.
+- Beschrijf de document layout in BSON/mongodb formaat van je 5 meest favoriete films (titel, lengte, releasedatum, aantal nominaties, aantal oscars, kosten, omzet) uit de movies database, waarbij ook de acteurs, hun rollen, de regisseur, de studio, genre en land wordt meegenomen. Maak hiervan een Word document.
+- Zet ook de antwoorden van de klasseopdracht/vragen hierboven in dit document.
 
-Zet ook de antwoorden van de klasseopdracht/vragen hierboven in dit document.
-
-Of (wil je liever iets programmeren)
+__Of__ (wil je liever iets programmeren)
 
 Maak een c# console applicatie waarin je een film (connectie/collection/document als in de bovenstaande gist) kan zoeken op basis van een deel van de titel. Indien gevonden toon je alle gegevens van de gevonden film(s). 
 Hierbij de <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/moviesmongo.PNG" target="_new">document-layout</a> van dit document (movies).
