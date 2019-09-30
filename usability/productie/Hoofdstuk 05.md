@@ -18,4 +18,3 @@
 
 ### Help
 *   Er zijn geen hulplinks voor deze opdracht beschikbaar.
----
