@@ -10,11 +10,12 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** &nbsp;|
 |--------------------  |----------- | --------- | --------- | --------- | --------- |
 | Opdrachten 1.1, 1.2, 1.3, 1.4 | ma 9 sept | ma 9 sept | di 10 sept | di 10 sept  | ma 9 sept |
-| Opdrachten 2.1, 2.2, 2.3 			| ma 16 sept | ma 16 sept | di 17 sept  | |  |
-| Opdrachten 2.2, 2.3 			|  |  |   | |  |
+| Opdrachten 2.1, 2.2, 2.3 		| ma 16 sept | ma 16 sept | di 17 sept  | |  |
+| Opdrachten 2.2, 2.3 			| ma 16 sept | ma 16 sept  | di 17 sept  | di 8 okt| ma 7 okt |
 | Opdrachten 2.4 				| ma 23 sept | ma 23 sept | di 24 sept | di 24 sept | ma 23 sept |
-| Opdrachten 3.1, 3.2, 3.3 		| ma 23 sept  | ma 23 sept | di 24 sept | di 24 sept | ma 23 sept |
-| Opdrachten 4.1, 4.2, 4.3 		| ma 30 sept | ma 30 sept | di 1  okt | di 1 okt | ma 30 sept |
+| Opdrachten 3.1, 3.2, 3.3 		| ma 30 sept | ma 30 sept  | di 1 okt | di 24 sept | ma 23 sept |
+| Opdrachten 4.1, 4.2	 		| ma 7 okt | ma 7 okt | di 8 okt | di 1 okt | ma 30 sept |
+| Opdrachten 4.3 				| ma 14 sept | ma 14 sept | di 15 okt | di 8 okt | ma 7 okt |
 | Opdrachten 5.1, 5.2, 5.3 		|  |  |  |  |  |
 | Opdrachten 5.4, 5.5, 5.6 		|  |  |  |  |  |
 
