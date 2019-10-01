@@ -14,9 +14,9 @@ Hieronder zie je de deadlines van inleveren van je opdrachten.
 | Opdracht 1.1 				| zo 8 sept | zo 8 sept |
 | Opdracht 2.1 				| zo 15 sept| zo 15 sept|
 | Opdracht 3.1, 3.2 en 3.3 	| zo 22 sept| zo 29 sept|
-| Opdracht 4.1, 4.2 		| zo 29 sept| zo 29 sept|
-| Opdracht 4.3		 		| zo 6 okt | zo 6 okt |
-| Opdracht 5.1, 5.2 		| zo 20 okt | zo 20 okt |
+| Opdracht 4.1, 4.2 		| zo 29 sept| zo 6 okt |
+| Opdracht 4.3		 		| zo 6 okt | zo 20 okt |
+| Opdracht 5.1, 5.2 		| zo 20 okt | zo 27 okt |
 | Opdracht 5.3 				| zo 27 okt | zo 27 okt |
 | PVB oefening 				| vanaf 28 okt | vanaf 28 okt |
 
