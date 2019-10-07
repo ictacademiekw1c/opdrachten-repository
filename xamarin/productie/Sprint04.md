@@ -32,7 +32,7 @@ Maak Sprint 4 aan en vul deze met onderstaande taken:
 ## Opdracht 4.1
 ---
 
-### De ontwikkelaar heft de mogelijkheden van de alignment opties doorgenomen
+### De ontwikkelaar heeft de mogelijkheden van de alignment opties doorgenomen
 
 Maak de exercise (unit 3) van <a href="https://docs.microsoft.com/en-us/learn/modules/customize-layout-in-xamarin-forms-xaml-pages/3-exercise-explore-alignment-options" target="_new">deze workshop</a>
 
