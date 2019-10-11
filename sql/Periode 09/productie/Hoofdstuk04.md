@@ -39,8 +39,8 @@ __Algemene eisen rapportages__
 
 Een rapport dient aan de onderstaande eisen te voldoen:
 
-        •	Paginanummer + afdrukdatum op elke pagina
-        •	Een duidelijke titel waarvan de inhoud van het rapport af te leiden valt.
+        •	Afdrukdatum op elke pagina.
+        •	Een duidelijke titel per factuur.
         •	Alle veldinformatie is leesbaar.
 
         Bij een datum laat je de tijd weg als deze niet belangrijk is.
