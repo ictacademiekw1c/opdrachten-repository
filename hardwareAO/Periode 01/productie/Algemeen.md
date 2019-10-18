@@ -71,3 +71,23 @@ Bij het opleveren van de opdrachten dient de geschreven programmacode altijd aan
 
 	De naam van het opleverdocument bevat de opdrachtomschrijving, je leerlingnummer en je voornaam.
 	
+
+## Toetsschema 2019-2020
+
+|Periode 1        | &nbsp; &nbsp; **IO1A4** | &nbsp; &nbsp; **IO1B4** | &nbsp; &nbsp; **IO1C4** | &nbsp; **IO1D4** | &nbsp; &nbsp;  **IO1E4** |
+|---------------  |--------------- | --------- | --------- | --------- | --------- |
+| Toets P1 | 23 okt | 28 okt | 28 okt | 28 okt | 28 okt | 
+| Herkansing P1 |  6 nov |  6 nov |  6 nov |  6 nov |  6 nov |
+
+### Toetsstof periode 1
+Les 1 t/m Les 6
+
+ - Waarom hardware AO?
+ - ESD, veilig werken en de werktafel
+ - Het moederbord
+ - De CPU
+ - Netwerken, netwerkkabel
+ - Het werkgeheugen (RAM)
+
+ 
+<br> 
