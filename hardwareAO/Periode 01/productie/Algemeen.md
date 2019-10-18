@@ -11,9 +11,10 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** |
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
-| Les 2, Opdracht 3 & 4, ESD en gereedschap|   | 18 sept | 16 sept | 16 sept | 16 sept | 
-| Les 3, Opdracht 5, Het moederbord|   | 25 sept | 23 sept | 23 sept | 23 sept | 
-| Les 4, Opdracht 6, CPU|   | 2 okt | 30 sept | 30 sept | 30 sept | 
+| Les 2, Opdracht 3 & 4, ESD en gereedschap|  -- | 18 sept | 16 sept | 16 sept | 16 sept | 
+| Les 3, Opdracht 5, Het moederbord| --  | 25 sept | 23 sept | 23 sept | 23 sept | 
+| Les 4, Opdracht 6, CPU| --  | 2 okt | 30 sept | 30 sept | 30 sept | 
+| Les 5, Opdracht 7, RAM| --  | 18 okt | 18 okt | 18 okt | 18 okt | 
 
 <br> 
 
