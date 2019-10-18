@@ -15,7 +15,7 @@
 
 ## Huiswerk opdrachten
 
-Zie ook presentatie, inleveropdracht Opdracht 5
+Zie ook presentatie, inleveropdracht Opdracht 7
 
 ### Opdracht 7
 
