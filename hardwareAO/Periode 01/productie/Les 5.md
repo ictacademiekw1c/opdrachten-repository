@@ -17,7 +17,7 @@
 
 Zie ook presentatie, inleveropdracht Opdracht 5
 
-### Opdracht 5
+### Opdracht 7
 
 __Onderzoek RAM modules__
 
