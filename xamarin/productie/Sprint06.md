@@ -29,7 +29,7 @@ Welke excercises lever je op?
 ## Opdracht 6.1
 ---
 
-### De App gebruiker kan een SQLite database aanmaken, vullen en querien
+### De App ontwikkelaar kan een SQLite database aanmaken, vullen en querien
 
 Maak de exercise (unit 4) van <a href="https://docs.microsoft.com/en-us/learn/modules/store-local-data-with-sqlite/4-exercise-store-data-locally-with-sqlite" target="_new">deze workshop</a>
 
