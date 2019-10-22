@@ -14,7 +14,7 @@
 *	Databinding
 
 ### Benodigde bestanden
-- 	Geen
+- 	<a href="https://elo.kw1c.nl/CMS/_STUDYROUTE_FOLDERS/33/25187%20AO%20Leerjaar%203%20Periode%201/26418/[B.07%20CSh]%20C%20Sharp%20[AO%20.09]/19DFFB2B-EB91-4C80-9E34-898A883F6A99/671b28dd/Personen.sql" target="_blank">Personen.sql</a>
 
 ### Help
 -  <a href="https://www.c-sharpcorner.com/article/explain-inotifypropertychanged-in-wpf-mvvm/" target="_blank">INotifyPropertyChanged explained</a>
