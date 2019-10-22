@@ -18,4 +18,4 @@
 
 
 ### Help
-*	<a href="http://www.shareforce.eu/nl/blog/een-optimaal-kleurenschema-met-het-kleurenwiel" target="_blank">Kleurkeuzestrategieen</a>
+*	<a href="https://www.shareforce.nl/nl/blog/kleur" target="_blank">Kleurkeuzestrategieen</a>
