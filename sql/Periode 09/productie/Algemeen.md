@@ -41,9 +41,10 @@ Hoe actueel is SQL nog voor een applicatieontwikkelaar?
     - Creeren en verwijderen van een database
     - Backup & Restore
     - Import/export van gegevens via o.a. xml
- 
+  
 ## Opleverdata
-Hieronder zie de deadlines van inleveren van je opdrachten. 
+
+Hieronder zie de deadlines van inleveren van je opdrachten.  
 
 | &nbsp;Opdracht | &nbsp; &nbsp; Deadline IO3A4 IO3B4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
@@ -58,7 +59,8 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 **Let op: Je dient de opdrachten uiterlijk op de deadline op te leveren. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
 
 
-## Editor
+## Editor  
+
 Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
 
 <img src="https://msdnshared.blob.core.windows.net/media/2017/08/SQL-2017.png">

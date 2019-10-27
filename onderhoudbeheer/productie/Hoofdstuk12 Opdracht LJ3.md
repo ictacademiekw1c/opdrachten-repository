@@ -26,6 +26,11 @@ ___Einde stap 1___
 
 ``Docent stelt 1 programma van eisen document op aan de hand van de ingeleverde document en verzamelt alle tickets en maakt daar 1 globale lijst van. Uit de volledige lijst i.c.m. programma van eisen krijgt iedere leerling een aantal tickets die hij/zij mag oplossen``
 
+1. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/02.%20Opdrachten/TicketlijstSpaceBlitz.xlsx">Volledige ticketlijst</a>
+
+2. <a href="todo">Programma van eisen</a>
+
+
 ### Werkproces P1-K1-W1: Onderhoudt een applicatie 
 
 __Onderdeel A.__ Analyseren en categoriseren tickets
@@ -37,16 +42,16 @@ __Onderdeel A.__ Analyseren en categoriseren tickets
 
 __Onderdeel B.__ Aandragen en doorvoeren oplossingen
 
-1. Overleg met je leidinggevende welke tickets je gaat realiseren. Je leidinggevende zet zijn paraaf in de kolom Doorvoeren. 
+1. Overleg met je leidinggevende welke tickets je gaat realiseren. Je leidinggevende zet zijn paraaf in de kolom Doorvoeren.  
+
 2. Bedenk oplossingen voor die twee toegewezen tickets. 
     a. Gebruik hierbij de uitgewerkte applicatie en database. 
     b. Houd rekening met de randvoorwaarden zoals vermeld in Uittreksel SLA, Programma van Eisen  
     c. Vul voor deze twee tickets het Aanpassingendocument in, gebruik daarbij Sjabloon Aanpassingendocument. Alleen de kolom Uitgevoerd Door en Uitgevoerd Datum vul je nog niet in. 
-3. Realiseer de gekozen oplossing voor de twee tickets in de applicatie en/of de database. Maak hierbij gebruik van Coding conventions. 
+3. Realiseer de gekozen oplossing voor de twee tickets in de applicatie en/of de database. Maak hierbij gebruik van Coding conventions.  
 
  ``Er is een inleveropdracht gemaakt voor het aanpassingendocument``
-
-
+  
 __Onderdeel C.__  Documenteren en communiceren
 
     1. Documenteer de doorgevoerde wijzigingen volgens 'Procedure afhandeling tickets'.
