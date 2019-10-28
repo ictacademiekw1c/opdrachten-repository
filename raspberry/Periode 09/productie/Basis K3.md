@@ -6,17 +6,17 @@
 
 ### Opdracht A
 
-Je stelt een acceptatietest op voor één van de functionaliteiten uit de applicatie. Je leidinggevende geeft aan voor welke functionaliteit uit het functioneel ontwerp jij een acceptatietest gaat maken.  
+Je stelt een acceptatietest op voor één van de functionaliteiten uit de applicatie. Je maakt voor minimaal één van je functionaliteit van de C# applicatie een acceptatietest.  
  
 1. Stel een acceptatietest op aan de hand van Sjabloon Acceptatietest, voor de aan jou toegewezen functionaliteit.  
-    a. Vul de naam van de functionaliteit boven in het sjabloon in. 
-    b. Vul per functionaliteit Actie, Scenario en Verwacht resultaat in.  
-    c. Maak gebruik van de volgende documenten/product: 
-        i.   Vastgesteld Programma van eisen 
-        ii.  Vastgesteld functioneel ontwerp 
-        iii. Vastgesteld technisch ontwerp 
-        iv.  Gevulde database met deelnemers en resultaten van evenementen over verschillende jaren
-        v.   De gebouwde applicatie  
+		1. Vul de naam van de functionaliteit boven in het sjabloon in
+		2. Vul per functionaliteit Actie, Scenario en Verwacht resultaat in.  
+		3. Maak gebruik van de volgende documenten/product: 
+			i.   Vastgesteld Programma van eisen 
+			ii.  Vastgesteld functioneel ontwerp 
+			iii. Vastgesteld technisch ontwerp 
+			iv.  Gevulde database met deelnemers en resultaten van evenementen over verschillende jaren
+			v.   De gebouwde applicatie  
  
 __Links__
 
