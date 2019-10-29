@@ -26,7 +26,7 @@ ___Einde stap 1___
 
 ``Docent stelt 1 programma van eisen document op aan de hand van de ingeleverde document en verzamelt alle tickets en maakt daar 1 globale lijst van. Uit de volledige lijst i.c.m. programma van eisen krijgt iedere leerling een aantal tickets die hij/zij mag oplossen``
 
-1. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/02.%20Opdrachten/TicketlijstSpaceBlitz.xlsx">Volledige ticketlijst</a>
+1. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/02.%20Opdrachten/TicketlijstSpaceBlitz.xlsx">Volledige ticketlijst met toewijzingen</a>
 
 2. <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/Programma%20van%20eisen%20SpaceBlitz.docx">Programma van eisen</a>
 
