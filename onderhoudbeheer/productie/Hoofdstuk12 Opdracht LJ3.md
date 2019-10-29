@@ -44,11 +44,11 @@ __Onderdeel B.__ Aandragen en doorvoeren oplossingen
 
 1. Overleg met je leidinggevende welke tickets je gaat realiseren. Je leidinggevende zet zijn paraaf in de kolom Doorvoeren.  
 
-2. Bedenk oplossingen voor die twee toegewezen tickets. 
+2. Bedenk oplossingen voor de toegewezen tickets. 
     a. Gebruik hierbij de uitgewerkte applicatie en database. 
     b. Houd rekening met de randvoorwaarden zoals vermeld in Uittreksel SLA, Programma van Eisen  
-    c. Vul voor deze twee tickets het Aanpassingendocument in, gebruik daarbij Sjabloon Aanpassingendocument. Alleen de kolom Uitgevoerd Door en Uitgevoerd Datum vul je nog niet in. 
-3. Realiseer de gekozen oplossing voor de twee tickets in de applicatie en/of de database. Maak hierbij gebruik van Coding conventions.  
+    c. Vul voor deze tickets het Aanpassingendocument in, gebruik daarbij Sjabloon Aanpassingendocument. Alleen de kolom Uitgevoerd Door en Uitgevoerd Datum vul je nog niet in. 
+3. Realiseer de gekozen oplossing voor de tickets in de applicatie en/of de database. Maak hierbij gebruik van Coding conventions.  
 
  ``Er is een inleveropdracht gemaakt voor het aanpassingendocument``
   
