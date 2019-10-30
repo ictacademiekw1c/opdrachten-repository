@@ -51,7 +51,9 @@ __Onderdeel B.__ Aandragen en doorvoeren oplossingen
 3. Realiseer de gekozen oplossing voor de tickets in de applicatie en/of de database. Maak hierbij gebruik van Coding conventions.  
 
  ``Er is een inleveropdracht gemaakt voor het aanpassingendocument``
-  
+
+___Einde stap 2___
+
 __Onderdeel C.__  Documenteren en communiceren
 
     1. Documenteer de doorgevoerde wijzigingen volgens 'Procedure afhandeling tickets'.
