@@ -1,4 +1,4 @@
-#### [kleurcode]rgba(60,200,200,1)
+#### [kleurcode]rgba(60,220,180,1)
 
 # Sprint 7
 
