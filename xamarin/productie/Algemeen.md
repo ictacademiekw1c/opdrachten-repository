@@ -38,6 +38,7 @@ Hieronder zie de deadlines van inleveren van je sprints.
 
 ## Opleveren opdrachten (Definition of Done)
 1. Je commit en pusht je opdrachten naar de git repository van je DevOps project. ** Dit is je officiële inleverdatum **.
+2. Je commit en pusht ook de werkende versies van alle tussenstappen van je code
 2. Je werkt de Backlog bij van de betreffende Sprint.
 3. Je zorgt ervoor dat de App draait in een Emulator of device.
 4. Daarna laat je de opdracht aan de docent zien. ** Zonder de opdracht te laten zien, krijg je geen punten **.
