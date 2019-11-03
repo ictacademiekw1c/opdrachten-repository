@@ -10,7 +10,7 @@ Je werkt onderstaande modules geheel door. Tijdens deze modules maak je de gegev
 
 <a href="https://docs.microsoft.com/en-us/learn/modules/consume-rest-services/" target="_new">Consuming REST-service</a>
 
-Lees van deze workshop de eerste 3 units grondig door. Bij unit 4 start de workshop begint de opdracht.
+Lees van deze workshop de eerste 3 units grondig door. Bij unit 4 start de exercise en begint de opdracht.
 
 ---
 ## Opdracht 7.1 De ontwikkelaar kan gebruik maken van een REST service met HttpClient
