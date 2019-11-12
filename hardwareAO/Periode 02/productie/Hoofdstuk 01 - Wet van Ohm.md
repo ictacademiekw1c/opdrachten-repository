@@ -1,6 +1,20 @@
 #### [kleurcode]rgba(244,67,54, 1)
 
-# Hoofdstuk 1 - Wet van Ohm
+# Les 1 - Wet van Ohm
+
+### Onderwerpen
+* De weerstand van een geleider
+* De wet van Ohm
+* Serie en parallel geschakelde weerstanden
+
+### Presentatie
+
+[Presentatie Les 1 periode 2, Wet van Ohm](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/Les%2011%20-%20Wet%20van%20Ohm%20&%20Multimeter%201.pptx) 
+
+
+[Oefeningen Wet van Ohm](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/Oefeningen%20Wet%20van%20Ohm.pdf)
+
+[Infographic Electronica](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/Infographic_HardwareP2.png)
 
 ---
 ## Opdracht A
@@ -12,29 +26,6 @@
 
 Lever deze opdracht via de betreffende inleveropdracht in de Hardware AO studieroute.
 
-### Onderwerpen
-* De weerstand van een geleider
-* De wet van Ohm
-* Serie en parallel geschakelde weerstanden
-
-### Presentatie
-
-[Presentatie Introductie Wet van Ohm](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/Tom/introductie%20wet%20van%20ohm.pptx) - Auteur: Tom van der Zandt
-
-[Presentatie Wet van Ohm en Weerstand](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/HARa01.Presentatie.Wet%20van%20Ohm-Weerstanden.pdf)
-
-### Benodigde bestanden
-<!-- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2001/Productie/02.%20Opdrachten/Hoofdstuk%201/Bijlage%20opdracht%201.3.docx" target="_blank">Te gebruiken document template</a> -->
-Niet van toepassing.
-
-### Tooling
-[Handig electronica circuit simulatietool](https://www.falstad.com/circuit/) - Falstad.com
-
-[script stroomkring](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Falstad.stroomkring.circuitjs.txt)
-
-[script serieschakeling](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Falstad.serieschakeling.circuitjs.txt)
-
-[script parallelschakeling](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/03.%20Scripts/Falstad.parallelschakeling.circuitjs.txt)
 
 ### Fun
 

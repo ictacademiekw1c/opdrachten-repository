@@ -9,13 +9,14 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** &nbsp;|
 |--------------------  |----------- | --------- | --------- | --------- | --------- |
-| Opdrachten 6.1, 6.2 |  |  | | | |
-| Opdrachten 6.3, 6.4 |  |  | | | |
-| Opdrachten 7.1, 7.2 |  |  | | | |
-| Opdrachten 8.1 | | ||| |
-| Opdrachten 8.2 | |  | |  |  |
-| Opdrachten 8.3, 9.1 |  |  |  | | |
-| Eindopdracht |  |   |  |  |
+
+| Opdrachten 6.1, 6.2 | ma 11 nov | zo 18 nov | di 12 nov | di 19-11  | ma 18-11  |
+| Opdrachten 6.3, 6.4 | |  |  | di 19-11  | ma 18-11 |
+| Opdrachten 7.1, 7.2 | |  |  |  |  |
+| Opdrachten 8.1 | |  |  |  |  |
+| Opdrachten 8.2 | |  |  |  |  |
+| Opdrachten 8.3, 9.1 | |  |  |  |  |
+| Eindopdracht | |  |  |  |  |
  
 
 
