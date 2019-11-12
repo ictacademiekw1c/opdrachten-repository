@@ -13,7 +13,10 @@ Dit is ook de uiterste opleverdatum voor deze sprint.
 
 ## Beoordelingscriteria
 
+- Je sprint start in de week van 11/11 en eindigt op 25/11
 - Je hebt meerdere workitems in je sprint staan 
+    - Bijvoorbeeld De ontwikkelaar weet hoe hij/zij een Googlemaps kaart kan tonen in een Xamarin.forms App
+    - of De ontwikkelaar heeft een schets gemaakt van de schermen van zijn/haar App
 - Iedere workitems heeft meerdere taken
 - Van iedere taak die op done staat kan je aantonen dat het ook echt gedaan is.
 - Van je App heb je een concept in de vorm van een Word document geschreven en/of een aantal schetsen/mockups
