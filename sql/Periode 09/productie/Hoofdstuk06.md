@@ -27,7 +27,7 @@ __Beoordelingscriteria databasescript__
 Het resultaat moet aan de volgende punten voldoen.
 
     1.	Controle op bestaande databases.	
-    2.	IFexits – DropDatabase.	
+    2.	IF exists – DropDatabase.	
     3.	Create database (location;min size;max size;growsize).	
     4.	Create table (fieldname;fieldtype;notnull;pr.key) definities zoals voortgekomen uit de datadictionary
     5.	De juiste primary keys op alle bestaande tabellen
