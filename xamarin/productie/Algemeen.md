@@ -31,7 +31,7 @@ Hieronder zie de deadlines van inleveren van je sprints.
 | Sprint 5 | 21/10/2019| 21/10/2019 |
 | Sprint 6 | 3/11/2019| 3/11/2019 |
 | Sprint 7 | 10/11/2019| 10/11/2019 |
-| Sprint 8 | | |
+| Sprint 8 | 25/11/2019| 25/11/2019 |
 
 <br>
 
