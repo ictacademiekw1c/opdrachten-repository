@@ -11,3 +11,4 @@
 | H12 - Opdrachten Programma v. eisen & ticketlijst | 28 okt | 28 okt |  
 | H12 - Persoonlijke ticketlijst | 5 nov | 5 nov |  
 | H12 - Aanpassingendocument | 5 nov | 5 nov |  
+| H13 - Acceptatietest | 25 nov | 25 nov |  
