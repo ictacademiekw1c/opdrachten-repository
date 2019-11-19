@@ -9,7 +9,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** |
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
-| NVT | 27 nov | 25 nov | 25 nov | 25 nov |
+| NVT | 27 nov | 25 nov | 25 nov | 25 nov || 25 nov |
 <br> 
 
 
