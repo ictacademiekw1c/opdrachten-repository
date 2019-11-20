@@ -53,6 +53,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 3  Eerste Movies Crystal reports Rapportage |   20/9/2019 |
 | Opdracht 4  Factuur per klant/Alle klanten Crystal reports Rapportage |   11/10/2019 |
 | Opdracht 5  Movies rapportage met parameters, Rapportage |   25/10/2019 |
+| Opdracht 6  Creatie script/testset | 27/11/2019 | 27/11/2019 |
 
 <br> 
 
