@@ -22,7 +22,7 @@ Hieronder de richtlijnen voor dit verslag
 **De richtlijnen voor het verslag:**
 - Maak een verslag van de opdracht in een Word document.
 - Naamgeving van het verslag: <strong>BasisElektronica\_E<*Boxnummer*>\_<*Achternaam*>\_<*Voornaam voorvoegsel*>\_<*Klas*> </strong>
-- Ieder teamlid laadt dit verslag in zijn portfolio op N@tschool onder het vak Hardware AO periode 2.
+- Ieder teamlid laadt dit verslag in de gelijknamige Inleveropdracht onder het vak Hardware AO periode 2.
 - Voor iedere les moet het verslag zijn bijgewerkt met de laatste uitgevoerde opdrachten!!
 - Inhoud van het verslag:
 
