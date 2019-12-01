@@ -22,6 +22,9 @@ In dit hoofdstuk worden de volgende componenten behandeld:
 
 Download hier <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_opdracht02.pdf">praktijkopdracht 2</a>
 
+[Template Basiselektronica verslag ](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_verslag_template.docx) 
+
+
 ### Presentaties
 
 - [Presenatie diodes](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/01.%20Reader/Tom/Diodes.pptx) -   - Auteur: Tom van der Zandt

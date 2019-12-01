@@ -23,6 +23,9 @@ Lever deze opdracht via de betreffende inleveropdracht B 'Weerstanden' in de Har
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_opdracht01.pdf">Praktijopdracht 1</a>
 
+[Template Basiselektronica verslag ](https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_verslag_template.docx) 
+
+
 
 ### Presentatie
 
