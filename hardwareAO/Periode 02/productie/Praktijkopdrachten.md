@@ -44,3 +44,11 @@ Voor iedere opdracht:
 Voor een voorbeeld van zo'n verslag met opmerkingen zie de benodigde bestanden.
 
 <strong>LET OP: Je mag pas verder met de volgende praktijkopdracht als de praktijk opdracht en het verslag is afgerond en goedgekeurd door de docent!</strong>
+
+
+## Lijst praktijkopdrachten
+
+    - <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_opdracht01.pdf">Praktijkopdracht 1</a>
+    - <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_opdracht02.pdf">Praktijkopdracht 2</a>
+    - <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_opdracht03.pdf">Praktijkopdracht 3</a>
+    - <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.11%20HARa%5D%20Hardware%20AO/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2002/Productie/02.%20Opdrachten/Projectenbasiselektronica_opdracht04.pdf">Praktijkopdracht 4</a>
