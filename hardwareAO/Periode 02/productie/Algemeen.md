@@ -13,8 +13,8 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 | Opdracht B | NVT |  - | -  | - | - | 
 | Praktijkopdracht 1 | NVT | 4 dec  | 2 dec  | 2 dec |  2 dec | 
 | Praktijkopdracht 2 | NVT | 11 dec  | 9 dec  | 9 dec |  9 dec | 
+| Praktijkopdracht 3 | NVT | 18 dec  | 16 dec  | 16 dec |  16 dec | 
 <br> 
-
 
 
 **Let op: Je dient de opdrachten in te leveren via een inleveropdracht in de ELO studieroute. Let op de inleverdatum. Een week na de inleverdatum sluit de mogelijkheid tot elektronisch inleveren.** 
