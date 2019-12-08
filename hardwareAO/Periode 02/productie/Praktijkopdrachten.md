@@ -12,8 +12,6 @@ Tijdens de les ben je bezig met praktijkoefeningen elektronica. Voor dit praktij
 **Aftekenen van een praktijk opdracht:**
 - De schakeling die je in de les bouwt moet door de docent persoonlijk worden gecontroleerd.
 - De administratie dat je schakeling is goedgekeurd wordt bijgehouden met een handtekening van de docent op het aftekenformulier van je team.
-- Aan het eind van de les lever je het aftekenformulier van je team in bij de docent.
-- Raak je je aftekenformulier kwijt of vergeet je het in te leveren dan moet je de schakeling(en) opnieuw bouwen!
 
 Naast het laten controleren van de schakelingen moeten je observaties, bevindingen en de antwoorden op de vragen in de reader worden vastgelegd in een verslag.
 
