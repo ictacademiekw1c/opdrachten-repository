@@ -74,7 +74,8 @@
 *   zwevende elementen
 
 ### Benodigde bestanden
-*   <a href="http://www.eventcentreaquabest.nl/wp-content/uploads/2016/11/event2.jpg" target="_blank">Achtergrondafbeelding</a>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2013/Resources/festival.jpg" target="_blank">Achtergrondafbeelding (deze is anders dan in de opdracht. Zelf een festival-achtergrond uitzoeken mag ook)</a>
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.14%20HTM%5D%20HTMLCSS/Productie/02.%20Opdrachten/Hoofdstuk%2013/Resources/LOT.rar" target="_blank">LOT lettertype</a>
 
 ### Help
 *   <a href="http://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">HTML semantische elementen voor lay-outs</a>
