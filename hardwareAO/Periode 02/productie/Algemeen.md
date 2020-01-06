@@ -11,9 +11,7 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
 | Opdracht A | NVT |  - | -  | - | - | 
 | Opdracht B | NVT |  - | -  | - | - | 
-| Praktijkopdracht 1 | NVT | 4 dec  | 2 dec  | 2 dec |  2 dec | 
-| Praktijkopdracht 2 | NVT | 11 dec  | 9 dec  | 9 dec |  9 dec | 
-| Praktijkopdracht 3 | NVT | 18 dec  | 16 dec  | 16 dec |  16 dec | 
+| Praktijkopdracht 1 | NVT |  - | -  | - | - | 
 <br> 
 
 
