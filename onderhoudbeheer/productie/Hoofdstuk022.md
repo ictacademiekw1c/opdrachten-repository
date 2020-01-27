@@ -13,6 +13,19 @@ Om een goed overzicht te houden van alle aanpassingen aan een applicatie is soft
 
 ### 2.2.2 Wat heb je nodig/hoe werkt versiebeheer?
 
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/git-workshop-5-638.jpg" title="git architectuur">
+
+-   GIT repository hosts
+    - github.com
+    - bitbucket.com
+    - microsoft devops portal
+
+- GIT clients
+    - Github for windows desktop
+    - Tortoise git
+    - Git bash
+
+
 [![Over Git en Github op youtube](http://img.youtube.com/vi/uUuTYDg9XoI/0.jpg)](http://www.youtube.com/watch?v=uUuTYDg9XoI)
 
 [![Nog meer Git op youtube](http://img.youtube.com/vi/OqmSzXDrJBk/0.jpg)](http://www.youtube.com/watch?v=OqmSzXDrJBk)
