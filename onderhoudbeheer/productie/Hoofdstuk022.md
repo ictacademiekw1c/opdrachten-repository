@@ -25,6 +25,13 @@ Om een goed overzicht te houden van alle aanpassingen aan een applicatie is soft
     - Tortoise git
     - Git bash
 
+### 2.2.3 Git/Github workshops/tutorials
+
+<a href="https://www.edureka.co/blog/git-tutorial/">Edureka git tutorial</a>
+
+<a href="https://try.github.io/">Github git tutorial</a>
+
+
 
 [![Over Git en Github op youtube](http://img.youtube.com/vi/uUuTYDg9XoI/0.jpg)](http://www.youtube.com/watch?v=uUuTYDg9XoI)
 
