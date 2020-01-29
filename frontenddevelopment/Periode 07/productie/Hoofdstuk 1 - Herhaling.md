@@ -2,6 +2,20 @@
 
 # Hoofdstuk 1 - HTML, CSS, JavaScript, Git 
 
+
+## Inleiding
+
+Ophalen theorie leerjaar 1
+
+### WCAG eisen website
+
+//To-do
+
+### Technische eisen html/css/js
+
+- validiteit
+- 
+
 ---
 ## Opdracht 1 - Website bouwen voor klant
 ---

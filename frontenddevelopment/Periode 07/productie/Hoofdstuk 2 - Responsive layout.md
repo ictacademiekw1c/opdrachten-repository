@@ -1,9 +1,15 @@
 #### [kleurcode]rgba(233,30,99,1)
 
-# Hoofdstuk 2 - Responsive Layout
+# Hoofdstuk 2 - SCSS en Responsive Layout
 
 ---
-## 2.1 Basispagina structuur
+## 2.1 SCSS
+---
+
+//To-do
+
+---
+## 2.2 Basispagina structuur
 ---
 
 Voordat we beginnen met responsive layout moeten de basis principes voor een goede pagina structuur bekend zijn. Bekijk de volgende video's en oefen ermee als een bepaald onderdeel nog niet helemaal duidelijk voor je is.
@@ -25,9 +31,8 @@ Voordat we beginnen met responsive layout moeten de basis principes voor een goe
 Gebruik de <a target="_blank" href="https://elo.kw1c.nl/Pages/View.aspx?cp=%2FCMS%2FStudie%2F811%20ICT-Academie%2F811%20VakkenInhoud%2F%5BK.07%20FrD%5D%20Keuzedeel%20%5BK0722%5D%20Frontend%20development%2F25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar%2FPeriode%2007%2FProductie%2FEx_Files_Responsive_Layout">oefenbestanden</a> om met de bovenstaande basisprincipes te oefenen. 
 
 ---
-## 2.2 Responsive Layout
+## 2.3 Responsive Layout
 ---
-
 
 - Waarom <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BK.07%20FrD%5D%20Keuzedeel%20%5BK0722%5D%20Frontend%20development/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/743192_02_01_XR30_responsive_design.mp4">responsive Design?</a>
 
@@ -46,7 +51,7 @@ Bestudeer verder ook de volgende pagina's op w3schools.
 - <a href="https://www.w3schools.com/css/css_rwd_intro.asp">Responsive Web Design</a> Doorloop alle pagina's via de next button totdat je op de pagina komt over videos (https://www.w3schools.com/css/css_rwd_videos.asp).
 
 ---
-## Opdracht 2 - Maak de website responsive
+## Opdracht 2 - Maak gebruik van SCSS en maak de website responsive
 ---
 
 ### Download
