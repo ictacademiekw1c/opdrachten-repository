@@ -7,17 +7,16 @@ Aan de hand hiervan moet de leerling een beeld krijgen wat de opleiding Applicat
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
 
-|Opdracht              |  &nbsp; &nbsp;  Deadline **IO1B4** &nbsp; |  &nbsp; &nbsp;  Deadline **IO1C4** &nbsp; |   &nbsp; &nbsp;  Deadline **IO1D4** &nbsp; | &nbsp; &nbsp;  Deadline **IO1E4** &nbsp; |
+|Opdracht              |  &nbsp; &nbsp;  Deadline **IO1A4** &nbsp; |  &nbsp; &nbsp;  Deadline **IO1B4** &nbsp; |  &nbsp; &nbsp;  Deadline **IO1C4** &nbsp; |   &nbsp; &nbsp;  Deadline **IO1D4** &nbsp; | &nbsp; &nbsp;  Deadline **IO1E4** &nbsp; |
 |--------------------  |--------------- | --------- |
-| Opdracht 11.1, 11.2, 11.3 | Ma 11 febr | Di 12 febr | Di 12 febr | Ma 11 febr |
-| Opdracht 12.1, 12.2 | Ma 18 febr | Di 19 febr | Di 19 febr | Ma 19 febr |
-| Opdracht 12.3, 12.4 | Ma 25 febr | Di 26 febr | Di 25 febr | Ma 25 febr |
-| Opdracht 12.5 | Ma 11 mrt | Di 12 mrt | Di 12 mrt | Ma 11 mrt |
-| Opdracht 12.6, 12.7 | Ma 18 mrt | Di 19 mrt | Di 19 mrt | Ma 18 mrt |
-| Opdracht 12.8, 12.9 | Ma 1 apr | Di 2 apr | Di 2 apr | Ma 1 apr |
-| Eindopdracht | Woe 17 apr | Di 16 apr | Woe 17 apr | Ma 15 apr |
+| Opdracht 11.1, 11.2, 11.3 | ma 10 feb | ma 10 feb | wo 12 feb | di 11 feb | ma 10 feb |
+| Opdracht 12.1, 12.2 | | | | | |
+| Opdracht 12.3, 12.4 | | | | | |
+| Opdracht 12.5 | | | | | |
+| Opdracht 12.6, 12.7 | | | | | |
+| Opdracht 12.8, 12.9 | | | | | |
+| Eindopdracht | | | | | |
 
-<br> 
 
 **Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op** 
 
