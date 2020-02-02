@@ -6,7 +6,10 @@
 ## 2.1 SCSS
 ---
 
-//To-do
+<a href="http://lesscss.org/#">CSS pre-processor met LESS</a>
+
+[![Over LESS op youtube](http://img.youtube.com/vi/YD91G8DdUsw/0.jpg)](http://www.youtube.com/watch?v=YD91G8DdUsw)
+
 
 ---
 ## 2.2 Basispagina structuur
