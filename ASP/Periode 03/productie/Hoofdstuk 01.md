@@ -2,6 +2,9 @@
 
 # Hoofdstuk 1
 
+### Reader
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/SQL_reader_1_introductie.pdf" target="_blank"> Reader hoofdstuk 1</a>
+
 ---
 ## Opdracht 1.1
 ---
