@@ -32,17 +32,17 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
-| IO2A4 |  Woensdag 5 juni 2019  |
-| IO2B4 |  Dinsdag 4 juni 2019  |
-| IO2C4 |  Dinsdag 4 juni 2019  |
+| IO2A4 |   |
+| IO2B4 |   |
+| IO2C4 |   |
 
 ### Herkansing
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
-| IO2A4 |  Dinsdag 25 juni 2019  |
-| IO2B4 |  Dinsdag 25 juni 2019  |
-| IO2C4 |  Dinsdag 25 juni 2019  |
+| IO2A4 |    |
+| IO2B4 |    |
+| IO2C4 |    |
 
 ## Editor
 Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
