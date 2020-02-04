@@ -10,7 +10,6 @@
 
 [![Over LESS op youtube](http://img.youtube.com/vi/YD91G8DdUsw/0.jpg)](http://www.youtube.com/watch?v=YD91G8DdUsw)
 
-
 ---
 ## 2.2 Basispagina structuur
 ---
