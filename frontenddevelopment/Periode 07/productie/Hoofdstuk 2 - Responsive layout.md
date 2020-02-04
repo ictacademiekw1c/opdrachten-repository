@@ -7,6 +7,7 @@
 ---
 
 <a href="http://lesscss.org/#">CSS pre-processor met LESS</a>
+<a href="https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus">Vergelijking CSS pre-processors met LESS, SASS en Stylus</a>
 
 [![Over LESS op youtube](http://img.youtube.com/vi/YD91G8DdUsw/0.jpg)](http://www.youtube.com/watch?v=YD91G8DdUsw)
 
