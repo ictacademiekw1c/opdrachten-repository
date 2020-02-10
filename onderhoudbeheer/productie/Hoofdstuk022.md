@@ -32,14 +32,15 @@ Om een goed overzicht te houden van alle aanpassingen aan een applicatie is soft
 <a href="https://try.github.io/">Github git tutorial</a>
 
 
+### 2.3 Huiswerkopdracht versiebeheer Taak 2-2
+ 
+Volg de <a href="https://www.edureka.co/blog/git-tutorial/" target="_new">Git tutorial</a> en doe daarna de https://learngitbranching.js.org/. Laat zien dat je de stappen van de 'Introduction sequence' succesvol doorlopen hebt.
+(Maak een screendump)
+
+
+## 2.4 Video's over Git
 
 [![Over Git en Github op youtube](http://img.youtube.com/vi/uUuTYDg9XoI/0.jpg)](http://www.youtube.com/watch?v=uUuTYDg9XoI)
 
 [![Nog meer Git op youtube](http://img.youtube.com/vi/OqmSzXDrJBk/0.jpg)](http://www.youtube.com/watch?v=OqmSzXDrJBk)
-
-## 2.3 Huiswerkopdracht Versies/versiebeheer Taak 2
- 
- Zie hiervoor taak 2 in de studieroute
-
-
 

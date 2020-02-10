@@ -3,13 +3,13 @@
 # Hoofdstuk 2 - SCSS en Responsive Layout
 
 ---
-## 2.1 CSS Pre-Processors met LESS
+## 2.1 SCSS
 ---
 
 <a href="http://lesscss.org/#">CSS pre-processor met LESS</a>
-<a href="https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus">Vergelijking CSS pre-processors met LESS, SASS en Stylus</a>
 
 [![Over LESS op youtube](http://img.youtube.com/vi/YD91G8DdUsw/0.jpg)](http://www.youtube.com/watch?v=YD91G8DdUsw)
+
 
 ---
 ## 2.2 Basispagina structuur
@@ -54,7 +54,7 @@ Bestudeer verder ook de volgende pagina's op w3schools.
 - <a href="https://www.w3schools.com/css/css_rwd_intro.asp">Responsive Web Design</a> Doorloop alle pagina's via de next button totdat je op de pagina komt over videos (https://www.w3schools.com/css/css_rwd_videos.asp).
 
 ---
-## Opdracht 2 - Maak gebruik van CSS pre-processor en maak de website responsive
+## Opdracht 2 - Maak gebruik van SCSS en maak de website responsive
 ---
 
 ### Download

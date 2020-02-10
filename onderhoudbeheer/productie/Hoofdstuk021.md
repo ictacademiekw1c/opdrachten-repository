@@ -28,4 +28,9 @@ De volgende vragen moet je kunnen beantwoorden na het lezen van bovenstaande pag
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/opdrachtenportaal/index.html?file=Hoofdstuk022.md">Lees hier verder</a>
 
+### 2.2.1 Huiswerkopdracht Versies Taak 2-1
+ 
+Neem alle vragen over in over versies in 2.1 in een Word document en beantwoord alle 11 vragen en upload dit document in Taak 2-1.
+
+
 
