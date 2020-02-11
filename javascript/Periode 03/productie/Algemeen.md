@@ -10,12 +10,12 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 |Opdracht              |  &nbsp; &nbsp;  Deadline **IO1A4** &nbsp; |  &nbsp; &nbsp;  Deadline **IO1B4** &nbsp; |  &nbsp; &nbsp;  Deadline **IO1C4** &nbsp; |   &nbsp; &nbsp;  Deadline **IO1D4** &nbsp; | &nbsp; &nbsp;  Deadline **IO1E4** &nbsp; |
 |--------------------  |--------------- | --------- |
 | Opdracht 11.1, 11.2, 11.3 | ma 10 feb | ma 10 feb | wo 12 feb | di 11 feb | ma 10 feb |
-| Opdracht 12.1, 12.2 | | | | | |
-| Opdracht 12.3, 12.4 | | | | | |
-| Opdracht 12.5 | | | | | |
-| Opdracht 12.6, 12.7 | | | | | |
-| Opdracht 12.8, 12.9 | | | | | |
-| Eindopdracht | | | | | |
+| Opdracht 12.1, 12.2 | ma 17 feb | ma 17 feb | wo 19 feb | di 18 feb | ma 17 feb |
+| Opdracht 12.3, 12.4 | ma 2 mrt | ma 2 mrt | wo 4 mrt | di 3 mrt | ma 2 mrt |
+| Opdracht 12.5 | ma 9 mrt | ma 9 mrt | wo 11 mrt | di 10 mrt | ma 9 mrt |
+| Opdracht 12.6, 12.7 | ma 16 mrt | ma 16 mrt | wo 18 mrt | di 17 mrt | ma 16 mrt |
+| Opdracht 12.8, 12.9 | ma 23 mrt | ma 23 mrt | wo 25 mrt | di 24 mrt | ma 24 mrt |
+| Eindopdracht | do 9 apr | do 9 apr | do 9 apr | do 9 apr | do 9 apr |
 
 
 **Let op: Je dient de opdrachten vóór de laatste les van die week te laten zien. Let hier dus op** 
