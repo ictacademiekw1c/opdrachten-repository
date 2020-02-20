@@ -72,17 +72,16 @@
 ```sql
 -- Vanuit master heb je de juiste rechten om een nieuwe database aan te maken
 USE MASTER;
-GO;
 
 -- Maak database aan
 CREATE DATABASE <Databasenaam>;
+GO
 
 -- Verwijder database 
 DROP DATABASE <Databasenaam>;
 
 -- Gebruik database 
 USE <databasenaam>;
-GO;
 
 -- Maak tabel aan
 CREATE TABLE <tabelnaam>
