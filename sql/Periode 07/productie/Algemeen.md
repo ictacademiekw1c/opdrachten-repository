@@ -13,19 +13,17 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Opdracht              | &nbsp; &nbsp; Deadline IO2A4, IO2B4, IO2C4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
-| Opdracht H.1, H.2, H.3 |  Vrijdag 15 februari 2019  |
-| Opdracht 10.1, 10.2 |  Vrijdag 22 februari 2019  |
-| Opdracht 11.1, 11.2, 11.3 |  Vrijdag 15 maart 2019  |
-| Opdracht 12.1, 12.2 |  Vrijdag 22 maart 2019  |
-| Opdracht 13.1, 13.2 |  Vrijdag 29 maart 2019  |
-| Opdracht 14.1, 14.2 |  Vrijdag 19 april 2019  |
-| Opdracht 15.1, 15.2, 15.3 |  Zondag 5 mei 2019  |
-| Opdracht 16.1, 16.2 |  Vrijdag 24 mei 2019  |
-| Opdracht 17.1 |  Maandag 3 juni 2019  |
-| Opdracht 18.1 |  Maandag 3 juni 2019   |
+| Opdracht H.1, H.2, H.3 |  Zondag 16 februari 2020  |
+| Opdracht 10.1, 10.2 |  Zondag 23 februari 2020  |
+| Opdracht 11.1, 11.2, 11.3 |   |
+| Opdracht 12.1, 12.2 |   |
+| Opdracht 13.1, 13.2 |   |
+| Opdracht 14.1, 14.2 |   |
+| Opdracht 15.1, 15.2, 15.3 |   |
+| Opdracht 16.1, 16.2 |   |
+| Opdracht 17.1 |   |
+| Opdracht 18.1 |   |
 <br> 
-
-**Let op: De uiterlijke aftekendatum van het huiswerk is maandag 3 juni 2019. Hierna wordt het huiswerk niet meer afgetekend.** 
 
 **Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
 
@@ -34,17 +32,17 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
-| IO2A4 |  Woensdag 5 juni 2019  |
-| IO2B4 |  Dinsdag 4 juni 2019  |
-| IO2C4 |  Dinsdag 4 juni 2019  |
+| IO2A4 |   |
+| IO2B4 |   |
+| IO2C4 |   |
 
 ### Herkansing
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
-| IO2A4 |  Dinsdag 25 juni 2019  |
-| IO2B4 |  Dinsdag 25 juni 2019  |
-| IO2C4 |  Dinsdag 25 juni 2019  |
+| IO2A4 |    |
+| IO2B4 |    |
+| IO2C4 |    |
 
 ## Editor
 Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.

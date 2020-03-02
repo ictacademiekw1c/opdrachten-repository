@@ -2,6 +2,9 @@
 
 # Hoofdstuk 1
 
+### Reader
+*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/01.%20Reader/ASP_reader_1_introductie.pdf" target="_blank"> Reader hoofdstuk 1</a>
+
 ---
 ## Opdracht 1.1
 ---
@@ -40,19 +43,3 @@
 <iframe width="560" height="315" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/Aanmaken%20project%20in%20solution.mp4" frameborder="0" allowfullscreen></iframe>
 *   Inleveren opdracht (project)
 <iframe width="560" height="315" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/Inleveren%20opdracht.mp4" frameborder="0" allowfullscreen></iframe>
-
----
-## Opdracht 1.3
----
-
-### Download
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Opdracht%201.3.pdf" target="_blank">Download opdracht 1.3</a>
-
-### Onderwerpen
-*   Kennismaking met ASP.NET
-
-### Benodigde bestanden
-*   Je hebt voor deze opdracht geen bestanden nodig.
-
-### Help
-*   <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.02%20ASP%5D%20ASP/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Hoofdstuk%2001/Resources/H1%20-%20Introductie%20ASP.NET%20(theorie).pdf" target="_blank">ASP.NET theorie</a>

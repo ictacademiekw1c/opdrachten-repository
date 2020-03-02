@@ -2,6 +2,29 @@
 
 # Hoofdstuk 1 - HTML, CSS, JavaScript, Git 
 
+## Inleiding
+
+Ophalen theorie leerjaar 1
+
+### WCAG (Web Content Accessibility Guidelines) eisen website
+
+<a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/" target="_new">W3C WCAG richtlijnen t.b.v. algemene toegankelijkheidseisen websites</a>
+
+#### Samenvatting WCAG
+    
+    <a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#perceivable" target="_new">Waarneembaar</a>
+    <a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#operable" target="_new">Bedienbaar</a>
+    <a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#begrijpelijk" target="_new">Begrijpelijk</a>
+    <a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#begrijpelijk" target="_new">Robuust</a>
+     
+
+<a href="https://dekrachtvancontent.nl/webredactie/checklist-toegankelijke-content/">Checklist toegankelijke content</a>
+
+
+### Technische eisen html/css/js
+
+<a href="https://validator.w3.org/">Check de validiteit van je markup</a>
+
 ---
 ## Opdracht 1 - Website bouwen voor klant
 ---

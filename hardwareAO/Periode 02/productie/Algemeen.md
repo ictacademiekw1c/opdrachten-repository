@@ -9,9 +9,10 @@ Hieronder zie de deadlines van inleveren **en aftekenen** van je opdrachten
 
 |Opdracht              | &nbsp; &nbsp; Deadline **IO1A4** | &nbsp; &nbsp; Deadline **IO1B4** | &nbsp; &nbsp; Deadline **IO1C4** | &nbsp; Deadline **IO1D4** | &nbsp; &nbsp; Deadline **IO1E4** |
 |--------------------  |--------------- | --------- | --------- | --------- | --------- |
-| 
+| Opdracht A | NVT |  - | -  | - | - | 
+| Opdracht B | NVT |  - | -  | - | - | 
+| Praktijkopdracht 1 | NVT |  - | -  | - | - | 
 <br> 
-
 
 
 **Let op: Je dient de opdrachten in te leveren via een inleveropdracht in de ELO studieroute. Let op de inleverdatum. Een week na de inleverdatum sluit de mogelijkheid tot elektronisch inleveren.** 
