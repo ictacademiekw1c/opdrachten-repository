@@ -15,7 +15,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdrachten 8.1 | | di 3-12 |  |  di 3-12 | ma 2-12 |
 | Opdrachten 8.2 | | di 10-12 |  | di 10-12 | ma 9-12 |
 | Opdrachten 8.3, 9.1 | | di 17-12 |  | di 17-12 | ma 16-12 |
-| Eindopdracht | |  |  |  |  |
+| Eindopdracht | |  |  |  | &nbsp; | |
  
 
 
