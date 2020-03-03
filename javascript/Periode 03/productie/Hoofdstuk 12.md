@@ -79,3 +79,26 @@
 ### Help
 - <a href="https://www.w3schools.com/jquery/jquery_events.asp" target="_blank">jQuery events</a>
 
+---
+## Opdracht 12.5
+---
+
+### Download
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/02.%20Opdrachten/Opdracht%2012.5.pdf" target="_blank">Download opdracht 12.5</a>
+
+### Onderwerpen
+- jQuery events
+- fadeIn() / fadeIn()
+- window resize()
+- setTimeout()
+
+### Benodigde bestanden
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.16%20JAV%5D%20Javascript/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2003/Productie/03.%20Scripts/Template%2012.5.rar" target="_blank">Template 12.5</a>
+
+### Help
+- <a href="https://www.w3schools.com/jquery/jquery_events.asp" target="_blank">jQuery events</a>
+- <a href="https://www.w3schools.com/jquery/eff_fadein.asp" target="_blank">jQuery fadeIn() / fadeOut()</a>
+- <a href="https://www.w3schools.com/jquery/event_resize.asp" target="_blank">window resize()</a>
+- <a href="https://www.w3schools.com/jsref/met_win_settimeout.asp" target="_blank">setTimeout()</a>
+
+
