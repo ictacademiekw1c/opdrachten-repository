@@ -15,7 +15,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 |--------------------  |--------------- |
 | Opdracht H.1, H.2, H.3 |  Zondag 16 februari 2020  |
 | Opdracht 10.1, 10.2 |  Zondag 23 februari 2020  |
-| Opdracht 11.1, 11.2, 11.3 |   |
+| Opdracht 11.1, 11.2, 11.3 | Zondag 15 maart 2020 |
 | Opdracht 12.1, 12.2 |   |
 | Opdracht 13.1, 13.2 |   |
 | Opdracht 14.1, 14.2 |   |
