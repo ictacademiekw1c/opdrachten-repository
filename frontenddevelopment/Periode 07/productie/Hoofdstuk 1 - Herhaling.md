@@ -12,11 +12,11 @@ Ophalen theorie leerjaar 1
 
 #### Samenvatting WCAG
     
-    <a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#perceivable" target="_new">Waarneembaar</a>
-    <a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#operable" target="_new">Bedienbaar</a>
-    <a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#begrijpelijk" target="_new">Begrijpelijk</a>
-    <a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#begrijpelijk" target="_new">Robuust</a>
-     
+<a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#perceivable" target="_new">Waarneembaar</a>
+<a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#operable" target="_new">Bedienbaar</a>
+<a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#begrijpelijk" target="_new">Begrijpelijk</a>
+<a href="https://www.w3.org/Translations/WCAG20-nl/WCAG20-nl-20101203/#begrijpelijk" target="_new">Robuust</a>
+    
 
 <a href="https://dekrachtvancontent.nl/webredactie/checklist-toegankelijke-content/">Checklist toegankelijke content</a>
 
