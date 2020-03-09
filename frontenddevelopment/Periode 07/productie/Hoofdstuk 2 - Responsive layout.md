@@ -55,6 +55,8 @@ Bestudeer verder ook de volgende pagina's op w3schools.
 <a href="https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus">Vergelijking CSS pre-processors met LESS, SASS en Stylus</a>
 <br>
 <a href="https://www.concretepage.com/css-3/less-css-tutorials-examples">Voorbeelden gebruik less</a>
+<br>
+<a href="https://www.hongkiat.com/blog/less-color-functions/">Less functions</a>
 
 
 [![Over LESS op youtube](http://img.youtube.com/vi/YD91G8DdUsw/0.jpg)](http://www.youtube.com/watch?v=YD91G8DdUsw)
