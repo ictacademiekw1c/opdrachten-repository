@@ -6,7 +6,7 @@ In leerjaar 1 heb je kennis gemaakt met SQL en databases. In periode 7 gaan we v
 In periode 8 houden we ons minder bezig met de DML-commando's en richten we ons meer op onderwerpen zoals toegangsbeheer, rollen en backups. 
 
 ## Voorkennis
-Deze studieroute is bedoeld voor 2e-jaars leerlingen niveau 4 van de ICT-Academie. Al hetgeen wat in leerjaar 1 is aangeboden zal je weer moeten kunnen reproduceren.. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Databases en SQL. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
+Deze studieroute is bedoeld voor 2e-jaars leerlingen niveau 4 van de ICT-Academie. Al hetgeen wat in leerjaar 1 is aangeboden zal je weer moeten kunnen reproduceren. Deze studieroute is opgesteld om gebruikt te worden bij de lessen Databases en SQL. Bij deze lessen wordt gebruik gemaakt van onder andere het opdrachtenportaal en w3schools.com. Tevens wordt in de lessen aanvullende uitleg gegeven door de docenten. Deze studieroute is niet bedoeld om zelfstandig door te kunnen werken.
 
 ## Opleverdata
 Hieronder zie de deadlines van inleveren van je opdrachten. 
@@ -15,8 +15,8 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 |--------------------  |--------------- |
 | Opdracht H.1, H.2, H.3 |  Zondag 16 februari 2020  |
 | Opdracht 10.1, 10.2 |  Zondag 23 februari 2020  |
-| Opdracht 11.1, 11.2, 11.3 |   |
-| Opdracht 12.1, 12.2 |   |
+| Opdracht 11.1, 11.2, 11.3 | Zondag 15 maart 2020 |
+| Opdracht 12.1, 12.2 | Zondag 22 maart 2020 |
 | Opdracht 13.1, 13.2 |   |
 | Opdracht 14.1, 14.2 |   |
 | Opdracht 15.1, 15.2, 15.3 |   |
@@ -32,9 +32,9 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Klas              |  &nbsp;Datum en tijd |
 |--------------------  |--------------- |
-| IO2A4 |   |
-| IO2B4 |   |
-| IO2C4 |   |
+| IO2A4 | Dinsdag 31 maart 2020 |
+| IO2B4 | Maandag 30 maart 2020 |
+| IO2C4 | Dinsdag 31 maart 2020 |
 
 ### Herkansing
 
