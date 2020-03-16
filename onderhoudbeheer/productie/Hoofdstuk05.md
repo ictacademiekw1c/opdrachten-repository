@@ -4,7 +4,12 @@
 
 Voordat we gaan duiken in de theorie van de Microsoft virtual academy over Testing fundamentals gaan we eerst een inventarisatie doen op wat jullie kennis en ervaring is op het gebied van testen.
 
+
+__Opdracht__ (Zie Taak 5, interview voorkennis Testen)
+
 Maak groepjes van 2 personen en bevraag mekaar op het onderwerp testen en maak daarvan een verslag in een word document.
+Het verslag bevat aldus 2 interviews. De interviewer stelt de vragen, de andere beantwoordt de vragen en de interviewer noteert de antwoorden in het verslag. Daarna worden de rollen omgekeerd.
+
 Hieronder zijn de voorbeeld vragen die je zou kunnen stellen aan de geinterviewde persoon.
 
 - Heb je tijdens je stage/elders ervaring opgedaan met testen?
@@ -39,6 +44,4 @@ Hieronder zijn de voorbeeld vragen die je zou kunnen stellen aan de geinterviewd
    - Geef een concreet voorbeeld van een product
    - Geef aan waarop er (beter) getest had moeten worden? 
    
-``Je hebt een half uur voor deze opdracht en zet beide namen met de rollen (interviewer/geinterviewde) in het document en upload het in de taak Groepsopdracht 1 - voorkennis testen in de studieroute.
-Ieder persoon levert een verslag op van minimaal 1 A4.``
 
