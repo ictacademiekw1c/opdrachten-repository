@@ -23,7 +23,13 @@ Ophalen theorie leerjaar 1
 
 ### Technische eisen html/css/js
 
+__Validiteit__
 <a href="https://validator.w3.org/">Check de validiteit van je markup</a>
+
+
+__Snelheid__
+<a href="https://elo.kw1c.nl/Pages/ViewMP4.aspx?cpsysid=1608a082-55ee-4563-b734-a0cd63343859">Belang van de snelheid van de website</a>
+
 
 ---
 ## Opdracht 1 - Website bouwen voor klant
