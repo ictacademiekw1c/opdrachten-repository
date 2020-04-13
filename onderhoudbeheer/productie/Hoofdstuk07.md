@@ -31,4 +31,4 @@ In hoofdstuk 8 gaan we kijken naar de onderzijde van de pyramide. De unit test.
 
 ## Links
 
-< href="https://martinfowler.com/articles/practical-test-pyramid.html" target="_new">Martin Fowler over de test pyramide</a>
+<a href="https://martinfowler.com/articles/practical-test-pyramid.html" target="_new">Martin Fowler over de test pyramide</a>
