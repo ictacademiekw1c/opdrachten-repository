@@ -1,7 +1,7 @@
 # Hoofdstuk 7 De test pyramide
 
 ---
-## 7.1
+## 7.1 Uitleg test pyramide
 ---
 
 In het vorig hoofdstuk is er behandeld wat de verschillende testmethodieken zijn.
@@ -11,9 +11,9 @@ Hoe wordt er echter in de praktijk getest? Op een praktische manier kan het test
 
 Hierin zijn de verschillende onderdelen te onderscheiden:
 
-1. De UI tests. Dit is de test van de User Interface. Hierin testen we alle zichtbare schermen van een applicatie en alle mogelijke opties en scenario's die een gebruiker zou kunnen tegenkomen bij het gebruik.
+1. De UI tests. Dit zijn de testen van de User Interface. Hierin testen we alle zichtbare schermen van een applicatie en alle mogelijke opties en scenario's die een gebruiker zou kunnen tegenkomen bij het gebruik.
 
-2. De service tests of deze testen worden ook wel component testen genoemd of integratie testen. Hierin wordt getest of verschillende onderdelen van een applicatie nog steeds werken als ze zijn samengevoegd.
+2. De service tests of deze testen worden ook wel component testen genoemd of integratie testen. Hierin wordt getest of verschillende onderdelen van een applicatie nog steeds werken zoals is ontworpen als ze zijn samengevoegd.
 
 3. De Unit tests zijn testen op het laagste/kleinste niveau en test op functie/klasse methode niveau of de input van bepaalde waardes de gewenste output geven.
 
