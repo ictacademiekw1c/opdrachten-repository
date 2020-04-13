@@ -10,7 +10,6 @@ Zie de inleveropdracht in de studieroute van Onderhoud en beheer.
 
 ## 6.3 Uitwerking van de inleveropdracht
 
-
 ### 6.3.1 Test technieken
         - Manual / handmatig
 Voorbeeld uitwerking: Iemand die de rol van gebruiker speelt test de applicatie. Het mag niet iemand zijn van het programmeursteam. De ontwikkelaar schrijft een test plan over hoe specifieke delen van het programma moeten worden getest.
