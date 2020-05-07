@@ -10,8 +10,8 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 |Opdracht              | &nbsp; &nbsp;  Deadline **IO1A4** &nbsp; | &nbsp; &nbsp;  Deadline **IO1B4** &nbsp; |  &nbsp; &nbsp;  Deadline **IO1C4** &nbsp; |   &nbsp; &nbsp;  Deadline **IO1D4** &nbsp; | &nbsp; &nbsp;  Deadline **IO1E4** &nbsp; |
 |--------------------  |--------------- | --------- |
 | Opdracht 13.1 | di 5 mei  | di 5 mei  | di 5 mei | di 5 mei | di 5 mei | 
-| Opdracht 13.2 |  |  |  |  |  |
-| Opdracht 13.3 |  |  |  |  |  |
+| Opdracht 13.2 | zo 17 mei | zo 17 mei | zo 17 mei | zo 17 mei | zo 17 mei |
+| Opdracht 13.3 | zo 17 mei | zo 17 mei | zo 17 mei | zo 17 mei | zo 17 mei |
 | Opdracht 13.4 |  |  |  |  |  |
 | Opdracht 13.5 |  |  |  |  |  |
 | Eindopdracht |  |  |  |  | 
