@@ -1,6 +1,6 @@
-# Hoofdstuk 7 Testen in de praktijk
+# Hoofdstuk 8 Testen in de praktijk
 
-## 7.1 Algemeen - Geautomatiseerd testen - unit test
+## 8.1 Algemeen - Geautomatiseerd testen - unit test
 
 - Bij geautomatiseerd testen is de belangrijkste term __Assert__
 
@@ -15,14 +15,14 @@ __Assert Klasse__
 ``Toets``: <a href="https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.testtools.unittesting.assert.aspx" target="_blank">Naslag Assert klasse</a>
 
 
-## 7.2 Geautomatiseerd testen met een unittest
+## 8.2 Geautomatiseerd testen met een unittest
 
 
-### 7.2.1 Opdracht Unit test. 
+### 8.2.1 Opdracht Unit test. 
 
 Download <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/02.%20Opdrachten/Reader%20en%20Opdracht%20UnitTests.pdf" target="_new">de reader en opdracht</a> voor de unittest
 
-### 7.3.1 Links
+### 8.3.1 Links
 
 __Voorbeeld code om te testen__ :
 
