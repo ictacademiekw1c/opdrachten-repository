@@ -17,21 +17,14 @@ __Assert Klasse__
 
 ## 7.2 Geautomatiseerd testen met een unittest
 
-``Toets``: Voorbeeld van een unittest in een c# console applicatie.
-
-__Voorbeeld code om te testen__ :
-
-  <a href="https://docs.microsoft.com/nl-nl/visualstudio/test/sample-project-for-creating-unit-tests" target="_blank">BankAccountNS code</a>
-
-__Walk-through voor de Unit Test__ :
-
-  <a href="https://docs.microsoft.com/nl-nl/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code" target="_blank">Aanmaken van de unit test</a>
-
 
 ### 7.2.1 Opdracht Unit test. 
 
-- Maak de bovenstaande projecten (BankAccount [console-applicatie] en UnitTest [unit-test]  project) in visual studio aan.
-- Voer de Unit tests uit
-- Verzin nog 2 extra unittest methodes en voer de Unit test nogmaals uit.
-- Comprimeer de sourcecode en upload het in Taak 3 - unittest
+Download <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/02.%20Opdrachten/Reader%20en%20Opdracht%20UnitTests.pdf" target="_new">de reader en opdracht</a> voor de unittest
+
+### 7.3.1 Links
+
+__Voorbeeld code om te testen__ :
+
+  <a href="https://docs.microsoft.com/nl-nl/visualstudio/test/sample-project-for-creating-unit-tests" target="_blank">Documentatie op Microsoft m.b.t. Unittest bankaccount project</a>
 
