@@ -22,9 +22,8 @@ __Assert Klasse__
 
 Download <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/02.%20Opdrachten/Reader%20en%20Opdracht%20UnitTests.pdf" target="_new">de reader en opdracht</a> voor de unittest
 
-### 8.3.1 Links
+__Links__
 
-__Voorbeeld code om te testen__ :
 
   <a href="https://docs.microsoft.com/nl-nl/visualstudio/test/sample-project-for-creating-unit-tests" target="_blank">Documentatie op Microsoft m.b.t. Unittest bankaccount project</a>
 
