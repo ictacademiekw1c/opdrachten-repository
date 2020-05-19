@@ -20,7 +20,7 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 13.1, 13.2 | Zondag 12 april 2020  |
 | Opdracht 14.1, 14.2 | Zondag 26 april 2020  |
 | Opdracht 15.1, 15.2, 15.3 |  Dinsdag 5 mei 2020|
-| Opdracht 16.1, 16.2 | Zondag 17 mei 2020  (IO2A4: 24 mei) |
+| Opdracht 16.1, 16.2 | Zondag 24 mei 2020|
 | Opdracht 17.1 | Komt te vervallen  |
 | Opdracht 18.1 | Komt te vervallen  |
 <br> 
