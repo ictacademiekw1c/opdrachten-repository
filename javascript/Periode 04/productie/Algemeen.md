@@ -13,7 +13,6 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 | Opdracht 13.2 | zo 17 mei | zo 17 mei | zo 17 mei | zo 17 mei | zo 17 mei |
 | Opdracht 13.3 | zo 17 mei | zo 17 mei | zo 17 mei | zo 17 mei | zo 17 mei |
 | Opdracht 13.4 | ma 1 jun | ma 1 jun | ma 1 jun | ma 1 jun | ma 1 jun |
-| Eindopdracht| zo 7 jun | zo 7 jun | zo 7 jun | zo 7 jun | zo 7 jun |
 
 <br>
 

@@ -1,7 +1,7 @@
 #### [kleurcode]rgba(0,188,212,1)
 
-# Hoofdstuk 8
-
+# Hoofdstuk 8 
+<h3>Kies zelf 1 van onderstaande drie opdrachten uit:</h3>
 ---
 ## Opdracht 8.1
 ---
