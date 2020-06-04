@@ -8,7 +8,7 @@
 
     Maak een project aan met GIT als versiebeheer en SCRUM als planningsmethodiek.
 
-    Voeg vanuit het dashboard een van de docenten dhr. Saebu, dhr. Bijnen, dhr. Linsen of dhr. van Meer toe als projectmedewerkers.
+    Voeg vanuit het dashboard een van de docenten dhr. Saebu, dhr. Spieringstoe als projectmedewerkers.
 
 ### 3. Koppelen aan Visual Studio via Team Explorer Venster
 

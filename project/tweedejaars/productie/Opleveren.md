@@ -2,7 +2,8 @@
 
 ## Inleiding
 
-Hier zal beknopt weergegeven worden hoe het project opgeleverd moet worden. De oplevering bij de klant/opdrachtgever zal plaats vinden op dinsdag 25 of woensdag 26 juni 2019. Tijdens de oplevering zullen alle documenten ingeleverd moeten zijn via de groepstaken. Verder zal alle code aanwezig moeten zijn in de Git van Azure DevOps. Tot slot zullen jullie individueel nog een peerranking moeten invullen 
+Hier zal beknopt weergegeven worden hoe het project opgeleverd moet worden. De oplevering bij de klant/opdrachtgever zal plaats vinden op maandag 22
+ juni 2020. Tijdens de oplevering zullen alle documenten ingeleverd moeten zijn via de groepstaken. Verder zal alle code aanwezig moeten zijn in de Git van Azure DevOps. Tot slot zullen jullie individueel nog een peerranking moeten invullen.
 
 ## Documenten
 Alle documentatie zal ingeleverd worden in de groepstaken. Ieder onderdeel zichtbaar in de groepstaken zal ingeleverd moeten worden. Documenten die niet in de groepstaken passen kan je uploaden in het portfolio van een van de groepsleden. Bespreek dit met een van de docenten, zodat zij hier van op de hoogte zijn. Upload de documentatie zodra deze af is. Uiterlijk voor aanvang van het klantgesprek.
