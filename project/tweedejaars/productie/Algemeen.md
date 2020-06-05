@@ -14,12 +14,12 @@ Ieder groepje zal een Azure DevOps pagina moeten aanmaken en deze moeten delen m
 ## 0.3 Oplevering en beoordelings criteria
 
 - Ieder onderdeel bevat een aantal opdrachten en op te leveren producten.
-- Code zal per onderdeel moeten worden opgeleverd via Azure DevOps.
-- Word-documenten en/of andere Office 365 of Visio bestanden zullen in de eigen portfolio moeten worden opgeleverd in de map die gekoppeld is aan de de studieroute waarin dit project portaal is toegevoegd. 
-- De planning zal aanwezig moeten zijn in het document 'Project plan', maar ook in het Azure DevOps project 'Disruptive Sports' in de vorm van 1 sprint en gedetailleerde Backlog-items, die weer onderverdeeld zijn in taken.
+- Code zal per onderdeel moeten worden opgeleverd in de repository via Azure DevOps.
+- Word-documenten en/of andere Office 365 of Visio bestanden en/of rar bestanden moeten worden opgeleverd via een groepstaak in deze studieroute. Er is voor iedere Kerntaak een aparte groepstaak aangemaakt. In de groepstaak wordt vermeld welke onderdelen er moeten worden opgeleverd. 
+- Jullie planning zal aanwezig moeten zijn in het document 'Project plan', maar ook in het Azure DevOps project 'Disruptive Sports' in de vorm van 1 sprint en gedetailleerde Backlog-items, die weer onderverdeeld zijn in taken.
 - Per dag zal het groepje verantwoording moeten afleggen op zijn planning en voortgang. 
 
-``Het uiteindelijke project zal één cijfer opleveren en op het rapport verschijnen.``
+``Het uiteindelijke project zal één cijfer opleveren.``
 
 ## 0.4 De context 
 
@@ -51,10 +51,8 @@ Zie asics.nl en myasics.com
 
 - De vakdocenten zullen in dit project de rol spelen van de klant of de contactpersoon bij de klant en/of jullie eigen projectmanager binnen het IT bedrijf waar jullie werken. 
 
-## 0.6 Beoordelingsformulier K1 t/m K3
+## 0.6 Beoordelingsformulier K1 t/m K2
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/B-B1-K1.xlsm" target="_new">Beoordelingsformulier K1</a>
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/B-B1-K2.xlsm" target="_new">Beoordelingsformulier K2</a>
-
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.17%20MUL%5D%20Multidisciplinair%20project/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2008/Projecten/B-B1-K3.xlsm" target="_new">Beoordelingsformulier K3</a>
