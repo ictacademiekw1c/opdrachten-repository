@@ -17,10 +17,9 @@ __Assert Klasse__
 
 ## 8.2 Geautomatiseerd testen met een unittest
 
-
 ### 8.2.1 Opdracht Unit test. 
 
-Download <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/02.%20Opdrachten/Reader%20en%20Opdracht%20UnitTests.pdf" target="_new">de reader en opdracht</a> voor de unittest
+De bijbehorende opdracht is te vinden in de studieroute.
 
 __Links__
 
