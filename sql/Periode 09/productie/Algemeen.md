@@ -21,26 +21,6 @@ De SQL kennis die is opgedaan in leerjaar 1 en 2.
 Hoe actueel is SQL nog voor een applicatieontwikkelaar?
 
 <a href="https://www.jetbrains.com/lp/devecosystem-2019/?utm_source=facebook&utm_medium=cpc&utm_campaign=emea_en_emea_fb_devecosystem2019_rem&fbclid=IwAR10fPnpz9e2OIb0kAjVq3JYDccPuUL_cimE6BZdWjZxhDwUVKjkdbmw-7c" target="_new">The state of Developer Ecosystem 2019</a>
-
-## Onderwerpenlijst periode 9/10 
-
-    A. Herhaling verdieping SQL
-
-    - Verschillen Joins/Subqueries/Unions?
-    - Soorten Joins
-    - Unions, EXCEPT en INTERSECT
-    (- Subqueries en VIEW)
-    - GROUP BY in combinatie met HAVING en AGGREGAAT functies
-
-    B. Rapportages 
-    
-    - Rapportages met Crystal reports
-
-    C. Database administratie MSSQL
-
-    - Creeren en verwijderen van een database
-    - Backup & Restore
-    - Import/export van gegevens via o.a. xml
   
 <br> 
 
