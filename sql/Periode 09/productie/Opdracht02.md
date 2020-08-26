@@ -1,6 +1,6 @@
 #### [kleurcode]rgba(85, 39, 176,1)
 
-# Opdracht 2 over UNIONS, EXCEPT, INTERCEPT 
+# 2.0 UNIONS, EXCEPT, INTERCEPT 
 
 ## Nieuwe keywords 
 

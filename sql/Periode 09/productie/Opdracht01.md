@@ -1,6 +1,6 @@
 #### [kleurcode]rgba(244,67,99,1)
 
-# Hoofdstuk 1  Herhaling/oefening stof leerjaar 2
+# 1.0  Herhaling/oefening stof leerjaar 2
 
 ## Inleiding
 
