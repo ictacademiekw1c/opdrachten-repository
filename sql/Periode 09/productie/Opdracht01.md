@@ -25,6 +25,8 @@ Uit de toets:
 
 ## Huiswerk Opdracht 1 Movies
 
+Schrijf de juiste queries om de volgende vragen te beantwoorden: 
+
 1. Welke film heeft de meeste oscarnominaties met het laagste budget?
 2. Welke film heeft de meeste mannelijke rollen ?
 3. Overzicht van genres en aantal oscarnominaties (gesorteerd van meest naar minst)
@@ -36,3 +38,7 @@ Uit de toets:
 - Welke acteur heeft in de meest verschillende genres gespeeld?
 - Welke regisseur maakt films die gemiddeld langer duren dan de gemiddelde lengte van alle films die korter duren dan 2 uur?
 
+## Inleveren
+
+Zet de queries met de vraag erboven in commentaar in een .sql bestand en upload het in de studieroute via de taak in de studieroute.
+Noem het bestand opdracht_1_<klas>_<je naam>.sql
