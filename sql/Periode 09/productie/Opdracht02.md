@@ -1,7 +1,8 @@
 #### [kleurcode]rgba(85, 39, 176,1)
 
-# Hoofdstuk 2
+# Opdracht 2 over UNIONS, EXCEPT, INTERCEPT 
 
+## Nieuwe keywords 
 
 ## Voorbeeld met UNION keyword
 
@@ -26,3 +27,7 @@ EXCEPT
 SELECT ProductID   
 FROM Production.WorkOrder ;  
 --Result: 266 Rows (products without work orders)  
+
+## Opdrachtomschrijving opdracht 2
+
+//TODO
