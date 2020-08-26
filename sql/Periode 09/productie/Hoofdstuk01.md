@@ -6,11 +6,10 @@
 
 Om te kijken wat het niveau is van de klas en wat er nog is blijven hangen van het leerjaar 2 gaan we kijken aan de hand van de movies database of een aantal vragen door jullie beantwoordt kunnen worden met de juiste SQL querie.
 
-## Klasopdrachten
+## Klasse opdracht
 
 In leerjaar 2 kennen jullie reeds de movies database (toets periode 7).
 Als je deze database nog niet hebt kun je het <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Projecten/Bijlage_Toets_SQL_P7_movies.rar">hier</a> downloaden.
-
 
 Schrijf de juiste queries om de volgende vragen te beantwoorden: 
 
@@ -23,6 +22,7 @@ Uit de toets:
 6.	Toon de film(s) die op 27 oktober is/zijn uitgekomen. Jaar maakt niet uit.
 7.	Toon de achternaam in hoofdletters van de acteurs waarvan de tweede en derde letter 'wa' zijn. Bijvoorbeel 'Swank' wordt getoond als 'SWANK'.
 
+
 ## Huiswerk Opdracht 1 Movies
 
 1. Welke film heeft de meeste oscarnominaties met het laagste budget?
@@ -32,31 +32,7 @@ Uit de toets:
 5. Welke acteurs hebben in films gespeeld met verschillende talen? Toon de naam van de acteur, de titel van de film en de taal.
 6. Welke regisseurs zijn het meest succesvol (wat betreft omzet) per film genre?
 
-## Extra
+## Bonusopdracht Opdracht 1 Movies
 - Welke acteur heeft in de meest verschillende genres gespeeld?
 - Welke regisseur maakt films die gemiddeld langer duren dan de gemiddelde lengte van alle films die korter duren dan 2 uur?
-
-## Voorbeeld met UNION keyword
-
-- Maak van de laatse 5 jaren per jaar een top 3 van de films met titel, releasedatum, oscarnominaties en genre
-
-## Voorbeeld met EXCEPT, INTERCEPT keyword
-
-SELECT ProductID   
-FROM Production.Product ;  
---Result: 504 Rows  
-
-SELECT ProductID   
-FROM Production.Product  
-INTERSECT  
-SELECT ProductID   
-FROM Production.WorkOrder ;  
---Result: 238 Rows (products that have work orders)  
-
-SELECT ProductID   
-FROM Production.Product  
-EXCEPT  
-SELECT ProductID   
-FROM Production.WorkOrder ;  
---Result: 266 Rows (products without work orders)  
 
