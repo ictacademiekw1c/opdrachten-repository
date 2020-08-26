@@ -41,4 +41,4 @@ Schrijf de juiste queries om de volgende vragen te beantwoorden:
 ## Inleveren
 
 Zet de queries met de vraag erboven in commentaar in een .sql bestand en upload het in de studieroute via de taak in de studieroute.
-Noem het bestand opdracht_1_<klas>_<je naam>.sql
+<br>Noem het bestand opdracht_1_(klas)_(je naam>.sql
