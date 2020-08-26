@@ -13,18 +13,20 @@ Rapportages zijn vaak bedoeld voor het management zodat zij kunnen overzien of d
 
 Als rapportage tool zal gebruik worden gemaakt van Crystal Reports, dat door SAP is ontwikkeld en kan worden toegevoegd aan Visual Studio, en ook kan worden geintegreerd in  Visual Studio C# applicaties.
 
+## Klasseopdracht 
+
+- Noem zoveel mogelijk (minimaal 7) SQL gebaseerde databases en noem het bedrijf dat erachter zit en wanneer het ontstaan is.
+- Wat zijn de verschillende manieren om grote hoeveelheden data op te slaan?
+- Noem 5 niet SQL gebaseerde database systemen, het achterliggende bedrijf, wanneer het ontstaan is, en hoe zou je ze typeren?
+
+Tijd: 15 min
+Maak groepjes van 2/3 en ga met elkaar apart in een Team sessie.
+
 ## Voorkennis
 
 De SQL kennis die is opgedaan in leerjaar 1 en 2.
 
 <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.26%20SQL%5D%20SQL%20%20Databases/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/Opdrachtenportaal/opdrachtenportaal-master/index.html">De opdrachtenportaal SQL van het tweede leerjaar</a>
-
-
-Hoe actueel is SQL nog voor een applicatieontwikkelaar?
-
-<a href="https://www.jetbrains.com/lp/devecosystem-2019/?utm_source=facebook&utm_medium=cpc&utm_campaign=emea_en_emea_fb_devecosystem2019_rem&fbclid=IwAR10fPnpz9e2OIb0kAjVq3JYDccPuUL_cimE6BZdWjZxhDwUVKjkdbmw-7c" target="_new">The state of Developer Ecosystem 2019</a>
-  
-<br> 
 
 ## Editor  
 
