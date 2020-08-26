@@ -7,6 +7,8 @@ Dit betekent dat alle stof van voorgaande jaren nogmaals de revue gaan passeert 
 
 SQL kennis en vaardigheden zijn onmisbaar bij het ontwikkelen van applicaties die op basis zijn van een SQL gebaseerde database, maar ook voor het ontwikkelen van rapportages.
 
+__Focus__ ook op de PVB, in verschillende kerntaken komen database opdrachten voor.
+
 Rapportages zijn vaak bedoeld voor het management zodat zij kunnen overzien of de afdelingen nog goed presteren, maar anderzijds ook vaak voor de dagelijkse werkvloer als input voor de dagelijkse werkprocessen.
 
 Als rapportage tool zal gebruik worden gemaakt van Crystal Reports, dat door SAP is ontwikkeld en kan worden toegevoegd aan Visual Studio, en ook kan worden geintegreerd in  Visual Studio C# applicaties.

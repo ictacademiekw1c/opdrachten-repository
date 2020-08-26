@@ -1,6 +1,6 @@
 #### [kleurcode]rgba(244,67,99,1)
 
-# Hoofdstuk 1  Herhaling leerjaar 2
+# Hoofdstuk 1  Herhaling/oefening stof leerjaar 2
 
 ## Inleiding
 
@@ -23,7 +23,7 @@ Uit de toets:
 6.	Toon de film(s) die op 27 oktober is/zijn uitgekomen. Jaar maakt niet uit.
 7.	Toon de achternaam in hoofdletters van de acteurs waarvan de tweede en derde letter 'wa' zijn. Bijvoorbeel 'Swank' wordt getoond als 'SWANK'.
 
-## Huiswerkopdracht 1 Movies
+## Huiswerk Opdracht 1 Movies
 
 1. Welke film heeft de meeste oscarnominaties met het laagste budget?
 2. Welke film heeft de meeste mannelijke rollen ?
