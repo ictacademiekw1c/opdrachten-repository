@@ -27,6 +27,7 @@ Uit de toets:
 
 Schrijf de juiste queries om de volgende vragen te beantwoorden: 
 
+
 1. Welke film heeft de meeste oscarnominaties met het laagste budget?
 2. Welke film heeft de meeste mannelijke rollen ?
 3. Overzicht van genres en aantal oscarnominaties (gesorteerd van meest naar minst)

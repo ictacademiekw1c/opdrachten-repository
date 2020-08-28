@@ -13,8 +13,12 @@ Rapportages zijn vaak bedoeld voor het management zodat zij kunnen overzien of d
 
 Als rapportage tool zal gebruik worden gemaakt van Crystal Reports, dat door SAP is ontwikkeld en kan worden toegevoegd aan Visual Studio, en ook kan worden geintegreerd in  Visual Studio C# applicaties.
 
-## Klasseopdracht 
+Wat is de <a href="https://b.socrative.com/login/student/">rol van een database in een applicatie/informatiesysteem</a>?
 
+## Klasseopdracht
+
+
+- Wat is SQL? Is het een programmeertaal?
 - Noem zoveel mogelijk (minimaal 7) SQL gebaseerde databases en noem het bedrijf dat erachter zit en wanneer het ontstaan is.
 - Wat zijn de verschillende manieren om grote hoeveelheden data op te slaan?
 - Noem 5 niet SQL gebaseerde database systemen, het achterliggende bedrijf, wanneer het ontstaan is, en hoe zou je ze typeren?
