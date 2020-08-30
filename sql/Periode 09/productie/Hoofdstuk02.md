@@ -27,7 +27,3 @@ EXCEPT
 SELECT ProductID   
 FROM Production.WorkOrder ;  
 --Result: 266 Rows (products without work orders)  
-
-## Opdrachtomschrijving opdracht 2
-
-//TODO
