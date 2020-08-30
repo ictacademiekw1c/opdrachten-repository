@@ -42,3 +42,14 @@ Een testcase is een gedetailleerde beschrijving van de stappen die moeten worden
 Het te verwachten resultaat moet zijn beschreven en van de testuitkomst moet worden vastgelegd of deze aan de verwachting voldoet.
 
 Testcases maken kan vanuit de use cases die opgenomen zijn in het functioneel ontwerp (en een vertaling is van de wensen en eisen die geinventariseerd zijn in de Programma van eisen.)
+
+### Voorbeeld
+
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/AcceptatiTestCase1.jpg" alt="use case">
+
+<br>
+
+<img src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/AcceptatiTestCase2.jpg" alt="test case adhv usecase">
+
+### Klasseopdracht maak ook de testcase voor de ontbrekende acties uit de use case
+
