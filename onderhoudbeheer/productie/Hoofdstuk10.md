@@ -1,0 +1,20 @@
+# Hoofdstuk 10 Opleveren van het product 
+
+---
+## 10.1 Algemeen (B1-K3-W3)
+---
+
+Nadat de acceptatietest is geweest en de applicatie is geoptimaliseerd op basis van de testresultaten, kan de applicatie worden opgeleverd.
+
+Het opleveren van een applicatie wordt soms ook wel implementeren van de applicatie of ook wel het in productie nemen van de applicatie (deployment).
+
+Belangrijk voor de PVB zijn de volgende onderdelen:
+
+- Opleveren van het product en de documentatie ervan
+
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/Publish_DeployCSharp.mp4">Publish & Deploy Csharp</a>
+
+- Presentatie/demonstratie van het product
+
+
+
