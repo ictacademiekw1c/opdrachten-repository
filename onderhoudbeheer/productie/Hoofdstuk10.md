@@ -16,11 +16,12 @@ Belangrijk voor de PVB zijn de volgende onderdelen:
 
 - Presentatie/demonstratie van het product
 
+Ben je in staat in een korte sessie het nut van een applicatie te laten zien en de werking ervan uit te leggen aan de klant.
 
 
 ## Opleveren van product of CD/CI (Continuous development/Continuous Integration) (Niet PVB)
 
 Als je de term CD/CI tegenkomt dan heeft dat te maken met het opleveren van een product.
 
-<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/WhatisCICD.mp4">Uileg CD/CI</a>
+<a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/01.%20Reader/WhatisCICD.mp4">Uitleg CD/CI</a>
 
