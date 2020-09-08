@@ -4,7 +4,9 @@
 ## Hoofdpunten bij het voeren van een klantgesprek (B1-K1-W1)
 ---
 
-__Voorbereiding__
+
+### Voorbereiding
+
 
 Do:<br>
 Is voorbereid (heeft alle documenten goed doorgelezen en heeft vragen voorbereid)
@@ -20,7 +22,7 @@ Dont's:<br>
 - Kauwgum
 - Zonnebril 
 
-__Inleiding__
+### Inleiding
 
 Do's:<br>
 Leidt het gesprek in:
@@ -33,11 +35,11 @@ Don'ts:<br>
 - Meteen je eerste vraag stellen
 - De klant niet laten uitpraten
 
-__Het gesprek__
+### Inhoudelijk gesprek
+
 Do's:<br>
 - Relevante (je hebt je voorbereid) vragen stellen
-LSD toepassen
-Luisteren Samenvatten en doorvragen
+- LSD toepassen = Luisteren Samenvatten en doorvragen
 - knikken
 - oogcontact
 - de klant uit laten praten
@@ -52,7 +54,7 @@ Dont's:<br>
  - op je stoel wiebelen
  - met je pen op de tafel tikken
  
-__Afsluiting__
+### Afsluiten
 
 Do's:<br>
 - bedanken
@@ -64,15 +66,18 @@ Dont's:<br>
 - niet vertellen wat de vervolgprocedure is
 
 
-__Links__ en extra info<br>
+### Extra info
+
+__Filpje youtube__
 
 [![Gesprekstechniek Luisteren Samenvatten Doorvragen](http://img.youtube.com/vi/-b_xGRQT_mA/0.jpg)](http://www.youtube.com/watch?v=-b_xGRQT_mA)
 
+__Link LSD__
 Op de volgende link wordt <a href="https://www.leren.nl/cursus/management/coaching/lsd.html">LSD</a> nog verder uitgelegd:
 
 Wat is het verschil tussen een open vraag en een gesloten vraag?
 
-## 2.2 klasse oefening
+### Klasse oefening
 
 Pas LSD toe in een gesprek van 3-5 minuten met je buurman/vrouw, waarbij hij of zij verteld over een ervaring/gebeurtenis in het afgelopen weekend. Keer de rol om na 5 minuten.
 
