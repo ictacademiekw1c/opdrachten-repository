@@ -26,7 +26,6 @@ Don'ts:<br>
 - Meteen je eerste vraag stellen
 - De klant niet laten uitpraten
 
-
 __Het gesprek__
 Do's:<br>
 - Relevante (je hebt je voorbereid) vragen stellen
@@ -34,16 +33,17 @@ LSD toepassen
 Luisteren Samenvatten en doorvragen
 - knikken
 - oogcontact
-- De klant uit laten praten
-- Stel open vragen
+- de klant uit laten praten
+- stel open vragen
 Dont's:<br>
  - stel gesloten vragen
  - alleen met ok antwoorden
  - niet laten uitpraten
  - op je mobiel kijken
  - alleen maar op je scherm kijken
+ - op je stoel wiebelen
+ - met je pen op de tafel tikken
  
-
 Afsluiten: 
 Do's:<br>
 - bedanken
