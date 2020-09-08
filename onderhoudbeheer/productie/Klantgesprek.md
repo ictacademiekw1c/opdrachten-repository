@@ -4,23 +4,30 @@
 ## Hoofdpunten bij het voeren van een klantgesprek (B1-K1-W1)
 ---
 
+__Voorbereiding__
+
 Do:<br>
 Is voorbereid (heeft alle documenten goed doorgelezen en heeft vragen voorbereid)
+
 Dont's:<br>
 Heb je je niet goed voorbereid, dan stel je waarschijnlijk niet relevante vragen en/of vragen die volledig offtopic zijn.
 
 Do's:<br>
 - representatief en verzorgd 
-Do'nts:<br>
+
+Dont's:<br>
 - Trainingspak, pet, broek met gaten
 - Kauwgum
 - Zonnebril 
+
+__Inleiding__
 
 Do's:<br>
 Leidt het gesprek in:
 - neemt initiatief
 - Stel jezelf voor
 - Aanleiding, doel van het gesprek
+
 Don'ts:<br>
 - Afwachten/passiviteit
 - Meteen je eerste vraag stellen
@@ -35,6 +42,7 @@ Luisteren Samenvatten en doorvragen
 - oogcontact
 - de klant uit laten praten
 - stel open vragen
+
 Dont's:<br>
  - stel gesloten vragen
  - alleen met ok antwoorden
@@ -44,11 +52,13 @@ Dont's:<br>
  - op je stoel wiebelen
  - met je pen op de tafel tikken
  
-Afsluiten: 
+__Afsluiting__
+
 Do's:<br>
 - bedanken
 - samenvatten van alles wat de klant heeft verteld 
 - vervolg en tijdsplanning duidelijk maken
+
 Dont's:<br>
 - niet bedanken
 - niet vertellen wat de vervolgprocedure is
