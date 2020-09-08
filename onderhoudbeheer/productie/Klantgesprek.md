@@ -63,12 +63,13 @@ Do's:<br>
 
 Dont's:<br>
 - niet bedanken
-- niet vertellen wat de vervolgprocedure is
+- niet samenvatten en alleen zeggen dat alles duidelijk is
+- de klant niet informeren over de vervolgstappen en het tijdspad
 
 
 ### Extra info
 
-__Filpje youtube__
+__Video youtube voorbeeld LSD__
 
 [![Gesprekstechniek Luisteren Samenvatten Doorvragen](http://img.youtube.com/vi/-b_xGRQT_mA/0.jpg)](http://www.youtube.com/watch?v=-b_xGRQT_mA)
 
