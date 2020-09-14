@@ -28,7 +28,7 @@ Een rapport dient aan de onderstaande eisen te voldoen:
 
         •	Zorg dat de velden ‘hoog’ genoeg zijn. Anders vallen de lussen van de g, j, enz weg.
         •	Zorg voor een goede paginaindeling.
-        •	Zorg dat er alleen informatie op staat die de klant/opdrachtgever/manager
+        •	Zorg dat er alleen informatie op staat die de klant/opdrachtgever/manager heeft gevraagd
 
         Dus geen gegevens waar je niets aan hebt.
 
