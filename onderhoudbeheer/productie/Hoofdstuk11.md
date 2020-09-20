@@ -1,19 +1,15 @@
 # Hoofdstuk 11, Onderhoud en beheer van een applicatie (P1-K1) 
 
-<style>
+```diff
+## Toelichting
 
-.bgInfo {
++ Een applicatie is volledig in werking bij een klant (in productie). Een applicatie kan echter nog gebreken hebben of de manier van werken kan bij een bedrijf veranderen. De leverancier van de applicatie wordt dan gevraagd om hierbij tot een oplossing te komen.
 
-    border: 1px solid green;
-    background-color: #88af99;
-    margin-left: 3em;
+__Er zijn 2 belangrijke onderdelen hierbij:__
 
-}
-
-</style>
-<div class='bgInfo'>
-    Test test
-</div>
+- Wat zijn de concrete contractuele afspraken (Service Level Agreement) tussen de klant en het IT bedrijf?
+- Hoe wordt een gemeld probleem verwerkt binnen het IT bedrijf?
+```
 
 Deze kerntaak heeft 2 werkprocessen.
 
