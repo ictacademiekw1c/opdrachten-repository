@@ -14,10 +14,16 @@ __Er zijn 2 belangrijke onderdelen hierbij:__
 Het werkproces van het afhandelen van problemen van de klant met hun applicatie wordt ook wel procedure ticketafhandeling genoemd.
 
 Een ticket of incident of probleem kan in de ogen van een software ontwikkelaar worden gecategoriseerd als bug/feature of uitbreiding van de applicatie.
-In de ogen van de klant is het probleem omdat hij/zij niet meer in staat is om zijn werk (gedeeltelijk) uit te voeren.
+In de ogen van de klant is het probleem omdat hij/zij niet meer in staat is om zijn werk (gedeeltelijk/efficient) uit te voeren.
 
-```json
 
-De software ontwikkelaar moet dus op de hoogte zijn van de __SLA__ en de __procedure afhandeling tickets__
-
+```diff
++ De software ontwikkelaar moet dus op de hoogte zijn van de SLA en de procedure afhandeling tickets
 ```
+
+Ieder  IT bedrijf hanteert zijn eigen procedure, maar is voor ieder bedrijf uitgebreid en soms ook complex.
+Procedures wordt in het bedrijfsleven vaak ook visueel vertaald naar een workflow-diagram. De workflow diagram lijkt op een activiteiten diagram (dezelfde symbolen en dezelfde conventies).
+
+
+
+
