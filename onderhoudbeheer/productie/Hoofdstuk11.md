@@ -1,16 +1,5 @@
 # Hoofdstuk 11, Onderhoud en beheer van een applicatie (P1-K1) 
 
-```diff
-## Toelichting
-
-+ Een applicatie is volledig in werking bij een klant (in productie). Een applicatie kan echter nog gebreken hebben of de manier van werken kan bij een bedrijf veranderen. De leverancier van de applicatie wordt dan gevraagd om hierbij tot een oplossing te komen.
-
-__Er zijn 2 belangrijke onderdelen hierbij:__
-
-- Wat zijn de concrete contractuele afspraken (Service Level Agreement) tussen de klant en het IT bedrijf?
-- Hoe wordt een gemeld probleem verwerkt binnen het IT bedrijf?
-```
-
 Deze kerntaak heeft 2 werkprocessen.
 
 ## Werkproces P1-K1-W1: Onderhoudt een applicatie 
