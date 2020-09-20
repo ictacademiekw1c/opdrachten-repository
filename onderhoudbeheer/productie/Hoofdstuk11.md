@@ -1,5 +1,20 @@
 # Hoofdstuk 11, Onderhoud en beheer van een applicatie (P1-K1) 
 
+<style>
+
+.bgInfo {
+
+    border: 1px solid green;
+    background-color: #88af99;
+    margin-left: 3em;
+
+}
+
+</style>
+<div class='bgInfo'>
+    Test test
+</div>
+
 Deze kerntaak heeft 2 werkprocessen.
 
 ## Werkproces P1-K1-W1: Onderhoudt een applicatie 
