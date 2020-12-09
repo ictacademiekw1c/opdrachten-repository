@@ -11,7 +11,6 @@
 
 ## 3.2 SEO - Keywords
 
-
 <a href='https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BK.07%20FrD%5D%20Keuzedeel%20%5BK0722%5D%20Frontend%20development/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/737788_02_04_XR30_keyattributes.mp4'>Video over key attributes</a>
 
 Bekijk bovenstaande video over keywords en leg in je eigen woorden uit wat de volgende termen betekenen:
@@ -31,17 +30,19 @@ Hoe zoekmachines en mensen kijken naar web pagina's
 
 - <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BK.07%20FrD%5D%20Keuzedeel%20%5BK0722%5D%20Frontend%20development/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/737788_03_02_MM30_Optsitestructure.mp4">Wat is een goeie sitestructuur</a>
 
+- <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BK.07%20FrD%5D%20Keuzedeel%20%5BK0722%5D%20Frontend%20development/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/01.%20Reader/search-engine-optimization-starter-guide.pdf">Google search engine optimization starter guide</a>
+
+
 - <a href="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BK.07%20FrD%5D%20Keuzedeel%20%5BK0722%5D%20Frontend%20development/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2007/Productie/737788_03_04_XR30_opttext.mp4">Optimaliseren van content</a>
 
-#### 3.3.1 SEO - Het belang van externe en interne links
 
-#### 3.3.2 SEO - Hoe worden sites geindexeerd (robots.txt)
+#### 3.3.1 Verdere aandachtspunten SEO (verdieping)
 
-#### 3.3.3 SEO - Canonical URL's en redirects (doorverwijzingen)
-
-#### 3.3.4 SEO - Sitestructuur of taxonomie
-
-#### 3.3.5 SEO - Sitemaps
+    - Het belang van externe en interne links
+    - Hoe worden sites geindexeerd (robots.txt)
+    - Canonical URL's en redirects (doorverwijzingen)
+    - Sitestructuur of taxonomie
+    - Sitemaps
 
 ### 3.4 SEO - Site snelheid
 
