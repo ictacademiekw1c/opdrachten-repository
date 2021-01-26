@@ -13,36 +13,10 @@ Hieronder zie de deadlines van inleveren van je opdrachten.
 
 | &nbsp;Opdracht              | &nbsp; &nbsp; Deadline IO2A4, IO2B4, IO2C4 &nbsp; &nbsp; |
 |--------------------  |--------------- |
-| Opdracht H.1, H.2, H.3 |  Zondag 16 februari 2020  |
-| Opdracht 10.1, 10.2 |  Zondag 23 februari 2020  |
-| Opdracht 11.1, 11.2, 11.3 | Zondag 15 maart 2020 |
-| Opdracht 12.1, 12.2 | Zondag 29 maart 2020 |
-| Opdracht 13.1, 13.2 | Zondag 12 april 2020  |
-| Opdracht 14.1, 14.2 | Zondag 26 april 2020  |
-| Opdracht 15.1, 15.2, 15.3 |  Dinsdag 5 mei 2020|
-| Opdracht 16.1, 16.2 | Zondag 24 mei 2020|
-| Opdracht 17.1 | Komt te vervallen  |
-| Opdracht 18.1 | Komt te vervallen  |
+| Opdracht H.1, H.2, H.3 |  Zondag 14 februari 2020  |
 <br> 
 
 **Let op: Je dient de opdrachten uiterlijk op de deadline te uploaden. Voor 2 punten moet dit dan helemaal correct zijn. Herstel is dan niet mogelijk.** 
-
-## Toets Periode 8
-### Eerste kans
-
-| &nbsp;Klas              |  &nbsp;Datum en tijd |
-|--------------------  |--------------- |
-| IO2A4 | Dinsdag 31 maart 2020 |
-| IO2B4 | Maandag 30 maart 2020 |
-| IO2C4 | Dinsdag 31 maart 2020 |
-
-### Herkansing
-
-| &nbsp;Klas              |  &nbsp;Datum en tijd |
-|--------------------  |--------------- |
-| IO2A4 |    |
-| IO2B4 |    |
-| IO2C4 |    |
 
 ## Editor
 Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
