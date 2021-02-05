@@ -15,11 +15,7 @@ In de openingspagina van de studieroute worden de deadlines voor het inleveren v
 
 
 ## Editor
-Voor de lessen Frontend Development heb je speciale software nodig, namelijk Visual Studio Code. Verder zal gebruik maken van Microsoft Office, Microsoft Visio en verschillende browsers.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1024px-Visual_Studio_Code_1.18_icon.svg.png" width="400px">
-
-Deze software kan je downloaden via: <a href="https://code.visualstudio.com/">code.visualstudio.com</a>
+Voor de lessen Frontend Development mag je zelf kiezen welke software je gebruikt. 
 
 ## Opleveren opdrachten
 Op de ELO kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. Ze zijn terug te vinden in de takenlijst en worden dus ook als inlevertaak ingeleverd.
@@ -51,7 +47,7 @@ De opdrachten worden beoordeeld met een waardering van 0, 1, 2 of 3.
 </tbody></table>
 
 
-Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering waardoor het eindcijfer lager uit zal vallen.
+Als je te laat bent met opleveren dan krijg je dus <strong>geen</strong> waardering waardoor het eindcijfer een 1.0 zal zijn.
 
 Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
 
@@ -71,7 +67,7 @@ Voor de opdrachten gelden de volgende aanvullende beoordelingscriteria:
 
 ## Periodecijfer
 
-<em>Volgt later</em>
+<em>Volgt later.</em>
 
 ## Hulpmiddelen
 * <a href="https://www.w3schools.com/" target="_blank">W3Schools</a>
