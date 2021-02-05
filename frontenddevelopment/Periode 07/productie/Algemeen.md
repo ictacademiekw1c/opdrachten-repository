@@ -22,7 +22,9 @@ Voor de lessen Frontend Development heb je speciale software nodig, namelijk Vis
 Deze software kan je downloaden via: <a href="https://code.visualstudio.com/">code.visualstudio.com</a>
 
 ## Opleveren opdrachten
-In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
+Op de ELO kun je terugvinden welke opdrachten je moet maken en wanneer je deze ingeleverd moet hebben. Ze zijn terug te vinden in de takenlijst en worden dus ook als inlevertaak ingeleverd.
+De opdrachten worden beoordeeld met een waardering van 0, 1, 2 of 3. 
+
 
 <table><thead>
 <tr>
@@ -32,14 +34,18 @@ In het voortgangssheet van de docent kun je terugvinden welke opdrachten je moet
 </thead><tbody>
 <tr>
 <td>0</td>
-<td align="left">Niet ingeleverd.    <br>Opdracht onvoldoende uitgevoerd</td>
+<td align="left">Onvoldoende<br>Niet of te laat ingeleverd.<br>Opdracht onvoldoende uitgevoerd.</td>
 </tr>
 <tr>
 <td>1</td>
-<td align="left">Te laat ingeleverd, maar wel goed uitgewerkt.<br>Opdracht matig uitgevoerd en opdracht op tijd ingeleverd.</td>
+<td align="left">Matig <br>Opdracht op tijd ingeleverd, maar te weinig of matig uitgewerkt.<br></td>
 </tr>
 <tr>
 <td>2</td>
+<td align="left">Voldoende<br>Opdracht op tijd ingeleverd en voldoende uitgewerkt.</td>
+</tr>
+<tr>
+<td>3</td>
 <td align="left">Opdracht goed en op tijd ingeleverd.</td>
 </tr>
 </tbody></table>
