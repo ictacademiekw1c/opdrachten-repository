@@ -19,7 +19,7 @@ __Assert Klasse__
 
 ### 8.2.1 Opdracht Unit test. 
 
-De bijbehorende opdracht is te vinden in de studieroute.
+Zie ELO
 
 __Links__
 

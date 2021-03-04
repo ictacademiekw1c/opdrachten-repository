@@ -25,17 +25,6 @@ Het watervalmodel bestaat uit de volgende fasen:
 
 Het watervalmodel bestaat uit verschillende fasen. Iedere fase heeft een eigen niveau dat tevens de volgorde bepaalt. Het hoogste niveau wordt als eerste uitgevoerd en vervolgens de lagere fasen. Dit is gelijk aan de natuurlijke werking van een waterval en vandaar ook de naam. Hierboven is goed te zien dat de verschillende fasen van boven naar beneden lopen.
 
-### 3.1.1 Taak 3: Groepsopdracht Waterval
-
-Voer onderstaande opdrachten uit in je groep en lever het op in taak 3 in de ELO.
-
-  1. Vergelijk de waterval methode met jullie kwalificatiedossier. Noteer de verschillen en overeenkomsten. Koppel iedere fase uit de watervalmethodiek aan een kerntaak-werkproces uit jullie kwalificatiedossier.
-  2. Er zijn meerdere methodieken die gebaseerd zijn op de watervalmethodiek. Zoek er minimaal 2 op.
-  3. Welke technieken/vaardigheden heb je totnutoe geleerd en/of met welke technieken heb je ervaring om een specifieke fase uit te voeren (op school en stage)?
-  4. Zoek op internet wat de mogelijke voordelen en nadelen zijn van de watervalmethodiek.
-  5. Waarom heet de waterval methodiek waterval methodiek?
-  6. Wanneer wordt er getest in de waterval methodiek?
-
 ---
 ---
 
@@ -66,20 +55,4 @@ The Manifesto for Agile Software Development is based on twelve principles:
 
 [Taken Scrum Master](https://elo.kw1c.nl/Pages/ViewMP4.aspx?cpsysid=b1fee9a0-96f4-4203-8d74-35a3a83b1fc9)
 
-
-### 3.2.3 Taak 4: Groepsopdracht Agile/Scrum
-
-Kies een van de volgende onderwerpen:
-- Verschillen tussen Agile en Waterval? 
-- Het Agile manifesto
-- Wat zijn de taken van de Scrummaster
-- Wat is Scrum / Hoe werken mensen samen in een SCRUM team?
-
-Vooronderzoek:
-- Bekijk minimaal 3 filmpjes op youtube die gaan over een van de bovenstaande onderwerpen.
-- Zoek op internet naar bronnen
-
-Opdracht:
-- Noteer alle bronnen (sites/youtube filmpjes/presentaties)
-- Maak een presentatie in een groepje (max 3 pers) en presenteer het samen (5 min). 
 
