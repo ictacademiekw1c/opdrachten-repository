@@ -29,3 +29,6 @@ Om een goed overzicht te houden van alle aanpassingen aan een applicatie is soft
 <a href="https://www.linkedin.com/learning-login/share?forceAccount=true&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6574917710096932864%3Ftrk%3Dshare_collection_url%26shareId%3DHSgajvvFQF6O87Lkt2r40A%253D%253D&account=57684913">Essential Git Training via Linked in learning</a>
 
 <a href="https://www.stichtingpraktijkleren.nl/over-stichting-praktijkleren/actueel/item/bericht/leerling-login/?result=false">Aanmelden als leerling bij SPL</a>
+
+<a href="https://learn.datacamp.com/">Cursus Git bij datacamp</a>
+
