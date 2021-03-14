@@ -12,7 +12,3 @@ In dit document zie je in de inhoudsopgave een overzicht van de onderdelen die g
 
 Zoals je hierboven ziet zal dit vak vooral de onderdelen P1-K1-W1 en P1-K1-W2 behandelen, maar er zullen ook onderwerpen behandeld worden in deze studieroute die onder de
 andere onderdelen vallen van dit kwalificatiedossier.
-
-## 1.2 Taak 1
-
-Zie hiervoor taak 1 in de studieroute

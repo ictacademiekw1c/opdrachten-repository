@@ -24,10 +24,7 @@ Hierbij valt op te merken dat:
 
 ## 7.2 Opdracht 7 test pyramide
 
-In hoofdstuk 6 hebben we verschillende testmethodieken gezien. Plaats iedere testmethodiek op een plek in de pyramide. Het kan zijn dat een testmethodiek verschillende plaatsen in de pyramide zit. Licht dat toe.
-
-In hoofdstuk 8 gaan we kijken naar de onderzijde van de pyramide. De unit test.
-
+Zie ELO
 
 ## Links
 
