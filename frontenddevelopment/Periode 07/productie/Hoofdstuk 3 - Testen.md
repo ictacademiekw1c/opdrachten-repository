@@ -10,7 +10,7 @@ De responsieve site die ontwikkeld is moet worden getest en aan de hand van de g
 
 __Resultaten__
 
-- Opleveren van het ingevulde testsjabloon in groepsopdracht 3
+- Opleveren van het ingevulde testsjabloon in de daarvoor bestemde taken in de ELO.
 - Optimalisaties zijn doorgevoerd door commits en pushes waarvan het commentaar verwijst naar opmerkingen in het testrapport.
 
 
