@@ -72,7 +72,7 @@ Wat is het belang van sitesnelheid en hoe optimaliseer ik het?
 De website die moet kiezen is afhankelijk van je voornaam. Een andere website wordt niet geaccepteerd.
 * Start je voornaam met de letter <strong>A, B, C of D</strong>, dan analyseer je site: <a href="http://www.arngren.net" target="_blank">http://www.arngren.net/</a>
 * Start je voornaam met de letter <strong>E, F, G of H</strong>, dan analyseer je site: <a href="http://www.gatesnfences.com/" target="_blank">http://www.gatesnfences.com/</a>
-* Start je voornaam met de letter <strong>I, J, K of L</strong>, dan analyseer je site: <a href="http://www.jamilin.com/" target="_blank">http://www.jamilin.com/</a>
+* Start je voornaam met de letter <strong>I, J, K of L</strong>, dan analyseer je site: <a href="http://www.007museum.com/" target="_blank">http://www.007museum.com/</a>
 * Start je voornaam met de letter <strong>M, N, O of P</strong>, dan analyseer je site: <a href="https://www.pennyjuice.com/" target="_blank">https://www.pennyjuice.com/</a>
 * Start je voornaam met de letter <strong>Q, R, S, T of U</strong>, dan analyseer je site: <a href="http://www.roverp6cars.com/" target="_blank">http://www.roverp6cars.com/</a>
 * Start je voornaam met de letter <strong>V, W, X, Y of Z</strong>, dan analyseer je site: <a href="http://www.007museum.com/" target="_blank">http://www.007museum.com/</a>
