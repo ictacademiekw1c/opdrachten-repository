@@ -24,14 +24,14 @@ Hieronder zie de deadlines van inleveren van je sprints.
 
 |Opdracht              | &nbsp; &nbsp;  Deadline ** Alle klassen ** &nbsp; |
 |--------------------  | --------- | 
-| Sprint 1 |  |  
-| Sprint 2 | |   
-| Sprint 3 | |  
-| Sprint 4 | | 
-| Sprint 5 | | 
-| Sprint 6 | | 
-| Sprint 7 | | 
-| Sprint 8 | | 
+| Sprint 1 |           |  
+| Sprint 2 |           |   
+| Sprint 3 |           |  
+| Sprint 4 |           | 
+| Sprint 5 |           | 
+| Sprint 6 |           | 
+| Sprint 7 |           | 
+| Sprint 8 |           | 
 
 <br>
 
@@ -57,12 +57,14 @@ De deadlines van de opdrachten worden per week in de bovenstaande tabel ingevoer
 De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 
 ** Mogelijke beoordelingen **
-<table><thead>
+<table>
+<thead>
 <tr>
 <th></th>
 <th align="left">Redenatie</th>
 </tr>
-</thead><tbody>
+</thead>
+<tbody>
 <tr>
 <td>0</td>
 <td align="left">Niet ingeleverd.    <br>Opdracht onvoldoende uitgevoerd</td>
@@ -79,7 +81,8 @@ De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 <td>3</td>
 <td align="left">Opdracht goed en volgens alle criteria gebouwd, op tijd en met een nette user interface ingeleverd.</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
 
 
