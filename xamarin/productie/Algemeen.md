@@ -22,16 +22,16 @@ Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp no
 Hieronder zie de deadlines van inleveren van je sprints. 
 ** Let op: ** Een sprint bevat meerdere opdrachten!
 
-|Opdracht              | &nbsp; &nbsp;  Deadline **IO3A4** &nbsp; |  &nbsp; &nbsp;  Deadline **IO3B4** &nbsp; |
-|--------------------  | --------- | --------- | 
-| Sprint 1 | 9/9/2019 | 9/9/2019  |  
-| Sprint 2 | 23/9/2019| 23/9/2019 |  
-| Sprint 3 | 7/10/2019| 7/10/2019 |  
-| Sprint 4 | 14/10/2019| 14/10/2019|
-| Sprint 5 | 21/10/2019| 21/10/2019 |
-| Sprint 6 | 3/11/2019| 3/11/2019 |
-| Sprint 7 | 10/11/2019| 10/11/2019 |
-| Sprint 8 | 25/11/2019| 25/11/2019 |
+|Opdracht              | &nbsp; &nbsp;  Deadline ** Alle klassen ** &nbsp; |
+|--------------------  | --------- | 
+| Sprint 1 |  |  
+| Sprint 2 | |   
+| Sprint 3 | |  
+| Sprint 4 | | 
+| Sprint 5 | | 
+| Sprint 6 | | 
+| Sprint 7 | | 
+| Sprint 8 | | 
 
 <br>
 
@@ -49,7 +49,7 @@ Deze studieroute is bedoeld voor 3e-jaars leerlingen niveau 4 van de ICT-Academi
 
 
 ## Editor
-Voor de lessen Xamarin gebruiken we Visual Studio Enterprise, Android SDK Manager (VS2017) en een Android Emulator. Tijdens de eerste week zullen we al deze tools installeren en gebruiken. Zonder de installatie van deze tools, kun je NIET ontwikkelen binnen Xamarin.
+Voor de lessen Xamarin gebruiken we Visual Studio Enterprise, Android SDK Manager en een Android Emulator. Tijdens de eerste week zullen we al deze tools installeren en gebruiken. Zonder de installatie van deze tools, kun je NIET ontwikkelen binnen Xamarin.
 
 
 ## Opleveren opdrachten
@@ -69,11 +69,15 @@ De opdrachten worden beoordeeld met een waardering van 0, 1 of 2.
 </tr>
 <tr>
 <td>1</td>
-<td align="left">Te laat ingeleverd, maar wel goed uitgewerkt.<br>Opdracht matig uitgevoerd en opdracht op tijd ingeleverd.</td>
+<td align="left">Te laat ingeleverd, maar wel voldoende/goed uitgewerkt.<br>Opdracht matig uitgevoerd maar de opdracht is op tijd ingeleverd.</td>
 </tr>
 <tr>
 <td>2</td>
-<td align="left">Opdracht goed en op tijd ingeleverd.</td>
+<td align="left">Opdracht voldoende en op tijd ingeleverd.</td>
+</tr>
+<tr>
+<td>3</td>
+<td align="left">Opdracht goed en volgens alle criteria gebouwd, op tijd en met een nette user interface ingeleverd.</td>
 </tr>
 </tbody></table>
 
