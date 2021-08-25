@@ -2,8 +2,8 @@
 
 ## Doelstelling
 
-Doelstelling van deze studieroute is om de leerling de SQL kennis en vaardigheden die zijn opgedaan in leerjaar 1 en 2 op examen niveau te krijgen.
-Dit betekent dat alle stof van voorgaande jaren nogmaals de revue gaan passeert waarbij er ook nog nieuwe onderwerpen worden aangeraakt die tot nu toe nog niet zijn behandeld.
+Doelstelling van deze studieroute is om bij de student de SQL kennis en vaardigheden die zijn opgedaan in leerjaar 1 en 2 op examen niveau te krijgen.
+Dit betekent dat alle stof van voorgaande jaren nogmaals de revue passeert waarbij er ook nog nieuwe onderwerpen worden aangeraakt die tot nu toe nog niet zijn behandeld.
 
 SQL kennis en vaardigheden zijn onmisbaar bij het ontwikkelen van applicaties die op basis zijn van een SQL gebaseerde database, maar ook voor het ontwikkelen van rapportages.
 
@@ -13,19 +13,6 @@ Rapportages zijn vaak bedoeld voor het management zodat zij kunnen overzien of d
 
 Als rapportage tool zal gebruik worden gemaakt van Crystal Reports, dat door SAP is ontwikkeld en kan worden toegevoegd aan Visual Studio, en ook kan worden geintegreerd in  Visual Studio C# applicaties.
 
-Wat is de <a href="https://b.socrative.com/login/student/">rol van een database in een applicatie/informatiesysteem</a>?
-
-## Klasseopdracht
-
-
-- Wat is SQL? Is het een programmeertaal?
-- Noem zoveel mogelijk (minimaal 7) SQL gebaseerde databases en noem het bedrijf dat erachter zit en wanneer het ontstaan is.
-- Wat zijn de verschillende manieren om grote hoeveelheden data op te slaan?
-- Noem 5 niet SQL gebaseerde database systemen, het achterliggende bedrijf, wanneer het ontstaan is, en hoe zou je ze typeren?
-
-Tijd: 15 min
-Maak groepjes van 2/3 en ga met elkaar apart in een Team sessie.
-
 ## Voorkennis
 
 De SQL kennis die is opgedaan in leerjaar 1 en 2.
@@ -34,9 +21,9 @@ De SQL kennis die is opgedaan in leerjaar 1 en 2.
 
 ## Editor  
 
-Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2017.
+Voor de lessen SQL heb je speciale software nodig, namelijk SQL-Server 2019.
 
-<img src="https://msdnshared.blob.core.windows.net/media/2017/08/SQL-2017.png">
+<img src="https://meterpreter.org/wp-content/uploads/2018/09/sql-server.png">
 
 De software heb je als het goed is nog op je systeem staan. Heb je de software niet meer op je systeem staan, dan vraag je je docent om hulp.
 
