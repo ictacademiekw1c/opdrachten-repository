@@ -43,7 +43,11 @@ Het te verwachten resultaat moet zijn beschreven en van de testuitkomst moet wor
 
 Testcases maken kan vanuit de use cases die opgenomen zijn in het functioneel ontwerp (en een vertaling is van de wensen en eisen die geinventariseerd zijn in de Programma van eisen.)
 
-### Voorbeeld
+### Voorbeeld 
+
+<img width="70%" src="https://elo.kw1c.nl/CMS/Studie/811 ICT-Academie/811 VakkenInhoud/[B.06 BEH] Onderhoud en beheer/25187   Applicatie- en mediaontwikkelaar/Periode 09/Productie/02. Opdrachten/UseCaseWebshop.png" alt="use case">
+
+<br>
 
 <img width="70%" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/AcceptatiTestCase1.jpg" alt="use case">
 
