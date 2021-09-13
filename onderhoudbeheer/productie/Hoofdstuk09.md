@@ -4,8 +4,13 @@
 ## 9.1 Algemeen
 ---
 
+Vanuit de reeds behandelde onderwerpen met betrekking tot het testen zou je de acceptatietest
+kunnen beschouwen als een UI (user interface) test.
+Omdat de acceptatietest vaak wordt gedaan door een eindgebruiker kun je de test ook als een black box test beschouwen.
+In tegenstelling tot de unit test is de acceptatietest een handmatige test. 
+
 De acceptatietest is onderdeel van B1-K3 (Het opleveren van de applicatie).
-De acceptatietest vindt normaalgesproken plaats nadat door het ontwikkelteam alle onderdelen zijn geprogrammeerd (volgens het functioneel/technisch ontwerp) en voordat de applicatie ook echt door gebruikers op hun eigen werkplek wordt gebruikt.
+De acceptatietest vindt normaal gesproken plaats nadat door het ontwikkelteam alle onderdelen zijn geprogrammeerd (volgens het functioneel/technisch ontwerp) en voordat de applicatie ook echt door gebruikers op hun eigen werkplek wordt gebruikt.
 
 - Het doel van de acceptatietest is vast te stellen of de software voldoet aan de wensen en eisen van de opdrachtgever.
 
@@ -21,7 +26,6 @@ In beide gevallen volgt een zogenaamde change request (veranderingsverzoek van d
 
 - Zo kan het zijn dat pas na 1 of meerdere iteraties de applicatie door de gebruiker (=klant) akkoord wordt bevonden (=geaccepteerd).
 
-
 ---
 ## 9.2 De acceptatietest 
 ---
@@ -35,7 +39,7 @@ De volledige acceptatietest bestaat uit de volgende onderdelen:
 - Resultaten van de test rapporteren (PVB)
 
 ---
-## 9.3 Testcases maken 
+## 9.3 Opstellen van een testplan (= maken van een testcase) 
 ---
 
 Een testcase is een gedetailleerde beschrijving van de stappen die moeten worden genomen tijdens het testen.
