@@ -4,8 +4,13 @@
 ## 9.1 Algemeen
 ---
 
+<img width="300" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/Productie/04.%20Aanvullend/testPyramid.png" alt="test pyramide">
+
 Vanuit de reeds behandelde onderwerpen met betrekking tot het testen zou je de acceptatietest
 kunnen beschouwen als een UI (user interface) test.
+
+<img width="300" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Black-box.jpg" title="black box testing">
+
 Omdat de acceptatietest vaak wordt gedaan door een eindgebruiker kun je de test ook als een black box test beschouwen.
 In tegenstelling tot de unit test is de acceptatietest een handmatige test. 
 
