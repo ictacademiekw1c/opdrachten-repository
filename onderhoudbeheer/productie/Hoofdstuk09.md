@@ -32,9 +32,8 @@ In beide gevallen volgt een zogenaamde change request (veranderingsverzoek van d
 
 De volledige acceptatietest bestaat uit de volgende onderdelen:
 
-- Opstellen van een acceptatie testplan 
+- Opstellen van een acceptatie testplan/tescase (PVB)
 - Inrichten van een testomgeving inclusief testdata 
-- Maken van testcases (PVB)
 - Uitvoeren en begeleiden van de acceptatietest (PVB)
 - Resultaten van de test rapporteren (PVB)
 
