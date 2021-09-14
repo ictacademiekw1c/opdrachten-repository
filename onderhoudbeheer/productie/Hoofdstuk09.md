@@ -65,5 +65,3 @@ Testcases maken kan vanuit de use cases die opgenomen zijn in het functioneel on
 
 bron: Applicatie- en mediaontwikkelaar Niveau 4 - Hans van Rheenen - Brinkmann Uitgeverij 
 
-__Klasseopdracht maak ook de testcase voor artikel wijzigen en artikel verwijderen uit de use case__
-
