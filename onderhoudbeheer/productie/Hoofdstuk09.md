@@ -23,7 +23,7 @@ De acceptatietest vindt normaal gesproken plaats nadat door het ontwikkelteam al
 
 - Het resultaat van een acceptatietest is dat de gebruikers akkoord gaan met de software zoals die op dat moment werkt.
 
-- Een conclusie zou kunnen zijn dat de eisen aan de applicatie gewijzigd zijn en dat daardoor de applicatie niet akkoord wordt bevonden. Ook kan het zijn dat er nieuwe functionaliteiten nog moeten worden toegevoegd voordat het echt in productie gaat.
+- Een conclusie zou kunnen zijn dat de applicatie niet werkt zoals beschreven staat in het ontwerp (functioneel/technisch ontwerp) en dat daardoor de applicatie niet akkoord wordt bevonden. Ook kan het zijn dat er nieuwe functionaliteiten nog moeten worden toegevoegd voordat het echt in productie gaat.
 
 In beide gevallen volgt een zogenaamde change request (veranderingsverzoek van de gewenste functionaliteit). De aanpassingen en uitbreidingen zullen dan voor inproductiename moeten worden doorgevoerd en opnieuw een acceptatietest moeten ondergaan.
 
