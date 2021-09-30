@@ -19,20 +19,10 @@ Als je te laat bent met opleveren dan krijg je dus niet de volledige waardering 
 Als je klaar bent met de opdrachten en de docent heeft het volgende onderwerp nog niet behandeld, dan overleg je met de docent wat je kunt gaan doen.
 
 ## Opleverdata
-Hieronder zie de deadlines van inleveren van je sprints. 
+
+De deadlines voor de sprints staan in je to-do lijst.
+
 ** Let op: ** Een sprint bevat meerdere opdrachten!
-
-|Opdracht              | &nbsp; &nbsp;  Deadline ** Alle klassen ** &nbsp; |
-|--------------------  | --------- | 
-| Sprint 1 |           |  
-| Sprint 2 |           |   
-| Sprint 3 |           |  
-| Sprint 4 |           | 
-| Sprint 5 |           | 
-| Sprint 6 |           | 
-| Sprint 7 |           | 
-| Sprint 8 |           | 
-
 <br>
 
 
