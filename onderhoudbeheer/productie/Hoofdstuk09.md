@@ -53,15 +53,11 @@ Testcases maken kan vanuit de use cases die opgenomen zijn in het functioneel on
 
 ### Voorbeeld 
 
-<img width="70%" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/UseCaseWebshop.png" alt="use case webshop">
+<img width="350" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/UseCaseWebshop.png" alt="use case webshop">
 
 <br>
 
-<img width="70%" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/AcceptatiTestCase1.jpg" alt="use case">
-
-<br>
-
-<img  width="70%" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/AcceptatiTestCase2.jpg" alt="test case adhv usecase">
+<img  width="350" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.06%20BEH%5D%20Onderhoud%20en%20beheer/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/AcceptatiTestCase2.jpg" alt="test case adhv usecase">
 
 bron: Applicatie- en mediaontwikkelaar Niveau 4 - Hans van Rheenen - Brinkmann Uitgeverij 
 
