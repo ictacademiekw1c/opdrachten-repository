@@ -51,36 +51,3 @@ Maak de excercise (unit 6) van <a href="https://docs.microsoft.com/en-us/learn/m
 * TabbedPage
 * Android drawables map
 
----
-## Opdracht 3.3
----
-
-### De ontwikkelaar krijgt inzicht in de uitlijn opties van een user control
-
-Maak de exercise (unit 3) van <a href="https://docs.microsoft.com/en-us/learn/modules/customize-layout-in-xamarin-forms-xaml-pages/3-exercise-explore-alignment-options" target="_new">deze workshop</a>
-
-### Onderwerpen
-* Stacklayout 
-* Alignment
-
----
-## Opdracht 3.4
----
-
-### De ontwikkelaar leert om te gaan met de stacklayout
-
-Maak de excercise (unit 5) van <a href="https://docs.microsoft.com/en-us/learn/modules/customize-layout-in-xamarin-forms-xaml-pages/5-exercise-use-stacklayout-to-build-a-ui" target="_new">deze workshop</a>
-
-### Onderwerpen
-* Stacklayout attributen
-
----
-## Opdracht 3.5
----
-
-### De ontwikkelaar customiseert de layout met een gridview
-
-Maak de exercise (unit 7) van <a href="https://docs.microsoft.com/en-us/learn/modules/customize-layout-in-xamarin-forms-xaml-pages/7-exercise-use-grid-to-build-a-ui" target="_new">deze workshop</a>
-
-### Onderwerpen
-* Gridview
