@@ -33,6 +33,9 @@ Welke excercises lever je op?
 
 Maak de exercise (unit 4) van <a href="https://docs.microsoft.com/en-us/learn/modules/store-local-data-with-sqlite/4-exercise-store-data-locally-with-sqlite" target="_new">deze workshop</a>
 
+__Eindresultaat opdracht 6.1__
+<br><img width="300px" src="https://elo.kw1c.nl/CMS/Studie/811%20ICT-Academie/811%20VakkenInhoud/%5BB.35%20APP%5D%20Xamarin%20%5BApp-development%5D/25187%20%C2%A0%20Applicatie-%20en%20mediaontwikkelaar/Periode%2009/Productie/04.%20Aanvullend/Opdr61PeopleSQLite.jpg">
+
 ### Onderwerpen
 * Lokale opslag met SQLite
 

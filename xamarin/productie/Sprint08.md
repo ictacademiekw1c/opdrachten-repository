@@ -4,18 +4,11 @@
 
 ## Onderwerp
 
-In de afgelopen 7 sprints heb je workshops gedaan en heb je allerlei aspecten geleerd van de Android App en hoe je het moet opzetten in Xamarin.Forms. In de laatste sprint kies je je eigen onderwerp en/of verzin je je eigen App. Misschien ben je geinteresseerd in hoe je in een App je camera kan gebruiken of wil je juist een je GPS/maps App bouwen... Je bepaalt het zelf. 
-
 ## Sprintplanning
-
-Start je laatste sprint in de week van 11/11 en zet de einddatum van je sprint op 25/11.
-Dit is ook de uiterste opleverdatum voor deze sprint.
 
 ## Beoordelingscriteria
 
-- Je sprint start in de week van 11/11 en eindigt op 25/11
 - Je hebt meerdere workitems in je sprint staan 
-    - Bijvoorbeeld De ontwikkelaar weet hoe hij/zij een Googlemaps kaart kan tonen in een Xamarin.forms App
     - of De ontwikkelaar heeft een schets gemaakt van de schermen van zijn/haar App
 - Iedere workitems heeft meerdere taken
 - Van iedere taak die op done staat kan je aantonen dat het ook echt gedaan is.
