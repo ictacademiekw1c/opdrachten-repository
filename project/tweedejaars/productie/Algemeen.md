@@ -2,7 +2,7 @@
 
 ## 0.1 Inleiding
 
-Dit project start op maandag 8 juni 2019. In 2 weken tijd zal er in groepsverband gewerkt worden aan het project 'Disruptive sports'.
+Dit project start op maandag 8 juni. In 2 weken tijd zal er in groepsverband gewerkt worden aan het project 'Disruptive sports'.
 In dit project zullen de examenonderdelen B1-K1 en B1-K2 (zie de pagina's onder "Lessen") moeten worden uitgevoerd. 
 
 ``De uiterlijke opleverdatum is maandag 22 juni. Alle producten moeten voor deze datum opgeleverd zijn (documenten op N@tschool en code in de git repository van Azure DevOps). Maak voor je groep een realistische planning en volg deze ook op. Ook jullie planning en voortgang wordt gemonitord via Azure DevOps en beoordeeld.``
