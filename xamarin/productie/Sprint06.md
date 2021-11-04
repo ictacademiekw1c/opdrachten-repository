@@ -51,3 +51,6 @@ Maak de excercise (unit 6) van <a href="https://docs.microsoft.com/en-us/learn/m
 ### Onderwerpen
 * async / await
 
+Waarom acties async programmeren?
+<img width="300px" src="https://i.redd.it/lpf0u9nbj7w41.jpg">
+
